@@ -323,9 +323,9 @@ mod tests {
     use tower::ServiceExt;
 
     #[test]
-    fn directory_has_239_sourced_profiles() {
+    fn directory_has_279_sourced_profiles() {
         let catalog = Catalog::load().unwrap();
-        assert_eq!(catalog.saints.len(), 239);
+        assert_eq!(catalog.saints.len(), 279);
         assert!(catalog.saints.iter().all(|saint| !saint.sources.is_empty()));
     }
 
@@ -333,6 +333,10 @@ mod tests {
     fn search_finds_name_variants_and_disambiguates_shared_names() {
         let catalog = Catalog::load().unwrap();
         assert_eq!(catalog.search("St. Therese")[0].id, "therese-of-lisieux");
+        assert_eq!(
+            catalog.search("Anne Therese Guerin")[0].id,
+            "theodore-guerin"
+        );
         assert_eq!(catalog.search("Mother Teresa")[0].id, "teresa-of-calcutta");
         assert_eq!(catalog.search("Đũng Lạc")[0].id, "andrew-dung-lac");
         assert_eq!(
@@ -390,6 +394,21 @@ mod tests {
             );
             let vietnam = &feast(11, 24).observances[0];
             assert_eq!(vietnam.saints, ["andrew-dung-lac", "vietnamese-martyrs"]);
+            let japan = &feast(2, 6).observances[0];
+            assert_eq!(
+                japan.saints,
+                ["paul-miki", "gonsalo-garcia", "paul-miki-and-companions"]
+            );
+            let uganda = &feast(6, 3).observances[0];
+            assert_eq!(
+                uganda.saints,
+                [
+                    "charles-lwanga",
+                    "joseph-mukasa-balikuddembe",
+                    "kizito",
+                    "charles-lwanga-and-companions"
+                ]
+            );
         }
     }
 
@@ -483,9 +502,9 @@ mod tests {
         let app = app(Arc::new(Catalog::load().unwrap()));
         let (status, home) = request(&app, "/").await;
         assert_eq!(status, StatusCode::OK);
-        assert!(home.contains("239 sourced profiles"));
+        assert!(home.contains("279 sourced profiles"));
         assert!(home.contains("action=\"/search\""));
-        assert_eq!(home.matches("class=\"saint-card\"").count(), 239);
+        assert_eq!(home.matches("class=\"saint-card\"").count(), 279);
         assert!(home.contains("href=\"/today\""));
 
         let (status, results) = request(&app, "/search?q=St.+Therese").await;
@@ -512,12 +531,17 @@ mod tests {
             assert!(calendar.contains(&format!("id=\"day-{year}-12-31\"")));
             assert!(calendar.contains(&format!("{year}cal.pdf")));
             assert!(calendar.contains("/saints/andre-bessette"));
+            assert!(calendar.contains("/saints/gonsalo-garcia"));
             assert!(calendar.contains("/saints/seven-holy-founders-of-the-servite-order"));
         }
         let (status, new_profile) = request(&app, "/saints/andre-bessette").await;
         assert_eq!(status, StatusCode::OK);
         assert!(new_profile.contains("/calendar/2026#day-2026-01-06"));
         assert!(new_profile.contains("/calendar/2027#day-2027-01-06"));
+        let (status, companion) = request(&app, "/saints/gonsalo-garcia").await;
+        assert_eq!(status, StatusCode::OK);
+        assert!(companion.contains("/calendar/2026#day-2026-02-06"));
+        assert!(companion.contains("/calendar/2027#day-2027-02-06"));
         assert_eq!(
             request(&app, "/calendar/2028").await.0,
             StatusCode::NOT_FOUND

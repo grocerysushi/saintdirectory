@@ -349,7 +349,7 @@ date = "2027-02-06"
 [[days.observances]]
 title = "Saint Paul Miki and Companions, Martyrs"
 rank = "Memorial"
-saints = ["paul-miki", "paul-miki-and-companions"]
+saints = ["paul-miki", "gonsalo-garcia", "paul-miki-and-companions"]
 
 [[days]]
 date = "2027-02-07"
@@ -1428,7 +1428,7 @@ date = "2027-06-03"
 [[days.observances]]
 title = "Saint Charles Lwanga and Companions, Martyrs"
 rank = "Memorial"
-saints = ["charles-lwanga", "charles-lwanga-and-companions"]
+saints = ["charles-lwanga", "joseph-mukasa-balikuddembe", "kizito", "charles-lwanga-and-companions"]
 
 [[days]]
 date = "2027-06-04"
