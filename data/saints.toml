@@ -1,0 +1,469 @@
+[[saints]]
+id = "martin-de-porres"
+name = "Saint Martin de Porres"
+aliases = ["Martín de Porres", "Martín de Porras", "St. Martin of Lima"]
+years = "1579–1639"
+vocation = "Dominican lay brother"
+place = "Lima, Peru"
+summary = "A Dominican lay brother who cared for the sick and poor in colonial Lima."
+biography = [
+  "Born in Lima to a Spanish father and a formerly enslaved mother, Martin trained as a barber-surgeon before joining the Dominicans. His training gave him practical skills for treating wounds and preparing medicines.",
+  "In the Dominican community he worked in the infirmary and cared for people in need. His reputation for service endured in a society where ancestry and skin color sharply limited the opportunities available to him.",
+]
+patronage = ["Traditionally associated with barbers and hairdressers"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Martin de Porres"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-martin-de-porres/"
+
+[[saints]]
+id = "charles-borromeo"
+name = "Saint Charles Borromeo"
+aliases = ["Carlo Borromeo", "San Carlo Borromeo"]
+years = "1538–1584"
+vocation = "Cardinal and archbishop"
+place = "Milan, Italy"
+summary = "The archbishop of Milan put the reforms of the Council of Trent into practice and aided his city during a plague."
+biography = [
+  "Charles held senior offices in Rome under Pope Pius IV and helped bring the Council of Trent to its conclusion. As archbishop of Milan, he used seminaries, diocesan assemblies, and parish visits to improve the formation of clergy and the religious instruction available to laypeople.",
+  "When disease and hunger struck Milan in the 1570s, Charles stayed and organized relief. He drew on his own resources to help feed people affected by the crisis.",
+]
+patronage = ["Traditionally associated with catechists"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Charles Borromeo"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-charles-borromeo/"
+
+[[saints]]
+id = "leo-the-great"
+name = "Saint Leo the Great"
+aliases = ["Pope Leo I", "Leo I", "Pope Saint Leo the Great"]
+years = "Died 461"
+vocation = "Pope and Doctor of the Church"
+place = "Rome, Italy"
+summary = "A fifth-century pope whose letter on Christ's divinity and humanity helped shape the Council of Chalcedon."
+biography = [
+  "Leo became bishop of Rome in 440. His letter to Flavian of Constantinople, commonly called the Tome of Leo, defended the unity of Christ as one person in two natures, divine and human. The Council of Chalcedon received the letter in 451.",
+  "Leo also negotiated on behalf of Rome amid threats to the city. He met Attila in 452 and later appealed to the Vandal leader Genseric for restraint when his forces entered Rome.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Leo the Great"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080305.html"
+
+[[saints]]
+id = "martin-of-tours"
+name = "Saint Martin of Tours"
+aliases = ["Martin the Merciful", "Martin of Pannonia"]
+years = "c. 316–397"
+vocation = "Monk and bishop"
+place = "Tours, France"
+summary = "A former Roman soldier who established monastic communities and became bishop of Tours."
+biography = [
+  "Martin was born in the Roman province of Pannonia and served in the army before devoting himself to religious life. He became a disciple of Hilary of Poitiers and established a monastic community at Ligugé. After becoming bishop of Tours, he kept a monastic way of life.",
+  "An early account tells of Martin cutting his military cloak in two to share it with a man who had no warm clothing. The story became a familiar image of charity and is often shown in art depicting Martin.",
+]
+patronage = ["Traditionally associated with horses"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Martin of Tours"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-martin-of-tours/"
+
+[[saints]]
+id = "josaphat-kuntsevych"
+name = "Saint Josaphat Kuntsevych"
+aliases = ["Josaphat Kunsevich", "Josaphat Kuncewicz", "John Kunsevich", "Josaphat of Polotsk"]
+years = "c. 1580–1623"
+vocation = "Basilian archbishop and martyr"
+place = "Polotsk and Vitebsk, present-day Belarus"
+summary = "A Ruthenian archbishop who supported communion with Rome following the Union of Brest and was killed in Vitebsk."
+biography = [
+  "Born in what is now Ukraine, John took the name Josaphat when he entered Basilian monastic life. As archbishop of Polotsk, he sought to strengthen the clergy and implement the Union of Brest, under which participating Eastern Christian bishops entered communion with Rome while retaining their liturgical tradition.",
+  "The union met opposition and conflicting claims to ecclesiastical authority. Josaphat was killed by a mob in Vitebsk in 1623 during this period of religious and political tension.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Josaphat"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-josaphat/"
+
+[[saints]]
+id = "frances-xavier-cabrini"
+name = "Saint Frances Xavier Cabrini"
+aliases = ["Mother Cabrini", "Francesca Cabrini", "Francesca Saverio Cabrini"]
+years = "1850–1917"
+vocation = "Religious founder and missionary"
+place = "Italy and the United States"
+summary = "The founder of the Missionary Sisters of the Sacred Heart of Jesus built schools, orphanages, and hospitals serving immigrant communities."
+biography = [
+  "Frances founded her congregation in Italy and traveled with six sisters to New York in 1889 at the urging of Pope Leo XIII. They began by helping Italian immigrants who had arrived with little access to education, healthcare, or other social services.",
+  "Cabrini supported the development of charitable institutions across the Americas. She became a U.S. citizen and later became the first U.S. citizen canonized by the Catholic Church.",
+]
+patronage = ["Patron of immigrants"]
+
+[[saints.sources]]
+title = "USCCB — Saint Frances Xavier Cabrini, Patroness of Immigrants"
+url = "https://www.usccb.org/saintfrancescabrini"
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Frances Xavier Cabrini"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-frances-xavier-cabrini/"
+
+[[saints]]
+id = "margaret-of-scotland"
+name = "Saint Margaret of Scotland"
+aliases = ["Queen Margaret of Scotland", "Margaret of Wessex", "Margaret of Dunfermline"]
+years = "c. 1045–1093"
+vocation = "Queen"
+place = "Dunfermline, Scotland"
+summary = "A queen of Scotland remembered for her care of people in poverty and her support for religious reform."
+biography = [
+  "Margaret belonged to the Anglo-Saxon royal family and married Malcolm III after her family came to Scotland. As queen, she used her position to support the Church and provide food and other assistance to people in need.",
+  "She encouraged church assemblies to address abuses in religious life. Together with Malcolm she founded churches, and her own devotional life included regular prayer and reading of Scripture.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Margaret of Scotland"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-margaret-of-scotland/"
+
+[[saints]]
+id = "gertrude-the-great"
+name = "Saint Gertrude the Great"
+aliases = ["Gertrude of Helfta", "Gertrud von Helfta"]
+years = "1256–c. 1302"
+vocation = "Nun and mystic"
+place = "Helfta, Germany"
+summary = "A nun of Helfta whose writings join personal prayer to Scripture and the liturgy."
+biography = [
+  "Gertrude entered the community at Helfta in childhood and received a broad education there. An experience she dated to 1281 redirected much of her study toward Scripture and theology.",
+  "Her Spiritual Exercises and the work known as The Herald of Divine Love convey a spirituality shaped by communal worship, contemplation, and trust in Christ. The latter work also preserves material recorded by other women at Helfta.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Gertrude the Great"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20101006.html"
+
+[[saints]]
+id = "elizabeth-of-hungary"
+name = "Saint Elizabeth of Hungary"
+aliases = ["Elizabeth of Thuringia", "Elisabeth von Thüringen", "Árpád-házi Szent Erzsébet"]
+years = "1207–1231"
+vocation = "Landgravine and Franciscan penitent"
+place = "Thuringia and Marburg, Germany"
+summary = "A Hungarian princess and the wife of a German landgrave, Elizabeth devoted her later years to caring for the sick in Marburg."
+biography = [
+  "Elizabeth grew up at the Thuringian court and married Ludwig IV. While he was alive, Elizabeth distributed aid to people in poverty. After his death, she embraced a simpler life inspired by Franciscan spirituality.",
+  "In Marburg she founded a hospital dedicated to Saint Francis of Assisi. She helped care for its patients herself and died at the age of 24.",
+]
+patronage = ["Patron of the Secular Franciscan Order", "Traditionally associated with charitable societies"]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Elizabeth of Hungary"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20101020.html"
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Elizabeth of Hungary"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-elizabeth-of-hungary/"
+
+[[saints]]
+id = "rose-philippine-duchesne"
+name = "Saint Rose Philippine Duchesne"
+aliases = ["Philippine Duchesne", "Rose Duchesne", "Mother Duchesne"]
+years = "1769–1852"
+vocation = "Religious sister and educator"
+place = "France and the United States"
+summary = "A Sacred Heart sister who opened schools in the United States and later joined a mission among the Potawatomi."
+biography = [
+  "Duchesne began religious life in France, where the Revolution forced her convent to close. She later joined the Society of the Sacred Heart under Madeleine Sophie Barat and went to the United States in 1818 with four other sisters.",
+  "The sisters opened a school in Saint Charles, Missouri, and established additional houses. Late in life Duchesne spent time at the Sugar Creek mission among the Potawatomi before returning to Saint Charles.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Rose Philippine Duchesne"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-rose-philippine-duchesne/"
+
+[[saints]]
+id = "peter-the-apostle"
+name = "Saint Peter the Apostle"
+aliases = ["Saint Peter", "Simon Peter", "Cephas", "Simon son of Jonah"]
+years = "First century"
+vocation = "Apostle and martyr"
+place = "Galilee and Rome"
+summary = "A fisherman named Simon whom Jesus called Peter and who became a leader among the apostles."
+biography = [
+  "The Gospels describe Peter leaving his fishing work to follow Jesus. He professes Jesus as the Messiah and later denies knowing him during the Passion. John's Gospel recounts the risen Jesus asking Peter to care for his flock.",
+  "The Acts of the Apostles describes Peter preaching and leading the early Christian community. Catholic tradition remembers him as the first bishop of Rome and holds that he died there as a martyr.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Peter and Paul"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-peter-and-paul/"
+
+[[saints]]
+id = "paul-the-apostle"
+name = "Saint Paul the Apostle"
+aliases = ["Saint Paul", "Saul of Tarsus", "Paul of Tarsus", "Apostle to the Gentiles"]
+years = "First century"
+vocation = "Apostle and martyr"
+place = "Tarsus and the Mediterranean world"
+summary = "After an encounter with Christ, Paul became a missionary and wrote letters preserved in the New Testament."
+biography = [
+  "The Acts of the Apostles recounts Paul's early persecution of Christians and his conversion on the road to Damascus. He went on to establish and support Christian communities around the Mediterranean, preaching especially among Gentiles.",
+  "His letters address disputes and practical questions in those communities as well as themes such as faith, grace, and the resurrection. Christian tradition holds that he was martyred in Rome.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Peter and Paul"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-peter-and-paul/"
+
+[[saints]]
+id = "mary-mother-of-jesus"
+name = "Blessed Virgin Mary"
+aliases = ["Mary, Mother of Jesus", "Mary, Mother of God", "Saint Mary", "Our Lady", "Madonna", "Theotokos"]
+years = "First century, dates uncertain"
+vocation = "Mother of Jesus"
+place = "Nazareth and Jerusalem"
+summary = "The mother of Jesus, honored in Catholic tradition as the Mother of God."
+biography = [
+  "Luke's Gospel recounts Mary's response to the angel Gabriel and her visit to Elizabeth. Mary praises God in the song known as the Magnificat. John's Gospel places her at the wedding at Cana and beside the cross.",
+  "The Presentation of the Blessed Virgin Mary commemorates a tradition about Mary's childhood that is preserved in an early Christian work called the Protoevangelium of James. The feast celebrates her dedication to God.",
+]
+
+[[saints.sources]]
+title = "USCCB — Gospel according to Luke, chapter 1"
+url = "https://bible.usccb.org/bible/luke/1"
+
+[[saints.sources]]
+title = "USCCB — Gospel according to John, chapter 2"
+url = "https://bible.usccb.org/bible/john/2"
+
+[[saints.sources]]
+title = "USCCB — Gospel according to John, chapter 19"
+url = "https://bible.usccb.org/bible/john/19"
+
+[[saints.sources]]
+title = "Franciscan Media — Presentation of the Blessed Virgin Mary"
+url = "https://www.franciscanmedia.org/saint-of-the-day/presentation-of-the-blessed-virgin-mary/"
+
+[[saints]]
+id = "clement-i"
+name = "Saint Clement I"
+aliases = ["Clement of Rome", "Pope Clement I", "Saint Clement"]
+years = "Late first century"
+vocation = "Pope and Apostolic Father"
+place = "Rome, Italy"
+summary = "An early bishop of Rome associated with a letter urging reconciliation in the Church at Corinth."
+biography = [
+  "Early Christian writers place Clement among the first bishops of Rome after Peter. A letter traditionally attributed to him, usually called First Clement, was sent from the Roman church to the Christian community at Corinth.",
+  "The letter responds to an internal dispute that had displaced leaders in Corinth. It urges the community to restore peace through humility and concord and is a witness to early Christian life.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Clement of Rome"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070307.html"
+
+[[saints]]
+id = "columban"
+name = "Saint Columban"
+aliases = ["Columbanus", "Columbán", "Columban of Bobbio"]
+years = "c. 543–615"
+vocation = "Abbot and missionary"
+place = "Ireland, France, and Italy"
+summary = "An Irish monk who founded communities on the European continent, including the monastery at Bobbio."
+biography = [
+  "Columban trained at Bangor in Ireland before crossing to Gaul with companions. The communities they established followed a demanding discipline of prayer and penance. Columban's surviving writings include instructions for monastic life.",
+  "After leaving Gaul, he settled in northern Italy. His foundation at Bobbio continued as a center of monastic life and learning after his death.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Columban"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-columban/"
+
+[[saints]]
+id = "andrew-dung-lac"
+name = "Saint Andrew Dũng-Lạc"
+aliases = ["Andrew Dung-Lac", "Andrew Dung Lac", "Anrê Dũng Lạc", "Vietnamese Martyrs", "Martyrs of Vietnam"]
+years = "c. 1795–1839"
+vocation = "Priest and martyr"
+place = "Hanoi, Vietnam"
+summary = "A Vietnamese priest commemorated with a group of 117 martyrs that includes clergy and laypeople."
+biography = [
+  "Andrew was baptized after receiving instruction from a catechist and was ordained in 1823. He ministered during persecution, was arrested with the priest Peter Thi, and was executed in Hanoi in 1839.",
+  "In 1988 John Paul II canonized Andrew with 116 other martyrs, including Vietnamese lay Catholics and clergy as well as foreign missionaries. Their shared memorial names Andrew and his companions.",
+]
+
+[[saints.sources]]
+title = "Vatican News — Saints Andrew Dũng Lạc and his companions"
+url = "https://www.vaticannews.va/en/saints/11/24/sts--andrew-d_ng-lc--and-his-companions--martyrs.html"
+
+[[saints]]
+id = "catherine-of-alexandria"
+name = "Saint Catherine of Alexandria"
+aliases = ["Katherine of Alexandria", "Catherine of the Wheel", "Great Martyr Catherine"]
+years = "Traditionally placed in the early fourth century"
+vocation = "Martyr in Christian tradition"
+place = "Alexandria, Egypt"
+summary = "A martyr honored in Eastern and Western Christianity, whose life is known chiefly through tradition."
+biography = [
+  "Later accounts portray Catherine as a Christian woman who debated philosophers and refused to renounce her faith. They associate her martyrdom with a broken execution wheel, which became her best-known symbol in art.",
+  "The historical details of her life are uncertain. Devotion to Catherine spread widely in medieval Europe, where she was venerated among the Fourteen Holy Helpers.",
+]
+patronage = ["Traditionally associated with teachers, students, and lawyers"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Catherine of Alexandria"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-catherine-of-alexandria/"
+
+[[saints]]
+id = "andrew-the-apostle"
+name = "Saint Andrew the Apostle"
+aliases = ["Saint Andrew", "Andrew the First-Called", "Andreas"]
+years = "First century"
+vocation = "Apostle and martyr"
+place = "Galilee and, by tradition, Patras"
+summary = "The brother of Simon Peter, Andrew was among the first followers of Jesus."
+biography = [
+  "Matthew describes Andrew and Peter leaving their fishing nets when Jesus called them. In John's Gospel, Andrew introduces his brother to Jesus and later draws attention to the boy with the loaves and fish.",
+  "Christian tradition associates Andrew's preaching with parts of modern Greece and Turkey and his martyrdom with Patras. The diagonal cross associated with him in art also became a symbol of Scotland.",
+]
+patronage = ["Traditionally associated with Scotland and fishermen"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Andrew"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-andrew/"
+
+[[saints]]
+id = "albert-the-great"
+name = "Saint Albert the Great"
+aliases = ["Albertus Magnus", "Albert of Cologne", "Albert of Lauingen"]
+years = "Early thirteenth century–1280"
+vocation = "Dominican bishop and Doctor of the Church"
+place = "Germany and France"
+summary = "A Dominican scholar whose work on philosophy and nature helped shape medieval university teaching."
+biography = [
+  "Albert joined the Dominicans after studying at Padua and later taught in Paris and Cologne. Thomas Aquinas studied with him. Albert wrote extensively about Aristotle and took an interest in the observation of plants, animals, and other natural phenomena.",
+  "He served as bishop of Regensburg before returning to teaching and writing. Pius XI proclaimed him a Doctor of the Church.",
+]
+patronage = ["Patron of natural scientists"]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Albert the Great"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100324.html"
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Albert the Great"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-albert-the-great/"
+
+[[saints]]
+id = "cecilia"
+name = "Saint Cecilia"
+aliases = ["Cecilia of Rome", "Cecily", "Santa Cecilia"]
+years = "Dates uncertain"
+vocation = "Martyr in Christian tradition"
+place = "Rome, Italy"
+summary = "An early Roman martyr venerated as a patron of music and musicians."
+biography = [
+  "A church in Rome bore Cecilia's name by late antiquity. Later accounts connect her with the conversion and martyrdom of Valerian, her husband. The details of these accounts are difficult to verify.",
+  "Cecilia's association with song eventually made her a patron of musicians. In Western art she is often represented with a musical instrument.",
+]
+patronage = ["Traditionally associated with music and musicians"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Cecilia"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-cecilia/"
+
+[[saints]]
+id = "anthony-of-padua"
+name = "Saint Anthony of Padua"
+aliases = ["Saint Anthony", "Anthony of Lisbon", "António de Lisboa", "Antonio da Padova"]
+years = "c. 1195–1231"
+vocation = "Franciscan priest and Doctor of the Church"
+place = "Portugal and Italy"
+summary = "A Franciscan preacher born in Portugal who spent his last years in Italy."
+biography = [
+  "Anthony initially entered Augustinian religious life. Inspired by the deaths of early Franciscan missionaries, he became a Franciscan and set out for Morocco. Illness ended that journey, and he eventually served in Italy.",
+  "Anthony became known for preaching and teaching Scripture. He died near Padua in 1231 and was canonized within a year. Popular devotion invokes him when something has been lost.",
+]
+patronage = ["Traditionally associated with finding lost items"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Anthony of Padua"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-anthony-of-padua/"
+
+[[saints]]
+id = "anthony-the-great"
+name = "Saint Anthony the Great"
+aliases = ["Saint Anthony", "Anthony of Egypt", "Anthony the Abbot", "Anthony of the Desert", "Antony the Great"]
+years = "c. 251–356"
+vocation = "Desert monk"
+place = "Egypt"
+summary = "An Egyptian ascetic whose life of prayer inspired Christian monastic communities."
+biography = [
+  "Anthony distributed his property after hearing a Gospel passage about giving to the poor. He withdrew to a life of prayer and spent much of his life in the Egyptian desert.",
+  "People nevertheless sought him out for counsel, and disciples established settlements near him. His example helped spread the practice of desert monasticism.",
+]
+patronage = ["Traditionally associated with butchers"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Anthony of Egypt"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-anthony-of-egypt/"
+
+[[saints]]
+id = "francis-of-assisi"
+name = "Saint Francis of Assisi"
+aliases = ["Francis of Assisi", "Francesco d'Assisi", "Francis Bernardone", "Poverello"]
+years = "c. 1181–1226"
+vocation = "Friar and religious founder"
+place = "Assisi, Italy"
+summary = "The founder of the Friars Minor embraced a life of Gospel poverty and expressed his love of creation in song."
+biography = [
+  "Francis grew up in Assisi and turned away from a prosperous future toward prayer, service, and preaching. Companions joined him, and the community became the Friars Minor. Its way of life emphasized simplicity, fraternity, and dependence on God.",
+  "His Canticle of the Creatures gives thanks to God through images of the sun, water, earth, and other parts of creation. That spirit helped inspire his formal designation as a patron of ecology in 1979.",
+]
+patronage = ["Patron of ecology", "Traditionally associated with animals"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Francis of Assisi"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-francis-of-assisi/"
+
+[[saints]]
+id = "therese-of-lisieux"
+name = "Saint Thérèse of Lisieux"
+aliases = ["The Little Flower", "Thérèse Martin", "Thérèse of the Child Jesus", "Thérèse of the Holy Face", "Teresa of Lisieux"]
+years = "1873–1897"
+vocation = "Carmelite nun and Doctor of the Church"
+place = "Lisieux, France"
+summary = "The Carmelite known as the Little Flower taught a way of trust in God practiced through ordinary acts of love."
+biography = [
+  "Thérèse Martin entered the Carmel at Lisieux at 15. The autobiographical manuscripts published as Story of a Soul describe her little way, a spiritual approach centered on confidence in God's mercy and love expressed in small, everyday actions.",
+  "Thérèse died at 24. Pius XI made her a patron of the missions, and John Paul II proclaimed her a Doctor of the Church in 1997.",
+]
+patronage = ["Patron of the missions", "Traditionally associated with florists"]
+
+[[saints.sources]]
+title = "Francis — C’est la confiance, apostolic exhortation on Saint Thérèse"
+url = "https://www.vatican.va/content/francesco/en/apost_exhortations/documents/20231015-santateresa-delbambinogesu.html"
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Thérèse of Lisieux"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-therese-of-lisieux/"
+
+[[saints]]
+id = "teresa-of-calcutta"
+name = "Saint Teresa of Calcutta"
+aliases = ["Mother Teresa", "Teresa of Kolkata", "Gonxha Agnes Bojaxhiu", "Anjezë Gonxhe Bojaxhiu"]
+years = "1910–1997"
+vocation = "Religious founder and missionary"
+place = "Skopje and Kolkata"
+summary = "The founder of the Missionaries of Charity built a congregation dedicated to serving people who were poor or dying."
+biography = [
+  "Born in Skopje to an Albanian family, Teresa joined the Sisters of Loreto and taught in India. After discerning a new vocation, she left the Loreto community to serve people in poverty in Calcutta, now Kolkata.",
+  "She founded the Missionaries of Charity in 1950. The congregation opened homes for people who were sick or dying and extended its work beyond India. Pope Francis canonized Teresa in 2016.",
+]
+
+[[saints.sources]]
+title = "Holy See — Biography of Mother Teresa of Calcutta"
+url = "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20031019_madre-teresa_en.html"
+
+[[saints.sources]]
+title = "Francis — Homily at the canonization of Mother Teresa of Calcutta"
+url = "https://www.vatican.va/content/francesco/en/homilies/2016/documents/papa-francesco_20160904_omelia-canonizzazione-madre-teresa.html"

@@ -1,0 +1,17 @@
+[package]
+name = "saint-directory"
+version = "0.1.0"
+edition = "2024"
+publish = false
+
+[dependencies]
+askama = "0.14"
+axum = { version = "0.8", default-features = false, features = ["http1", "query", "tokio"] }
+chrono = { version = "0.4", default-features = false, features = ["serde", "std"] }
+serde = { version = "1", features = ["derive"] }
+tokio = { version = "1", features = ["macros", "net", "rt-multi-thread"] }
+toml = "1"
+unicode-normalization = "0.1"
+
+[dev-dependencies]
+tower = { version = "0.5", features = ["util"] }

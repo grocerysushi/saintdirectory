@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block title %}{% if is_search %}Search · Saint Directory{% else %}Catholic Saint Directory{% endif %}{% endblock %}
+{% block saints_current %}{% if !is_search %} aria-current="page"{% endif %}{% endblock %}
+{% block content %}
+  {% if is_search %}
+  <div class="container page-heading">
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/#saints">All saints</a></nav>
+    <h1>Search the saints</h1>
+    {% include "search_form.html" %}
+  </div>
+  {% else %}
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="container hero-inner">
+      <div class="hero-copy">
+        <h1 id="hero-title">A directory of Catholic saints.</h1>
+        <p>Find a saint by name, place, vocation, or patronage. Explore their lives and the days the Church remembers them.</p>
+        {% include "search_form.html" %}
+      </div>
+      <figure class="hero-art">
+        <img src="/assets/paradise.jpg" width="542" height="624" alt="Angels and the blessed embrace in a flowering garden.">
+        <figcaption><a href="https://www.metmuseum.org/art/collection/search/436512"><cite>Paradise</cite> · Giovanni di Paolo, 1445 · The Met</a></figcaption>
+      </figure>
+    </div>
+  </section>
+  {% endif %}
+  <section class="container section" id="saints" aria-labelledby="saints-heading">
+    <div class="section-heading">
+      <div>
+        {% if is_search && !query.is_empty() %}
+        <h2 id="saints-heading">Results for “{{ query }}”</h2>
+        <p>{{ count }} {% if count == 1 %}profile{% else %}profiles{% endif %} found</p>
+        {% else %}
+        <h2 id="saints-heading">Browse the saints</h2>
+        <p>{{ count }} sourced profiles</p>
+        {% endif %}
+      </div>
+      <a class="text-link" href="/calendar">View {{ calendar_title }} calendar</a>
+    </div>
+    {% if saints.is_empty() %}
+    <div class="empty-state">
+      <p>Try another name, spelling, place, or vocation.</p>
+      <a href="/#saints">Browse all saints</a>
+    </div>
+    {% else %}
+    <div class="saint-grid">
+      {% for saint in saints %}
+      <article class="saint-card">
+        <p class="eyebrow">{{ saint.vocation }}</p>
+        <h3><a href="/saints/{{ saint.id }}">{{ saint.name }}</a></h3>
+        <p class="card-meta">{{ saint.years }} · {{ saint.place }}</p>
+        <p>{{ saint.summary }}</p>
+      </article>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </section>
+{% endblock %}

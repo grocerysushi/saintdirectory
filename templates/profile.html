@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block title %}{{ saint.name }} · Saint Directory{% endblock %}
+{% block description %}{{ saint.summary }}{% endblock %}
+{% block content %}
+  <div class="container page-heading">
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/#saints">All saints</a></nav>
+    <p class="eyebrow">{{ saint.vocation }}</p>
+    <h1>{{ saint.name }}</h1>
+    <p class="card-meta">{{ saint.years }} · {{ saint.place }}</p>
+  </div>
+  <div class="container section profile-layout">
+    <article class="profile-main">
+      <h2>Life</h2>
+      {% for paragraph in saint.biography %}
+      <p>{{ paragraph }}</p>
+      {% endfor %}
+      <section class="sources" aria-labelledby="sources-heading">
+        <h2 id="sources-heading">Sources</h2>
+        <ul>
+          {% for source in saint.sources %}
+          <li><a href="{{ source.url }}">{{ source.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </section>
+    </article>
+    <aside class="profile-aside" aria-label="Names, patronage, and observances">
+      {% if !saint.aliases.is_empty() %}
+      <section>
+        <h2>Also known as</h2>
+        <ul>
+          {% for alias in saint.aliases %}
+          <li>{{ alias }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+      {% if !saint.patronage.is_empty() %}
+      <section>
+        <h2>Patronage</h2>
+        <ul>
+          {% for claim in saint.patronage %}
+          <li>{{ claim }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+      {% if !observances.is_empty() %}
+      <section>
+        <h2>{{ calendar.title }} observances</h2>
+        <p>{{ calendar.name }}</p>
+        <ul>
+          {% for (day, entry) in observances %}
+          <li>
+            <a href="/calendar#day-{{ day.date }}">{{ day.date.format("%B %-d") }} · {{ entry.title }}</a>
+            <span class="rank">{{ entry.rank }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+    </aside>
+  </div>
+{% endblock %}
