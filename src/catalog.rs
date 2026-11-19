@@ -11,6 +11,10 @@ const PROFILE_FILES: &[&str] = &[
     include_str!("../data/saints-founders.toml"),
     include_str!("../data/saints-witnesses.toml"),
     include_str!("../data/saints-apostles-and-confessors.toml"),
+    include_str!("../data/saints-calendar-winter-spring.toml"),
+    include_str!("../data/saints-calendar-summer.toml"),
+    include_str!("../data/saints-calendar-autumn-advent.toml"),
+    include_str!("../data/saints-calendar-groups.toml"),
 ];
 const CALENDAR_FILES: &[&str] = &[
     include_str!("../data/calendar-2026.toml"),

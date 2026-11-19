@@ -1,0 +1,432 @@
+[[saints]]
+id = "andre-bessette"
+name = "Saint André Bessette"
+aliases = ["Brother André", "Frère André", "Alfred Bessette"]
+years = "1845–1937"
+vocation = "Religious brother"
+place = "Montréal, Québec"
+summary = "A Holy Cross brother whose devotion to Saint Joseph helped establish a place of pilgrimage on Mount Royal."
+biography = [
+  "André entered the Congregation of Holy Cross and served for many years as a porter at its college in Montréal. He listened to people who came to him with troubles and encouraged prayer to Saint Joseph. A small chapel built with his support grew into Saint Joseph’s Oratory.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint André Bessette"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-andre-bessette/"
+
+[[saints.sources]]
+title = "Saint Joseph’s Oratory — Saint Brother André"
+url = "https://www.saint-joseph.org/en/saint-josephs-oratory/saint-brother-andre/"
+
+[[saints]]
+id = "raymond-of-penyafort"
+name = "Saint Raymond of Penyafort"
+aliases = ["Raymond of Peñafort", "Ramon de Penyafort", "Raymond of Pennafort", "Raymund of Peñafort"]
+years = "c. 1175–1275"
+vocation = "Dominican priest and canon lawyer"
+place = "Catalonia and Rome"
+summary = "A Dominican canon lawyer who compiled an influential collection of Church law for Pope Gregory IX."
+biography = [
+  "Raymond studied canon and civil law before entering the Order of Preachers. Gregory IX asked him to organize papal legal decisions, and the resulting collection served as a reference for canon lawyers for centuries. Raymond later led the Dominicans and helped revise the order’s constitutions.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Raymond of Peñafort"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-raymond-of-penafort/"
+
+[[saints]]
+id = "hilary-of-poitiers"
+name = "Saint Hilary of Poitiers"
+aliases = ["Hilarius of Poitiers", "Hilaire de Poitiers", "Hilary of Pictavium"]
+years = "c. 310–c. 367"
+vocation = "Bishop and Doctor of the Church"
+place = "Poitiers, France"
+summary = "Hilary defended the divinity of Christ and helped explain the teaching of Nicaea to Latin-speaking Christians."
+biography = [
+  "As bishop of Poitiers, Hilary opposed efforts to set aside the language of the Nicene Creed. During exile in Phrygia he encountered Eastern theological debates and worked on his treatise On the Trinity. He later returned to his diocese and continued to write and teach.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Hilary of Poitiers"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20071010.html"
+
+[[saints]]
+id = "angela-merici"
+name = "Saint Angela Merici"
+aliases = ["Angela of Brescia", "Angela Merici of Desenzano", "Sant’Angela Merici"]
+years = "c. 1474–1540"
+vocation = "Religious founder"
+place = "Brescia, Italy"
+summary = "Angela founded the Company of Saint Ursula, the community from which the Ursuline tradition developed."
+biography = [
+  "Angela gathered women in Brescia who wished to dedicate their lives to God while remaining in their households. She gave the company a rule and encouraged its members to care for one another. Later Ursuline communities became especially known for educating girls.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Angela Merici"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-angela-merici/"
+
+[[saints]]
+id = "ansgar"
+name = "Saint Ansgar"
+aliases = ["Anskar", "Ansgarius", "Oscar of Hamburg", "Apostle of the North"]
+years = "801–865"
+vocation = "Benedictine bishop and missionary"
+place = "Northern Germany and Scandinavia"
+summary = "A Benedictine monk and bishop who took part in early Christian missions to Denmark and Sweden."
+biography = [
+  "Ansgar traveled to Denmark and Sweden and helped establish Christian communities there. After the destruction of Hamburg disrupted his work, he continued his mission from Bremen and helped send missionaries back to Sweden.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Ansgar"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-ansgar/"
+
+[[saints]]
+id = "cyril-the-philosopher"
+name = "Saint Cyril the Philosopher"
+aliases = ["Constantine the Philosopher", "Cyril of Thessalonica", "Constantine of Thessalonica", "Cyril the Apostle to the Slavs"]
+years = "c. 826–869"
+vocation = "Monk, scholar, and missionary"
+place = "Thessalonica, Great Moravia, and Rome"
+summary = "The Byzantine scholar known as Constantine helped bring Christian texts and worship to Slavic-speaking communities."
+biography = [
+  "Constantine and his brother Methodius traveled to Great Moravia at the request of its ruler. Constantine developed a script now called Glagolitic to help put Christian texts into Slavonic. He took the name Cyril upon becoming a monk shortly before he died in Rome.",
+]
+patronage = ["Patron of Europe"]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saints Cyril and Methodius"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20090617.html"
+
+[[saints]]
+id = "methodius"
+name = "Saint Methodius"
+aliases = ["Methodius of Thessalonica", "Methodius of Moravia", "Methodius the Apostle to the Slavs"]
+years = "c. 815–885"
+vocation = "Missionary archbishop"
+place = "Thessalonica and Great Moravia"
+summary = "Methodius continued the mission he began with his brother Cyril and defended the use of Slavonic in worship."
+biography = [
+  "Methodius became a monk before joining Cyril on the mission to Great Moravia. After Cyril’s death, Methodius returned to serve as archbishop, where he faced disputes over his jurisdiction and the language of worship. He continued the translation of sacred texts with members of his community.",
+]
+patronage = ["Patron of Europe"]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saints Cyril and Methodius"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20090617.html"
+
+[[saints]]
+id = "jerome-emiliani"
+name = "Saint Jerome Emiliani"
+aliases = ["Girolamo Emiliani", "Girolamo Miani", "Jerome Miani"]
+years = "1486–1537"
+vocation = "Religious founder"
+place = "Venice and Somasca, Italy"
+summary = "The founder of the Somascan community organized care and training for children who had lost their parents."
+biography = [
+  "A former soldier, Jerome redirected his life toward service after his release from captivity. He established houses where children could receive care and learn trades. The community of men who joined him became known as the Somascans.",
+]
+patronage = ["Patron of orphans and abandoned children"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Jerome Emiliani"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-jerome-emiliani/"
+
+[[saints]]
+id = "casimir"
+name = "Saint Casimir"
+aliases = ["Casimir of Poland", "Casimir of Lithuania", "Kazimierz Jagiellończyk", "Kazimieras"]
+years = "1458–1484"
+vocation = "Prince"
+place = "Poland and Lithuania"
+summary = "A prince of the Jagiellonian dynasty remembered for prayer and service during a short life at court."
+biography = [
+  "Casimir was the son of Casimir IV, king of Poland and grand duke of Lithuania. A campaign tied to a claim on the Hungarian crown ended without putting him on its throne. Casimir returned to Poland and carried out royal responsibilities until illness cut his life short.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Casimir"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-casimir/"
+
+[[saints]]
+id = "patrick"
+name = "Saint Patrick"
+aliases = ["Patrick of Ireland", "Pádraig", "Patricius", "Apostle of Ireland"]
+years = "Fifth century, dates uncertain"
+vocation = "Bishop and missionary"
+place = "Britain and Ireland"
+summary = "A bishop whose own account describes captivity in Ireland and his later return there as a missionary."
+biography = [
+  "In the Confession, Patrick describes being taken from Britain to Ireland as a teenager. After escaping, he eventually returned as a bishop and preached among Irish communities. His Letter to the Soldiers of Coroticus condemns violence and enslavement directed against newly baptized Christians.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Patrick"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-patrick/"
+
+[[saints.sources]]
+title = "Royal Irish Academy — The Confession of Saint Patrick"
+url = "https://www.confessio.ie/etexts/confessio_english"
+
+[[saints.sources]]
+title = "Royal Irish Academy — Saint Patrick’s Letter to the Soldiers of Coroticus"
+url = "https://www.confessio.ie/etexts/epistola_english"
+
+[[saints]]
+id = "turibius-of-mogrovejo"
+name = "Saint Turibius of Mogrovejo"
+aliases = ["Toribio de Mogrovejo", "Turibius Alfonso de Mogrovejo", "Toribio Alfonso de Mogrovejo", "Turibius of Lima"]
+years = "1538–1606"
+vocation = "Archbishop"
+place = "Lima, Peru"
+summary = "An archbishop who traveled widely through his diocese and worked to improve ministry to Indigenous communities."
+biography = [
+  "Turibius worked in law in Spain before being sent to Lima as archbishop. He traveled throughout his large diocese, convened councils, and promoted religious teaching in local languages. He also established a seminary to prepare clergy for ministry.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Turibius of Mogrovejo"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-turibius-of-mogrovejo/"
+
+[[saints]]
+id = "martin-i"
+name = "Saint Martin I"
+aliases = ["Pope Martin I", "Martin I of Rome", "Martin the Confessor"]
+years = "Died 655"
+vocation = "Pope"
+place = "Rome and Cherson"
+summary = "A pope arrested and sent into exile after the Lateran synod of 649 rejected imperial teaching on Christ."
+biography = [
+  "Martin convened a synod in Rome that affirmed Christ’s divine and human wills. The decision put him at odds with the imperial government. He was arrested, taken to Constantinople, and exiled to Cherson in Crimea, where he died.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Martin I"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-martin-i/"
+
+[[saints]]
+id = "john-baptist-de-la-salle"
+name = "Saint John Baptist de La Salle"
+aliases = ["Jean-Baptiste de La Salle", "John Baptist de La Salle", "De La Salle"]
+years = "1651–1719"
+vocation = "Priest, educator, and religious founder"
+place = "Reims, France"
+summary = "A priest who founded the Brothers of the Christian Schools to expand education for boys from poor families."
+biography = [
+  "John began working with schoolteachers in Reims and developed a community centered on education. He established schools for boys from poor families and helped prepare teachers for that work. The congregation he founded became known as the Christian Brothers or De La Salle Brothers.",
+]
+patronage = ["Patron of schoolteachers"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John Baptist de La Salle"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-baptist-de-la-salle/"
+
+[[saints]]
+id = "adalbert-of-prague"
+name = "Saint Adalbert of Prague"
+aliases = ["Vojtěch of Prague", "Adalbert of Bohemia", "Wojciech", "Adalbert of Prague"]
+years = "c. 956–997"
+vocation = "Bishop and missionary martyr"
+place = "Prague and the Baltic region"
+summary = "A bishop of Prague who later traveled to preach to the Prussians and was killed during that mission."
+biography = [
+  "Born in Bohemia as Vojtěch, Adalbert took his later name from the archbishop who educated him. Conflict in Prague led him to spend time in a monastery in Rome. He subsequently traveled to the Baltic region, where he was killed in 997.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Adalbert of Prague"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-adalbert-of-prague/"
+
+[[saints]]
+id = "pius-v"
+name = "Saint Pius V"
+aliases = ["Pope Pius V", "Antonio Ghislieri", "Michele Ghislieri"]
+years = "1504–1572"
+vocation = "Dominican friar and pope"
+place = "Rome, Italy"
+summary = "A Dominican pope who put reforms of the Council of Trent into practice."
+biography = [
+  "Pius joined the Dominican order and served as a bishop before his election as pope in 1566. During his pontificate a catechism and revised liturgical books appeared as part of the implementation of Trent. These included the Roman Missal published in 1570.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Pius V"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-pius-v/"
+
+[[saints]]
+id = "nereus"
+name = "Saint Nereus"
+aliases = ["Nereus of Rome", "Nereus the Martyr"]
+years = "Roman era, dates uncertain"
+vocation = "Martyr in Christian tradition"
+place = "Rome, Italy"
+summary = "An early Roman martyr venerated with Saint Achilleus at the Catacomb of Domitilla."
+biography = [
+  "An inscription commissioned by Pope Damasus links Nereus and Achilleus with military service and their decision to follow Christ. Later accounts tell a more detailed story involving Flavia Domitilla, but the surviving early evidence leaves the circumstances of their deaths uncertain.",
+]
+
+[[saints.sources]]
+title = "Catholic Encyclopedia — Saints Nereus and Achilleus, Domitilla and Pancratius"
+url = "https://www.newadvent.org/cathen/10751a.htm"
+
+[[saints.sources]]
+title = "Nashville Catholic — Saints Nereus and Achilleus"
+url = "https://www.nashvillecatholic.org/news/posts/sts-nereus-and-achilleus-carriers-of-christs-triumph"
+
+[[saints]]
+id = "achilleus"
+name = "Saint Achilleus"
+aliases = ["Achilleus of Rome", "Achilles of Rome", "Achilleus the Martyr"]
+years = "Roman era, dates uncertain"
+vocation = "Martyr in Christian tradition"
+place = "Rome, Italy"
+summary = "An early Christian martyr honored alongside Saint Nereus in Rome."
+biography = [
+  "Achilleus is remembered together with Nereus in early Roman evidence from the Catacomb of Domitilla. Pope Damasus’s inscription portrays the two as leaving military service to confess Christ. Later traditions offer details about their lives that are difficult to verify.",
+]
+
+[[saints.sources]]
+title = "Catholic Encyclopedia — Saints Nereus and Achilleus, Domitilla and Pancratius"
+url = "https://www.newadvent.org/cathen/10751a.htm"
+
+[[saints.sources]]
+title = "Nashville Catholic — Saints Nereus and Achilleus"
+url = "https://www.nashvillecatholic.org/news/posts/sts-nereus-and-achilleus-carriers-of-christs-triumph"
+
+[[saints]]
+id = "pancras-of-rome"
+name = "Saint Pancras of Rome"
+aliases = ["Saint Pancras", "Pancratius", "Pancrazio of Rome", "Saint Pankraz"]
+years = "Traditionally early fourth century"
+vocation = "Martyr in Christian tradition"
+place = "Rome, Italy"
+summary = "An early Roman martyr remembered in tradition as a young person who refused to abandon Christianity."
+biography = [
+  "The basilica of San Pancrazio in Rome preserves the memory of Pancras near his traditional place of burial. Later accounts describe him as a teenager killed during the persecution of Diocletian. His age and the exact circumstances of his death are uncertain.",
+]
+
+[[saints.sources]]
+title = "Nashville Catholic — Saint Pancras, Teen Martyr of Rome"
+url = "https://www.nashvillecatholic.org/news/posts/st-pancras-teen-martyr-of-rome"
+
+[[saints.sources]]
+title = "Catholic Encyclopedia — Saints Nereus and Achilleus, Domitilla and Pancratius"
+url = "https://www.newadvent.org/cathen/10751a.htm"
+
+[[saints]]
+id = "isidore-the-farmer"
+name = "Saint Isidore the Farmer"
+aliases = ["Isidore the Laborer", "Isidro Labrador", "Isidore of Madrid", "San Isidro Labrador"]
+years = "c. 1070–1130"
+vocation = "Layman and farmer"
+place = "Madrid, Spain"
+summary = "A farm worker honored in Madrid for a life of prayer and generosity."
+biography = [
+  "Isidore worked on land near Madrid and shared his life with María de la Cabeza, who is also venerated. Stories handed down about Isidore dwell on prayer amid ordinary work and care for people in need. His memory remains closely associated with rural life.",
+]
+patronage = ["Patron of farmers and rural communities", "Patron of Madrid"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Isidore the Farmer"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-isidore-the-farmer/"
+
+[[saints]]
+id = "john-i"
+name = "Saint John I"
+aliases = ["Pope John I", "John I of Rome", "Giovanni I"]
+years = "Died 526"
+vocation = "Pope and martyr"
+place = "Rome, Constantinople, and Ravenna"
+summary = "A pope who traveled to Constantinople on a diplomatic mission and died in custody after his return."
+biography = [
+  "The Ostrogothic king Theodoric sent John to negotiate with Emperor Justin I over restrictions affecting Arian Christians. John returned to Italy and was imprisoned at Ravenna. He died there after a brief pontificate.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John I"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-i/"
+
+[[saints]]
+id = "bernardine-of-siena"
+name = "Saint Bernardine of Siena"
+aliases = ["Bernardino of Siena", "Bernardino da Siena", "Bernardin of Siena"]
+years = "1380–1444"
+vocation = "Franciscan priest and preacher"
+place = "Siena and L’Aquila, Italy"
+summary = "A Franciscan preacher who helped spread devotion to the Holy Name of Jesus in Italian towns and cities."
+biography = [
+  "Bernardine cared for people during an outbreak of plague before becoming a Franciscan. He traveled widely as a preacher and encouraged devotion to Jesus through the monogram IHS, which he displayed during his ministry. He also worked to strengthen observance within his order.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Bernardine of Siena"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-bernardine-of-siena/"
+
+[[saints]]
+id = "christopher-magallanes"
+name = "Saint Christopher Magallanes"
+aliases = ["Cristóbal Magallanes Jara", "Cristobal Magallanes", "Christopher Magallanes Jara"]
+years = "1869–1927"
+vocation = "Priest and martyr"
+place = "Totatiche, Jalisco, Mexico"
+summary = "A parish priest who helped continue the education of seminarians during restrictions on Catholic ministry in Mexico."
+biography = [
+  "Christopher served the parish of Totatiche and organized seminary classes after the diocesan seminary closed. He was arrested and executed during the Cristero conflict. The Catholic Church honors him among a group of Mexican martyrs canonized together in 2000.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Cristóbal Magallanes and Companions"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-cristobal-magallanes-and-companions/"
+
+[[saints.sources]]
+title = "John Paul II — Homily at the canonization of Cristóbal Magallanes and his companions"
+url = "https://www.vatican.va/content/john-paul-ii/en/homilies/2000/documents/hf_jp-ii_hom_20000521_canonizations.html"
+
+[[saints]]
+id = "augustine-of-canterbury"
+name = "Saint Augustine of Canterbury"
+aliases = ["Augustine of Canterbury", "Augustine the Missionary", "Apostle to the English"]
+years = "Died c. 605"
+vocation = "Benedictine bishop and missionary"
+place = "Kent, England"
+summary = "A monk sent by Gregory the Great whose mission established Canterbury as a center of Christianity in England."
+biography = [
+  "Augustine led a group of monks from Rome to Kent, where King Æthelberht received them and allowed them to settle and preach. After becoming a bishop, Augustine based his ministry at Canterbury. He sought guidance from Gregory about organizing the growing church.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Augustine of Canterbury"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-augustine-of-canterbury/"
+
+[[saints]]
+id = "gregory-vii"
+name = "Saint Gregory VII"
+aliases = ["Pope Gregory VII", "Hildebrand of Sovana", "Hildebrand"]
+years = "c. 1020–1085"
+vocation = "Pope and reformer"
+place = "Rome and Salerno, Italy"
+summary = "A reforming pope whose opposition to lay control of Church offices brought him into conflict with Henry IV."
+biography = [
+  "Known as Hildebrand before his election, Gregory promoted changes in the conduct of clergy and in how bishops received office. His dispute with Henry IV led to the meeting at Canossa in 1077. The conflict later resumed, and Gregory died away from Rome in Salerno.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Gregory VII"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-gregory-vii/"
+
+[[saints]]
+id = "mary-magdalene-de-pazzi"
+name = "Saint Mary Magdalene de’ Pazzi"
+aliases = ["Maria Maddalena de’ Pazzi", "Mary Magdalen de Pazzi", "Caterina de’ Pazzi", "Mary Magdalene de Pazzi"]
+years = "1566–1607"
+vocation = "Carmelite nun and mystic"
+place = "Florence, Italy"
+summary = "A Florentine Carmelite whose community recorded her accounts of prayer and spiritual experience."
+biography = [
+  "Born Caterina de’ Pazzi, she entered a Carmelite convent in Florence and took the name Mary Magdalene. Sisters in the community recorded her spiritual experiences and teachings. She also helped guide newer members of the convent.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Mary Magdalene de’ Pazzi"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-mary-magdalene-de-pazzi/"

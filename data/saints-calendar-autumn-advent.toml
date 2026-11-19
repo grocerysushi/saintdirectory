@@ -1,0 +1,478 @@
+[[saints]]
+id = "cornelius"
+name = "Saint Cornelius"
+aliases = ["Pope Cornelius", "Cornelius of Rome"]
+years = "Died 253"
+vocation = "Pope and martyr"
+place = "Rome and Centumcellae, Italy"
+summary = "A bishop of Rome who defended the reconciliation of Christians who had abandoned the faith under persecution."
+biography = [
+  "Cornelius was elected bishop of Rome in 251, after a persecution had left Roman Christians divided over how to readmit those who had renounced their faith. Supported by Cyprian of Carthage, he held that the Church could restore them to communion after penance. Novatian organized a rival church that took a stricter position.",
+  "Cornelius was exiled to Centumcellae, now Civitavecchia, under Emperor Trebonianus Gallus and died there in 253. His feast is shared with Cyprian, whose surviving letters help document the controversy.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Cornelius"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-cornelius"
+
+[[saints]]
+id = "cyprian-of-carthage"
+name = "Saint Cyprian of Carthage"
+aliases = ["Thascius Caecilius Cyprianus", "Cyprian of Africa"]
+years = "c. 210–258"
+vocation = "Bishop, Christian writer, and martyr"
+place = "Carthage, present-day Tunisia"
+summary = "A bishop whose letters and treatises record how the Church in Roman Africa responded to persecution and division."
+biography = [
+  "Cyprian entered the Christian community as an adult and became bishop of Carthage. After the persecution under Emperor Decius, he worked with Cornelius of Rome to readmit Christians who had denied their faith, with penance appropriate to their circumstances.",
+  "The Roman authorities sent Cyprian into exile during the persecution under Valerian. He was later recalled to Carthage and executed in 258. His writings include a treatise on the unity of the Church.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Cyprian"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-cyprian"
+
+[[saints]]
+id = "januarius"
+name = "Saint Januarius"
+aliases = ["San Gennaro", "Januarius of Benevento", "Januarius of Naples"]
+years = "Died traditionally c. 305"
+vocation = "Bishop and martyr"
+place = "Benevento, Pozzuoli, and Naples, Italy"
+summary = "A martyr traditionally identified as a bishop of Benevento and long venerated in Naples."
+biography = [
+  "Little is known securely about Januarius’s life. Tradition identifies him as a bishop of Benevento who was killed with fellow Christians near Pozzuoli during the Roman persecutions. Later accounts describe details of their trial and death.",
+  "His relics are venerated in Naples. Local devotion includes ceremonies centered on a substance traditionally identified as his blood, whose liquefaction has been reported on occasions during the year.",
+]
+patronage = ["Venerated as a patron of Naples"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Januarius"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-januarius"
+
+[[saints]]
+id = "andrew-kim-tae-gon"
+name = "Saint Andrew Kim Tae-gŏn"
+aliases = ["Andrew Kim Taegon", "Andrew Kim Tae-gon", "Kim Dae-geon", "김대건"]
+years = "1821–1846"
+vocation = "Priest and martyr"
+place = "Joseon Korea, Macao, and Shanghai"
+summary = "The first Korean Catholic priest served his country’s clandestine Catholic community and was executed in 1846."
+biography = [
+  "Andrew came from a Korean Catholic family. He studied for the priesthood in Macao and was ordained in Shanghai in 1845, becoming the first Korean Catholic priest.",
+  "He returned to Korea and helped find routes by which missionaries could enter the country. The authorities arrested him and executed him the following year. The Catholic Church canonized him and 102 other Korean martyrs in 1984.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Andrew Kim Taegon, Paul Chong Hasang, and Companions"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-andrew-kim-taegon-paul-chong-hasang-and-companions"
+
+[[saints.sources]]
+title = "John Paul II — Homily at the Canonization of the Korean Martyrs"
+url = "https://www.vatican.va/content/john-paul-ii/en/homilies/1984/documents/hf_jp-ii_hom_19840506_martiri-coreani.html"
+
+[[saints]]
+id = "paul-chong-ha-sang"
+name = "Saint Paul Chŏng Ha-sang"
+aliases = ["Paul Chong Hasang", "Paul Chong Ha-sang", "Paul Jeong Ha-sang", "정하상"]
+years = "1795–1839"
+vocation = "Lay catechist and martyr"
+place = "Joseon Korea and Beijing, China"
+summary = "A Korean lay Catholic who helped sustain the local Church and petitioned for clergy to serve it."
+biography = [
+  "Paul grew up in a Catholic family during a period when the Korean Church depended heavily on lay leadership. He traveled to Beijing to seek help for Korean Catholics and worked to bring missionaries into the country.",
+  "When arrested during the persecution of 1839, he prepared a written defense of Catholic belief for the authorities. He was executed that year and was canonized with the other Korean martyrs in 1984.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Andrew Kim Taegon, Paul Chong Hasang, and Companions"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-andrew-kim-taegon-paul-chong-hasang-and-companions"
+
+[[saints.sources]]
+title = "Catholic Culture — Stories of the Korean Martyrs"
+url = "https://www.catholicculture.org/culture/library/view.cfm?id=4740"
+
+[[saints]]
+id = "pius-of-pietrelcina"
+name = "Saint Pius of Pietrelcina"
+aliases = ["Padre Pio", "Pio of Pietrelcina", "Pio da Pietrelcina", "Francesco Forgione"]
+years = "1887–1968"
+vocation = "Capuchin priest"
+place = "Pietrelcina and San Giovanni Rotondo, Italy"
+summary = "A Capuchin priest known for hearing confessions and for helping establish a hospital in San Giovanni Rotondo."
+biography = [
+  "Born Francesco Forgione, he entered the Capuchins as Brother Pio and was ordained in 1910. At San Giovanni Rotondo he spent much of his priesthood hearing confessions and giving spiritual counsel. Reports of wounds understood by devotees as stigmata drew attention to his ministry.",
+  "Pio promoted the construction of the Casa Sollievo della Sofferenza, a hospital that opened in 1956. He died in 1968, and Pope John Paul II canonized him in 2002.",
+]
+
+[[saints.sources]]
+title = "Holy See — Padre Pio da Pietrelcina"
+url = "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20020616_padre-pio_en.html"
+
+[[saints]]
+id = "cosmas"
+name = "Saint Cosmas"
+aliases = ["Cosmas of Syria", "Kosmas", "Cosmas the Unmercenary"]
+years = "Late Roman antiquity, dates uncertain"
+vocation = "Physician in Christian tradition and martyr"
+place = "Roman Syria, in traditions of his veneration"
+summary = "An early martyr remembered with Damian as a physician who treated the sick without charging them."
+biography = [
+  "Christian tradition remembers Cosmas and Damian as brothers who used their skill in medicine to help the sick freely. A center of their early cult was Cyrrhus in Roman Syria.",
+  "Their lives cannot be reconstructed in detail. Accounts of their execution belong to the tradition of their martyrdom, commonly set during the persecution under Diocletian. They are named together in the Roman Canon.",
+]
+patronage = ["Traditionally venerated as a patron of physicians"]
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saints Cosmas and Damian"
+url = "https://www.britannica.com/biography/Saint-Cosmas"
+
+[[saints]]
+id = "damian"
+name = "Saint Damian"
+aliases = ["Damian of Syria", "Damianos", "Damian the Unmercenary"]
+years = "Late Roman antiquity, dates uncertain"
+vocation = "Physician in Christian tradition and martyr"
+place = "Roman Syria, in traditions of his veneration"
+summary = "An early martyr whose cult with Cosmas became associated with medical care offered freely."
+biography = [
+  "Damian is remembered alongside Cosmas, whom tradition identifies as his brother. Christian devotion to the pair spread widely, and healing became central to the stories told at shrines bearing their names.",
+  "Independent historical details about Damian are scarce. The traditions share the memory of two martyrs and healers, and the Roman Canon preserves their names together.",
+]
+patronage = ["Traditionally venerated as a patron of physicians"]
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saints Cosmas and Damian"
+url = "https://www.britannica.com/biography/Saint-Cosmas"
+
+[[saints]]
+id = "lawrence-ruiz"
+name = "Saint Lawrence Ruiz"
+aliases = ["Lorenzo Ruiz", "Lorenzo Ruiz of Manila", "Lawrence Ruiz and Companions", "San Lorenzo Ruiz"]
+years = "c. 1600–1637"
+vocation = "Layman and martyr"
+place = "Manila, Philippines, and Nagasaki, Japan"
+summary = "A married lay Catholic from Manila who died with companions during the persecution of Christians in Japan."
+biography = [
+  "Lawrence was raised in Manila, where he worked as a church assistant, married, and had children. In 1636 he left the Philippines with Dominican missionaries who were traveling to Japan.",
+  "The group was arrested and taken to Nagasaki. Lawrence refused to renounce his faith and was killed in 1637. He became the first Filipino canonized by the Catholic Church in 1987.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Lorenzo Ruiz and Companions"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-lorenzo-ruiz-and-companions"
+
+[[saints]]
+id = "michael-the-archangel"
+name = "Saint Michael the Archangel"
+aliases = ["Archangel Michael", "Michael the Archangel", "San Miguel Arcángel"]
+years = "Scriptural figure"
+vocation = "Archangel"
+place = "Scriptural visions in Daniel and Revelation"
+summary = "An archangel portrayed in Scripture as a defender of God’s people and the leader of angels in battle against the dragon."
+biography = [
+  "In the Book of Daniel, Michael is named as a heavenly prince who stands with God’s people. The Letter of Jude calls him an archangel. Revelation depicts him and his angels fighting the dragon, which the passage identifies with the devil.",
+  "Catholic teaching describes angels as spiritual creatures who serve God. The Church honors Michael by name with Gabriel and Raphael and invokes Michael in prayers asking for protection in spiritual struggle.",
+]
+
+[[saints.sources]]
+title = "USCCB Bible — Revelation, chapter 12"
+url = "https://bible.usccb.org/bible/revelation/12"
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Michael, Gabriel, and Raphael"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-michael-gabriel-and-raphael"
+
+[[saints.sources]]
+title = "Catechism of the Catholic Church — Heaven and Earth, paragraphs 328–336"
+url = "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_5_heaven_and_earth.html"
+
+[[saints]]
+id = "gabriel-the-archangel"
+name = "Saint Gabriel the Archangel"
+aliases = ["Archangel Gabriel", "Gabriel the Archangel", "San Gabriel Arcángel"]
+years = "Scriptural figure"
+vocation = "Archangel and divine messenger"
+place = "Jerusalem and Nazareth in the Gospel of Luke"
+summary = "The messenger who announces the births of John the Baptist and Jesus in the Gospel of Luke."
+biography = [
+  "Luke identifies Gabriel by name in the account of Zechariah’s service at the Temple. Gabriel tells him that Elizabeth will bear a son and instructs him to name the child John.",
+  "In Luke’s account of the Annunciation, God sends Gabriel to Mary at Nazareth. Gabriel tells her that she will bear Jesus. Gabriel also appears as an interpreter of visions in the Book of Daniel.",
+]
+
+[[saints.sources]]
+title = "USCCB Bible — Gospel of Luke, chapter 1"
+url = "https://bible.usccb.org/bible/luke/1"
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Michael, Gabriel, and Raphael"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-michael-gabriel-and-raphael"
+
+[[saints]]
+id = "raphael-the-archangel"
+name = "Saint Raphael the Archangel"
+aliases = ["Archangel Raphael", "Raphael the Archangel", "San Rafael Arcángel"]
+years = "Scriptural figure"
+vocation = "Archangel and companion in the Book of Tobit"
+place = "Nineveh and Media in the Book of Tobit"
+summary = "An angel in the Book of Tobit who accompanies Tobiah and helps bring healing to Tobiah’s household."
+biography = [
+  "Raphael enters the story of Tobit under the name Azariah and agrees to travel with Tobiah. He guides Tobiah through dangers and tells him how to help restore his father’s sight.",
+  "At the end of the journey, Raphael reveals his identity as one of the angels who stand before God. The book connects his mission with the prayers of Tobit and Sarah. Catholics traditionally ask Raphael’s intercession for travelers and healing.",
+]
+
+[[saints.sources]]
+title = "USCCB Bible — Book of Tobit, chapter 12"
+url = "https://bible.usccb.org/bible/tobit/12"
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Michael, Gabriel, and Raphael"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-michael-gabriel-and-raphael"
+
+[[saints]]
+id = "faustina-kowalska"
+name = "Saint Maria Faustina Kowalska"
+aliases = ["Faustina Kowalska", "Helena Kowalska", "Maria Faustyna Kowalska", "Sister Faustina"]
+years = "1905–1938"
+vocation = "Religious sister and diarist"
+place = "Poland and Vilnius, Lithuania"
+summary = "A Polish religious sister whose diary helped spread Catholic devotion to the Divine Mercy."
+biography = [
+  "Born Helena Kowalska, Faustina joined the Congregation of the Sisters of Our Lady of Mercy. She worked in several houses of the congregation, including in Vilnius, where she received spiritual guidance from Father Michał Sopoćko.",
+  "At the direction of her spiritual advisers, she kept a diary recording experiences she understood as encounters with Jesus. These writings helped shape devotion to the Divine Mercy. She died in 1938 and was canonized in 2000.",
+]
+
+[[saints.sources]]
+title = "Holy See — Maria Faustina Kowalska"
+url = "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20000430_faustina_en.html"
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Maria Faustina Kowalska"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-maria-faustina-kowalska"
+
+[[saints]]
+id = "bruno"
+name = "Saint Bruno of Cologne"
+aliases = ["Bruno of Cologne", "Bruno the Carthusian", "Bruno of Chartreuse"]
+years = "c. 1030–1101"
+vocation = "Priest and founder of the Carthusians"
+place = "Cologne, Reims, the Chartreuse Mountains, and Calabria"
+summary = "A teacher who established a community of hermits in the French Alps and shaped the Carthusian way of life."
+biography = [
+  "Born in Cologne, Bruno taught and led the cathedral school at Reims. In 1084 he and a small group settled near Grenoble with the support of Bishop Hugh. The community combined solitary prayer and work with shared worship.",
+  "Pope Urban II called Bruno to serve as an adviser. Bruno later received permission to return to a life of prayer and established a community in Calabria, where he died. The community at Chartreuse gave the Carthusian order its name.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Bruno"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-bruno"
+
+[[saints]]
+id = "denis-of-paris"
+name = "Saint Denis of Paris"
+aliases = ["Dionysius of Paris", "Denis the Martyr", "Saint Denis and Companions"]
+years = "Third century, according to tradition"
+vocation = "Bishop and martyr"
+place = "Paris, France"
+summary = "The early martyr venerated as the first bishop of Paris, where an abbey later grew around his shrine."
+biography = [
+  "French Christian tradition remembers Denis as a missionary bishop who died with Rusticus and Eleutherius. The early history of the group is sparsely documented, and the circumstances of their deaths are uncertain.",
+  "The abbey at Saint-Denis developed around the place associated with his burial. Later legend portrays him carrying his own head after execution, a detail that helped make his image recognizable in churches and sculpture.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Denis and Companions"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-denis-and-companions"
+
+[[saints]]
+id = "john-leonardi"
+name = "Saint John Leonardi"
+aliases = ["Giovanni Leonardi", "Giovanni di Matteo Leonardi"]
+years = "1541–1609"
+vocation = "Priest and religious founder"
+place = "Lucca and Rome, Italy"
+summary = "A former pharmacy apprentice who founded a community of priests devoted to religious education and reform."
+biography = [
+  "Leonardi trained in pharmacy as a young man and later studied for the priesthood. In Lucca he organized instruction in the Christian faith and gathered priests who became the Clerks Regular of the Mother of God.",
+  "Working in Rome, he helped lay plans for a college to prepare missionaries. He died there in 1609 after attending people who were ill during an outbreak.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John Leonardi"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-leonardi"
+
+[[saints]]
+id = "callistus-i"
+name = "Saint Callistus I"
+aliases = ["Pope Callistus I", "Callixtus I", "Calixtus I", "Callistus of Rome"]
+years = "Died c. 222"
+vocation = "Pope and martyr"
+place = "Rome, Italy"
+summary = "An early bishop of Rome associated with a Christian burial ground on the Appian Way and with debates over penance."
+biography = [
+  "Callistus oversaw a Christian cemetery on the Appian Way that came to bear his name. Much of the surviving account of his earlier life comes from Hippolytus, a critic who opposed his leadership.",
+  "As bishop of Rome, Callistus became involved in disputes over how the Church should reconcile people guilty of serious sins. He is honored as a martyr, though the circumstances of his death are uncertain.",
+]
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Callixtus I"
+url = "https://www.britannica.com/biography/Saint-Callixtus-I"
+
+[[saints]]
+id = "hedwig-of-silesia"
+name = "Saint Hedwig of Silesia"
+aliases = ["Hedwig of Andechs", "Jadwiga Śląska", "Hedwig of Trzebnica", "Hedwige of Silesia"]
+years = "c. 1174–1243"
+vocation = "Duchess and religious patron"
+place = "Bavaria and Silesia, present-day Poland"
+summary = "A duchess of Silesia who used her position to support people in poverty and religious communities."
+biography = [
+  "Born into the family of Andechs in Bavaria, Hedwig married Henry the Bearded, duke of Silesia. She supported charitable work in the duchy, and she and Henry established a Cistercian convent at Trzebnica.",
+  "After Henry’s death, Hedwig lived at Trzebnica, where her daughter Gertrude was abbess. Hedwig died in 1243 and came to be honored as a patron of Silesia.",
+]
+patronage = ["Venerated as a patron of Silesia"]
+
+[[saints.sources]]
+title = "Vatican News — Saint Hedwig, Duchess and Religious"
+url = "https://www.vaticannews.va/en/saints/10/16/st-hedwig--duchesse-of-polonia--religious.html"
+
+[[saints]]
+id = "paul-of-the-cross"
+name = "Saint Paul of the Cross"
+aliases = ["Paolo della Croce", "Paul Francis Danei", "Paolo Francesco Danei"]
+years = "1694–1775"
+vocation = "Priest and founder of the Passionists"
+place = "Ovada, Monte Argentario, and Rome, Italy"
+summary = "The founder of the Passionists taught people to pray with the account of Christ’s suffering and death."
+biography = [
+  "Paul Danei began to form a community devoted to prayer and preaching after a period of retreat in his youth. He and his brother John Baptist were ordained in Rome, and their early community settled at Monte Argentario.",
+  "The congregation came to be known as the Passionists. Its members preached public missions and encouraged people to meditate on Christ’s Passion. Paul continued preaching and leading the community for much of his life.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Paul of the Cross"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-paul-of-the-cross"
+
+[[saints]]
+id = "john-of-capistrano"
+name = "Saint John of Capistrano"
+aliases = ["John Capistran", "Giovanni da Capestrano", "Juan de Capistrano"]
+years = "1386–1456"
+vocation = "Franciscan priest and preacher"
+place = "Italy, Central Europe, and Belgrade"
+summary = "A Franciscan reformer and traveling preacher who helped rally the defense of Belgrade during the Ottoman siege of 1456."
+biography = [
+  "John studied law and served as a civil official before entering the Franciscans. He became a public preacher and promoted reforms within the order. His work in Central Europe also included his role in the persecution of the Jewish community of Breslau, now Wrocław, in 1453.",
+  "During the Ottoman siege of Belgrade in 1456, John helped enlist and encourage forces supporting the city’s defense. He died later that year after illness spread in the region.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John of Capistrano"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-of-capistrano"
+
+[[saints.sources]]
+title = "Princeton University Library, Graphic Arts Collection — St. John of Capistrano"
+url = "https://graphicarts.princeton.edu/2015/06/26/st-john-of-capistrano/"
+
+[[saints]]
+id = "anthony-mary-claret"
+name = "Saint Anthony Mary Claret"
+aliases = ["Antonio María Claret", "Antoni Maria Claret", "Anthony Claret"]
+years = "1807–1870"
+vocation = "Archbishop and religious founder"
+place = "Catalonia, Spain, and Santiago de Cuba"
+summary = "A missionary preacher who founded the Claretians and served as archbishop of Santiago de Cuba."
+biography = [
+  "Claret worked in textiles in Catalonia before studying for the priesthood. As a traveling missionary, he made extensive use of inexpensive printed books and pamphlets. In 1849 he founded the congregation now known as the Claretians.",
+  "As archbishop of Santiago de Cuba, he traveled throughout his diocese and worked to improve education and pastoral care. He later served in Spain as confessor to Queen Isabella II and died in exile in France.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Anthony Mary Claret"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-anthony-mary-claret"
+
+[[saints]]
+id = "john-damascene"
+name = "Saint John Damascene"
+aliases = ["John of Damascus", "Ioannes Damaskenos", "John of Mar Saba"]
+years = "c. 675–c. 749"
+vocation = "Monk, priest, and Doctor of the Church"
+place = "Damascus and Mar Saba, near Jerusalem"
+summary = "An Eastern Christian theologian whose writings defended the use of sacred images and organized earlier Christian teaching."
+biography = [
+  "John grew up in Damascus under the Umayyad caliphate and became a monk at Mar Saba. The work often called the Fountain of Knowledge includes a systematic account of the Christian faith drawing on earlier Greek writers.",
+  "John defended sacred images during the Byzantine controversy over icons. He argued that the incarnation made it possible to depict Christ and distinguished honor shown through an image from worship offered to God.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John Damascene"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-damascene"
+
+[[saints]]
+id = "nicholas-of-myra"
+name = "Saint Nicholas of Myra"
+aliases = ["Nicholas of Bari", "Nicholas the Wonderworker", "Saint Nicholas", "San Nicola"]
+years = "Fourth century, according to tradition"
+vocation = "Bishop"
+place = "Myra, now Demre, Türkiye"
+summary = "A bishop of Myra whose cult spread widely and whose traditional acts of generosity shaped gift-giving customs."
+biography = [
+  "Nicholas is traditionally remembered as a bishop of Myra in Roman Lycia. Little can be established securely about his life. In 1087, sailors brought relics venerated as his from Myra to Bari, which became a major center of his cult.",
+  "One well-known story tells how Nicholas secretly provided money for three young women in need. Traditions of anonymous generosity helped shape Saint Nicholas customs and the later figure of Santa Claus.",
+]
+patronage = ["Traditionally venerated as a patron of children and sailors"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Nicholas"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-nicholas"
+
+[[saints]]
+id = "damasus-i"
+name = "Saint Damasus I"
+aliases = ["Pope Damasus I", "Damasus of Rome", "San Dámaso"]
+years = "c. 305–384"
+vocation = "Pope"
+place = "Rome, Italy"
+summary = "A fourth-century bishop of Rome who commissioned Jerome to revise the Latin Gospels and commemorated martyrs in verse inscriptions."
+biography = [
+  "Damasus became bishop of Rome in 366 after a disputed election that led to violence between rival supporters. He later asked Jerome to revise the Latin text of the Gospels by comparing it with Greek manuscripts.",
+  "Damasus commissioned inscriptions honoring martyrs at their burial sites around Rome. The verses are sources for the way fourth-century Roman Christians remembered earlier persecutions.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Damasus I"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-damasus-i"
+
+[[saints]]
+id = "john-of-kanty"
+name = "Saint John of Kanty"
+aliases = ["John Cantius", "Jan Kanty", "Jan z Kęt", "John of Kęty", "John Kanty"]
+years = "c. 1390–1473"
+vocation = "Priest and university teacher"
+place = "Kęty and Kraków, Poland"
+summary = "A priest and scholar of Kraków remembered for his teaching, personal simplicity, and care for people in need."
+biography = [
+  "John came from Kęty and studied at the university in Kraków. He taught theology and served as a parish priest at Olkusz before returning to Kraków to teach Scripture.",
+  "Accounts of his life remember him giving away what he could spare and living simply. He continued teaching in Kraków until his death in 1473.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John of Kanty"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-of-kanty"
+
+[[saints]]
+id = "sylvester-i"
+name = "Saint Sylvester I"
+aliases = ["Pope Sylvester I", "Silvester I", "Sylvester of Rome"]
+years = "Died 335"
+vocation = "Pope"
+place = "Rome, Italy"
+summary = "A bishop of Rome during the reign of Constantine, when Christians began building major public churches."
+biography = [
+  "Sylvester served as bishop of Rome from 314 to 335. With Christianity permitted under Constantine, large churches began to be built in Rome, including the original basilica at the site of Saint Peter’s.",
+  "Sylvester sent representatives to the Council of Nicaea in 325. Later stories connected him closely with Constantine, including a legend that he personally baptized the emperor. Contemporary evidence does not support that account.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Sylvester I"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-sylvester-i"

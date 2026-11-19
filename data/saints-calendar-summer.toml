@@ -1,0 +1,437 @@
+[[saints]]
+id = "marcellinus-of-rome"
+name = "Saint Marcellinus of Rome"
+aliases = ["Marcellinus the Priest", "Marcellinus and Peter"]
+years = "Died c. 304"
+vocation = "Priest and martyr"
+place = "Rome, Italy"
+summary = "A Roman priest executed with Peter the Exorcist during the persecution under Diocletian."
+biography = [
+  "Little is known about Marcellinus before his imprisonment. The Church remembers him as a priest of Rome who died with Peter, an exorcist, during the early fourth-century persecutions.",
+  "Pope Damasus later composed an epitaph for the pair, drawing on a report attributed to their executioner. Their names also entered the Roman Canon, now known as Eucharistic Prayer I.",
+]
+
+[[saints.sources]]
+title = "Vatican News — Saints Marcellinus and Peter"
+url = "https://www.vaticannews.va/en/saints/06/02/sts--marcellinus--priest--and-peter--exorcist--martyrs-on-the-vi.html"
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Marcellinus and Peter"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-marcellinus-and-peter/"
+
+[[saints]]
+id = "peter-the-exorcist"
+name = "Saint Peter the Exorcist"
+aliases = ["Peter of Rome", "Peter the Martyr of Rome", "Marcellinus and Peter"]
+years = "Died c. 304"
+vocation = "Exorcist and martyr"
+place = "Rome, Italy"
+summary = "An exorcist of the Roman Church remembered alongside the priest Marcellinus."
+biography = [
+  "Peter served Rome’s Christian community as an exorcist. Surviving accounts give few details about his ministry apart from his association with Marcellinus and their deaths under Diocletian.",
+  "The two were buried together in Rome. A basilica later stood over their burial site, and the Roman Canon preserved Peter’s name beside that of his companion.",
+]
+
+[[saints.sources]]
+title = "Vatican News — Saints Marcellinus and Peter"
+url = "https://www.vaticannews.va/en/saints/06/02/sts--marcellinus--priest--and-peter--exorcist--martyrs-on-the-vi.html"
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Marcellinus and Peter"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-marcellinus-and-peter/"
+
+[[saints]]
+id = "boniface"
+name = "Saint Boniface"
+aliases = ["Boniface of Mainz", "Winfrid", "Wynfrith", "Apostle to the Germans"]
+years = "c. 675–754"
+vocation = "Benedictine missionary, bishop, and martyr"
+place = "England, German lands, and Frisia"
+summary = "An English Benedictine who helped organize the Church in the German lands and died on a mission to Frisia."
+biography = [
+  "Boniface left his English monastery to preach on the continent. With a commission from Pope Gregory II, he worked among Germanic peoples and eventually took responsibility for organizing churches and training clergy across a wide territory.",
+  "He also helped reform church life in the Frankish kingdom. On a later mission to Frisia, Boniface and a group of companions were killed as they prepared to meet people who had recently become Christian.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Boniface"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-boniface/"
+
+[[saints]]
+id = "norbert-of-xanten"
+name = "Saint Norbert of Xanten"
+aliases = ["Norbert", "Norbert of Magdeburg", "Norbert of Prémontré"]
+years = "c. 1080–1134"
+vocation = "Archbishop and founder of the Premonstratensians"
+place = "Prémontré, France, and Magdeburg, Germany"
+summary = "The founder of the Norbertines, whose common life joined prayer to service in local churches."
+biography = [
+  "Norbert established a community at Prémontré in the twelfth century. Its members came to be known as Premonstratensians or Norbertines. Their life combined common prayer and devotion to the Eucharist with preaching and parish ministry.",
+  "As archbishop of Magdeburg, Norbert brought his experience of reform and pastoral work to a region where Christian communities were still developing. He remained in that office until his death.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Norbert"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-norbert/"
+
+[[saints]]
+id = "romuald"
+name = "Saint Romuald"
+aliases = ["Romuald of Ravenna", "Romuald of Camaldoli"]
+years = "c. 950–1027"
+vocation = "Benedictine monk and monastic founder"
+place = "Ravenna and Camaldoli, Italy"
+summary = "A monk whose foundations helped shape the Camaldolese tradition of communal and solitary prayer."
+biography = [
+  "Romuald entered monastic life near Ravenna and spent much of his later life establishing or renewing communities across Italy. He encouraged periods of solitude and prayer within a disciplined monastic life.",
+  "Camaldoli in Tuscany became the best-known of his foundations. The Camaldolese tradition that took root there combined the shared life of a Benedictine monastery with the contemplative practice of a hermitage.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Romuald"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-romuald/"
+
+[[saints]]
+id = "aloysius-gonzaga"
+name = "Saint Aloysius Gonzaga"
+aliases = ["Luigi Gonzaga", "Aloysius of Gonzaga"]
+years = "1568–1591"
+vocation = "Jesuit religious"
+place = "Castiglione delle Stiviere and Rome, Italy"
+summary = "A young Jesuit who gave up his inheritance and cared for patients during an epidemic in Rome."
+biography = [
+  "Aloysius grew up in an Italian noble family with a military career expected of him. He gave up his rights as heir and entered the Society of Jesus, where he studied and prepared for priesthood.",
+  "When an epidemic struck Rome in 1591, he helped care for patients in a hospital the Jesuits had opened. He fell ill and died that June at the age of twenty-three.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Aloysius Gonzaga"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-aloysius-gonzaga/"
+
+[[saints]]
+id = "paulinus-of-nola"
+name = "Saint Paulinus of Nola"
+aliases = ["Paulinus of Bordeaux", "Paulinus, Bishop of Nola"]
+years = "c. 354–431"
+vocation = "Bishop, poet, and letter writer"
+place = "Bordeaux, Roman Gaul, and Nola, Italy"
+summary = "A Roman public official who embraced a life of prayer and charity and became bishop of Nola."
+biography = [
+  "Paulinus came from a wealthy family near Bordeaux and held office in the Roman Empire. He and his wife, Therasia, adopted a simpler life and gave away much of their property after the death of their infant son. He was ordained in Barcelona.",
+  "They settled in Nola, near the shrine of Saint Felix. Paulinus put his resources toward helping people in need, eventually became the city’s bishop, and left poems and letters that preserve his relationships with other Christians of his era.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Paulinus of Nola"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-paulinus-of-nola/"
+
+[[saints]]
+id = "anthony-mary-zaccaria"
+name = "Saint Anthony Mary Zaccaria"
+aliases = ["Antonio Maria Zaccaria", "Anthony Zaccaria"]
+years = "1502–1539"
+vocation = "Priest, physician, and founder"
+place = "Cremona and Milan, Italy"
+summary = "A physician who became a priest and helped found the Barnabites during the Catholic reform of Italy."
+biography = [
+  "Zaccaria studied medicine and returned to Cremona before entering the priesthood. In Milan he worked with other reformers who wanted to rebuild Christian practice through preaching, instruction, and works of service.",
+  "He helped establish the Clerics Regular of Saint Paul, later called the Barnabites, and supported sister and lay communities. He drew the groups together through a shared devotion to Saint Paul and a commitment to renewal in daily life.",
+]
+
+[[saints.sources]]
+title = "Barnabite Fathers — Life of Saint Anthony Mary Zaccaria"
+url = "https://www.barnabites.com/life/"
+
+[[saints]]
+id = "maria-goretti"
+name = "Saint Maria Goretti"
+aliases = ["Maria Goretti", "Mary Goretti"]
+years = "1890–1902"
+vocation = "Virgin and martyr"
+place = "Corinaldo and Nettuno, Italy"
+summary = "An eleven-year-old Italian girl remembered as a martyr and for the forgiveness she expressed before her death."
+biography = [
+  "Maria grew up in a family of farmworkers. After her father died, she helped care for her brothers and sisters while her mother worked. In July 1902 a man attacked and gravely wounded her when she resisted his attempt to sexually assault her.",
+  "As Maria lay dying in hospital, she said she forgave her attacker. Her mother was present when Pope Pius XII beatified her in 1947. Maria was canonized three years later.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Maria Goretti"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-maria-goretti/"
+
+[[saints]]
+id = "augustine-zhao-rong"
+name = "Saint Augustine Zhao Rong"
+aliases = ["Augustine Zhao", "Agostino Zhao Rong", "Zhao Rong"]
+years = "Died 1815"
+vocation = "Diocesan priest and martyr"
+place = "China"
+summary = "A former soldier who became a Chinese diocesan priest and died in custody during the Qing period."
+biography = [
+  "Augustine served as a soldier before becoming Christian. After his baptism he was ordained a diocesan priest and ministered in China. Authorities arrested him in a period of persecution, and he died in 1815.",
+  "Pope John Paul II canonized him in 2000 with 119 other martyrs who died in China over nearly three centuries. The group includes Chinese laypeople and clergy as well as missionaries from abroad.",
+]
+
+[[saints.sources]]
+title = "Holy See — Augustine Zhao Rong and 119 companions, martyrs in China"
+url = "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20001001_zhao-rong-compagni_en.html"
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Augustine Zhao Rong and Companions"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-augustine-zhao-rong-and-companions/"
+
+[[saints]]
+id = "henry-ii"
+name = "Saint Henry II"
+aliases = ["Henry II, Holy Roman Emperor", "Henry of Bavaria", "Heinrich II"]
+years = "c. 973–1024"
+vocation = "Holy Roman emperor"
+place = "Bavaria and the Holy Roman Empire"
+summary = "A ruler of the Holy Roman Empire who supported the reform and development of churches and monasteries."
+biography = [
+  "Henry ruled as German king and later Holy Roman emperor. His reign included disputes over territory and authority in both the German lands and Italy, as well as collaboration with Pope Benedict VIII.",
+  "Henry exercised the influence over episcopal appointments customary for rulers of his era. He used that authority to support reforms in dioceses and monasteries. The Church canonized him in 1146.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Henry"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-henry/"
+
+[[saints]]
+id = "apollinaris-of-ravenna"
+name = "Saint Apollinaris of Ravenna"
+aliases = ["Apollinaris", "Apollinaris of Classe", "Apollinare"]
+years = "Early Christian era, dates uncertain"
+vocation = "Bishop and martyr"
+place = "Ravenna and Classe, Italy"
+summary = "An early bishop honored as a martyr and traditionally remembered as Ravenna’s first bishop."
+biography = [
+  "Later tradition says that Saint Peter sent Apollinaris to Ravenna, where his preaching met resistance. The early evidence is too limited to establish when he lived or to confirm the details of the story.",
+  "Ravenna’s Christian community kept his memory. A sixth-century basilica in Classe, near Ravenna, was dedicated in his honor and remains a witness to the importance of his veneration.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Apollinaris"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-apollinaris/"
+
+[[saints]]
+id = "sharbel-makhluf"
+name = "Saint Sharbel Makhluf"
+aliases = ["Charbel Makhlouf", "Sharbel Makhlūf", "Youssef Antoun Makhlouf"]
+years = "1828–1898"
+vocation = "Maronite priest, monk, and hermit"
+place = "Bekaa Kafra and Annaya, Lebanon"
+summary = "A Lebanese Maronite monk who spent his later years in prayer and solitude at the hermitage in Annaya."
+biography = [
+  "Born Youssef Makhlouf in a mountain village in Lebanon, he entered the Lebanese Maronite Order and took the name Charbel. He was ordained a priest and lived in the community of Saint Maron’s monastery at Annaya.",
+  "He later moved to a nearby hermitage, where he lived under a demanding routine of prayer and work. His grave at Annaya became a place of pilgrimage. Pope Paul VI canonized him in 1977.",
+]
+
+[[saints.sources]]
+title = "Vatican News — Saint Charbel Makhlouf and the monastery at Annaya"
+url = "https://www.vaticannews.va/en/church/news/2025-11/pope-leo-xiv-lebanon-saint-charbel-monastery-annaya.html"
+
+[[saints]]
+id = "peter-chrysologus"
+name = "Saint Peter Chrysologus"
+aliases = ["Peter of Ravenna", "Peter of Imola", "Peter of the Golden Words"]
+years = "Died c. 450"
+vocation = "Bishop and Doctor of the Church"
+place = "Imola and Ravenna, Italy"
+summary = "A bishop of Ravenna known for the short sermons that earned him the name Chrysologus."
+biography = [
+  "Peter came from Imola and became bishop of Ravenna when it served as the capital of the western Roman Empire. He taught his congregation through short sermons grounded in Scripture and the practice of Christian life.",
+  "Many of those sermons survive and provide a view of fifth-century Ravenna. His name Chrysologus means golden-worded. Centuries later Pope Benedict XIII declared him a Doctor of the Church.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Peter Chrysologus"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-peter-chrysologus/"
+
+[[saints]]
+id = "eusebius-of-vercelli"
+name = "Saint Eusebius of Vercelli"
+aliases = ["Eusebius, Bishop of Vercelli", "Eusebio di Vercelli"]
+years = "c. 300–371"
+vocation = "Bishop"
+place = "Sardinia and Vercelli, Italy"
+summary = "A fourth-century bishop who lived in community with his clergy and defended the Nicene faith in exile."
+biography = [
+  "Born in Sardinia, Eusebius served in the Roman clergy before becoming bishop of Vercelli. He organized a common life for his diocesan clergy in which prayer and pastoral work supported each other.",
+  "At the Council of Milan he refused to condemn Athanasius, a fellow defender of the Nicene Creed. Emperor Constantius II sent him into exile. Eusebius was eventually allowed to return to Vercelli, where he died in 371.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Eusebius of Vercelli"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-eusebius-of-vercelli/"
+
+[[saints]]
+id = "peter-julian-eymard"
+name = "Saint Peter Julian Eymard"
+aliases = ["Pierre-Julien Eymard", "Peter-Julian Eymard"]
+years = "1811–1868"
+vocation = "Priest and founder of Eucharistic congregations"
+place = "La Mure and Paris, France"
+summary = "A French priest who founded communities devoted to prayer before the Eucharist and its place in ordinary Christian life."
+biography = [
+  "Ordained for the Diocese of Grenoble, Peter Julian later joined the Marists and preached in parishes. He became convinced that a religious community could help more people deepen their participation in the Eucharist.",
+  "In 1856 he founded the Congregation of the Blessed Sacrament, whose members combined Eucharistic prayer and pastoral work. He and Marguerite Guillot also founded the Servants of the Blessed Sacrament.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Peter Julian Eymard"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-peter-julian-eymard/"
+
+[[saints]]
+id = "john-vianney"
+name = "Saint John Vianney"
+aliases = ["Jean-Marie Vianney", "Curé of Ars", "Curé d’Ars"]
+years = "1786–1859"
+vocation = "Parish priest and confessor"
+place = "Dardilly and Ars-sur-Formans, France"
+summary = "The parish priest of Ars, whose ministry in the confessional drew visitors from across France."
+biography = [
+  "John grew up near Lyon during the upheaval of the French Revolution. Limited schooling made his studies for the priesthood difficult, but he continued with private help and was ordained.",
+  "At Ars he spent much of his time hearing confessions and guiding people who traveled to the village to consult him. He also helped establish a home for girls. The Church honors him as a patron of parish priests.",
+]
+patronage = ["Patron of parish priests"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John Vianney"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-vianney/"
+
+[[saints]]
+id = "sixtus-ii"
+name = "Saint Sixtus II"
+aliases = ["Pope Sixtus II", "Xystus II", "Sixtus II of Rome"]
+years = "Died 258"
+vocation = "Pope and martyr"
+place = "Rome, Italy"
+summary = "A bishop of Rome executed with several deacons under Emperor Valerian."
+biography = [
+  "Sixtus succeeded Pope Stephen I in 257. During his brief pontificate he eased a dispute between Rome and churches elsewhere over whether converts received from certain Christian groups should be baptized again.",
+  "Imperial orders against Christians soon placed the Roman Church under renewed pressure. Sixtus was seized with several deacons at a cemetery along the Appian Way in 258. He was executed and buried in the nearby cemetery of Callixtus.",
+]
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Sixtus II"
+url = "https://www.britannica.com/biography/Saint-Sixtus-II"
+
+[[saints]]
+id = "cajetan"
+name = "Saint Cajetan"
+aliases = ["Gaetano da Thiene", "Cajetan of Thiene"]
+years = "1480–1547"
+vocation = "Priest and co-founder of the Theatines"
+place = "Vicenza, Rome, and Naples, Italy"
+summary = "An Italian priest who helped found the Theatines and supported charitable work in Naples."
+biography = [
+  "Cajetan trained in law before seeking ordination. With Gian Pietro Carafa and other priests he established the Theatines, a community that sought to renew the clergy through a common life of prayer and pastoral service.",
+  "He also promoted practical help for people in need. In Naples he founded a charitable lending fund that offered small loans on pledged goods.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Cajetan"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-cajetan/"
+
+[[saints]]
+id = "pontian"
+name = "Saint Pontian"
+aliases = ["Pope Pontian", "Pontianus", "Pontian of Rome"]
+years = "Died c. 236"
+vocation = "Pope and martyr"
+place = "Rome and Sardinia, Italy"
+summary = "A bishop of Rome who resigned after being exiled to Sardinia during a persecution."
+biography = [
+  "Pontian led the Church of Rome from 230. When persecution intensified under Emperor Maximinus in 235, the authorities sent him to Sardinia along with Hippolytus, who had led a rival Roman community.",
+  "Pontian resigned in exile, allowing the Roman Church to choose a successor. Accounts remember him and Hippolytus reconciling before their deaths. The Church commemorates them together as martyrs.",
+]
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Pontian"
+url = "https://www.britannica.com/biography/Saint-Pontian"
+
+[[saints]]
+id = "hippolytus-of-rome"
+name = "Saint Hippolytus of Rome"
+aliases = ["Hippolytus", "Hippolytus the Priest", "Hippolytus of Sardinia"]
+years = "c. 170–c. 235"
+vocation = "Priest, theologian, and martyr"
+place = "Rome and Sardinia, Italy"
+summary = "An early Roman theologian remembered for reconciling with Pope Pontian before their deaths in exile."
+biography = [
+  "Hippolytus was an influential teacher in the Church of Rome and sided with those who favored a stricter approach to admitting penitents back into the community. He came to lead a rival group in opposition to successive bishops of Rome.",
+  "In 235 the emperor exiled him to Sardinia, where Pope Pontian was also sent. An early tradition remembers the two men reconciling in exile. They are honored together in the Catholic calendar.",
+]
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Hippolytus of Rome"
+url = "https://www.britannica.com/biography/Saint-Hippolytus-of-Rome"
+
+[[saints]]
+id = "stephen-of-hungary"
+name = "Saint Stephen of Hungary"
+aliases = ["Stephen I of Hungary", "King Saint Stephen", "Szent István", "Vajk"]
+years = "c. 975–1038"
+vocation = "King"
+place = "Kingdom of Hungary"
+summary = "An early king of Hungary who established dioceses and supported the growth of Latin Christianity in his kingdom."
+biography = [
+  "Stephen received a royal crown around the turn of the eleventh century. He worked to consolidate his rule, resisted challenges from rival nobles, and established dioceses and other Christian institutions.",
+  "The death of his son Emeric left the question of succession unsettled. Stephen died in 1038 and was canonized with Emeric in 1083.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Stephen of Hungary"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-stephen-of-hungary/"
+
+[[saints]]
+id = "john-eudes"
+name = "Saint John Eudes"
+aliases = ["Jean Eudes", "John Eudes of Normandy"]
+years = "1601–1680"
+vocation = "Priest, missionary, and founder"
+place = "Normandy, France"
+summary = "A French parish missionary who founded a congregation dedicated to the formation of priests."
+biography = [
+  "John entered the Oratory of Jesus in France and served the sick during outbreaks of plague. He later preached parish missions throughout his region and became deeply concerned about how priests were prepared for their work.",
+  "He founded the Congregation of Jesus and Mary, known as the Eudists, to conduct seminaries. He also helped open a refuge for women in need and promoted devotion to the hearts of Jesus and Mary.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John Eudes"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-eudes/"
+
+[[saints]]
+id = "rose-of-lima"
+name = "Saint Rose of Lima"
+aliases = ["Rosa de Lima", "Isabel Flores de Oliva"]
+years = "1586–1617"
+vocation = "Lay Dominican"
+place = "Lima, Peru"
+summary = "A lay Dominican who cared for people in need at her family home in Lima."
+biography = [
+  "Rose grew up in colonial Lima and took Catherine of Siena as a model for her life of prayer. She remained in her family home, contributed to its upkeep through work, and joined the Dominican Third Order.",
+  "In her later years she set aside room at home to care for sick people, older people, and children who had nowhere else to go. She became the first person born in the Americas to be canonized.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Rose of Lima"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-rose-of-lima/"
+
+[[saints]]
+id = "joseph-calasanz"
+name = "Saint Joseph Calasanz"
+aliases = ["Joseph of Calasanz", "José de Calasanz", "Giuseppe Calasanzio"]
+years = "c. 1556–1648"
+vocation = "Priest, educator, and founder of the Piarists"
+place = "Aragon, Spain, and Rome, Italy"
+summary = "A Spanish priest who opened a free school in Rome and founded a teaching order called the Piarists."
+biography = [
+  "Joseph trained for the priesthood in Spain and later moved to Rome. Seeing how few children from poor families received an education, he and several companions opened a free school.",
+  "Their work grew into the Piarists, a religious community whose members taught in the schools. The community came under investigation and was suppressed during his lifetime. It was reestablished after his death.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Joseph Calasanz"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-joseph-calasanz/"

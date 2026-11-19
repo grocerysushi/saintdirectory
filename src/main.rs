@@ -323,9 +323,9 @@ mod tests {
     use tower::ServiceExt;
 
     #[test]
-    fn directory_has_150_sourced_profiles() {
+    fn directory_has_239_sourced_profiles() {
         let catalog = Catalog::load().unwrap();
-        assert_eq!(catalog.saints.len(), 150);
+        assert_eq!(catalog.saints.len(), 239);
         assert!(catalog.saints.iter().all(|saint| !saint.sources.is_empty()));
     }
 
@@ -335,6 +335,10 @@ mod tests {
         assert_eq!(catalog.search("St. Therese")[0].id, "therese-of-lisieux");
         assert_eq!(catalog.search("Mother Teresa")[0].id, "teresa-of-calcutta");
         assert_eq!(catalog.search("Đũng Lạc")[0].id, "andrew-dung-lac");
+        assert_eq!(
+            catalog.search("Vietnamese Martyrs")[0].id,
+            "vietnamese-martyrs"
+        );
         assert_eq!(
             catalog.search("Benoit Joseph Labre")[0].id,
             "benedict-joseph-labre"
@@ -347,6 +351,46 @@ mod tests {
             .collect();
         assert!(ids.contains(&"anthony-of-padua"));
         assert!(ids.contains(&"anthony-the-great"));
+    }
+
+    #[test]
+    fn both_calendars_link_named_saints_and_commemorated_groups() {
+        let catalog = Catalog::load().unwrap();
+        const COLLECTIVE_TITLES: &[&str] = &[
+            "The Seven Holy Founders of the Servite Order",
+            "The First Martyrs of the Holy Roman Church",
+            "The Holy Innocents, Martyrs",
+        ];
+
+        for calendar in catalog.calendars.values() {
+            for day in &calendar.days {
+                for entry in &day.observances {
+                    if entry.title.starts_with("Saint ")
+                        || entry.title.starts_with("Saints ")
+                        || COLLECTIVE_TITLES.contains(&entry.title.as_str())
+                    {
+                        assert!(!entry.saints.is_empty(), "{}: {}", day.date, entry.title);
+                    }
+                }
+            }
+
+            let feast = |month, day| {
+                calendar
+                    .day(NaiveDate::from_ymd_opt(calendar.year, month, day).unwrap())
+                    .unwrap()
+            };
+            let archangels = &feast(9, 29).observances[0];
+            assert_eq!(
+                archangels.saints,
+                [
+                    "michael-the-archangel",
+                    "gabriel-the-archangel",
+                    "raphael-the-archangel"
+                ]
+            );
+            let vietnam = &feast(11, 24).observances[0];
+            assert_eq!(vietnam.saints, ["andrew-dung-lac", "vietnamese-martyrs"]);
+        }
     }
 
     #[test]
@@ -439,9 +483,9 @@ mod tests {
         let app = app(Arc::new(Catalog::load().unwrap()));
         let (status, home) = request(&app, "/").await;
         assert_eq!(status, StatusCode::OK);
-        assert!(home.contains("150 sourced profiles"));
+        assert!(home.contains("239 sourced profiles"));
         assert!(home.contains("action=\"/search\""));
-        assert_eq!(home.matches("class=\"saint-card\"").count(), 150);
+        assert_eq!(home.matches("class=\"saint-card\"").count(), 239);
         assert!(home.contains("href=\"/today\""));
 
         let (status, results) = request(&app, "/search?q=St.+Therese").await;
@@ -467,7 +511,13 @@ mod tests {
             assert_eq!(calendar.matches("class=\"calendar-day\"").count(), 365);
             assert!(calendar.contains(&format!("id=\"day-{year}-12-31\"")));
             assert!(calendar.contains(&format!("{year}cal.pdf")));
+            assert!(calendar.contains("/saints/andre-bessette"));
+            assert!(calendar.contains("/saints/seven-holy-founders-of-the-servite-order"));
         }
+        let (status, new_profile) = request(&app, "/saints/andre-bessette").await;
+        assert_eq!(status, StatusCode::OK);
+        assert!(new_profile.contains("/calendar/2026#day-2026-01-06"));
+        assert!(new_profile.contains("/calendar/2027#day-2027-01-06"));
         assert_eq!(
             request(&app, "/calendar/2028").await.0,
             StatusCode::NOT_FOUND

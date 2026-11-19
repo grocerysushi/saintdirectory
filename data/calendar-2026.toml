@@ -57,6 +57,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint André Bessette, Religious"
 rank = "Optional memorial"
+saints = ["andre-bessette"]
 optional = true
 
 [[days]]
@@ -69,6 +70,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Raymond of Penyafort, Priest"
 rank = "Optional memorial"
+saints = ["raymond-of-penyafort"]
 optional = true
 
 [[days]]
@@ -116,6 +118,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Hilary, Bishop and Doctor of the Church"
 rank = "Optional memorial"
+saints = ["hilary-of-poitiers"]
 optional = true
 
 [[days]]
@@ -247,6 +250,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Angela Merici, Virgin"
 rank = "Optional memorial"
+saints = ["angela-merici"]
 optional = true
 
 [[days]]
@@ -309,6 +313,7 @@ optional = true
 [[days.observances]]
 title = "Saint Ansgar, Bishop"
 rank = "Optional memorial"
+saints = ["ansgar"]
 optional = true
 
 [[days]]
@@ -332,7 +337,7 @@ date = "2026-02-06"
 [[days.observances]]
 title = "Saint Paul Miki and Companions, Martyrs"
 rank = "Memorial"
-saints = ["paul-miki"]
+saints = ["paul-miki", "paul-miki-and-companions"]
 
 [[days]]
 date = "2026-02-07"
@@ -402,6 +407,7 @@ date = "2026-02-14"
 [[days.observances]]
 title = "Saints Cyril, Monk, and Methodius, Bishop"
 rank = "Memorial"
+saints = ["cyril-the-philosopher", "methodius"]
 
 [[days]]
 date = "2026-02-15"
@@ -427,6 +433,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "The Seven Holy Founders of the Servite Order"
 rank = "Optional memorial"
+saints = ["seven-holy-founders-of-the-servite-order"]
 optional = true
 
 [[days]]
@@ -561,6 +568,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Casimir"
 rank = "Optional memorial"
+saints = ["casimir"]
 optional = true
 
 [[days]]
@@ -669,6 +677,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Patrick, Bishop"
 rank = "Optional memorial"
+saints = ["patrick"]
 optional = true
 
 [[days]]
@@ -723,6 +732,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Turibius of Mogrovejo, Bishop"
 rank = "Optional memorial"
+saints = ["turibius-of-mogrovejo"]
 optional = true
 
 [[days]]
@@ -738,6 +748,7 @@ date = "2026-03-25"
 [[days.observances]]
 title = "The Annunciation of the Lord"
 rank = "Solemnity"
+saints = ["mary-mother-of-jesus"]
 
 [[days]]
 date = "2026-03-26"
@@ -875,6 +886,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Martin I, Pope and Martyr"
 rank = "Optional memorial"
+saints = ["martin-i"]
 optional = true
 
 [[days]]
@@ -962,6 +974,7 @@ optional = true
 [[days.observances]]
 title = "Saint Adalbert, Bishop and Martyr"
 rank = "Optional memorial"
+saints = ["adalbert-of-prague"]
 optional = true
 
 [[days]]
@@ -1036,6 +1049,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Pius V, Pope"
 rank = "Optional memorial"
+saints = ["pius-v"]
 optional = true
 
 [[days]]
@@ -1132,11 +1146,13 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saints Nereus and Achilleus, Martyrs"
 rank = "Optional memorial"
+saints = ["nereus", "achilleus"]
 optional = true
 
 [[days.observances]]
 title = "Saint Pancras, Martyr"
 rank = "Optional memorial"
+saints = ["pancras-of-rome"]
 optional = true
 
 [[days]]
@@ -1176,6 +1192,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Isidore"
 rank = "Optional memorial"
+saints = ["isidore-the-farmer"]
 optional = true
 
 [[days]]
@@ -1208,6 +1225,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint John I, Pope and Martyr"
 rank = "Optional memorial"
+saints = ["john-i"]
 optional = true
 
 [[days]]
@@ -1227,6 +1245,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Bernardine of Siena, Priest"
 rank = "Optional memorial"
+saints = ["bernardine-of-siena"]
 optional = true
 
 [[days]]
@@ -1239,6 +1258,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Christopher Magallanes, Priest, and Companions, Martyrs"
 rank = "Optional memorial"
+saints = ["christopher-magallanes", "christopher-magallanes-and-companions"]
 optional = true
 
 [[days]]
@@ -1294,6 +1314,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Augustine of Canterbury, Bishop"
 rank = "Optional memorial"
+saints = ["augustine-of-canterbury"]
 optional = true
 
 [[days]]
@@ -1354,6 +1375,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saints Marcellinus and Peter, Martyrs"
 rank = "Optional memorial"
+saints = ["marcellinus-of-rome", "peter-the-exorcist"]
 optional = true
 
 [[days]]
@@ -1362,7 +1384,7 @@ date = "2026-06-03"
 [[days.observances]]
 title = "Saint Charles Lwanga and Companions, Martyrs"
 rank = "Memorial"
-saints = ["charles-lwanga"]
+saints = ["charles-lwanga", "charles-lwanga-and-companions"]
 
 [[days]]
 date = "2026-06-04"
@@ -1377,6 +1399,7 @@ date = "2026-06-05"
 [[days.observances]]
 title = "Saint Boniface, Bishop and Martyr"
 rank = "Memorial"
+saints = ["boniface"]
 
 [[days]]
 date = "2026-06-06"
@@ -1388,6 +1411,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Norbert, Bishop"
 rank = "Optional memorial"
+saints = ["norbert-of-xanten"]
 optional = true
 
 [[days.observances]]
@@ -1516,6 +1540,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Romuald, Abbot"
 rank = "Optional memorial"
+saints = ["romuald"]
 optional = true
 
 [[days]]
@@ -1548,6 +1573,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Paulinus of Nola, Bishop"
 rank = "Optional memorial"
+saints = ["paulinus-of-nola"]
 optional = true
 
 [[days.observances]]
@@ -1629,6 +1655,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "The First Martyrs of the Holy Roman Church"
 rank = "Optional memorial"
+saints = ["first-martyrs-of-the-church-of-rome"]
 optional = true
 
 [[days]]
@@ -1694,6 +1721,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Maria Goretti, Virgin and Martyr"
 rank = "Optional memorial"
+saints = ["maria-goretti"]
 optional = true
 
 [[days]]
@@ -1720,6 +1748,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Augustine Zhao Rong, Priest, and Companions, Martyrs"
 rank = "Optional memorial"
+saints = ["augustine-zhao-rong", "augustine-zhao-rong-and-companions"]
 optional = true
 
 [[days]]
@@ -1754,6 +1783,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Henry"
 rank = "Optional memorial"
+saints = ["henry-ii"]
 optional = true
 
 [[days]]
@@ -1828,6 +1858,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Apollinaris, Bishop and Martyr"
 rank = "Optional memorial"
+saints = ["apollinaris-of-ravenna"]
 optional = true
 
 [[days]]
@@ -1874,6 +1905,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Sharbel Makhlūf, Priest"
 rank = "Optional memorial"
+saints = ["sharbel-makhluf"]
 optional = true
 
 [[days]]
@@ -1923,6 +1955,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Peter Chrysologus, Bishop and Doctor of the Church"
 rank = "Optional memorial"
+saints = ["peter-chrysologus"]
 optional = true
 
 [[days]]
@@ -1961,6 +1994,7 @@ date = "2026-08-04"
 [[days.observances]]
 title = "Saint John Vianney, Priest"
 rank = "Memorial"
+saints = ["john-vianney"]
 
 [[days]]
 date = "2026-08-05"
@@ -1992,11 +2026,13 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Sixtus II, Pope, and Companions, Martyrs"
 rank = "Optional memorial"
+saints = ["sixtus-ii", "sixtus-ii-and-companions"]
 optional = true
 
 [[days.observances]]
 title = "Saint Cajetan, Priest"
 rank = "Optional memorial"
+saints = ["cajetan"]
 optional = true
 
 [[days]]
@@ -2053,6 +2089,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saints Pontian, Pope, and Hippolytus, Priest, Martyrs"
 rank = "Optional memorial"
+saints = ["pontian", "hippolytus-of-rome"]
 optional = true
 
 [[days]]
@@ -2102,6 +2139,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint John Eudes, Priest"
 rank = "Optional memorial"
+saints = ["john-eudes"]
 optional = true
 
 [[days]]
@@ -2159,6 +2197,7 @@ optional = true
 [[days.observances]]
 title = "Saint Joseph Calasanz, Priest"
 rank = "Optional memorial"
+saints = ["joseph-calasanz"]
 optional = true
 
 [[days]]
@@ -2345,6 +2384,7 @@ date = "2026-09-16"
 [[days.observances]]
 title = "Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs"
 rank = "Memorial"
+saints = ["cornelius", "cyprian-of-carthage"]
 
 [[days]]
 date = "2026-09-17"
@@ -2382,6 +2422,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Januarius, Bishop and Martyr"
 rank = "Optional memorial"
+saints = ["januarius"]
 optional = true
 
 [[days.observances]]
@@ -2418,6 +2459,7 @@ date = "2026-09-23"
 [[days.observances]]
 title = "Saint Pius of Pietrelcina, Priest"
 rank = "Memorial"
+saints = ["pius-of-pietrelcina"]
 
 [[days]]
 date = "2026-09-24"
@@ -2443,6 +2485,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saints Cosmas and Damian, Martyrs"
 rank = "Optional memorial"
+saints = ["cosmas", "damian"]
 optional = true
 
 [[days.observances]]
@@ -2474,6 +2517,7 @@ optional = true
 [[days.observances]]
 title = "Saint Lawrence Ruiz and Companions, Martyrs"
 rank = "Optional memorial"
+saints = ["lawrence-ruiz", "lawrence-ruiz-and-companions"]
 optional = true
 
 [[days]]
@@ -2482,6 +2526,7 @@ date = "2026-09-29"
 [[days.observances]]
 title = "Saints Michael, Gabriel and Raphael, Archangels"
 rank = "Feast"
+saints = ["michael-the-archangel", "gabriel-the-archangel", "raphael-the-archangel"]
 
 [[days]]
 date = "2026-09-30"
@@ -2536,6 +2581,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Faustina Kowalska, Virgin"
 rank = "Optional memorial"
+saints = ["faustina-kowalska"]
 optional = true
 
 [[days.observances]]
@@ -2553,6 +2599,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Bruno, Priest"
 rank = "Optional memorial"
+saints = ["bruno"]
 optional = true
 
 [[days.observances]]
@@ -2585,11 +2632,13 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Denis, Bishop, and Companions, Martyrs"
 rank = "Optional memorial"
+saints = ["denis-of-paris", "denis-and-companions"]
 optional = true
 
 [[days.observances]]
 title = "Saint John Leonardi, Priest"
 rank = "Optional memorial"
+saints = ["john-leonardi"]
 optional = true
 
 [[days.observances]]
@@ -2642,6 +2691,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Callistus I, Pope and Martyr"
 rank = "Optional memorial"
+saints = ["callistus-i"]
 optional = true
 
 [[days]]
@@ -2662,6 +2712,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Hedwig, Religious"
 rank = "Optional memorial"
+saints = ["hedwig-of-silesia"]
 optional = true
 
 [[days.observances]]
@@ -2691,7 +2742,7 @@ date = "2026-10-19"
 [[days.observances]]
 title = "Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs"
 rank = "Memorial"
-saints = ["jean-de-brebeuf", "isaac-jogues"]
+saints = ["jean-de-brebeuf", "isaac-jogues", "north-american-martyrs"]
 
 [[days]]
 date = "2026-10-20"
@@ -2703,6 +2754,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Paul of the Cross, Priest"
 rank = "Optional memorial"
+saints = ["paul-of-the-cross"]
 optional = true
 
 [[days]]
@@ -2735,6 +2787,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint John of Capistrano, Priest"
 rank = "Optional memorial"
+saints = ["john-of-capistrano"]
 optional = true
 
 [[days]]
@@ -2747,6 +2800,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Anthony Mary Claret, Bishop"
 rank = "Optional memorial"
+saints = ["anthony-mary-claret"]
 optional = true
 
 [[days.observances]]
@@ -3044,7 +3098,7 @@ date = "2026-11-24"
 [[days.observances]]
 title = "Saint Andrew Dũng-Lạc, Priest, and Companions, Martyrs"
 rank = "Memorial"
-saints = ["andrew-dung-lac"]
+saints = ["andrew-dung-lac", "vietnamese-martyrs"]
 
 [[days]]
 date = "2026-11-25"
@@ -3138,6 +3192,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint John Damascene, Priest and Doctor of the Church"
 rank = "Optional memorial"
+saints = ["john-damascene"]
 optional = true
 
 [[days]]
@@ -3206,6 +3261,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Damasus I, Pope"
 rank = "Optional memorial"
+saints = ["damasus-i"]
 optional = true
 
 [[days]]
@@ -3303,6 +3359,7 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint John of Kanty, Priest"
 rank = "Optional memorial"
+saints = ["john-of-kanty"]
 optional = true
 
 [[days]]
@@ -3341,6 +3398,7 @@ date = "2026-12-28"
 [[days.observances]]
 title = "The Holy Innocents, Martyrs"
 rank = "Feast"
+saints = ["holy-innocents"]
 
 [[days]]
 date = "2026-12-29"
@@ -3372,4 +3430,5 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Sylvester I, Pope"
 rank = "Optional memorial"
+saints = ["sylvester-i"]
 optional = true

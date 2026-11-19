@@ -1,6 +1,6 @@
 # Catholic Saint Directory
 
-A server-rendered Rust directory with 150 cited saint profiles, name and keyword search, and the 2026 and 2027 U.S. Roman Rite calendars. Search matches alternate names, accent-insensitive spellings, places, vocations, patronage, and biographical text.
+A server-rendered Rust directory with 239 sourced profiles, name and keyword search, and the 2026 and 2027 U.S. Roman Rite calendars. The calendars link to individual saints, named archangels, and commemorated groups of martyrs and founders. Search matches alternate names, accent-insensitive spellings, places, vocations, patronage, and profile text.
 
 ## Run locally
 
