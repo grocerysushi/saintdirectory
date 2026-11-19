@@ -7,8 +7,10 @@ vocation = "Pope and martyr"
 place = "Rome and Centumcellae, Italy"
 summary = "A bishop of Rome who defended the reconciliation of Christians who had abandoned the faith under persecution."
 biography = [
-  "Cornelius was elected bishop of Rome in 251, after a persecution had left Roman Christians divided over how to readmit those who had renounced their faith. Supported by Cyprian of Carthage, he held that the Church could restore them to communion after penance. Novatian organized a rival church that took a stricter position.",
-  "Cornelius was exiled to Centumcellae, now Civitavecchia, under Emperor Trebonianus Gallus and died there in 253. His feast is shared with Cyprian, whose surviving letters help document the controversy.",
+  "Cornelius was elected bishop of Rome in 251 after the death of Fabian and a long vacancy during persecution. By the time the Roman Church could elect a successor, it faced practical questions about the many Christians who had yielded to pressure to sacrifice to the Roman gods or had obtained documents attesting to compliance.",
+  "Cornelius held that people who had renounced their faith could return to communion after suitable penance. A Roman priest named Novatian was consecrated as a rival bishop and rejected that policy. Cyprian of Carthage supported Cornelius. Their correspondence shows communities in Rome and North Africa wrestling with similar questions about responsibility, restoration, and the treatment of Christians under pressure.",
+  "A surviving letter attributed to Cornelius gives a glimpse of the Roman Church during his episcopate. It describes priests, deacons, and other ministers as well as people receiving material support from the community. The letter is a reminder of how much organization was required to sustain a growing Church even as its leaders faced exile.",
+  "The emperor Trebonianus Gallus banished Cornelius to Centumcellae, now Civitavecchia. He died in exile in 253. The Roman Rite honors him as a martyr and commemorates him with Cyprian on September 16. Both names are also preserved in the Roman Canon.",
 ]
 
 [[saints.sources]]
@@ -24,13 +26,19 @@ vocation = "Bishop, Christian writer, and martyr"
 place = "Carthage, present-day Tunisia"
 summary = "A bishop whose letters and treatises record how the Church in Roman Africa responded to persecution and division."
 biography = [
-  "Cyprian entered the Christian community as an adult and became bishop of Carthage. After the persecution under Emperor Decius, he worked with Cornelius of Rome to readmit Christians who had denied their faith, with penance appropriate to their circumstances.",
-  "The Roman authorities sent Cyprian into exile during the persecution under Valerian. He was later recalled to Carthage and executed in 258. His writings include a treatise on the unity of the Church.",
+  "Cyprian was educated in Roman Africa and entered the Christian community as an adult. He became bishop of Carthage within a few years. His training in rhetoric is visible in the letters and treatises he wrote to address disagreements among Christians and the problems facing his diocese.",
+  "During the persecution under Decius, Cyprian withdrew from Carthage and continued directing the Church by letter. After the persecution, communities disputed how to receive Christians who had renounced their faith. Cyprian opposed an indiscriminate readmission and favored a path back through penance. He supported Cornelius of Rome against the rival bishop Novatian.",
+  "Cyprian later wrote On the Unity of the Catholic Church. His writings and letters also show him urging Christians to care for people during an epidemic, including neighbors who opposed them. In other disputes, such as the treatment of people baptized outside Catholic communion, he differed with Roman leaders. His correspondence preserves evidence of how bishops tried to act together despite disagreements.",
+  "Authorities sent Cyprian into exile during the persecution under Valerian, then returned him to Carthage for judgment. He was executed in 258. His writings continued to be read for what they reveal about the Christian life of Roman Africa. The Roman Rite remembers him with Cornelius on September 16.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Cyprian"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-cyprian"
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Cyprian"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070606.html"
 
 [[saints]]
 id = "januarius"
@@ -41,8 +49,9 @@ vocation = "Bishop and martyr"
 place = "Benevento, Pozzuoli, and Naples, Italy"
 summary = "A martyr traditionally identified as a bishop of Benevento and long venerated in Naples."
 biography = [
-  "Little is known securely about Januarius’s life. Tradition identifies him as a bishop of Benevento who was killed with fellow Christians near Pozzuoli during the Roman persecutions. Later accounts describe details of their trial and death.",
-  "His relics are venerated in Naples. Local devotion includes ceremonies centered on a substance traditionally identified as his blood, whose liquefaction has been reported on occasions during the year.",
+  "Januarius is traditionally identified as a bishop of Benevento who died in the Roman persecutions early in the fourth century. Devotion associates his martyrdom with Pozzuoli and honors several companions. The precise circumstances are not securely known. Stories of an arena and of his eventual execution belong to later accounts of the saint.",
+  "From the history of his veneration, a clearer picture emerges. His relics are honored in Naples, where he became known as San Gennaro and is invoked as a patron of the city. Naples Cathedral is a center of that devotion. Ceremonies there include the presentation of a sealed container holding a substance handed down as his blood.",
+  "Reports of liquefaction during some ceremonies are part of the local religious tradition. The devotion has a history quite apart from what can be established about the martyr himself. The Roman Rite commemorates Januarius on September 19, and observances in Naples have long connected his memory to the life of the city.",
 ]
 patronage = ["Venerated as a patron of Naples"]
 
@@ -59,8 +68,10 @@ vocation = "Priest and martyr"
 place = "Joseon Korea, Macao, and Shanghai"
 summary = "The first Korean Catholic priest served his country’s clandestine Catholic community and was executed in 1846."
 biography = [
-  "Andrew came from a Korean Catholic family. He studied for the priesthood in Macao and was ordained in Shanghai in 1845, becoming the first Korean Catholic priest.",
-  "He returned to Korea and helped find routes by which missionaries could enter the country. The authorities arrested him and executed him the following year. The Catholic Church canonized him and 102 other Korean martyrs in 1984.",
+  "Andrew Kim Tae-gŏn grew up in a Korean Catholic family during the Joseon dynasty. Korean lay people had formed Christian communities before there were priests resident in the country. During Andrew’s childhood and youth, Catholics gathered under conditions in which identifying as a Christian could bring punishment. Members of his own family were among those killed.",
+  "Andrew left Korea to study for the priesthood in Macao. He traveled extensively before being ordained in Shanghai in 1845. His ordination made him the first Korean Catholic priest. He returned to a community that had relied for decades on lay leaders and on the occasional arrival of clergy from abroad.",
+  "He ministered in Korea and helped identify ways for missionaries to travel into the country. The authorities captured him in 1846, and he was imprisoned and executed that year. He had been a priest for about a year. Accounts of the period preserve his work alongside that of the lay women and men who sheltered clergy, maintained ties between communities, and taught the faith.",
+  "Pope John Paul II canonized Andrew and 102 other Korean martyrs in Seoul in 1984. The group spans several periods of persecution. Andrew and Paul Chŏng Ha-sang are named in the Roman Rite memorial on September 20 as two members of that larger community.",
 ]
 
 [[saints.sources]]
@@ -80,8 +91,10 @@ vocation = "Lay catechist and martyr"
 place = "Joseon Korea and Beijing, China"
 summary = "A Korean lay Catholic who helped sustain the local Church and petitioned for clergy to serve it."
 biography = [
-  "Paul grew up in a Catholic family during a period when the Korean Church depended heavily on lay leadership. He traveled to Beijing to seek help for Korean Catholics and worked to bring missionaries into the country.",
-  "When arrested during the persecution of 1839, he prepared a written defense of Catholic belief for the authorities. He was executed that year and was canonized with the other Korean martyrs in 1984.",
+  "Paul Chŏng Ha-sang was born into a Korean Catholic family during the Joseon dynasty. His father was killed during the persecution of 1801. Paul grew up at a time when the Catholic community in Korea had lost many leaders and relied on laypeople to maintain worship, religious instruction, and contact between households.",
+  "As an adult he made repeated journeys to Beijing. He used the opportunities offered by diplomatic travel to make contact with church leaders and seek help for Korean Catholics who had little access to clergy. His work contributed to the organization of the Catholic mission and to bringing priests into Korea.",
+  "During the persecution of 1839, Paul prepared a written defense addressed to the authorities. He explained Catholic teaching and appealed for an end to the persecution. The text is remembered as an early example of a Korean Catholic making the case for his community in writing. Paul was arrested and executed later that year, and other members of his family also died during the persecution.",
+  "The Catholic Church canonized Paul with the Korean martyrs in Seoul in 1984. The memorial that names him and Andrew Kim Tae-gŏn recognizes both the work of Korea’s first priest and the organizing and teaching done by lay Catholics before and alongside the clergy.",
 ]
 
 [[saints.sources]]
@@ -101,8 +114,10 @@ vocation = "Capuchin priest"
 place = "Pietrelcina and San Giovanni Rotondo, Italy"
 summary = "A Capuchin priest known for hearing confessions and for helping establish a hospital in San Giovanni Rotondo."
 biography = [
-  "Born Francesco Forgione, he entered the Capuchins as Brother Pio and was ordained in 1910. At San Giovanni Rotondo he spent much of his priesthood hearing confessions and giving spiritual counsel. Reports of wounds understood by devotees as stigmata drew attention to his ministry.",
-  "Pio promoted the construction of the Casa Sollievo della Sofferenza, a hospital that opened in 1956. He died in 1968, and Pope John Paul II canonized him in 2002.",
+  "Francesco Forgione was born in Pietrelcina in southern Italy and entered the Capuchin Franciscans as a young man. He took the name Pio and was ordained in 1910. Ill health affected his early assignments. He eventually settled in the friary at San Giovanni Rotondo, where he spent much of his priesthood.",
+  "Pio became known for saying Mass, hearing confessions for long periods, and offering spiritual direction. Reports of wounds understood by devotees as stigmata brought him public attention. Church authorities examined and at times restricted aspects of his ministry. Over the years, many visitors traveled to San Giovanni Rotondo to seek confession or counsel.",
+  "Pio helped organize support for a hospital, the Casa Sollievo della Sofferenza, which opened in 1956. It gave practical form to his concern for people who were sick. He also encouraged prayer groups associated with the work. Both the hospital and the groups continued beyond his lifetime.",
+  "He died in 1968. Pope John Paul II canonized him in 2002. In Italy and elsewhere he is widely known as Padre Pio, the name used by people who came to him as a priest. His ministry in confession and spiritual direction, and the hospital he helped establish, remain central to how the Catholic Church remembers him on September 23.",
 ]
 
 [[saints.sources]]
@@ -118,8 +133,9 @@ vocation = "Physician in Christian tradition and martyr"
 place = "Roman Syria, in traditions of his veneration"
 summary = "An early martyr remembered with Damian as a physician who treated the sick without charging them."
 biography = [
-  "Christian tradition remembers Cosmas and Damian as brothers who used their skill in medicine to help the sick freely. A center of their early cult was Cyrrhus in Roman Syria.",
-  "Their lives cannot be reconstructed in detail. Accounts of their execution belong to the tradition of their martyrdom, commonly set during the persecution under Diocletian. They are named together in the Roman Canon.",
+  "Cosmas and Damian were honored together as early Christian martyrs. Later traditions describe them as brothers who studied and practiced medicine in regions of the eastern Roman Empire. Some place their work in Cilicia and associate an important center of their cult with Syria. Little can be established independently about the life of Cosmas or the circumstances of his death.",
+  "The best-known account remembers them offering treatment without taking fees. That practice gave rise to the title often translated as the unmercenary healers. Their refusal of payment became a way Christian communities remembered care for people who could not otherwise afford it. Their reported execution is usually placed in the persecution under Diocletian.",
+  "Devotion to the pair spread among Christians in East and West. Rome gave a church their names, and both appear in the Roman Canon. Their long association with medicine explains why Cosmas is invoked with Damian as a patron of physicians. The Roman Rite commemorates them together on September 26.",
 ]
 patronage = ["Traditionally venerated as a patron of physicians"]
 
@@ -136,8 +152,9 @@ vocation = "Physician in Christian tradition and martyr"
 place = "Roman Syria, in traditions of his veneration"
 summary = "An early martyr whose cult with Cosmas became associated with medical care offered freely."
 biography = [
-  "Damian is remembered alongside Cosmas, whom tradition identifies as his brother. Christian devotion to the pair spread widely, and healing became central to the stories told at shrines bearing their names.",
-  "Independent historical details about Damian are scarce. The traditions share the memory of two martyrs and healers, and the Roman Canon preserves their names together.",
+  "Damian is recalled as a physician and martyr alongside Cosmas, whom tradition describes as his brother. The traditions give few details that distinguish Damian’s work from that of Cosmas. The memory of the pair was preserved chiefly through the stories of their shared service and death.",
+  "Later Christian accounts place their medical work in the eastern Roman Empire and remember them caring for people without requesting payment. Stories that attached to their shrines sometimes give dramatic accounts of healing and of the brothers’ resistance to persecution. These traditions reveal how communities understood their intercession, while the chronology and details of their lives remain uncertain.",
+  "Their names are preserved together in the Roman Canon, and they have long been honored as patrons of physicians. In the Roman Rite they are commemorated on September 26. The early martyrial devotion and the later stories of healing can be traced separately even though they became closely associated in worship and art.",
 ]
 patronage = ["Traditionally venerated as a patron of physicians"]
 
@@ -154,8 +171,10 @@ vocation = "Layman and martyr"
 place = "Manila, Philippines, and Nagasaki, Japan"
 summary = "A married lay Catholic from Manila who died with companions during the persecution of Christians in Japan."
 biography = [
-  "Lawrence was raised in Manila, where he worked as a church assistant, married, and had children. In 1636 he left the Philippines with Dominican missionaries who were traveling to Japan.",
-  "The group was arrested and taken to Nagasaki. Lawrence refused to renounce his faith and was killed in 1637. He became the first Filipino canonized by the Catholic Church in 1987.",
+  "Lawrence Ruiz grew up in Manila in a Christian family. His father was Chinese and his mother Filipino. He learned languages that were spoken in the city’s different communities and worked with the Dominicans as a church assistant and a skilled copyist. He married and had children before circumstances took him far from Manila.",
+  "Ruiz sailed with Dominican missionaries in 1636. Their journey brought them to Okinawa during a time when Japan’s rulers had placed severe restrictions on Christian practice. Existing Japanese communities and missionaries from abroad both faced arrest. Ruiz and his traveling companions were taken into custody and brought to Nagasaki.",
+  "Officials sought to have the prisoners renounce Christianity. Christian accounts remember Ruiz refusing, and he and several companions were executed in 1637. The group included people from different countries and religious communities. Their stories preserve the reach of Catholic activity across East and Southeast Asia as well as the violence used against it.",
+  "Pope John Paul II canonized Ruiz and fifteen fellow martyrs in 1987. Ruiz was the first Filipino to be canonized and is known in the Philippines as San Lorenzo Ruiz. His memorial in the Roman Rite falls on September 28. His life before the journey, as a married man and church worker in Manila, is part of the history of lay Catholic communities in the Philippines.",
 ]
 
 [[saints.sources]]
@@ -171,8 +190,10 @@ vocation = "Archangel"
 place = "Scriptural visions in Daniel and Revelation"
 summary = "An archangel portrayed in Scripture as a defender of God’s people and the leader of angels in battle against the dragon."
 biography = [
-  "In the Book of Daniel, Michael is named as a heavenly prince who stands with God’s people. The Letter of Jude calls him an archangel. Revelation depicts him and his angels fighting the dragon, which the passage identifies with the devil.",
-  "Catholic teaching describes angels as spiritual creatures who serve God. The Church honors Michael by name with Gabriel and Raphael and invokes Michael in prayers asking for protection in spiritual struggle.",
+  "Michael appears in biblical accounts of conflict and protection. In Daniel 10 he is named as one of the chief princes who comes to the aid of a heavenly messenger. Daniel 12 gives Michael a role in protecting God’s people in a time of distress. These visions identify his place in the story of God’s care for Israel.",
+  "The Letter of Jude calls Michael an archangel in a short account of a dispute over the body of Moses. Michael leaves judgment to the Lord. Revelation 12 presents a different scene. There Michael and his angels fight the dragon, identified in the passage with the ancient serpent and the devil, and the dragon is cast out of heaven.",
+  "The Catechism describes angels as spiritual creatures with intelligence and will who serve God. Scripture’s scenes involving Michael belong to that understanding of an angelic ministry. The named passages give readers different ways to approach that ministry, including guardianship in Daniel and conflict with evil in Revelation.",
+  "Christians have long invoked Michael for protection in spiritual struggle. Art often depicts him overcoming the dragon, drawing on Revelation. The Roman Rite honors Michael, Gabriel, and Raphael together on September 29. The feast gives a liturgical setting to images and prayers that developed over centuries.",
 ]
 
 [[saints.sources]]
@@ -187,6 +208,18 @@ url = "https://www.franciscanmedia.org/saint-of-the-day/saints-michael-gabriel-a
 title = "Catechism of the Catholic Church — Heaven and Earth, paragraphs 328–336"
 url = "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_5_heaven_and_earth.html"
 
+[[saints.sources]]
+title = "USCCB Bible — Daniel, chapter 10"
+url = "https://bible.usccb.org/bible/daniel/10"
+
+[[saints.sources]]
+title = "USCCB Bible — Daniel, chapter 12"
+url = "https://bible.usccb.org/bible/daniel/12"
+
+[[saints.sources]]
+title = "USCCB Bible — Letter of Jude"
+url = "https://bible.usccb.org/bible/jude/1"
+
 [[saints]]
 id = "gabriel-the-archangel"
 name = "Saint Gabriel the Archangel"
@@ -196,8 +229,10 @@ vocation = "Archangel and divine messenger"
 place = "Jerusalem and Nazareth in the Gospel of Luke"
 summary = "The messenger who announces the births of John the Baptist and Jesus in the Gospel of Luke."
 biography = [
-  "Luke identifies Gabriel by name in the account of Zechariah’s service at the Temple. Gabriel tells him that Elizabeth will bear a son and instructs him to name the child John.",
-  "In Luke’s account of the Annunciation, God sends Gabriel to Mary at Nazareth. Gabriel tells her that she will bear Jesus. Gabriel also appears as an interpreter of visions in the Book of Daniel.",
+  "Gabriel appears in the Book of Daniel as an interpreter. In Daniel 8 he is told to explain a vision involving a ram and a goat. In Daniel 9 he comes to Daniel during prayer and speaks about the meaning of a period described in the text as seventy weeks. In both chapters Gabriel helps a human listener understand a message that is difficult to grasp.",
+  "Luke’s Gospel names Gabriel in two scenes. While Zechariah is serving as a priest at the Temple, Gabriel announces that Elizabeth will bear a son. The child will be named John and prepare people for the Lord. Zechariah asks for grounds to believe the message and loses his ability to speak until the time of the birth.",
+  "Later in Luke 1, God sends Gabriel to Mary at Nazareth. Gabriel addresses her and announces that she will bear Jesus. His response to Mary’s question includes news about Elizabeth, connecting the two accounts. Mary gives her consent, and the Gospel proceeds to her visit to Elizabeth.",
+  "Catholics commemorate Gabriel with Michael and Raphael on September 29. Scenes of the Annunciation often show Gabriel facing Mary because the Gospel places their conversation at the center of the event. The accounts in Daniel and Luke preserve the different settings in which Scripture presents him as a messenger.",
 ]
 
 [[saints.sources]]
@@ -208,6 +243,14 @@ url = "https://bible.usccb.org/bible/luke/1"
 title = "Franciscan Media — Saints Michael, Gabriel, and Raphael"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saints-michael-gabriel-and-raphael"
 
+[[saints.sources]]
+title = "USCCB Bible — Daniel, chapter 8"
+url = "https://bible.usccb.org/bible/daniel/8"
+
+[[saints.sources]]
+title = "USCCB Bible — Daniel, chapter 9"
+url = "https://bible.usccb.org/bible/daniel/9"
+
 [[saints]]
 id = "raphael-the-archangel"
 name = "Saint Raphael the Archangel"
@@ -217,8 +260,10 @@ vocation = "Archangel and companion in the Book of Tobit"
 place = "Nineveh and Media in the Book of Tobit"
 summary = "An angel in the Book of Tobit who accompanies Tobiah and helps bring healing to Tobiah’s household."
 biography = [
-  "Raphael enters the story of Tobit under the name Azariah and agrees to travel with Tobiah. He guides Tobiah through dangers and tells him how to help restore his father’s sight.",
-  "At the end of the journey, Raphael reveals his identity as one of the angels who stand before God. The book connects his mission with the prayers of Tobit and Sarah. Catholics traditionally ask Raphael’s intercession for travelers and healing.",
+  "Raphael appears in the Book of Tobit. Tobit sends his son Tobiah from Nineveh to Media to recover money he left in trust. Tobiah needs someone who knows the route. Raphael meets him and agrees to travel with him, using the name Azariah. Tobiah does not realize at first that his companion is an angel.",
+  "During the journey, Raphael guides Tobiah through difficulties and instructs him to keep parts of a fish they catch. In Media, Tobiah meets and marries Sarah, who has suffered deeply. Tobit 8 describes the couple praying together and Raphael driving away the demon that threatened her.",
+  "On the return journey Raphael tells Tobiah how to use the fish gall to restore his father’s eyesight. Tobit 12 then describes Raphael revealing his identity when father and son discuss how to pay him. He tells them he carried their prayers before God and urges them to give thanks for what has happened.",
+  "The narrative’s ties to travel, prayer, and recovery explain why Catholics have traditionally asked Raphael’s intercession for travelers and people seeking healing. Religious art sometimes shows him walking with Tobiah or carrying the fish. The Roman Rite celebrates Raphael with Michael and Gabriel on September 29.",
 ]
 
 [[saints.sources]]
@@ -229,6 +274,18 @@ url = "https://bible.usccb.org/bible/tobit/12"
 title = "Franciscan Media — Saints Michael, Gabriel, and Raphael"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saints-michael-gabriel-and-raphael"
 
+[[saints.sources]]
+title = "USCCB Bible — Tobit, chapter 5"
+url = "https://bible.usccb.org/bible/tobit/5"
+
+[[saints.sources]]
+title = "USCCB Bible — Tobit, chapter 8"
+url = "https://bible.usccb.org/bible/tobit/8"
+
+[[saints.sources]]
+title = "USCCB Bible — Tobit, chapter 11"
+url = "https://bible.usccb.org/bible/tobit/11"
+
 [[saints]]
 id = "faustina-kowalska"
 name = "Saint Maria Faustina Kowalska"
@@ -238,8 +295,10 @@ vocation = "Religious sister and diarist"
 place = "Poland and Vilnius, Lithuania"
 summary = "A Polish religious sister whose diary helped spread Catholic devotion to the Divine Mercy."
 biography = [
-  "Born Helena Kowalska, Faustina joined the Congregation of the Sisters of Our Lady of Mercy. She worked in several houses of the congregation, including in Vilnius, where she received spiritual guidance from Father Michał Sopoćko.",
-  "At the direction of her spiritual advisers, she kept a diary recording experiences she understood as encounters with Jesus. These writings helped shape devotion to the Divine Mercy. She died in 1938 and was canonized in 2000.",
+  "Helena Kowalska grew up in Poland in a large family and worked in domestic service before entering the Congregation of the Sisters of Our Lady of Mercy. She took the religious name Maria Faustina. Her duties included ordinary work such as cooking, gardening, and attending to people who came to the door. She lived in several houses of the congregation, including in Vilnius and Kraków.",
+  "Faustina reported experiences she understood as encounters with Jesus. With encouragement from her spiritual advisers, including Father Michał Sopoćko, she kept a diary. Its entries describe her life in the congregation and her attention to trust in God’s mercy. The image and prayers associated with the Divine Mercy devotion developed in connection with those accounts.",
+  "Faustina’s health declined and she died in Kraków in 1938. The diary had readers beyond her community as the devotion spread. Its place in Catholic life developed gradually as church authorities examined and interpreted what she had written.",
+  "Pope John Paul II canonized Faustina in 2000. The observance of Divine Mercy on the Second Sunday of Easter made the theme familiar to many Catholics who had never read her diary. Her own memorial recalls a life that was mostly spent within the daily work of a religious house, where she recorded the experiences for which she later became known.",
 ]
 
 [[saints.sources]]
@@ -259,8 +318,10 @@ vocation = "Priest and founder of the Carthusians"
 place = "Cologne, Reims, the Chartreuse Mountains, and Calabria"
 summary = "A teacher who established a community of hermits in the French Alps and shaped the Carthusian way of life."
 biography = [
-  "Born in Cologne, Bruno taught and led the cathedral school at Reims. In 1084 he and a small group settled near Grenoble with the support of Bishop Hugh. The community combined solitary prayer and work with shared worship.",
-  "Pope Urban II called Bruno to serve as an adviser. Bruno later received permission to return to a life of prayer and established a community in Calabria, where he died. The community at Chartreuse gave the Carthusian order its name.",
+  "Bruno was born in Cologne and became a teacher at the cathedral school in Reims. He also held responsibility in the archdiocese and took part in efforts to address abuses in church leadership. Teaching and church administration occupied much of his life before he began forming a community devoted to solitude.",
+  "In 1084 Bruno and several companions settled in a mountain valley near Grenoble with the help of Bishop Hugh. The hermits had separate dwellings and came together for parts of their daily prayer. The arrangement allowed sustained periods of silence, reading, and work within a common rule of life. The valley of Chartreuse eventually gave the Carthusians their name.",
+  "Pope Urban II, who had studied under Bruno, summoned him to Italy as an adviser. Bruno later obtained permission to return to a more secluded life. He established another community in Calabria and died there in 1101. The foundation in France continued after his departure.",
+  "Bruno left the beginnings of a way of life in which members shared a community while spending much of the day in solitude. Later Carthusians developed its practices into a formal order. The Roman Rite remembers Bruno on October 6. His years as a teacher and adviser help explain the experience he brought to the project even as he chose to leave public office.",
 ]
 
 [[saints.sources]]
@@ -276,8 +337,9 @@ vocation = "Bishop and martyr"
 place = "Paris, France"
 summary = "The early martyr venerated as the first bishop of Paris, where an abbey later grew around his shrine."
 biography = [
-  "French Christian tradition remembers Denis as a missionary bishop who died with Rusticus and Eleutherius. The early history of the group is sparsely documented, and the circumstances of their deaths are uncertain.",
-  "The abbey at Saint-Denis developed around the place associated with his burial. Later legend portrays him carrying his own head after execution, a detail that helped make his image recognizable in churches and sculpture.",
+  "Denis is venerated as an early bishop and martyr of Paris. Christian tradition remembers him with Rusticus and Eleutherius, who are said to have died with him. One historical proposal places Denis’s mission to Gaul in the third century and his execution in the persecution of Valerian. There is little contemporary evidence from which to reconstruct the details.",
+  "A shrine at the place associated with his burial became an important center of devotion. The abbey and later basilica of Saint-Denis preserved his name in the history of Paris. The cult of Denis grew alongside traditions about the other martyrs and the origins of Christianity in the city.",
+  "A later legend depicts Denis carrying his head after execution. That image became a way to recognize him in medieval sculpture and painting. Some medieval writers also identified him with other men named Dionysius. The Roman Rite commemorates Denis and his companions on October 9, while the evidence for his biography remains sparse.",
 ]
 
 [[saints.sources]]
@@ -293,13 +355,19 @@ vocation = "Priest and religious founder"
 place = "Lucca and Rome, Italy"
 summary = "A former pharmacy apprentice who founded a community of priests devoted to religious education and reform."
 biography = [
-  "Leonardi trained in pharmacy as a young man and later studied for the priesthood. In Lucca he organized instruction in the Christian faith and gathered priests who became the Clerks Regular of the Mother of God.",
-  "Working in Rome, he helped lay plans for a college to prepare missionaries. He died there in 1609 after attending people who were ill during an outbreak.",
+  "John Leonardi trained as an apothecary in Lucca before deciding to become a priest. In his early ministry he visited people in hospitals and prisons and organized religious instruction. Several laymen joined the work, and some later became priests. From that group Leonardi developed the community known as the Clerks Regular of the Mother of God.",
+  "Leonardi lived in the decades after the Council of Trent, when Catholic communities sought to improve religious education and clergy formation. He established a confraternity to teach Christian doctrine and published a guide to that work. The growth of his community brought opposition in Lucca, and he spent much of his later life away from his home city.",
+  "Working in Rome, he helped plan a college to train priests for missions abroad. The project grew out of the practical question of whether and how future missionaries could be prepared before leaving Italy. Leonardi continued pastoral responsibilities as well. He died in 1609 after caring for people who were ill.",
+  "The Roman Rite commemorates him on October 9. Leonardi’s career connects work in hospitals and prisons with the formation of educators and missionaries. Much of his influence came through groups and institutions that could carry on work after his death. The connection to his early training remained, and the Church named him a patron of pharmacists in 2006.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint John Leonardi"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-leonardi"
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint John Leonardi"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20091007.html"
 
 [[saints]]
 id = "callistus-i"
@@ -310,8 +378,9 @@ vocation = "Pope and martyr"
 place = "Rome, Italy"
 summary = "An early bishop of Rome associated with a Christian burial ground on the Appian Way and with debates over penance."
 biography = [
-  "Callistus oversaw a Christian cemetery on the Appian Way that came to bear his name. Much of the surviving account of his earlier life comes from Hippolytus, a critic who opposed his leadership.",
-  "As bishop of Rome, Callistus became involved in disputes over how the Church should reconcile people guilty of serious sins. He is honored as a martyr, though the circumstances of his death are uncertain.",
+  "Callistus became bishop of Rome around 217. Earlier he had served as a deacon and supervised the Christian cemetery on the Appian Way that now bears his name. Much of what is reported about his earlier life comes from Hippolytus, a critic who opposed him. The source gives important details and reflects the disputes of the time.",
+  "Hippolytus challenged Callistus’s leadership and accused him of being too willing to reconcile Christians guilty of grave sins. The issue concerned how pastors understood penance and whether a person who had fallen seriously short of Christian teaching could return to communion. The record is uneven because so much of the dispute survives in the words of one side.",
+  "Callistus died around 222. The Church venerates him as a martyr, although the circumstances of his death are uncertain. His memory remains connected to the burial grounds the Roman community maintained and to controversies that help illuminate how early Christians understood the authority of their bishops.",
 ]
 
 [[saints.sources]]
@@ -327,8 +396,10 @@ vocation = "Duchess and religious patron"
 place = "Bavaria and Silesia, present-day Poland"
 summary = "A duchess of Silesia who used her position to support people in poverty and religious communities."
 biography = [
-  "Born into the family of Andechs in Bavaria, Hedwig married Henry the Bearded, duke of Silesia. She supported charitable work in the duchy, and she and Henry established a Cistercian convent at Trzebnica.",
-  "After Henry’s death, Hedwig lived at Trzebnica, where her daughter Gertrude was abbess. Hedwig died in 1243 and came to be honored as a patron of Silesia.",
+  "Hedwig grew up in the family of Andechs in Bavaria and married Henry the Bearded, duke of Silesia. As duchess she took part in the life of a court and raised a family. She used her position to support religious houses and provide help to people in need.",
+  "Hedwig and Henry established a convent at Trzebnica for Cistercian nuns. Their daughter Gertrude became abbess there. The foundation gave the family’s support for religious life a lasting place in Silesia. Hedwig also became known for periods of prayer and for choosing a simpler way of life than her position at court would ordinarily have required.",
+  "She outlived her husband and several of her children. Her son Henry died in 1241, when Mongol forces invaded the region. After her husband’s death, Hedwig spent much of her time with the nuns at Trzebnica. She died in 1243 and was buried at the convent.",
+  "Hedwig came to be honored as a patron of Silesia. The Roman Rite commemorates her on October 16. The devotional accounts remember the attention she gave to poor people and the time she spent in prayer, while the history of Trzebnica gives a view of what she could establish through her responsibilities as duchess.",
 ]
 patronage = ["Venerated as a patron of Silesia"]
 
@@ -345,8 +416,10 @@ vocation = "Priest and founder of the Passionists"
 place = "Ovada, Monte Argentario, and Rome, Italy"
 summary = "The founder of the Passionists taught people to pray with the account of Christ’s suffering and death."
 biography = [
-  "Paul Danei began to form a community devoted to prayer and preaching after a period of retreat in his youth. He and his brother John Baptist were ordained in Rome, and their early community settled at Monte Argentario.",
-  "The congregation came to be known as the Passionists. Its members preached public missions and encouraged people to meditate on Christ’s Passion. Paul continued preaching and leading the community for much of his life.",
+  "Paul Danei was born in northern Italy. After a brief period as a soldier, he turned to a life of prayer and began gathering companions. He was drawn especially to meditation on the suffering and death of Christ. During a retreat in 1720 he began formulating a way of life for a community that could share that devotion with others.",
+  "Paul and his brother John Baptist were ordained in Rome. They later established a house at Monte Argentario. The congregation that grew from their work became known as the Passionists. In addition to the customary vows of religious life, its members made a commitment to keep the memory of Christ’s Passion alive.",
+  "Paul preached missions in towns and rural communities and wrote letters of spiritual direction. His letters show how he spoke about prayer and trust to people dealing with difficulties in daily life. The congregation’s life joined times of silence and prayer in its houses with preaching and conversation outside them.",
+  "Paul died in 1775 and was canonized in 1867. A substantial collection of his letters survives, along with shorter writings. The sources make it possible to study both the character of the preacher and the form of religious life he established. The U.S. proper calendar commemorates him on October 20.",
 ]
 
 [[saints.sources]]
@@ -362,8 +435,10 @@ vocation = "Franciscan priest and preacher"
 place = "Italy, Central Europe, and Belgrade"
 summary = "A Franciscan reformer and traveling preacher who helped rally the defense of Belgrade during the Ottoman siege of 1456."
 biography = [
-  "John studied law and served as a civil official before entering the Franciscans. He became a public preacher and promoted reforms within the order. His work in Central Europe also included his role in the persecution of the Jewish community of Breslau, now Wrocław, in 1453.",
-  "During the Ottoman siege of Belgrade in 1456, John helped enlist and encourage forces supporting the city’s defense. He died later that year after illness spread in the region.",
+  "John was born at Capestrano in what is now Italy and trained in law. At a young age he held civil office in Perugia. After imprisonment during a local conflict, he entered the Franciscan order. He became a public preacher and worked for stricter observance of the Franciscan rule.",
+  "Popes sent John on missions in Central Europe, where his preaching and interventions drew large audiences and sometimes fierce opposition. His public work also included participation in the persecution of Jews in Breslau, now Wrocław, in 1453. The proceedings involved coerced confessions, executions, and expulsions. The accounts of those events are part of the historical record of his preaching and public authority.",
+  "After the Ottoman capture of Constantinople, John was involved in efforts to support the defense of Belgrade. He helped gather and encourage forces that resisted the Ottoman siege in 1456. He died later that year after illness spread in the region.",
+  "The Roman Rite commemorates him on October 23. His career took him from an Italian court to Franciscan reform and papal assignments across several kingdoms. Reading the records of those assignments shows how a religious preacher could exercise influence in local disputes, including decisions with grave consequences for communities under pressure.",
 ]
 
 [[saints.sources]]
@@ -383,8 +458,10 @@ vocation = "Archbishop and religious founder"
 place = "Catalonia, Spain, and Santiago de Cuba"
 summary = "A missionary preacher who founded the Claretians and served as archbishop of Santiago de Cuba."
 biography = [
-  "Claret worked in textiles in Catalonia before studying for the priesthood. As a traveling missionary, he made extensive use of inexpensive printed books and pamphlets. In 1849 he founded the congregation now known as the Claretians.",
-  "As archbishop of Santiago de Cuba, he traveled throughout his diocese and worked to improve education and pastoral care. He later served in Spain as confessor to Queen Isabella II and died in exile in France.",
+  "Anthony Mary Claret grew up in a textile-working family in Catalonia. He worked in the trade and studied printing before entering the priesthood. As a traveling missionary he made use of inexpensive books and pamphlets to support preaching, religious instruction, and prayer. The publications became a sustained part of his work.",
+  "In 1849 Claret formed the missionary congregation now known as the Claretians. Appointed archbishop of Santiago de Cuba, he traveled widely through the diocese and worked to improve pastoral care and education. He supported instruction for enslaved people and encountered opposition to parts of his ministry. His years in Cuba brought him into problems of race, labor, and church organization within a Spanish colony.",
+  "Claret returned to Spain to serve as confessor to Queen Isabella II. He continued writing and publishing while carrying out duties at court. After the queen was driven from Spain, Claret went into exile. He participated in the First Vatican Council and died in France in 1870.",
+  "The Roman Rite commemorates Claret on October 24. Both the Claretians and his publications helped extend his missionary work beyond the places he visited. His distinctive use of print grew out of skills acquired before ordination and continued across changes of assignment and country.",
 ]
 
 [[saints.sources]]
@@ -400,13 +477,19 @@ vocation = "Monk, priest, and Doctor of the Church"
 place = "Damascus and Mar Saba, near Jerusalem"
 summary = "An Eastern Christian theologian whose writings defended the use of sacred images and organized earlier Christian teaching."
 biography = [
-  "John grew up in Damascus under the Umayyad caliphate and became a monk at Mar Saba. The work often called the Fountain of Knowledge includes a systematic account of the Christian faith drawing on earlier Greek writers.",
-  "John defended sacred images during the Byzantine controversy over icons. He argued that the incarnation made it possible to depict Christ and distinguished honor shown through an image from worship offered to God.",
+  "John grew up in Damascus under the Umayyad caliphate. Christian tradition describes his family as connected with government service. He received a classical education and later gave himself to monastic life at Mar Saba, near Jerusalem. From there he wrote on questions that concerned churches in territories on both sides of political and religious borders.",
+  "John became especially important during the Byzantine disputes over sacred images. He argued that the incarnation mattered to the question of depicting Christ, since God had become visible in human life. He understood the honor paid through a sacred image as directed to the person represented, and reserved worship for God.",
+  "His writings include the work usually called the Fountain of Knowledge. Its exposition of the Christian faith gathers and organizes teachings found in earlier Greek writers. The work gave later students a systematic way to approach a body of theology that had developed over many centuries. John also wrote sermons and is associated with the hymn tradition of Eastern Christianity.",
+  "The Catholic Church recognizes him as a Doctor of the Church. His observance falls on December 4 in the Roman Rite. The continuing authority of his writings reflects both his contribution to the dispute over icons and his ability to present the larger tradition from which he argued.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint John Damascene"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-damascene"
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint John Damascene"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20090506.html"
 
 [[saints]]
 id = "nicholas-of-myra"
@@ -417,14 +500,19 @@ vocation = "Bishop"
 place = "Myra, now Demre, Türkiye"
 summary = "A bishop of Myra whose cult spread widely and whose traditional acts of generosity shaped gift-giving customs."
 biography = [
-  "Nicholas is traditionally remembered as a bishop of Myra in Roman Lycia. Little can be established securely about his life. In 1087, sailors brought relics venerated as his from Myra to Bari, which became a major center of his cult.",
-  "One well-known story tells how Nicholas secretly provided money for three young women in need. Traditions of anonymous generosity helped shape Saint Nicholas customs and the later figure of Santa Claus.",
+  "Nicholas is traditionally remembered as a bishop of Myra in Lycia, in what is now Türkiye. Little contemporary evidence survives about his life. Later accounts place him in the fourth century and tell of his generosity and protection of people in danger. These narratives support the long history of his devotion, while the details of his episcopate remain difficult to establish.",
+  "In one famous account, Nicholas learned of a man who could not provide for his three daughters. He gave money anonymously, leaving it for the household to find. The story helped associate Nicholas with gifts offered in secret. Other traditions connect him with sailors who appealed for help at sea.",
+  "Relics honored as his were taken to Bari in 1087, and the Italian city became an important center of his cult in the West. Eastern churches continued to venerate Nicholas as well. His feast falls on December 6. Gift-giving customs associated with Saint Nicholas contributed to the development of Santa Claus in later popular culture.",
 ]
 patronage = ["Traditionally venerated as a patron of children and sailors"]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Nicholas"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-nicholas"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Nicholas"
+url = "https://www.britannica.com/biography/Saint-Nicholas"
 
 [[saints]]
 id = "damasus-i"
@@ -435,8 +523,10 @@ vocation = "Pope"
 place = "Rome, Italy"
 summary = "A fourth-century bishop of Rome who commissioned Jerome to revise the Latin Gospels and commemorated martyrs in verse inscriptions."
 biography = [
-  "Damasus became bishop of Rome in 366 after a disputed election that led to violence between rival supporters. He later asked Jerome to revise the Latin text of the Gospels by comparing it with Greek manuscripts.",
-  "Damasus commissioned inscriptions honoring martyrs at their burial sites around Rome. The verses are sources for the way fourth-century Roman Christians remembered earlier persecutions.",
+  "Damasus became bishop of Rome in 366 after an election contested by supporters of another candidate, Ursinus. Rival groups fought, and the violence marked the beginning of his long episcopate. The episode is one part of a period in which Roman bishops were becoming more publicly influential within the late empire.",
+  "Damasus asked Jerome to bring the Latin text of the Gospels into closer agreement with Greek manuscripts. It was a practical response to the circulation of Latin versions that did not always agree. Jerome’s subsequent work on biblical translation extended much further, but the revision of the Gospels has a particular connection to Damasus.",
+  "Around Rome, Damasus commissioned verse inscriptions commemorating martyrs at their burial places. The inscriptions called attention to sites Christians visited and supplied accounts of what communities remembered about their dead. Some originals and later copies survive. They help historians trace fourth-century traditions about earlier persecutions.",
+  "Damasus died in 384 and is commemorated on December 11. His work with Jerome and his historical inscriptions show two kinds of care for material passed down in the Church. One concerned the accuracy of biblical texts read in Latin. The other concerned the remembrance of people and places in the life of Rome.",
 ]
 
 [[saints.sources]]
@@ -452,13 +542,19 @@ vocation = "Priest and university teacher"
 place = "Kęty and Kraków, Poland"
 summary = "A priest and scholar of Kraków remembered for his teaching, personal simplicity, and care for people in need."
 biography = [
-  "John came from Kęty and studied at the university in Kraków. He taught theology and served as a parish priest at Olkusz before returning to Kraków to teach Scripture.",
-  "Accounts of his life remember him giving away what he could spare and living simply. He continued teaching in Kraków until his death in 1473.",
+  "John came from Kęty, a town in southern Poland. He studied at the university in Kraków, received ordination, and entered a career in teaching. The university connected him with a community of scholars and clergy as well as students preparing for different kinds of work in the Church.",
+  "After ordination John taught at the school of a religious community in Miechów, then returned to the university. The surviving manuscripts he copied, including biblical and theological works, provide evidence of his scholarly habits. Hand copying gave students and teachers a way to preserve and consult texts before printed books were widely available.",
+  "Accounts of his life remember him for charity toward people in need and for living simply. These accounts include stories of generosity that went beyond what his income would ordinarily have allowed. They became a way for the community to remember the habits of a scholar whose daily teaching was less visible outside the university.",
+  "John died in Kraków in 1473 and was buried at the university’s Church of Saint Anne. His Latin name is John Cantius, and Polish sources often call him Jan Kanty or Jan z Kęt. The Roman Rite commemorates him on December 23. He is remembered both in the history of the university where he taught and in Catholic devotion associated with the city.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint John of Kanty"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-of-kanty"
+
+[[saints.sources]]
+title = "Saint John Cantius Church — Patron Saint"
+url = "https://www.cantius.org/patron-saint"
 
 [[saints]]
 id = "sylvester-i"
@@ -469,8 +565,9 @@ vocation = "Pope"
 place = "Rome, Italy"
 summary = "A bishop of Rome during the reign of Constantine, when Christians began building major public churches."
 biography = [
-  "Sylvester served as bishop of Rome from 314 to 335. With Christianity permitted under Constantine, large churches began to be built in Rome, including the original basilica at the site of Saint Peter’s.",
-  "Sylvester sent representatives to the Council of Nicaea in 325. Later stories connected him closely with Constantine, including a legend that he personally baptized the emperor. Contemporary evidence does not support that account.",
+  "Sylvester became bishop of Rome in 314 and served until his death in 335. His episcopate began during the reign of Constantine, as Christians gained the freedom to worship openly. Major churches began to be built in Rome, including the original basilica at the site of Saint Peter’s. The new buildings changed how Christians could gather and be seen in public.",
+  "The Council of Nicaea met in 325. Sylvester sent representatives to the council, which dealt with the controversy concerning the relationship between the Son and the Father. The council’s decisions became important across the Christian world, even though limited records survive for Sylvester’s individual role.",
+  "Later legends made Sylvester a close companion of Constantine and credited him with baptizing the emperor. The baptism story belongs to a later account. Sylvester died before Constantine’s final illness, when historical sources place the emperor’s baptism. The Roman Rite remembers Sylvester on December 31. His episcopate marks the transition from the period of Roman persecution to a more public life for Christians in the empire.",
 ]
 
 [[saints.sources]]

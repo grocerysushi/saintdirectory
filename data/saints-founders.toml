@@ -7,9 +7,20 @@ vocation = "Abbot and monastic founder"
 place = "Subiaco and Monte Cassino, Italy"
 summary = "Benedict shaped Western monastic life through the rule he wrote for his community."
 biography = [
-  "Benedict left his studies in Rome for a life of prayer, first in solitude near Subiaco and later in communities. At Monte Cassino he established a monastery. His Rule organizes communal prayer, work, hospitality, and the responsibilities of an abbot.",
+  "Benedict grew up at Nursia, now Norcia, in a sixth-century Italy marked by war and political instability. According to Gregory the Great’s Dialogues, Benedict went to Rome to study, then left for a life of prayer. He spent time in a cave near Subiaco, where a monk named Romanus helped him obtain food.",
+  "The Dialogues describes a movement from solitude to the responsibilities of community. People sought Benedict’s instruction, and he organized small communities at Subiaco before establishing a monastery at Monte Cassino. Gregory wrote after Benedict’s death and composed a work of religious instruction. His account preserves early traditions about Benedict, including miracle stories which belong to that literary setting.",
+  "The Rule of Saint Benedict is the clearest source for understanding the form of life attached to his name. It arranges a community’s day around common prayer, reading, and work. It also deals concretely with meals, guests, illness, and the admission of new members. Its abbot must listen to the community and adapt responsibilities to the capacities of individuals.",
+  "The Rule became widely adopted by Western monasteries after Benedict’s lifetime. Its influence came through generations of communities and reformers who used it in different circumstances. In 1964 Paul VI proclaimed Benedict a patron of Europe, recognizing the place of the Benedictine tradition in the continent’s religious and cultural history.",
 ]
 patronage = ["Patron of Europe"]
+
+[[saints.sources]]
+title = "Saint John’s Abbey — The Rule of Saint Benedict"
+url = "https://saintjohnsabbey.org/rule"
+
+[[saints.sources]]
+title = "Gregory the Great — Dialogues, Book II, chapters 33–34"
+url = "https://www.tertullian.org/fathers/gregory_02_dialogues_book2.htm"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Benedict of Nursia"
@@ -24,9 +35,16 @@ vocation = "Nun"
 place = "Central Italy"
 summary = "Benedict of Nursia’s sister is remembered for her religious life and her yearly meetings with him."
 biography = [
-  "Little is known about Scholastica apart from the account in Gregory the Great’s Dialogues. Gregory tells of a final visit in which a storm allowed the siblings to remain together and continue their conversation about God.",
+  "Scholastica is known chiefly from the Dialogues of Gregory the Great, written later in the sixth century. Gregory identifies her as Benedict of Nursia’s sister and says she had been dedicated to God from childhood. The surviving early account gives little information about the organization of her community, so later details about her life should be read as tradition.",
+  "Gregory recounts that the siblings met once a year at a place near Benedict’s monastery. During their final visit, Scholastica asked him to stay and carry on their conversation about spiritual life. According to the story, Benedict intended to return to his monastery until a sudden storm made travel impossible.",
+  "The episode belongs to Gregory’s teaching about prayer and love. He presents Scholastica’s prayer as the reason the visit continued and gives her judgment a central place in the story. In Gregory’s account, Benedict later sees a dove ascend and understands the sight as a sign of his sister’s death. He has her buried in the tomb he had prepared for himself.",
+  "The Church remembers Scholastica on February 10, and communities of Benedictine women have long honored her. Her association with cloistered nuns rests on that tradition and on the early memory of a woman who had committed her life to prayer.",
 ]
 patronage = ["Traditionally associated with cloistered nuns"]
+
+[[saints.sources]]
+title = "Gregory the Great — Dialogues, Book II, chapters 33–34"
+url = "https://www.tertullian.org/fathers/gregory_02_dialogues_book2.htm"
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Scholastica"
@@ -41,8 +59,15 @@ vocation = "Pope and Doctor of the Church"
 place = "Rome, Italy"
 summary = "A former Roman official and monk, Gregory became pope and sent missionaries to England."
 biography = [
-  "Gregory held civil office in Rome before embracing monastic life. As pope he dealt with famine, war, and the needs of refugees while overseeing the Church’s pastoral work. He sent Augustine of Canterbury and other monks to evangelize the Anglo-Saxons.",
+  "Gregory came from a prominent Roman family and held the civil office of prefect of Rome. He eventually left public office for monastic life and turned his family home into a monastery. The pope later sent him as a representative to Constantinople, where he gained experience dealing with the imperial government and the churches of the East.",
+  "Gregory became bishop of Rome in 590, when the city faced plague, food shortages, and pressure from the Lombards. His surviving letters show him managing practical matters such as the distribution of food and the use of Church estates. He also negotiated for peace while supporting bishops and clergy across regions where imperial authority was under strain.",
+  "One of Gregory’s most lasting decisions was to send Augustine of Canterbury and other monks to England. He continued to advise the mission from Rome. His approach included questions of worship, organization, and local practice, reflecting the practical difficulty of establishing a church in communities whose customs differed from those of Rome.",
+  "Gregory’s Pastoral Rule asks what kind of life qualifies someone to guide others and explains why pastoral advice should respond to the person receiving it. His Dialogues preserved stories about Italian saints, notably Benedict of Nursia. His letters, sermons, and biblical interpretation became important sources for later Western Christianity, earning him recognition as a Doctor of the Church.",
 ]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Gregory the Great, part two"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080604.html"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Gregory the Great"
@@ -57,8 +82,15 @@ vocation = "Bishop and Doctor of the Church"
 place = "North Africa and Milan"
 summary = "The bishop of Hippo described his conversion in the Confessions and wrote extensively on grace, faith, and the Christian life."
 biography = [
-  "Augustine taught rhetoric before coming to Christian faith. After hearing Ambrose preach in Milan, he was baptized there and later returned to North Africa. As bishop of Hippo, he continued writing and preaching through controversies within the Church.",
+  "Augustine was born at Thagaste in Roman North Africa to Monica, a Christian, and Patricius, who embraced Christianity late in life. His education trained him in rhetoric. He taught first in North Africa and later in Rome and Milan while seeking an explanation of good and evil that could satisfy his intellectual questions and direct his life.",
+  "For years Augustine was associated with the Manichaeans. In Milan, the preaching of Ambrose helped him reconsider objections he had raised against Scripture. Augustine’s Confessions recalls a period of moral struggle and describes how reading Paul changed his resolve. Ambrose baptized him at the Easter vigil in 387, along with Augustine’s son Adeodatus.",
+  "After Monica died at Ostia, Augustine returned to North Africa and sought a communal life of prayer and study. He was ordained priest at Hippo and later became its bishop. He preached regularly, intervened in conflicts, and wrote extensively about the Church, the interpretation of Scripture, human freedom, and the need for grace.",
+  "The Confessions addresses God while examining memory, desire, and conversion. In The City of God, begun after the sack of Rome in 410, Augustine considered how Christians understand political communities and the course of history. He died in 430 while Hippo was under siege. His writings became especially influential in Western theology and continue to be studied well beyond their original controversies.",
 ]
+
+[[saints.sources]]
+title = "Augustine of Hippo — Confessions"
+url = "https://www.newadvent.org/fathers/1101.htm"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Augustine of Hippo"
@@ -73,9 +105,16 @@ vocation = "Laywoman"
 place = "Thagaste, Milan, and Ostia"
 summary = "Augustine of Hippo’s mother accompanied his long search for faith through prayer and encouragement."
 biography = [
-  "Augustine’s Confessions preserves much of what is known about Monica. She followed him from North Africa to Italy and shared in his joy after his baptism. Before her death at Ostia, mother and son reflected together on eternal life.",
+  "Monica was a Christian from Thagaste in Roman North Africa. She married Patricius, who embraced Christianity later in his life. They had several children. Much of the evidence for her life comes from the Confessions of her son Augustine. His retrospective account records her most often where their lives intersected.",
+  "Augustine’s choices caused Monica years of concern. He pursued a career in rhetoric and followed Manichaean teaching for a substantial period. She hoped he would become Christian and followed him to Italy after he left North Africa. At Milan she came to know Ambrose, whose teaching helped her son reconsider the faith with which he had grown up.",
+  "Monica lived to see Augustine baptized in 387. While waiting at the port of Ostia for passage back to North Africa, they shared a conversation about eternal life that Augustine later made one of the most memorable scenes in the Confessions. He presents the experience as a shared reflection in which mother and son listened to one another.",
+  "Monica fell ill and died at Ostia. Augustine records her asking that her family remember her at the altar, regardless of where her body was buried. Later Christian devotion came to associate her especially with mothers and with prayer for conversion. Her story also preserves a glimpse of the ways Christian women helped sustain religious communities in late antiquity.",
 ]
 patronage = ["Traditionally associated with mothers and conversion"]
+
+[[saints.sources]]
+title = "Augustine of Hippo — Confessions"
+url = "https://www.newadvent.org/fathers/1101.htm"
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Monica"
@@ -90,7 +129,10 @@ vocation = "Bishop and Doctor of the Church"
 place = "Milan, Italy"
 summary = "A Roman governor unexpectedly chosen as bishop of Milan, Ambrose became a prominent preacher and teacher."
 biography = [
-  "Ambrose was still a catechumen when he was acclaimed bishop. After receiving baptism and ordination, he studied Scripture and brought its language and images into his preaching. Augustine later credited Ambrose’s preaching with helping him understand the Christian faith.",
+  "Ambrose was born into a Roman family connected with imperial administration. He became governor of a region that included Milan, a major imperial center. When its bishop died, opposing groups gathered to choose a successor. Ambrose went to keep order, and the assembly acclaimed him bishop although he was still preparing for baptism.",
+  "After baptism and ordination, Ambrose studied Scripture and drew on Greek Christian writers to prepare for responsibilities he had never expected to hold. His preaching helped Augustine see how biblical texts could be read with attention to their spiritual meaning. Augustine received baptism from Ambrose in Milan in 387.",
+  "Ambrose’s office put him into direct contact with members of the imperial family. He resisted demands that church buildings be assigned to a faction whose teaching he opposed. After the massacre at Thessalonica in 390, he called Emperor Theodosius to repentance. These disputes made the bishop’s pastoral responsibilities a visible limit on what he believed an emperor could demand in church life.",
+  "Ambrose wrote about Scripture, the sacraments, and the responsibilities of clergy. Congregational singing and hymns also became associated with his ministry in Milan. He died in 397. The Church venerates him as one of the great Latin Fathers and a Doctor of the Church, alongside Augustine, Jerome, and Gregory the Great.",
 ]
 
 [[saints.sources]]
@@ -106,8 +148,15 @@ vocation = "Priest and Doctor of the Church"
 place = "Rome and Bethlehem"
 summary = "Jerome’s translations and biblical scholarship shaped the Latin Bible known as the Vulgate."
 biography = [
-  "Jerome studied classical literature and languages before devoting much of his life to interpreting Scripture. At Bethlehem he translated books from Hebrew into Latin, wrote commentaries, and corresponded with others who shared his interest in the Bible.",
+  "Jerome came from Stridon, the precise location of which is uncertain, and received a strong education in classical literature at Rome. He traveled widely and spent time in ascetic communities. His study of languages, including Greek and Hebrew, gave him tools that few Latin Christian writers of his time commanded to the same degree.",
+  "Pope Damasus drew Jerome into work on Latin biblical texts in Rome. After leaving the city, Jerome settled in Bethlehem, where monastic communities formed with support from Paula and Eustochium. There he devoted much of his time to translation, correspondence, and biblical interpretation, often exchanging advice on study and religious life with people far away.",
+  "Jerome revised the Latin text of the Gospels using Greek manuscripts and later translated many books of the Old Testament from Hebrew. This approach differed from relying principally on the Greek Septuagint and prompted debate among contemporaries. His work became a major component of the Latin Bible later known as the Vulgate, which also contains texts no longer attributed to him.",
+  "Alongside translation, Jerome wrote commentaries and letters that show the amount of labor involved in reading Scripture closely. He could be sharply polemical and took part in disputes about biblical interpretation and Christian discipline. He died at Bethlehem in 420. Catholic tradition recognizes him as a Doctor of the Church and especially remembers his contribution to the study of Scripture.",
 ]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Jerome, part two"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20071114.html"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Jerome"
@@ -122,7 +171,10 @@ vocation = "Bishop and Doctor of the Church"
 place = "Caesarea, Cappadocia"
 summary = "Basil organized communities of prayer and service and defended the faith of Nicaea as bishop of Caesarea."
 biography = [
-  "After studying in Athens, Basil pursued an ascetic life and wrote guidance for Christians living in community. His work as bishop included teaching on the Trinity and establishing care for the poor and sick. His writings continue to influence Eastern Christian monasticism.",
+  "Basil grew up in a Christian family in Cappadocia. He received a classical education, including studies at Athens, where he became close to Gregory Nazianzen. After a brief career in teaching, he turned toward an ascetic life. He visited centers of monastic practice and began thinking about how Christians could live together under a shared discipline.",
+  "Basil’s instructions for religious communities took the form of practical questions and responses grounded in Scripture. He emphasized a life in which prayer and work were joined to service of others. The tradition associated with these writings became formative for Eastern Christian monasticism, even though the communities that used it took different forms over time.",
+  "As bishop of Caesarea, Basil supported the faith confessed at Nicaea at a time when bishops and rulers still disputed how to speak about the Son and the Holy Spirit. His treatise On the Holy Spirit explained the relationship between the Church’s worship and its belief about the Spirit. He worked through letters as well as public teaching to foster agreement among bishops.",
+  "Basil linked this teaching to practical care in his city. He promoted organized assistance to people facing poverty, hunger, or illness, and the complex associated with that work became known by his name. He died in 379. Basil is remembered with Gregory Nazianzen in the Roman calendar, and both are recognized as Doctors of the Church.",
 ]
 
 [[saints.sources]]
@@ -138,8 +190,15 @@ vocation = "Bishop and Doctor of the Church"
 place = "Cappadocia and Constantinople"
 summary = "Gregory’s sermons in Constantinople earned him the name Gregory the Theologian."
 biography = [
-  "Gregory studied with Basil and later served as a bishop. His theological orations defended belief in the Father, Son, and Holy Spirit. He eventually withdrew from public church leadership and continued to write poetry and letters.",
+  "Gregory was born in Cappadocia to a family closely involved in the local church. He received a classical education and befriended Basil while studying at Athens. Gregory returned to Cappadocia and was ordained priest. He often preferred a life of reading and prayer but repeatedly undertook responsibilities for churches that called upon him.",
+  "Gregory became a bishop amid disputes about the teaching of the Council of Nicaea. In Constantinople he ministered to a Nicene community that initially had few places to meet. His theological orations, delivered during this period, explain how Christians confess one God while speaking of the Father, the Son, and the Holy Spirit.",
+  "He briefly presided at the Council of Constantinople in 381, but questions about his appointment and wider disputes among the bishops led him to resign. Back in Cappadocia he spent his later years writing and corresponding. His poems include reflections on his own life and on the strain of balancing public ministry with a desire for contemplation.",
+  "The Eastern Christian title Gregory the Theologian reflects the influence of his preaching and writing. The Roman Church honors him as a Doctor of the Church and celebrates him with his friend Basil. Gregory’s works remain an important example of the ways fourth-century Christians used the language of classical learning to give precise expression to their confession of faith.",
 ]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Gregory Nazianzen, part two"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070822.html"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Gregory Nazianzen"
@@ -154,9 +213,16 @@ vocation = "Dominican priest and Doctor of the Church"
 place = "Italy and Paris"
 summary = "A Dominican theologian whose Summa Theologiae brings philosophical reasoning into the study of Christian faith."
 biography = [
-  "Thomas joined the Dominicans and studied under Albert the Great. He taught at universities and wrote commentaries, disputed questions, and books on theology. His Summa Theologiae works through questions by examining objections before offering a reasoned response.",
+  "Thomas was born into a noble family in central Italy around 1225. He received early schooling at Monte Cassino and later studied at Naples, where he encountered the Dominicans. His family opposed his decision to join their order and detained him for a time. He eventually returned to Dominican life and studied with Albert the Great.",
+  "Thomas taught and wrote in Paris and in several Italian cities. His work ranged from lectures on Scripture to commentaries on Aristotle and formal theological debates. In the universities of his day, the availability of translated Greek and Arabic scholarship raised questions about the relationship between philosophical reasoning and Christian revelation. Thomas treated that scholarship as material to examine carefully.",
+  "His Summa Theologiae, written for students, presents questions through objections, a response, and replies to the objections. The structure gives opposing arguments a clear place in the discussion. Across its sections Thomas examines God, human action, virtue, Christ, and the sacraments. He distinguished between questions accessible to natural reason and teachings known through revelation while considering how the two forms of knowledge relate.",
+  "Thomas left the Summa unfinished and died in 1274 at Fossanova on his way to the Council of Lyons. His writings became foundational to later Catholic theology, and he was named a Doctor of the Church. In 2025 Leo XIV named Thomas and John Henry Newman co-patrons of the Church’s educational mission.",
 ]
 patronage = ["Patron of the Church’s educational mission, jointly with Saint John Henry Newman"]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Thomas Aquinas, part two"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100616.html"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Thomas Aquinas"
@@ -175,8 +241,15 @@ vocation = "Franciscan bishop and Doctor of the Church"
 place = "Italy and France"
 summary = "Bonaventure led the Franciscan order and wrote about the place of contemplation in Christian life."
 biography = [
-  "Bonaventure joined the Franciscans and taught theology in Paris. As minister general he helped the order think through how to live its founding commitments as it grew. His Journey of the Mind to God presents contemplation as a path toward union with God.",
+  "Bonaventure was born at Bagnoregio in central Italy and studied in Paris, where he joined the Franciscans. His early formation put him in contact with the developing university culture as well as the young order founded by Francis of Assisi. He taught theology and defended the place of mendicant friars in the university.",
+  "He became minister general of the Franciscans in 1257. The order had grown quickly and its members disagreed about how to understand poverty and the example of Francis. Bonaventure visited communities, worked on provisions for common life, and produced a life of Francis intended for use across the order. His decisions helped give the expanding community a shared account of its origins.",
+  "Bonaventure wrote the Journey of the Mind to God after a visit to Mount La Verna, the place Franciscans associate with the stigmata of Francis. The book describes contemplation as a movement from the created world and the human person toward God. It ties learning and reflection to prayer, affection, and the example of Christ.",
+  "Gregory X made Bonaventure a cardinal and asked him to help prepare the Second Council of Lyons. Bonaventure died during the council in 1274. The Church honors him as a Doctor of the Church, and Franciscan tradition remembers him for connecting theological study with the life of prayer.",
 ]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Bonaventure, part two"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100310.html"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Bonaventure"
@@ -191,7 +264,10 @@ vocation = "Priest and religious founder"
 place = "Spain, France, and Italy"
 summary = "Dominic founded the Order of Preachers, the community known as the Dominicans."
 biography = [
-  "Dominic’s work in southern France led him to form a community dedicated to preaching. Its members combined study and common prayer with a life of poverty and public teaching. The order received papal confirmation in 1216.",
+  "Dominic was born at Caleruega in Castile. After studying at Palencia he joined the community of canons attached to the cathedral of Osma. While traveling with Bishop Diego of Osma, he saw the strength of religious movements in southern France whose teachings differed from those of the Catholic Church, particularly around the nature of creation and the flesh.",
+  "Dominic and other clergy began preaching in the region. They sought to match their preaching with lives of poverty and simplicity, qualities their hearers associated with religious credibility. A community of women at Prouille became one of the early foundations connected with this mission and supported the work through prayer.",
+  "In Toulouse a group gathered around Dominic as preachers. The community adopted the Rule of Saint Augustine and received papal confirmation in 1216 as the Order of Preachers. Dominic sent friars to different cities, including centers such as Paris and Bologna, where study could equip them for teaching and public ministry. The combination of communal prayer, serious study, and preaching shaped the Dominican vocation.",
+  "Dominic died in Bologna in 1221. The order grew under later leaders and developed different forms of life for friars, nuns, and laypeople. His founding choices continued to give Dominican preaching a particular purpose: the speaker’s learning and way of life were both supposed to serve the people who heard the message.",
 ]
 patronage = ["Patron of Bologna"]
 
@@ -208,7 +284,10 @@ vocation = "Dominican laywoman and Doctor of the Church"
 place = "Siena, Italy"
 summary = "A Dominican laywoman whose letters and Dialogue brought her life of prayer into public questions of peace and Church reform."
 biography = [
-  "Catherine cared for the sick and corresponded widely with rulers and Church leaders. She urged Gregory XI to return from Avignon to Rome. Her Dialogue presents teachings about prayer, conversion, and love of neighbor through a conversation with God.",
+  "Catherine Benincasa was born into a large family in Siena. As a young woman she joined the Mantellate, a community of women associated with the Dominicans. Its members lived in their own households, which allowed Catherine to combine periods of prayer with time spent helping the sick and people in need in the city.",
+  "A circle of friends and followers gathered around her, including her confessor and later biographer Raymond of Capua. Surviving letters show how widely Catherine’s work extended. She wrote to laypeople, priests, rulers, and popes, urging reconciliation and reform and speaking plainly about the duties of people who held authority.",
+  "Catherine visited Avignon and encouraged Pope Gregory XI to return to Rome. The return in 1377 involved several political and ecclesiastical forces. After Gregory’s death and the beginning of the Western Schism, Catherine supported Urban VI and spent her final years urging church leaders to resolve the widening division.",
+  "Her Dialogue, dictated within her circle, presents an exchange between the soul and God about prayer, virtue, and love of neighbor. This work, her letters, and the prayers associated with her preserve a voice that moved readily between contemplation and public life. Paul VI declared Catherine a Doctor of the Church in 1970, and John Paul II later named her a patron of Europe.",
 ]
 patronage = ["Patron of Europe and Italy"]
 
@@ -225,7 +304,10 @@ vocation = "Carmelite nun and Doctor of the Church"
 place = "Ávila, Spain"
 summary = "A Carmelite reformer who wrote about prayer and founded communities with a renewed rule of life."
 biography = [
-  "Teresa began a reform with the foundation of the convent of Saint Joseph in Ávila. She went on to establish other communities and worked with John of the Cross on reforming the friars. In The Interior Castle she uses the image of a many-roomed castle to describe growth in prayer.",
+  "Teresa was born in Ávila in 1515. She entered the Carmelite monastery of the Incarnation, where illness and a long struggle with prayer marked her early years in religious life. Her account in the Book of Her Life describes how reading, friendship, and attention to the life of Christ shaped her approach to prayer over time.",
+  "Teresa founded the convent of Saint Joseph in Ávila in 1562. She envisioned a small community committed to common life, simplicity, and sustained prayer. Other foundations followed, sometimes after difficult journeys and negotiations. Her Book of Foundations shows the work involved in obtaining support, choosing sites, and guiding women who came to join the new houses.",
+  "John of the Cross helped extend the reform to Carmelite friars. The emerging Discalced Carmelite tradition endured conflicts about its relationship to the existing order. Teresa continued to care for the communities and wrote the Way of Perfection for women establishing a shared way of life, including guidance on prayer and relationships within a small community.",
+  "In The Interior Castle, Teresa uses a castle with many rooms to describe the movement of the soul toward friendship with God. She connects experiences of prayer to ordinary actions and the love of other people. She died in 1582. Paul VI declared her a Doctor of the Church in 1970, the first woman to receive the title.",
 ]
 
 [[saints.sources]]
@@ -241,7 +323,10 @@ vocation = "Carmelite priest and Doctor of the Church"
 place = "Spain"
 summary = "A Carmelite friar whose poems and commentaries explore the trials and joys of union with God."
 biography = [
-  "John worked with Teresa of Ávila to establish reformed Carmelite communities. Opposition to the reform led to his imprisonment in Toledo, where he composed poetry. In later works he used the image of a dark night to describe difficulties encountered in prayer and purification.",
+  "John was born Juan de Yepes in Fontiveros, Spain, and grew up in a family with limited means. He entered the Carmelites and studied at Salamanca before ordination. A meeting with Teresa of Ávila led him to take part in reforming the life of the friars. He helped establish the first community of the reform at Duruelo in 1568.",
+  "The reform’s growth led to disputes within the Carmelite order. In 1577 John was confined by members of the order in Toledo. He endured months of imprisonment and composed lines of poetry that later became part of the Spiritual Canticle. After escaping, he continued to guide communities and teach about prayer.",
+  "John’s commentaries explain the images in his poems. The Ascent of Mount Carmel and the Dark Night distinguish between disciplines a person can undertake and changes that, in his account, happen through God’s action. The darkness of the night describes a loss of familiar supports as a person learns a different kind of trust and love.",
+  "John held leadership roles in the reformed order and spent his final months at Úbeda, where he died in 1591. His poems have a place in Spanish literature as well as Christian spirituality. The Church recognizes him as a Doctor of the Church, and Discalced Carmelites remember him with Teresa as a founder of their form of life.",
 ]
 
 [[saints.sources]]
@@ -257,9 +342,16 @@ vocation = "Jesuit priest and religious founder"
 place = "Spain and Rome"
 summary = "Ignatius founded the Society of Jesus with companions and developed a method of prayer and discernment in the Spiritual Exercises."
 biography = [
-  "While recovering from a battlefield injury, Ignatius began to examine the different desires that directed his life. He pursued studies in Paris and formed friendships that became the nucleus of the Society of Jesus. As its first superior general he guided its expanding missions from Rome.",
+  "Íñigo López de Loyola grew up in a Basque noble family and hoped for a career in military and court service. He was injured defending Pamplona in 1521. During his recovery he read accounts of Christ and the saints. He later described paying attention to how different kinds of reading affected his desires, including how long their effects lasted.",
+  "Ignatius traveled to Montserrat and spent months at Manresa in prayer and reflection. Experiences from this period helped shape the Spiritual Exercises. Their method uses guided prayer, examination of experience, and reflection on the life of Christ to help someone discern a decision. Ignatius revised the exercises over time as he gave them to other people.",
+  "While studying in Paris he formed a group that included Francis Xavier and Peter Faber. They made vows together in 1534 and later placed themselves at the pope’s disposal. Paul III approved the Society of Jesus in 1540. As the first superior general, Ignatius guided its communities from Rome as members undertook missions and founded schools in other parts of the world.",
+  "Ignatius worked on the Society’s Constitutions and kept up extensive correspondence with its dispersed members. He died in 1556. The Spiritual Exercises continue to be used in retreats by Jesuits and by people outside the order, and Ignatius is traditionally associated with that practice.",
 ]
 patronage = ["Traditionally associated with spiritual retreats"]
+
+[[saints.sources]]
+title = "Society of Jesus — Saint Ignatius of Loyola"
+url = "https://www.jesuits.global/saint-blessed/saint-ignatius-of-loyola/"
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Ignatius of Loyola"
@@ -274,7 +366,10 @@ vocation = "Jesuit priest and missionary"
 place = "Goa, Japan, and the coast of China"
 summary = "A founding Jesuit who carried out missionary work in India, Southeast Asia, and Japan."
 biography = [
-  "Francis met Ignatius of Loyola while studying in Paris and joined his circle of companions. As a missionary he worked in Goa and other parts of Asia and helped establish a Christian community in Japan. He died on an island off the coast of China while seeking to enter the country.",
+  "Francis was born in 1506 at the castle of Xavier in the Kingdom of Navarre. He studied and taught in Paris, where he shared quarters with Ignatius of Loyola and Peter Faber. The three were among the companions who made vows together at Montmartre and formed the community that became the Society of Jesus.",
+  "Francis left Europe in 1541 and reached Goa the following year. His ministry took him to fishing communities in southern India and later to parts of Southeast Asia. Letters from his journeys describe the scale of the task and practical problems such as teaching across languages and preparing local people to sustain new Christian communities.",
+  "In 1549 he traveled to Japan with companions. Conditions varied among regions and authorities, and the missionaries had to learn how to communicate their beliefs in an unfamiliar intellectual and religious setting. Francis left Japan after about two years. He then sought to enter China and died in 1552 on the island of Shangchuan while awaiting passage.",
+  "Francis was canonized in 1622 in the same ceremony as Ignatius of Loyola. Catholic tradition remembers him for the geographic reach of his missionary work and his efforts to organize communities that could continue after he moved on. He shares patronage of the Catholic missions with Thérèse of Lisieux, whose life of prayer took place inside a Carmelite convent.",
 ]
 patronage = ["Patron of the missions"]
 
@@ -291,7 +386,10 @@ vocation = "Priest and religious founder"
 place = "Rome, Italy"
 summary = "Philip gathered Romans for prayer and spiritual conversation, forming the community that became the Oratory."
 biography = [
-  "After moving from Florence to Rome, Philip spent years in prayer and service before his ordination. He invited people to gatherings that included readings, discussion, and devotional music. The community of priests that grew from this work became the Congregation of the Oratory.",
+  "Philip was born in Florence and settled in Rome as a young man. He spent time studying, praying, and meeting people throughout the city. Before he became a priest he worked with others to help pilgrims and people who were sick, including through a confraternity that provided practical assistance in Rome.",
+  "After ordination, Philip spent long hours hearing confessions. He invited people to meetings that brought together prayer, readings, conversation, and music. These gatherings became known as the Oratory. They made room for sustained religious formation among people whose everyday lives took place in shops, streets, homes, and churches across the city.",
+  "A community of priests formed to carry on the work, and the Congregation of the Oratory received papal approval in 1575. Its members lived together and served a local community. Philip’s circle also included people such as Cesare Baronius, whose historical studies became part of the wider intellectual life of the early Oratory.",
+  "Biographical accounts remember Philip’s humor and his insistence on humility. He resisted the attention that attached itself to his reputation, sometimes using jokes to redirect it. He died in 1595. The Oratory continued to develop in independent houses, and Philip’s name remained closely associated with devotional life in Rome.",
 ]
 
 [[saints.sources]]
@@ -307,8 +405,15 @@ vocation = "Bishop and Doctor of the Church"
 place = "Annecy and the Chablais"
 summary = "A bishop and spiritual writer who described how people could pursue a devout life within their everyday responsibilities."
 biography = [
-  "Francis prepared for a career in law before becoming a priest. He ministered in the Chablais and became bishop of Geneva, residing in Annecy. His Introduction to the Devout Life offers practical guidance on prayer, work, and relationships for readers living outside a monastery.",
+  "Francis was born into a noble family in Savoy in 1567. He studied in Paris and Padua and qualified in law. His decision to become a priest led to a ministry in the Chablais, where communities had been shaped by the Reformation. He preached and circulated written explanations of Catholic teaching to reach readers he could not easily meet.",
+  "Francis became bishop of Geneva in 1602 and resided in Annecy, from where his predecessors had governed the diocese. He visited communities, taught, and corresponded with people seeking practical spiritual advice. He came to know Jane Frances de Chantal through this work, and together they founded the Visitation of Holy Mary.",
+  "His Introduction to the Devout Life addresses people living outside monasteries and shows how prayer and moral attention can fit their occupations and relationships. The Treatise on the Love of God examines the movement of human love toward God. Both works reflect experiences gathered over years of spiritual direction and pastoral life.",
+  "Francis died in 1622 while traveling through Lyon. The Catholic Church recognizes him as a Doctor of the Church. Pope Francis’s 2022 apostolic letter marking the four-hundredth anniversary of his death returns to his understanding of love and the importance of responding to people’s particular circumstances.",
 ]
+
+[[saints.sources]]
+title = "Francis — Totum amoris est, apostolic letter on Saint Francis de Sales"
+url = "https://www.vatican.va/content/francesco/en/apost_letters/documents/20221228-totum-amoris-est.html"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Francis de Sales"
@@ -323,7 +428,10 @@ vocation = "Religious founder"
 place = "Dijon and Annecy, France"
 summary = "A widowed mother who founded the Visitation of Holy Mary with Francis de Sales."
 biography = [
-  "After her husband died, Jane managed family obligations while receiving spiritual guidance from Francis de Sales. Together they established a community in Annecy. Jane led the new congregation as it grew and founded houses in other places.",
+  "Jane was born into a prominent family in Dijon in 1572. She married Christophe de Rabutin, baron de Chantal, and took responsibility for a household and children. After her husband died, she had to make decisions about her children’s future and manage a household in circumstances that gave a widow limited independence.",
+  "In 1604 Jane met Francis de Sales while he was preaching in Dijon. Their correspondence and friendship gave her a way to connect prayer with her responsibilities as a parent and widow. Francis became her spiritual director. They spent several years discussing a religious community that would make room for women unable to follow the demanding physical discipline of some existing orders.",
+  "Jane and Francis founded the Visitation of Holy Mary at Annecy in 1610. Its early members practiced prayer and common life, and the foundation initially allowed a degree of service outside the house. As the institute developed, it adopted enclosure. Jane guided the community through that transition and took part in founding additional houses.",
+  "After Francis died in 1622, Jane continued to lead the expanding order. Letters and other records of her work show her attending to practical details across houses while supporting sisters through illness and loss. She died in 1641. Her memory as a founder rests alongside her experience as a mother and widow.",
 ]
 patronage = ["Traditionally associated with mothers and widows"]
 
@@ -340,7 +448,10 @@ vocation = "Priest and religious founder"
 place = "France"
 summary = "A French priest who organized parish missions and enduring forms of practical help for people in poverty."
 biography = [
-  "Vincent came to focus his ministry on rural communities that lacked regular pastoral care. He founded the Congregation of the Mission and helped organize lay groups to relieve poverty. With Louise de Marillac he founded the Daughters of Charity.",
+  "Vincent grew up in Gascony and was ordained a priest in 1600. His early years took him into households and parishes with differing material resources. Ministry among rural people sharpened his awareness that some communities rarely saw a priest or received sustained religious instruction. He began organizing ways to reach those communities over time.",
+  "In 1617, at Châtillon, parishioners responded to Vincent’s appeal for a family in need. He saw that an immediate response could be followed by a period in which no one came. He helped establish a group whose members took turns providing care. The confraternities of charity that grew from such efforts gave continuity to local service.",
+  "Vincent founded the Congregation of the Mission to give parish missions and assist with the formation of clergy. He also worked closely with Louise de Marillac. Their Daughters of Charity trained women to minister among people in their homes and communities. The women’s mobility let them respond to needs that would have been hard to reach from an enclosed convent.",
+  "Vincent’s work eventually included attention to prisoners, abandoned children, and people displaced by war. He used contacts with wealthy families to obtain support while relying on local people to carry out service. He died in Paris in 1660. The Church recognizes him as a patron of charitable societies.",
 ]
 patronage = ["Patron of charitable societies"]
 
@@ -357,7 +468,10 @@ vocation = "Religious founder"
 place = "Paris, France"
 summary = "Louise helped found the Daughters of Charity and trained women to care for people in their homes and communities."
 biography = [
-  "After the death of her husband, Louise supported Vincent de Paul’s charitable work. She helped organize and train women who nursed the sick, educated children, and responded to local needs. Their work developed into the Daughters of Charity.",
+  "Louise grew up in France and considered entering religious life as a young woman. She married Antoine Le Gras, and they had a son. Louise cared for Antoine during a long illness and was widowed in 1625. Her later responsibilities in charity followed years in which illness and family care were part of her own household.",
+  "Louise began working with Vincent de Paul, who asked her to visit and support local confraternities of charity. She saw differences in their resources and in the preparation of people carrying out the work. She helped organize practical ways to provide food, nursing, and instruction, and gave encouragement to the women doing the work.",
+  "In 1633 Louise began bringing women together for training in her home. This became the Daughters of Charity, founded with Vincent. Members learned to serve people outside their own houses, going where nursing and teaching were needed. Their service and common prayer were sustained through formation, written instructions, and regular supervision.",
+  "Louise guided the Daughters as new communities took on work with poor families, abandoned children, and people in hospitals. Balancing local needs with the way of life of a religious community remained one of her responsibilities. She died in 1660, the same year as Vincent. The Church later named her patron of social workers.",
 ]
 patronage = ["Patron of social workers"]
 
@@ -374,7 +488,10 @@ vocation = "Bishop and Doctor of the Church"
 place = "Naples, Italy"
 summary = "The founder of the Redemptorists was a prolific writer on moral theology and prayer."
 biography = [
-  "Alphonsus left the practice of law to become a priest. He founded a community to preach among people with little access to parish ministry, especially in rural areas. His writing on moral theology drew on his experience of guiding people in confession.",
+  "Alphonsus grew up near Naples and trained in civil and canon law. He practiced as a lawyer before turning toward the priesthood and was ordained in 1726. In Naples he took part in religious formation outside formal parish settings, helping organize meetings for people whose work and circumstances made ordinary instruction difficult to attend.",
+  "In 1732 he founded the congregation now known as the Redemptorists. Its early mission was to preach in rural communities with limited access to clergy. Traveling missions included teaching and hearing confessions. Alphonsus drew on experiences in that ministry when thinking about what confessors need to know and how they should respond to people individually.",
+  "His books included devotional writing and a major work of moral theology. He considered competing schools of thought about moral responsibility and opposed a severity that could drive people away from the sacraments. His more accessible works helped readers reflect on prayer, the Eucharist, and the life of Christ outside formal theological study.",
+  "Alphonsus became bishop of Sant’Agata de’ Goti in 1762 and served there for more than a decade. He later retired because of ill health and died in 1787. The Church recognizes him as a Doctor of the Church and patron of confessors and moral theologians, reflecting the connection between his writings and the work he undertook in parishes.",
 ]
 patronage = ["Patron of confessors and moral theologians"]
 
@@ -391,7 +508,10 @@ vocation = "Priest, educator, and religious founder"
 place = "Turin, Italy"
 summary = "The founder of the Salesians built a ministry around the education and care of young people in Turin."
 biography = [
-  "John opened a place for boys to learn, play, and receive religious instruction. His educational practice emphasized encouragement and close, practical guidance. The religious community he founded extended that work beyond Turin.",
+  "John was born in 1815 in the countryside near Turin. His father died when John was a child, and his mother, Margaret, raised her children with limited means. After years of study and work, John was ordained priest in 1841. In Turin he met young laborers and boys who had come to the city without stable work or family support.",
+  "John began gathering boys for instruction, play, and worship. The meetings eventually found a permanent home at Valdocco, where the work developed into an oratory, workshops, and housing. John sought practical opportunities for boys to learn trades, recognizing that training and reliable work could matter as much to their future as time spent in a classroom.",
+  "He described his educational approach as preventive. He asked teachers to stay close to students, give reasons for expectations, and build trust before trouble arose. The approach combined religious instruction with exercise, study, and work. John also used printed material to make religious and educational resources available beyond the schools he supervised.",
+  "The religious community that grew around the work became the Salesians of Don Bosco, named for Francis de Sales. John and Mary Mazzarello also supported the foundation of the Salesian sisters for the education of girls. He died in 1888. Both institutes carried his educational work into communities far beyond Turin.",
 ]
 patronage = ["Traditionally associated with young apprentices and Catholic publishers"]
 
@@ -408,7 +528,10 @@ vocation = "Religious founder and educator"
 place = "Mornese, Italy"
 summary = "Mary helped found the Daughters of Mary Help of Christians, the Salesian sisters."
 biography = [
-  "In Mornese, Mary and companions organized instruction and practical training for girls. With John Bosco she helped found a religious institute in 1872 that made this work its mission. She became its first superior and guided it as new houses opened.",
+  "Mary Domenica was born in 1837 in Mornese, a village in northern Italy. As a young woman she worked with her family and joined a local group of women who dedicated themselves to prayer and service. Her early experience in farming and village life shaped the practical training that later became part of her educational work.",
+  "Mary contracted typhoid while caring for relatives during an epidemic. After recovering, she could no longer do the same heavy work. She learned sewing and, with Petronilla Mazzarello, set up a place where girls could learn a trade and receive religious instruction. Their work grew out of a need they had seen in their own community.",
+  "John Bosco was looking for a way to extend to girls the kind of work his Salesian communities carried on with boys. With the support of the local priest, Domenico Pestarino, the women’s group at Mornese became the first community of the Daughters of Mary Help of Christians. Mary and her companions made religious profession in 1872.",
+  "Mary became the first superior and guided the sisters through the institute’s early growth, including the opening of houses outside Italy. She supported their formation through visits and letters and continued to emphasize education rooted in relationships and ordinary work. She died in 1881. The institute remembers her as its co-founder alongside John Bosco.",
 ]
 
 [[saints.sources]]
@@ -424,7 +547,10 @@ vocation = "Cistercian abbot and Doctor of the Church"
 place = "Clairvaux, France"
 summary = "A Cistercian abbot whose preaching and writing helped shape medieval Christian spirituality."
 biography = [
-  "Bernard entered the community at Cîteaux and was sent to establish a monastery at Clairvaux. His sermons on the Song of Songs interpret the biblical poem through the love between God and the soul. He also took part in major disputes within the medieval Church.",
+  "Bernard was born into a noble family in Burgundy around 1090. He entered Cîteaux, a community seeking closer adherence to the Rule of Saint Benedict. In 1115 he was sent to found Clairvaux, where he served as abbot. The new foundation became an influential center of the growing Cistercian order.",
+  "Bernard’s position at Clairvaux did not keep him out of public life. Church leaders sought his advice during disputes, including the contested papal election that followed the death of Honorius II. His preaching helped promote the Second Crusade, which ended in failure. Those episodes belong to the history of a medieval abbot whose influence extended beyond his monastery.",
+  "His sermons on the Song of Songs interpret the biblical poem in terms of the love between God and the soul and between Christ and the Church. They show how sustained reading and prayer shaped his teaching of monks. In other works he wrote about humility, the love of God, and how someone entrusted with public responsibilities can retain time for reflection.",
+  "Bernard died in 1153. Clairvaux and its daughter houses helped extend Cistercian life across Europe. His writings were read in communities very different from those in which they originated, and the Catholic Church recognizes him as a Doctor of the Church.",
 ]
 
 [[saints.sources]]
@@ -440,7 +566,10 @@ vocation = "Archbishop and Doctor of the Church"
 place = "Bec and Canterbury"
 summary = "An archbishop and theologian who described his inquiry as faith seeking understanding."
 biography = [
-  "Anselm became a monk and teacher at Bec in Normandy before serving as archbishop of Canterbury. His Proslogion reflects on what reason can say about God, while Why God Became Man examines the meaning of the Incarnation.",
+  "Anselm was born at Aosta and traveled to Normandy, where he studied at the monastery of Bec under Lanfranc. He became a monk and eventually served as prior and abbot. Bec provided the setting for many of his early writings. Teaching and religious life there gave him recurring opportunities to test arguments in conversation with other readers.",
+  "In the Proslogion, Anselm framed reasoning about God as a prayer in which faith seeks understanding. The work includes an argument about God’s existence that later philosophers examined and disputed. His Why God Became Man addresses the Incarnation and reconciliation between God and humanity through a dialogue with a fellow monk.",
+  "Anselm became archbishop of Canterbury in 1093. Disputes with William II and later Henry I concerned the ties between episcopal office and royal authority. Anselm spent periods outside England as a result. Negotiations in the later dispute clarified the distinction between conferring church office and recognizing the obligations of bishops who held lands from the king.",
+  "Anselm died in 1109. Catholic tradition recognizes him as a Doctor of the Church. His works continue to interest readers because they show how a medieval theologian used questions and argument within the practice of prayer, while facing the practical demands of governing a church.",
 ]
 
 [[saints.sources]]
@@ -456,7 +585,10 @@ vocation = "Abbess and Doctor of the Church"
 place = "Bingen, Germany"
 summary = "A Benedictine abbess whose visions, music, and writings became part of the Christian heritage of the Rhineland."
 biography = [
-  "Hildegard led a religious community and established a monastery at Rupertsberg. In Scivias she recorded visions and interpreted their meaning. She also composed sacred music and corresponded with religious and civil leaders.",
+  "Hildegard was born in the Rhineland in 1098. As a girl she entered religious formation at Disibodenberg under Jutta of Sponheim. After Jutta’s death, Hildegard came to lead the women living there. She later established a monastery at Rupertsberg near Bingen and another house across the Rhine at Eibingen.",
+  "Hildegard began recording visions she understood as a call to write about God and creation. The first of her major visionary books, Scivias, combines accounts of the visions with explanations of their meaning. Her community supported her work, and she exchanged letters with leaders who could help it reach readers outside the monastery.",
+  "Music was another part of Hildegard’s work. Her songs gave words and melodies to worship in her community. She also wrote a musical drama in which personified virtues struggle over the life of a soul. Her letters and other writings show an interest in how bodily life, relationships, and the created world belong within Christian reflection.",
+  "Hildegard died in 1179. Her work continued to be preserved in manuscripts from the community and elsewhere. In 2012 Benedict XVI proclaimed her a Doctor of the Church. Her surviving music, writings, and letters document the variety of work undertaken by an abbess in the intellectual and religious life of the medieval Rhineland.",
 ]
 
 [[saints.sources]]
@@ -476,7 +608,10 @@ vocation = "Benedictine monk and Doctor of the Church"
 place = "Wearmouth–Jarrow, England"
 summary = "A Northumbrian monk whose Ecclesiastical History records the early development of Christianity in England."
 biography = [
-  "Bede spent his life in the monastic community of Wearmouth and Jarrow. He taught and wrote about Scripture, chronology, and history. His Ecclesiastical History uses documents and reports from across England to trace the growth of the English Church.",
+  "Bede entered the Northumbrian monastic community of Wearmouth and Jarrow at about seven and spent the rest of his life there. The community had a substantial library and contacts beyond Northumbria. Bede became a priest and used the materials available to him to teach, interpret Scripture, and learn how earlier writers had calculated time.",
+  "His Ecclesiastical History of the English People follows Christianity in Britain from Roman times to his own day. Bede collected letters and reports, sometimes asking other churches directly for information. His interests shaped the selection of events, but his account preserves details about monasteries, bishops, rulers, and missions that would otherwise be difficult to recover.",
+  "Bede also wrote about reckoning time, a practical subject for churches that needed to agree when to celebrate Easter. His work on chronology connected the motions of the sun and moon, calendar practice, and the counting of years. He used a shared year-numbering system in his history, helping readers place events from different kingdoms on the same timeline.",
+  "Bede died at Jarrow in 735. An account from his community describes him continuing to work with students near the end of his life. He came to be called Venerable and was later declared a Doctor of the Church. His historical and biblical works reflect the teaching and study that filled his years in one monastery.",
 ]
 
 [[saints.sources]]
@@ -492,9 +627,16 @@ vocation = "Oratorian priest and Doctor of the Church"
 place = "Oxford and Birmingham, England"
 summary = "A theologian and writer whose journey from Anglican ministry to Catholicism shaped his work on education, conscience, and faith."
 biography = [
-  "Newman helped lead the Oxford Movement while serving as an Anglican priest and entered the Catholic Church in 1845. He brought the Oratory to England and later became a cardinal. He wrote on the development of doctrine and the purposes of a university. Leo XIV proclaimed him a Doctor of the Church in 2025.",
+  "John Henry Newman was born in London in 1801 and studied at Oxford. He became an Anglican priest and served as vicar of the university church of Saint Mary the Virgin. His sermons there and his work with others in the Oxford Movement asked what ancient Christian doctrine and worship meant for the Church of England.",
+  "Newman’s study of the early Church raised questions about the continuity of doctrine and the authority of churches. He withdrew to Littlemore and worked on the Essay on the Development of Christian Doctrine. In 1845 he was received into the Catholic Church. The change cost him longstanding relationships and altered the setting in which he taught and wrote.",
+  "After his ordination as a Catholic priest, Newman brought the Oratory of Saint Philip Neri to England and established a community in Birmingham. He also helped establish a Catholic university in Ireland. Lectures from that work became The Idea of a University, a sustained reflection on how different kinds of knowledge belong in education.",
+  "Newman later explained his conversion in the Apologia Pro Vita Sua and considered how people reach convictions in his Grammar of Assent. He became a cardinal in 1879 and died in 1890. Francis canonized him in 2019. In 2025 Leo XIV proclaimed him a Doctor of the Church and named him a co-patron of the Church’s educational mission.",
 ]
 patronage = ["Patron of the Church’s educational mission, jointly with Saint Thomas Aquinas"]
+
+[[saints.sources]]
+title = "Francis — Homily at the canonization of Saint John Henry Newman"
+url = "https://www.vatican.va/content/francesco/en/homilies/2019/documents/papa-francesco_20191013_omelia-canonizzazione.html"
 
 [[saints.sources]]
 title = "Benedict XVI — Homily at the beatification of John Henry Newman"
@@ -513,7 +655,10 @@ vocation = "Priest and Doctor of the Church"
 place = "Andalusia, Spain"
 summary = "A Spanish preacher and spiritual adviser whose work included education and the formation of priests."
 biography = [
-  "John’s ministry centered on Andalusia, where he preached and established schools. His correspondence gave guidance to clergy and laypeople. In Audi, filia he wrote about prayer and the ordering of a Christian life.",
+  "John was born in Almodóvar del Campo and studied first at Salamanca and then at Alcalá. After his ordination he intended to minister in the Americas. His preparation and preaching drew attention in Seville, where the archbishop persuaded him to remain. Andalusia became the main setting of his priesthood.",
+  "John traveled as a preacher and gave spiritual guidance to laypeople and clergy. His teaching drew on Scripture and invited readers to consider how faith shapes their relationships and decisions. He was investigated and imprisoned by the Inquisition for a time, then cleared. He continued to preach and write after his release.",
+  "He helped establish schools and took part in founding the university at Baeza. The formation of priests mattered to him because it determined the teaching and care people would receive in their parishes. John wrote proposals connected with reform and used his extensive correspondence to advise people considering religious or public responsibilities.",
+  "His book Audi, filia takes its title from a psalm and offers guidance on prayer and attentive Christian life. John died in Montilla in 1569. Pius XII named him patron of diocesan clergy in Spain, and Benedict XVI declared him a Doctor of the Church in 2012. He is also known as the Apostle of Andalusia.",
 ]
 patronage = ["Patron of diocesan clergy in Spain"]
 
@@ -530,7 +675,10 @@ vocation = "Cardinal bishop and Doctor of the Church"
 place = "Fonte Avellana and Ostia, Italy"
 summary = "A monk and reformer who brought the discipline of hermit life into his work as a Church leader."
 biography = [
-  "Peter joined the community of hermits at Fonte Avellana and later became its prior. He wrote about prayer and communal life and spoke against abuses in the clergy. As cardinal bishop of Ostia he undertook missions for the papacy.",
+  "Peter was born at Ravenna in 1007 and received an education with help from an older brother, Damian. He taught before entering the community at Fonte Avellana, where hermits led a life with substantial time for solitude and a common discipline. Peter later became prior and took responsibility for other communities influenced by its practice.",
+  "Peter wrote about the relationship between solitary prayer and the shared worship of the Church. His letters also addressed public questions, especially the buying and selling of church offices and abuses among clergy. The demands he placed on himself and on his readers reflect the urgency with which he regarded reform.",
+  "In 1057 Pope Stephen IX made Peter cardinal bishop of Ostia. That office led to assignments outside the monastery. He acted on behalf of popes in disputes and helped negotiate settlements, including matters involving the city of Milan. He repeatedly sought to return to the life of prayer he had left at Fonte Avellana.",
+  "Peter died in 1072 while returning from a mission to Ravenna. His writings include letters, sermons, and accounts of religious life. The Church recognizes him as a Doctor of the Church. His surviving work shows how an eleventh-century hermit understood his responsibilities to communities and institutions far beyond his place of prayer.",
 ]
 
 [[saints.sources]]
@@ -546,8 +694,15 @@ vocation = "Bishop and Doctor of the Church"
 place = "Smyrna and Lyons"
 summary = "A bishop of Lyons who defended the Christian faith and explained how its teaching was handed down through the churches."
 biography = [
-  "Irenaeus came from Asia Minor and remembered hearing Polycarp of Smyrna. In Gaul he became bishop of Lyons. His work Against Heresies explains how the Church’s public teaching and the unity of Scripture answer competing claims to secret knowledge.",
+  "Irenaeus grew up in Asia Minor, where he heard Polycarp of Smyrna teach. He remembered Polycarp’s connection with earlier Christian witnesses. Irenaeus later lived in Gaul and served as a priest at Lyons. After persecution there in 177, he succeeded Pothinus as bishop of a Christian community with ties to the eastern Mediterranean.",
+  "In Against Heresies, Irenaeus examined a range of claims to secret religious knowledge. He set them alongside the faith that churches publicly confessed and taught. He appealed to the continuity of teaching in communities founded by the apostles and to the coherence of Scripture read as a whole. His account is a principal source for several early Christian disputes.",
+  "For Irenaeus the story told in Scripture reaches from creation to Christ. He explained salvation as Christ taking up and restoring the course of human life, a theme often called recapitulation. His Demonstration of the Apostolic Preaching offers a shorter account of this historical unity for readers learning the faith.",
+  "Irenaeus also urged patience when churches disagreed over the date of Easter. The details of his death are uncertain, though Christian tradition honors him as a martyr. In 2022 Francis proclaimed him a Doctor of the Church under the title Doctor of Unity, recognizing his connection with both Eastern and Western Christianity.",
 ]
+
+[[saints.sources]]
+title = "Irenaeus of Lyons — Against Heresies, book III"
+url = "https://www.newadvent.org/fathers/0103.htm"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Irenaeus of Lyons"
@@ -566,8 +721,15 @@ vocation = "Philosopher and martyr"
 place = "Flavia Neapolis and Rome"
 summary = "An early Christian philosopher whose writings describe Christian worship and defend the faith before Roman readers."
 biography = [
-  "Justin studied several schools of philosophy before becoming Christian. In Rome he taught and wrote apologies defending Christians against false accusations. His account of Sunday worship includes public readings, prayer, and the Eucharist. He was executed in Rome.",
+  "Justin was born at Flavia Neapolis, near present-day Nablus, around the beginning of the second century. In the opening of his Dialogue with Trypho, he describes searching among schools of philosophy before a conversation prompted him to read the prophets. He came to regard Christianity as the answer to questions he had pursued through philosophical study.",
+  "Justin taught in Rome. His First Apology, addressed to the emperor and other Roman authorities, asks them to judge Christians by their conduct and the reasons for their beliefs. He responds to accusations against Christian communities and describes how he understands the relationship between faith in Christ and the truth sought by philosophers.",
+  "The apology is an early witness to Christian worship. Justin explains baptism and describes a Sunday assembly with readings, instruction, common prayer, and the Eucharist. He also describes contributions for people in need. These passages show what a public defense of Christianity could tell its Roman readers about the ordinary life of a local congregation.",
+  "Justin was arrested and executed at Rome about 165 with a group of companions. An early record of their trial preserves the outline of their questioning. He came to be known as Justin Martyr. His surviving works are read for the evidence they provide about early Christian argument, worship, and life in Roman cities.",
 ]
+
+[[saints.sources]]
+title = "Justin Martyr — First Apology"
+url = "https://www.newadvent.org/fathers/0126.htm"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Justin Martyr"
@@ -582,8 +744,15 @@ vocation = "Bishop and Doctor of the Church"
 place = "Alexandria, Egypt"
 summary = "A bishop who defended the teaching of the Council of Nicaea on the divinity of Christ."
 biography = [
-  "Athanasius attended Nicaea as a young deacon and later became bishop of Alexandria. His defense of the council’s teaching brought repeated periods of exile. His Life of Antony helped make the example of Egyptian monasticism known far beyond Egypt.",
+  "Athanasius grew up in Alexandria and served as a deacon to Bishop Alexander. He accompanied Alexander to the Council of Nicaea in 325. The council affirmed that the Son shares the same divine being as the Father. Athanasius succeeded Alexander as bishop of Alexandria several years later.",
+  "Debates about the wording and authority of Nicaea continued throughout Athanasius’s episcopate. Imperial decisions and conflicts among bishops forced him into exile repeatedly. He spent periods outside Egypt and time among Egyptian monks. Letters and treatises allowed him to continue writing about the questions at stake even when he could not serve in Alexandria.",
+  "Athanasius’s writing On the Incarnation connects the identity of Christ with what Christians believe Christ accomplishes. He argued that salvation depends on God truly entering human life. His theological works thus address both the words used to confess Christ and the relation of that confession to worship and Christian hope.",
+  "His Life of Antony presents the example of the Egyptian desert monk Antony. The book helped readers far beyond Egypt learn about the spiritual practices of the desert. Athanasius died in 373 after returning to Alexandria. Eastern and Western churches honor his contribution to Christian teaching, and the Catholic Church recognizes him as a Doctor of the Church.",
 ]
+
+[[saints.sources]]
+title = "Athanasius of Alexandria — Life of Antony"
+url = "https://www.newadvent.org/fathers/2811.htm"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Athanasius of Alexandria"
@@ -598,8 +767,15 @@ vocation = "Bishop and Doctor of the Church"
 place = "Antioch and Constantinople"
 summary = "A preacher known for explaining Scripture and challenging his listeners to care for the poor."
 biography = [
-  "John preached in Antioch before becoming bishop of Constantinople. His sermons address both the text of Scripture and the responsibilities of people in ordinary life. Conflict with the imperial court and other church leaders led to exile, during which he died.",
+  "John was born at Antioch and trained in rhetoric before committing himself to a life of study and prayer. He spent time in ascetic communities and later served as a deacon and priest in Antioch. His ability to explain Scripture in public preaching earned him the name Chrysostom, meaning golden-mouthed.",
+  "His sermons often move from close reading of a biblical passage to the decisions people make at home or in the city. He urged wealthy hearers to attend to people who lacked food and shelter. His preaching also dealt with family life, prayer, and worship. Many of these sermons survived and became sources for the study of late ancient Christianity.",
+  "John was appointed bishop of Constantinople in 397. He promoted greater simplicity in the episcopal household and called for changes in the conduct of clergy. Conflicts with other bishops and the imperial court led to his removal and exile. Although he returned briefly, he was exiled again and died in 407 while being moved farther from the capital.",
+  "Eastern Christians know his name through the Divine Liturgy that bears it, as well as through his writings. The Catholic Church honors him as a Doctor of the Church. The connection between preaching and practical care for the poor remains visible across his work.",
 ]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint John Chrysostom, part two"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070926.html"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint John Chrysostom"
@@ -614,7 +790,10 @@ vocation = "Bishop and Doctor of the Church"
 place = "Alexandria, Egypt"
 summary = "A bishop of Alexandria whose teaching about Christ was central to the Council of Ephesus."
 biography = [
-  "Cyril argued that the one born to Mary was the same divine Word who took human flesh. The Council of Ephesus affirmed the title Theotokos, often translated as Mother of God. Cyril’s letters and biblical commentaries also preserve much of his theological work.",
+  "Cyril became bishop of Alexandria in 412, succeeding his uncle Theophilus. Alexandria was a major center of Christian biblical scholarship and ecclesiastical authority. Cyril’s surviving commentaries, letters, and theological works show how questions about the interpretation of Scripture entered his day-to-day work of teaching and governing the church.",
+  "His best-known dispute concerned Nestorius, bishop of Constantinople. They differed over the language used to describe the relationship between Christ’s divinity and humanity. Cyril argued that the subject of Christ’s human life was the eternal Word who had taken flesh. On that basis he defended calling Mary Theotokos, a Greek title commonly translated as Mother of God.",
+  "The Council of Ephesus in 431 upheld Cyril’s position and deposed Nestorius. The council itself was marked by procedural disputes and divisions among bishops. Afterward, Cyril and John of Antioch came to agreement on a formula in 433 whose language gave both Christ’s humanity and divinity an explicit place.",
+  "Cyril died in 444. The Catholic Church honors him as a Doctor of the Church, and his writings are also important to Eastern Christian traditions. His treatment of Mary’s title is best understood within the wider argument about who Christ is and how Christian language can speak about his life.",
 ]
 
 [[saints.sources]]
@@ -630,7 +809,10 @@ vocation = "Bishop and Doctor of the Church"
 place = "Jerusalem"
 summary = "A bishop whose catechetical lectures show how the Church of Jerusalem prepared people for baptism."
 biography = [
-  "Cyril taught candidates for baptism through lessons on Scripture, the creed, and Christian practice. He led the Church in Jerusalem through disputes that repeatedly interrupted his ministry. His catecheses remain a witness to fourth-century Christian initiation.",
+  "Cyril was born around the beginning of the fourth century and became bishop of Jerusalem around 350. The city had recently acquired major churches and was drawing pilgrims to places associated with the life of Jesus. Cyril’s teaching connected those places with the preparation of new Christians for baptism.",
+  "His Catechetical Lectures address candidates preparing to join the Church. He explains the creed, discusses passages from Scripture, and asks listeners to examine how they live. The lessons take for granted a process that unfolded over a period of time, with public worship and personal preparation reinforcing what candidates heard in instruction.",
+  "A further set of lectures transmitted with his work explains rites to people who had just received them. Their practice of interpreting the sacraments after initiation gives these lectures the name mystagogical. The sequence offers an unusually detailed view of the religious education and worship of a fourth-century church.",
+  "Cyril’s episcopal ministry was interrupted by disputes and periods of exile. He later participated in the Council of Constantinople in 381. He died around 386. The Catholic Church honors him as a Doctor of the Church, and his lectures continue to be consulted for their record of how Jerusalem taught and welcomed new members.",
 ]
 
 [[saints.sources]]
@@ -646,7 +828,10 @@ vocation = "Deacon and Doctor of the Church"
 place = "Nisibis and Edessa"
 summary = "A deacon who taught Christian theology in Syriac through poetry and hymns."
 biography = [
-  "Ephrem ministered in Nisibis and later in Edessa. His hymns draw on biblical images to speak about Christ, creation, and salvation. Their poetic form helped communities sing and remember the teachings they conveyed.",
+  "Ephrem grew up in Nisibis, a city near the border between the Roman and Persian empires. He served as a deacon and came to be known for his teaching. When Nisibis was ceded to Persia in 363, he left with other Christians and spent the final part of his life at Edessa.",
+  "Ephrem wrote in Syriac, using poetry to teach through images and patterns that listeners could remember. Some of his hymns were composed for use in communal worship. Their topics include the birth and death of Christ, the meaning of baptism, and the ways created things can direct attention to God. He also wrote prose commentaries on Scripture.",
+  "Ephrem’s poems frequently place several biblical events beside one another, asking the listener to notice a shared image or action. Images such as light, water, and the garden can take on meaning from different parts of Scripture. Music and repetition gave those connections a place in prayer even for people without access to books.",
+  "Ephrem died in 373. His reputation for writing and singing theology earned him the title Harp of the Holy Spirit. He is honored as a Doctor of the Church. The continued use of his hymns and the survival of Syriac manuscripts preserve evidence of the intellectual and liturgical life of Christians in the region.",
 ]
 
 [[saints.sources]]
@@ -662,8 +847,15 @@ vocation = "Monk and Doctor of the Church"
 place = "Narek, historic Armenia"
 summary = "An Armenian monk whose Book of Lamentations gives voice to repentance, sorrow, and hope in God."
 biography = [
-  "Gregory lived at the monastery of Narek and wrote in Armenian. In the Book of Lamentations he addresses God in prayers that acknowledge human suffering and rely on divine mercy. Pope Francis proclaimed him a Doctor of the Church.",
+  "Gregory lived in the Armenian monastic community of Narek around the turn of the first millennium. The monastery was a center of learning and prayer near Lake Van. He became a monk and priest there, working in an Armenian literary culture with a long tradition of translating Scripture, composing hymns, and interpreting sacred texts.",
+  "His best-known work, the Book of Lamentations, is a collection of prayers addressed to God. The speaker examines failings, gives voice to suffering, and seeks mercy. The book ranges beyond one individual’s experience. Gregory writes as though bringing the needs of many people into his own prayer, an approach Pope Francis later emphasized.",
+  "Gregory also composed hymns and devotional works and wrote commentary on the Song of Songs. The tension between an awareness of weakness and confidence in divine mercy recurs in his writing. His work remained important in Armenian religious life through generations of readers and in communities far from the monastery in which he wrote.",
+  "Gregory is honored in the Armenian Apostolic tradition and by Armenian Catholics. In 2015 Francis proclaimed him a Doctor of the Church, recognizing the importance of this Armenian witness for the wider Catholic Church. His work remains closely associated with intercessory prayer and with the Armenian language in which he composed it.",
 ]
+
+[[saints.sources]]
+title = "Francis — Message on the proclamation of Saint Gregory of Narek as a Doctor of the Church"
+url = "https://www.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150412_messaggio-armeni.html"
 
 [[saints.sources]]
 title = "Francis — General audience on Saint Gregory of Narek"
@@ -678,7 +870,10 @@ vocation = "Bishop and Doctor of the Church"
 place = "Seville, Spain"
 summary = "The bishop of Seville assembled a survey of inherited learning in his Etymologies."
 biography = [
-  "Isidore succeeded his brother Leander as bishop of Seville and helped lead the Church in Visigothic Spain. His writings cover Scripture, history, language, and the natural world. Medieval readers used his Etymologies as a reference for many subjects.",
+  "Isidore grew up in a family prominent in the Church in Visigothic Spain. His older brother Leander served as bishop of Seville and took part in the religious changes that brought Visigothic rulers into Catholic communion. Isidore succeeded him as bishop around the beginning of the seventh century.",
+  "As bishop, Isidore supported the education of clergy and took part in councils that brought bishops together from different parts of Spain. He sought to transmit learning inherited from classical writers and earlier Christian authors. His own work covered religious instruction, the interpretation of Scripture, and the history of political communities.",
+  "The Etymologies, his best-known work, organizes information by subject, often beginning with the origins or meanings he assigned to words. Its topics range from grammar and medicine to animals and tools. Isidore’s explanations reflect the sources and ideas available to him. For medieval readers, the work made a great deal of inherited learning accessible in one place.",
+  "Isidore also wrote works on Christian teaching and accounts of the peoples who ruled in Spain. He died in 636. The Catholic Church recognizes him as a Doctor of the Church, and his surviving works show how a bishop in the early Middle Ages could use scholarship as part of his pastoral responsibilities.",
 ]
 
 [[saints.sources]]
@@ -694,7 +889,10 @@ vocation = "Jesuit priest and Doctor of the Church"
 place = "Nijmegen and Central Europe"
 summary = "A Jesuit teacher whose catechisms explained Catholic faith during the Reformation."
 biography = [
-  "Born in Nijmegen, Peter became one of the early Jesuits. He preached, taught, and helped establish colleges across Central Europe. His catechisms were adapted for different audiences and circulated in many editions.",
+  "Peter was born at Nijmegen in 1521 and studied at Cologne. An encounter with the Jesuit Peter Faber led him to undertake the Spiritual Exercises and join the young Society of Jesus. His education, preaching, and early work in church meetings prepared him for assignments during the religious changes of the sixteenth century.",
+  "Peter taught and preached in cities across Central Europe. He helped establish schools and colleges and took part in efforts to prepare clergy. These assignments often took place in communities where the Reformation had altered institutions and religious loyalties. His work combined public explanation of Catholic teaching with the long process of educating people to continue it.",
+  "His catechisms presented Christian doctrine in a question-and-answer format. Peter prepared versions for readers with different levels of education. The shorter works provided a way to teach essential points in parishes and schools, while the longer version could be used for deeper study. The texts circulated in successive editions and translations.",
+  "Peter spent his later years in Fribourg, Switzerland, where he continued writing and supporting educational work. He died in 1597. The Catholic Church honors him as a Doctor of the Church. His name remains associated with the use of accessible, structured teaching during a period of intense religious disagreement.",
 ]
 
 [[saints.sources]]
@@ -710,7 +908,10 @@ vocation = "Jesuit cardinal and Doctor of the Church"
 place = "Montepulciano and Rome, Italy"
 summary = "A Jesuit theologian and cardinal who explained Catholic teaching in an age of religious controversy."
 biography = [
-  "Robert taught theology at the Roman College and wrote the Controversies, a sustained response to disputes of the Reformation. He also composed catechisms for a wider readership and served the Church as bishop and adviser.",
+  "Robert was born into a family at Montepulciano in 1542 and entered the Society of Jesus as a young man. He studied and taught in several places, including Louvain. He later taught at the Roman College, where students had to learn both Catholic theology and the claims being made by writers of the Reformation.",
+  "His lectures became the Controversies, a large work organized around major disputes about Scripture, authority, the sacraments, and church life. It sought to set out the questions systematically before defending Catholic positions. Its scale reflected the need to address a range of arguments circulating in books and public debates across Europe.",
+  "Robert also wrote catechisms for readers who did not need a university-level account of those controversies. His public work extended beyond writing. After his appointment as cardinal he served in Roman offices and spent several years as archbishop of Capua, where he preached and visited communities in his diocese.",
+  "Robert returned to Rome and continued to take on assignments as a theologian and adviser. In his later years he wrote about prayer and preparation for death. He died in 1621. The Catholic Church recognizes him as a Doctor of the Church. His surviving books reflect the very different audiences a theologian of his period needed to address.",
 ]
 
 [[saints.sources]]
@@ -726,7 +927,10 @@ vocation = "Capuchin priest and Doctor of the Church"
 place = "Brindisi and Central Europe"
 summary = "A Capuchin preacher who drew on his knowledge of languages and Scripture in his ministry."
 biography = [
-  "Lawrence joined the Capuchins and took on missions that carried him well beyond Italy. His sermons and other writings reflect his study of the Bible, including Hebrew. He also served his order in leadership and carried out diplomatic work.",
+  "Lawrence was born at Brindisi in 1559 and joined the Capuchins. He studied languages and theology before undertaking public preaching. His knowledge of Scripture and languages, including Hebrew, was a notable part of his formation and helped equip him for work among people who spoke and worshiped in different settings.",
+  "Lawrence preached in Italy and traveled widely in Central Europe. He helped establish Capuchin communities in places where the order was new. These assignments put him in contact with people affected by the religious divisions of the Reformation and with civil and church leaders who sought his help in public affairs.",
+  "He served as minister general of the Capuchins and acted on several diplomatic assignments. Near the end of his life he carried concerns from Naples to the Spanish court and died in Lisbon in 1619. The range of his travels reflected the responsibilities that religious superiors and rulers were prepared to entrust to a preacher of his experience.",
+  "His surviving sermons and writings show the weight he gave to reading and explaining Scripture. John XXIII proclaimed him a Doctor of the Church in 1959. Capuchins remember him for bringing his study to preaching and for sustaining communities of friars across the regions where he worked.",
 ]
 
 [[saints.sources]]
@@ -742,7 +946,10 @@ vocation = "Religious brother and founder"
 place = "Kraków, Poland"
 summary = "A Polish painter who became Brother Albert and established communities serving people without shelter."
 biography = [
-  "Albert was born Adam Chmielowski and pursued painting after being wounded in the Polish uprising. In Kraków he took up a life of religious service and began working with people living in poverty. Communities of brothers and sisters carried on the work he founded.",
+  "Born Adam Chmielowski in 1845 near Kraków, Albert grew up during the partition of Poland. He took part in the Polish uprising of 1863 and lost a leg after being wounded. He later studied art and developed a career as a painter. Art remained a way for him to reflect on suffering and faith.",
+  "In Kraków he encountered people sleeping in public shelters and began to take responsibility for their care. He adopted the life of a Franciscan tertiary and became known as Brother Albert. He shared the daily conditions of people using the shelters and helped arrange assistance that could continue beyond the first days of need.",
+  "Other men and women joined in the work. The communities that developed became known as the Brothers and Sisters of the Third Order of Saint Francis, Servants of the Poor. Their ministry included food, shelter, and companionship for people who had been excluded from more stable forms of support. Albert’s painting Ecce Homo is often remembered alongside this work.",
+  "Albert died in Kraków in 1916. John Paul II canonized him in 1989. He had earlier explored the painter’s life in a play written before becoming pope. Albert’s story preserves a particular connection between his earlier vocation as an artist and the care for people that occupied his final decades.",
 ]
 
 [[saints.sources]]

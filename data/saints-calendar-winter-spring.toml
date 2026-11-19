@@ -7,7 +7,10 @@ vocation = "Religious brother"
 place = "Montréal, Québec"
 summary = "A Holy Cross brother whose devotion to Saint Joseph helped establish a place of pilgrimage on Mount Royal."
 biography = [
-  "André entered the Congregation of Holy Cross and served for many years as a porter at its college in Montréal. He listened to people who came to him with troubles and encouraged prayer to Saint Joseph. A small chapel built with his support grew into Saint Joseph’s Oratory.",
+  "André Bessette was born in 1845 near Montréal and baptized Alfred. He lost both parents by the age of twelve. He supported himself through farm work and manual trades and spent time working in the United States. Poor health followed him through those years and complicated his request to enter the Congregation of Holy Cross.",
+  "After an extended period of formation, he was accepted as a religious brother. His assignment was to receive visitors at Notre-Dame College in Montréal. He also worked in the sacristy, carried messages, and helped with laundry. He remained doorkeeper for about forty years. The work put him in regular contact with people who came with concerns that had little to do with the business of the college.",
+  "André visited sick people, listened to them, and encouraged them to pray through the intercession of Saint Joseph. Visitors sometimes said that their prayers had been answered through a healing. His devotion to Joseph led him to work with others to establish a small chapel on Mount Royal, where he could receive people who came to pray.",
+  "Over time the chapel became the center of Saint Joseph’s Oratory. André died in 1937, before the great shrine had taken its present form. The Oratory continues to preserve the story of his ministry and welcome visitors to the site where a doorkeeper began receiving people who wanted someone to listen and pray with them.",
 ]
 
 [[saints.sources]]
@@ -27,12 +30,19 @@ vocation = "Dominican priest and canon lawyer"
 place = "Catalonia and Rome"
 summary = "A Dominican canon lawyer who compiled an influential collection of Church law for Pope Gregory IX."
 biography = [
-  "Raymond studied canon and civil law before entering the Order of Preachers. Gregory IX asked him to organize papal legal decisions, and the resulting collection served as a reference for canon lawyers for centuries. Raymond later led the Dominicans and helped revise the order’s constitutions.",
+  "Raymond was born near Barcelona late in the twelfth century. He studied law at Bologna and taught there before entering the Dominican order. His early work included notes on Gratian’s collection of church law. He also wrote a guide for confessors that considered how legal and theological principles could apply to particular difficulties people brought to them.",
+  "Pope Gregory IX called Raymond to Rome in 1230. He gave Raymond the task of organizing papal and conciliar decisions that had accumulated since Gratian’s compilation. Raymond’s work brought the materials together in five books. Promulgated in 1234, the collection is known as Gregory IX’s Decretals. It remained part of Catholic canon law for centuries, through the promulgation of the 1917 code.",
+  "After returning to Spain, Raymond was elected master general of the Dominicans in 1238. During his brief term he revised the order’s constitutions. He resigned after about two years and continued to take on assignments related to church law and outreach beyond Christian communities.",
+  "In his later years he supported language schools for missionaries, including the study of Arabic and Hebrew. He died in Barcelona in 1275 at an advanced age. His long career joined the written work of a jurist with the Dominican concern for preaching and instruction.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Raymond of Peñafort"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-raymond-of-penafort/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Raymond of Peñafort"
+url = "https://www.britannica.com/biography/Saint-Raymond-of-Penafort"
 
 [[saints]]
 id = "hilary-of-poitiers"
@@ -43,7 +53,10 @@ vocation = "Bishop and Doctor of the Church"
 place = "Poitiers, France"
 summary = "Hilary defended the divinity of Christ and helped explain the teaching of Nicaea to Latin-speaking Christians."
 biography = [
-  "As bishop of Poitiers, Hilary opposed efforts to set aside the language of the Nicene Creed. During exile in Phrygia he encountered Eastern theological debates and worked on his treatise On the Trinity. He later returned to his diocese and continued to write and teach.",
+  "Hilary was born in Poitiers around 310 and received a literary education. The surviving record of his early years is limited, although he describes his search for God in his own work. He was baptized as an adult and became bishop of Poitiers in the 350s. Among his first writings was a commentary on Matthew, the oldest surviving Latin commentary on that Gospel.",
+  "He became involved in the dispute over whether the Son is fully divine. At a synod in Béziers in 356 he opposed bishops whose position differed from the teaching of Nicaea. Emperor Constantius II banished him from Gaul. In Phrygia, in what is now Türkiye, Hilary encountered the debate within the life of eastern churches and continued writing about it.",
+  "During exile he developed his major work, On the Trinity. He used Scripture and the words of the baptismal formula to explain the relation of the Father, Son, and Holy Spirit. His arguments took shape in an effort to sustain Christian unity around what he understood to be the teaching the Church had received.",
+  "Hilary was able to return to Poitiers around 360 or 361. In his later years he wrote on the Psalms, interpreting them in relation to the life of Christ and the Church. He died around 367. Pope Pius IX declared him a Doctor of the Church in 1851.",
 ]
 
 [[saints.sources]]
@@ -59,12 +72,19 @@ vocation = "Religious founder"
 place = "Brescia, Italy"
 summary = "Angela founded the Company of Saint Ursula, the community from which the Ursuline tradition developed."
 biography = [
-  "Angela gathered women in Brescia who wished to dedicate their lives to God while remaining in their households. She gave the company a rule and encouraged its members to care for one another. Later Ursuline communities became especially known for educating girls.",
+  "Angela grew up near Lake Garda and lost her parents while still young. She joined the Franciscan Third Order, which allowed her to develop a life of prayer and service without leaving ordinary society. She became associated with groups in Desenzano and Brescia that taught children, cared for neighbors, and sought a deeper Christian life.",
+  "In Brescia, Angela became a guide for women who wanted a form of consecrated life they could practice in their homes and neighborhoods. In 1535 she and her companions founded the Company of Saint Ursula. Its members shared a religious commitment and followed a common rule while remaining able to take responsibility for work and relationships where they lived.",
+  "Angela wrote a rule for the company and left counsels for its leaders. Her guidance asked those responsible for the group to know its members individually and to correct them with gentleness. The company’s educational work began in households and local communities, where access to regular schooling for girls was limited.",
+  "Angela died in Brescia in 1540. Later communities that grew from her work became Ursuline religious orders and established schools for girls in many countries. The original Company of Saint Ursula also continued in its own form. Pope Pius VII canonized Angela in 1807.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Angela Merici"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-angela-merici/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Angela Merici"
+url = "https://www.britannica.com/biography/Saint-Angela-Merici"
 
 [[saints]]
 id = "ansgar"
@@ -75,12 +95,19 @@ vocation = "Benedictine bishop and missionary"
 place = "Northern Germany and Scandinavia"
 summary = "A Benedictine monk and bishop who took part in early Christian missions to Denmark and Sweden."
 biography = [
-  "Ansgar traveled to Denmark and Sweden and helped establish Christian communities there. After the destruction of Hamburg disrupted his work, he continued his mission from Bremen and helped send missionaries back to Sweden.",
+  "Ansgar was educated at the Benedictine abbey of Corbie in what is now northern France. As a monk he taught at Corvey, a new foundation in Westphalia. In 826 the Carolingian emperor Louis the Pious sent him to assist the Danish ruler Harald. That first effort lost support when Harald’s position collapsed.",
+  "Ansgar went on to Sweden with another monk and gained permission to preach there. The journeys exposed the missionaries to dangers at sea and made them dependent on the decisions of local rulers. In the early 830s he was appointed to the new Church of Hamburg and given responsibility for missions in the north.",
+  "He founded institutions that could support the work, including a monastery and school in Hamburg. His position weakened after the emperor’s death, and in 845 raiders destroyed Hamburg. Ansgar continued from Bremen, where he was made bishop in 847. He sent help to Scandinavian communities and returned to Sweden after local permission could be obtained again.",
+  "Ansgar died in Bremen in 865. The communities he served went through further interruptions after his death, and later missionaries renewed work in those regions. His association with the north reflects a lifetime of returning to places where the survival of a small Christian community often depended on changing political conditions.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Ansgar"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-ansgar/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Ansgar"
+url = "https://www.britannica.com/biography/Saint-Ansgar"
 
 [[saints]]
 id = "cyril-the-philosopher"
@@ -91,7 +118,10 @@ vocation = "Monk, scholar, and missionary"
 place = "Thessalonica, Great Moravia, and Rome"
 summary = "The Byzantine scholar known as Constantine helped bring Christian texts and worship to Slavic-speaking communities."
 biography = [
-  "Constantine and his brother Methodius traveled to Great Moravia at the request of its ruler. Constantine developed a script now called Glagolitic to help put Christian texts into Slavonic. He took the name Cyril upon becoming a monk shortly before he died in Rome.",
+  "Cyril was born in Thessalonica around 826 or 827 and baptized Constantine. He went to Constantinople for his education, received holy orders, and served at the patriarchate before teaching. His knowledge of languages and training in philosophy proved useful when the imperial government sent him on missions beyond the capital.",
+  "He traveled with his brother Methodius on a mission to the Khazars in the region around the Sea of Azov. Later the emperor sent the brothers to Moravia at the request of its ruler, Rastislav, who wanted the faith taught in the language his people spoke. Constantine and his collaborators prepared an alphabet suited to writing Slavonic. This early script is known as Glagolitic.",
+  "The brothers translated passages of Scripture and texts used in worship. Their approach met resistance from clergy who defended the use of Greek, Latin, and Hebrew as the privileged languages of worship or disputed jurisdiction in Moravia. The brothers went to Rome, where Pope Adrian II received them and approved the use of Slavonic for the mission.",
+  "While in Rome, Constantine became seriously ill. He entered monastic life and took the name Cyril shortly before he died in 869. Methodius continued their work. The later Cyrillic script bears Cyril’s name, while the earliest translations of the brothers are associated with their work in Glagolitic.",
 ]
 patronage = ["Patron of Europe"]
 
@@ -108,7 +138,10 @@ vocation = "Missionary archbishop"
 place = "Thessalonica and Great Moravia"
 summary = "Methodius continued the mission he began with his brother Cyril and defended the use of Slavonic in worship."
 biography = [
-  "Methodius became a monk before joining Cyril on the mission to Great Moravia. After Cyril’s death, Methodius returned to serve as archbishop, where he faced disputes over his jurisdiction and the language of worship. He continued the translation of sacred texts with members of his community.",
+  "Methodius was the older brother of Cyril. Before entering religious life, he served in administration in Macedonia. He withdrew to a monastery in Bithynia and eventually led the community at Polychron. His experience in government and community life later helped him sustain a mission that required negotiation with rulers as well as care for clergy and students.",
+  "He accompanied his brother on a mission to the Khazars and then to Moravia. There they trained people to teach and worship in Slavonic. When objections arose from clergy who disputed their authority, the brothers traveled to Rome. Pope Adrian II approved the mission and accepted their Slavonic liturgical texts.",
+  "After Cyril died in 869, Methodius returned to Central Europe as a bishop. Opponents imprisoned him for several years. Released in 873, he resumed work in Moravia and the surrounding region. He trained disciples who helped him translate Scripture and other church texts into Slavonic, including a collection of church and civil rules known as the Nomocanon.",
+  "Methodius died in 885. His disciples faced persecution, and some continued their work after finding welcome in Bulgaria. Their movement beyond Moravia helped the brothers’ translations and approach to worship become part of the religious and literary inheritance of other Slavic communities.",
 ]
 patronage = ["Patron of Europe"]
 
@@ -125,13 +158,20 @@ vocation = "Religious founder"
 place = "Venice and Somasca, Italy"
 summary = "The founder of the Somascan community organized care and training for children who had lost their parents."
 biography = [
-  "A former soldier, Jerome redirected his life toward service after his release from captivity. He established houses where children could receive care and learn trades. The community of men who joined him became known as the Somascans.",
+  "Jerome was born in 1486 into the Venetian Emiliani, or Miani, family. As a young adult he served the Republic of Venice. He was responsible for a military outpost at Castelnuovo in 1511 when it came under attack and he was taken prisoner. Later accounts associate his release with prayer to the Virgin Mary and treat the experience as a turning point in his life.",
+  "Back in Venice, Jerome took responsibility for relatives and began devoting more of his time to people in need. Famine and epidemic disease in northern Italy brought many children into the streets without care. Jerome used his property and the help of others to provide shelter. He wanted children to have both religious instruction and practical training that would help them support themselves.",
+  "As his work spread, volunteers assumed different responsibilities. Some helped manage resources and care for the children’s interests, while members of the religious community shared daily work and prayer with them. Jerome and his companions made Somasca a center for the Company of the Servants of the Poor, the group that developed into the Somascan Fathers.",
+  "Jerome continued to tend the sick and died in 1537 during an epidemic. The Church canonized him in 1767. Pius XI declared him a patron of orphans and abandoned children, a recognition closely connected to the particular work on which Jerome built his community.",
 ]
 patronage = ["Patron of orphans and abandoned children"]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Jerome Emiliani"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-jerome-emiliani/"
+
+[[saints.sources]]
+title = "Somascan Fathers — Saint Jerome Emiliani, our founder"
+url = "https://somascans.org/our-founder/"
 
 [[saints]]
 id = "casimir"
@@ -142,12 +182,19 @@ vocation = "Prince"
 place = "Poland and Lithuania"
 summary = "A prince of the Jagiellonian dynasty remembered for prayer and service during a short life at court."
 biography = [
-  "Casimir was the son of Casimir IV, king of Poland and grand duke of Lithuania. A campaign tied to a claim on the Hungarian crown ended without putting him on its throne. Casimir returned to Poland and carried out royal responsibilities until illness cut his life short.",
+  "Casimir was born into the Jagiellonian dynasty in 1458. His father, Casimir IV, ruled Poland and was grand duke of Lithuania. As a son of the reigning monarch, Casimir received preparation for public responsibilities. The priest and historian Jan Długosz helped educate him, and accounts of the prince emphasize that prayer and personal discipline were central to his life at court.",
+  "While still in his teens, Casimir was sent to pursue a claim to the Hungarian crown backed by some Hungarian nobles. The expedition lost support, his soldiers began to desert, and he returned home. Later accounts connect the failure of the campaign with a period of deeper religious commitment. He did not marry, despite the dynastic expectations surrounding a prince’s marriage.",
+  "Casimir served as vice-regent in Poland while his father was in Lithuania. He later joined him in Vilnius and took on duties in the royal chancery. His health deteriorated, and he died in 1484 at twenty-five. He was buried in Vilnius Cathedral.",
+  "His tomb in Vilnius became a lasting center of veneration, and a chapel there bears his name. He is remembered particularly in Lithuania and Poland. In both countries the stories about his prayer and care for people in need became as important to his memory as the royal duties his family expected him to fulfill.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Casimir"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-casimir/"
+
+[[saints.sources]]
+title = "Galway Cathedral — Saint Casimir"
+url = "https://www.galwaycathedral.ie/news/saint-month-st-casimir"
 
 [[saints]]
 id = "patrick"
@@ -158,7 +205,11 @@ vocation = "Bishop and missionary"
 place = "Britain and Ireland"
 summary = "A bishop whose own account describes captivity in Ireland and his later return there as a missionary."
 biography = [
-  "In the Confession, Patrick describes being taken from Britain to Ireland as a teenager. After escaping, he eventually returned as a bishop and preached among Irish communities. His Letter to the Soldiers of Coroticus condemns violence and enslavement directed against newly baptized Christians.",
+  "Patrick’s own Confession is an important source for his life. It says that he came from Britain and that his father, Calpornius, was a deacon. Patrick was about sixteen when he was taken captive and carried to Ireland. For years he tended animals under compulsion. He describes the period as one in which he came to pray continually and reflect on the faith in which he had been raised.",
+  "He escaped and eventually returned to his family. Patrick recounts a vision in which a man named Victoricus brought him letters from Ireland. In the dream he heard people calling for him to come back. He later returned as a bishop and worked among Irish people, preaching, baptizing, and helping establish Christian communities.",
+  "Patrick’s own descriptions show that the mission brought uncertainty and opposition. In the Confession he answers criticism and explains how he understood his decision to remain in Ireland. The book is personal and argumentative, which makes it especially valuable beside the more elaborate accounts written about him centuries later.",
+  "His Letter to the Soldiers of Coroticus records a different side of his work. Some people Patrick had just baptized had been killed or taken captive in a raid. He denounced the attack and demanded care for the survivors. His letter treats the captives as members of the same Christian community as their attackers and challenges those who tried to profit from their enslavement.",
+  "Patrick’s exact dates remain uncertain. His own writings give a firmer view of the historical bishop than the legends later associated with him. They preserve memories of captivity and return and show how he spoke in defense of the people who had received him as their pastor.",
 ]
 
 [[saints.sources]]
@@ -182,7 +233,10 @@ vocation = "Archbishop"
 place = "Lima, Peru"
 summary = "An archbishop who traveled widely through his diocese and worked to improve ministry to Indigenous communities."
 biography = [
-  "Turibius worked in law in Spain before being sent to Lima as archbishop. He traveled throughout his large diocese, convened councils, and promoted religious teaching in local languages. He also established a seminary to prepare clergy for ministry.",
+  "Turibius Alfonso de Mogrovejo was trained in law in Spain. He taught law and worked in the courts before he was selected to become archbishop of Lima while still a layman. He raised objections to the appointment, but eventually received ordination and traveled to Peru. His legal experience gave him a way to address abuses he found in the clergy and colonial society.",
+  "The archdiocese covered a large territory. Turibius spent much of his ministry visiting communities in person, staying where he could learn something of local conditions and meet people who rarely saw a bishop. He studied Indigenous languages and encouraged priests to teach people in languages they understood. His pastoral rounds also brought him into contact with figures such as the future Rose of Lima.",
+  "Turibius convened church councils to agree on standards for ministry. Their work placed particular importance on catechesis, the conduct of priests, and the education of those preparing for ministry. He established a seminary to give the archdiocese a continuing way to form local clergy. These institutions extended the reach of reforms he pursued during personal visits.",
+  "He continued working in Peru for about twenty-six years and died there in 1606. His tenure overlapped with the expansion of Spanish colonial authority. His lasting work is visible in his efforts to bring clergy into direct contact with Indigenous communities and make their education, worship, and pastoral care responsibilities of the archdiocese.",
 ]
 
 [[saints.sources]]
@@ -198,12 +252,19 @@ vocation = "Pope"
 place = "Rome and Cherson"
 summary = "A pope arrested and sent into exile after the Lateran synod of 649 rejected imperial teaching on Christ."
 biography = [
-  "Martin convened a synod in Rome that affirmed Christ’s divine and human wills. The decision put him at odds with the imperial government. He was arrested, taken to Constantinople, and exiled to Cherson in Crimea, where he died.",
+  "Martin became bishop of Rome in 649. The Byzantine imperial court was then involved in an extended dispute about Christ’s will. The teaching known as monothelitism held that he had only one will. Martin and other bishops defended the position that his full humanity and divinity include distinct human and divine wills.",
+  "Soon after his election Martin convened a council at the Lateran in Rome. It condemned monothelitism and rejected an order from Emperor Constans II that prohibited public discussion of the dispute. The council made clear that the bishops intended to continue teaching on an issue the imperial administration wanted set aside.",
+  "The emperor, whose approval of Martin’s election had not been obtained, ordered him arrested. Martin was taken from Rome in 653 and reached Constantinople the following year. Officials subjected him to humiliation and imprisonment. A sentence of death did not proceed, and he was sent into exile in Cherson on the Crimean Peninsula.",
+  "Martin died there in 655, weakened by his treatment in custody. He is honored as a martyr in the Catholic and Eastern Orthodox Churches. His pontificate is remembered for the Lateran council and for the consequences that followed when its bishops claimed the responsibility to speak on the matter.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Martin I"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-martin-i/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Martin I"
+url = "https://www.britannica.com/biography/Saint-Martin-I"
 
 [[saints]]
 id = "john-baptist-de-la-salle"
@@ -214,13 +275,20 @@ vocation = "Priest, educator, and religious founder"
 place = "Reims, France"
 summary = "A priest who founded the Brothers of the Christian Schools to expand education for boys from poor families."
 biography = [
-  "John began working with schoolteachers in Reims and developed a community centered on education. He established schools for boys from poor families and helped prepare teachers for that work. The congregation he founded became known as the Christian Brothers or De La Salle Brothers.",
+  "John Baptist de La Salle was born in Reims in 1651. He received a theological education and was ordained in 1678. After his parents died he also had responsibilities for his family. While serving as a canon at Reims, he met Adrien Nyel, whose efforts to open schools introduced him to the problems of educating boys from poor households.",
+  "De La Salle grew increasingly involved with the teachers and eventually shared their household. He resigned his position as canon and gave away his fortune. The community formed around their work became the Brothers of the Christian Schools. Its common life gave teachers a continuing way to learn the work, support one another, and serve in schools.",
+  "He helped develop institutions that prepared teachers for classroom responsibilities. The brothers’ work also extended to programs for working young people and to institutions that received boys in trouble. De La Salle and his collaborators faced opposition from existing schoolmasters and disagreements within their own community as they tried to sustain the schools.",
+  "He spent his final years near Rouen and died on Good Friday in 1719. The community survived and extended its teaching well beyond Reims. Pope Pius XII named him patron of schoolteachers in 1950, honoring a vocation that had brought him from cathedral duties to the work of training and supporting teachers.",
 ]
 patronage = ["Patron of schoolteachers"]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint John Baptist de La Salle"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-baptist-de-la-salle/"
+
+[[saints.sources]]
+title = "La Salle Worldwide — Saint John Baptist de La Salle"
+url = "https://www.lasalle.org/en/lasallian-holiness/founder/"
 
 [[saints]]
 id = "adalbert-of-prague"
@@ -231,12 +299,19 @@ vocation = "Bishop and missionary martyr"
 place = "Prague and the Baltic region"
 summary = "A bishop of Prague who later traveled to preach to the Prussians and was killed during that mission."
 biography = [
-  "Born in Bohemia as Vojtěch, Adalbert took his later name from the archbishop who educated him. Conflict in Prague led him to spend time in a monastery in Rome. He subsequently traveled to the Baltic region, where he was killed in 997.",
+  "Adalbert was born into the Bohemian Slavník family around 956. Known in Czech as Vojtěch, he received part of his education at Magdeburg, where he came into contact with Archbishop Adalbert. He became bishop of Prague while still a young man. His efforts to improve clerical life brought him into conflict with local powers and expectations.",
+  "He left Bohemia in the late 980s and sought a quieter religious life for a time. At the pope’s direction he went back to Prague in the early 990s. Conflicts with members of the nobility continued. Rivalries between leading families also complicated his position, and he eventually left the city again.",
+  "Adalbert turned to missionary work, traveling toward the communities along the Baltic. He was killed in 997 during a mission among the Prussians. His body was taken to Gniezno in Poland for burial. Later, relics associated with him were brought to Prague, strengthening his commemoration in both places.",
+  "He was canonized in 999. Bruno of Querfurt, a friend and disciple, wrote an account of his life. Adalbert’s memory reached several countries in Central Europe, reflecting the different communities that knew him as a bishop, a missionary, or the saint whose remains were honored there.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Adalbert of Prague"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-adalbert-of-prague/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Adalbert of Prague"
+url = "https://www.britannica.com/biography/Saint-Adalbert"
 
 [[saints]]
 id = "pius-v"
@@ -247,12 +322,19 @@ vocation = "Dominican friar and pope"
 place = "Rome, Italy"
 summary = "A Dominican pope who put reforms of the Council of Trent into practice."
 biography = [
-  "Pius joined the Dominican order and served as a bishop before his election as pope in 1566. During his pontificate a catechism and revised liturgical books appeared as part of the implementation of Trent. These included the Roman Missal published in 1570.",
+  "Pius V was born in northern Italy in 1504 and entered the Dominicans as a teenager. Before he became pope he worked in the Roman Inquisition and held several offices in the Church. He was elected in 1566, only a few years after the Council of Trent. Much of his pontificate was devoted to putting the council’s decisions into practice.",
+  "He pressed for better training for priests and encouraged the establishment of seminaries. Under his authority the Roman catechism, a revised breviary for daily prayer, and a revised missal for the celebration of Mass became instruments of reform. They gave clergy and teachers common books to use across different dioceses. He also enforced rules against abuses in clerical life.",
+  "His policies included strict enforcement of Catholic teaching through the Inquisition. He also took an active role in conflict among European rulers. In 1570 he excommunicated Elizabeth I of England. The following year he helped organize the alliance whose fleet defeated the Ottoman navy at Lepanto.",
+  "Pius died in 1572. His personal practice as a Dominican and his conviction that the council’s reforms required specific measures shaped his conduct as pope. His influence lasted especially through liturgical and educational books that continued in use well beyond his six years in office.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Pius V"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-pius-v/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Pius V"
+url = "https://www.britannica.com/biography/Saint-Pius-V"
 
 [[saints]]
 id = "nereus"
@@ -263,7 +345,9 @@ vocation = "Martyr in Christian tradition"
 place = "Rome, Italy"
 summary = "An early Roman martyr venerated with Saint Achilleus at the Catacomb of Domitilla."
 biography = [
-  "An inscription commissioned by Pope Damasus links Nereus and Achilleus with military service and their decision to follow Christ. Later accounts tell a more detailed story involving Flavia Domitilla, but the surviving early evidence leaves the circumstances of their deaths uncertain.",
+  "Nereus is remembered with Achilleus as a martyr of the early Roman Church. Their names appear together in old Roman lists of martyrs, which locate their burial on the Via Ardeatina. That early association is among the firmest things the sources establish about him.",
+  "An epitaph composed by Pope Damasus remembers the pair as soldiers who abandoned their former service after becoming Christian and were put to death. A fragment of that inscription was found near their burial site. The inscription gives a glimpse of how Roman Christians understood their choices, though it supplies neither a date nor many details about the men themselves.",
+  "Later accounts describe Nereus and Achilleus as attendants of Flavia Domitilla. Their connection in those accounts is less securely documented than the shared burial, and the dates given in the stories vary. The church built near the graves in the Catacomb of Domitilla and the repeated appearance of both names in the Roman liturgy show how their memory was preserved.",
 ]
 
 [[saints.sources]]
@@ -283,7 +367,9 @@ vocation = "Martyr in Christian tradition"
 place = "Rome, Italy"
 summary = "An early Christian martyr honored alongside Saint Nereus in Rome."
 biography = [
-  "Achilleus is remembered together with Nereus in early Roman evidence from the Catacomb of Domitilla. Pope Damasus’s inscription portrays the two as leaving military service to confess Christ. Later traditions offer details about their lives that are difficult to verify.",
+  "Achilleus was an early Christian martyr honored in Rome alongside Nereus. The ancient evidence about his life is especially sparse. Much of what can be established comes from the place where the Roman Christian community buried and commemorated the two men.",
+  "A late fourth-century basilica stood over their burial site in the Catacomb of Domitilla. A carved pillar recovered there carries Achilleus’s name alongside a scene representing his death. A fragment of an epitaph written by Pope Damasus was also found nearby. In that account the pair had served as soldiers before becoming Christians and dying as martyrs.",
+  "The evidence from the burial site predates fuller stories about Achilleus and Nereus and their connection to Flavia Domitilla. Modern readers can trace the early and later accounts separately. Their dates, family backgrounds, and circumstances before conversion remain uncertain, while their shared veneration can be followed through inscriptions, art, and Roman calendar records.",
 ]
 
 [[saints.sources]]
@@ -303,7 +389,9 @@ vocation = "Martyr in Christian tradition"
 place = "Rome, Italy"
 summary = "An early Roman martyr remembered in tradition as a young person who refused to abandon Christianity."
 biography = [
-  "The basilica of San Pancrazio in Rome preserves the memory of Pancras near his traditional place of burial. Later accounts describe him as a teenager killed during the persecution of Diocletian. His age and the exact circumstances of his death are uncertain.",
+  "Pancras, also known by the Latin form Pancratius, was honored in the early Church of Rome as a martyr. His burial site was remembered on the Via Aurelia and his name appears in old lists of Roman commemorations. The cult is well attested. The surviving narrative of his youth and death is later.",
+  "In that narrative, Pancras came to Rome when young, was baptized, and refused to surrender his faith during a persecution. He is traditionally remembered as a teenager and often associated with the persecution under Diocletian. The exact year of his death and many of the details told about his childhood are uncertain.",
+  "A church was built over the burial place. The devotion later spread beyond Rome. Churches in England that honored him carried his name into local use, including in the part of north London known as St Pancras. Those later dedications offer another way to see the reach of the tradition that began near his Roman grave.",
 ]
 
 [[saints.sources]]
@@ -323,7 +411,10 @@ vocation = "Layman and farmer"
 place = "Madrid, Spain"
 summary = "A farm worker honored in Madrid for a life of prayer and generosity."
 biography = [
-  "Isidore worked on land near Madrid and shared his life with María de la Cabeza, who is also venerated. Stories handed down about Isidore dwell on prayer amid ordinary work and care for people in need. His memory remains closely associated with rural life.",
+  "Isidore lived in the region of Madrid in the Middle Ages. The accounts that preserve his life describe him as a farm laborer employed on the estate of a landowner. His daily work and the responsibilities of his household form the setting for nearly everything remembered about him.",
+  "He and his wife, María de la Cabeza, had a child. Later tradition also venerated María in her own right. The stories about Isidore describe him going to pray before work and visiting churches on days when he was free. They also record that other laborers sometimes complained when his time at prayer delayed his arrival.",
+  "Accounts of his generosity describe him giving food to people who needed it and taking care in how animals were treated. Some include miraculous episodes. They are part of the tradition of his veneration and help explain why rural communities found his life recognizable. A laborer’s care for people and animals remained central to the stories over time.",
+  "Isidore was canonized in 1622 with Ignatius of Loyola, Francis Xavier, Teresa of Ávila, and Philip Neri. He is venerated as a patron of farmers and of Madrid. His association with working people reflects what the early stories emphasize about him, a sustained practice of prayer and service within the routines of farm work.",
 ]
 patronage = ["Patron of farmers and rural communities", "Patron of Madrid"]
 
@@ -340,12 +431,19 @@ vocation = "Pope and martyr"
 place = "Rome, Constantinople, and Ravenna"
 summary = "A pope who traveled to Constantinople on a diplomatic mission and died in custody after his return."
 biography = [
-  "The Ostrogothic king Theodoric sent John to negotiate with Emperor Justin I over restrictions affecting Arian Christians. John returned to Italy and was imprisoned at Ravenna. He died there after a brief pontificate.",
+  "John became bishop of Rome in 523, when Italy was ruled by the Ostrogothic king Theodoric. The king had largely tolerated Catholic worship in his territories. Rome’s relationships with the Christian communities of the eastern empire had recently improved, which raised political concerns for Theodoric. An Arian Christian himself, he watched the actions of the emperor in Constantinople closely.",
+  "When Emperor Justin I imposed restrictions on Arians in the East, Theodoric directed John to travel to Constantinople to negotiate. John thus became the first pope to visit the imperial capital. The surviving descriptions of what he secured are limited. The emperor did not fully reverse the measures that concerned Theodoric.",
+  "On his return in 526, John was detained at Ravenna. Theodoric suspected that the pope’s dealings with the emperor threatened his own position. John remained in prison and died soon afterward. Accounts differ on the precise cause, but his death followed the losses and hardship he experienced in confinement.",
+  "His body was taken to Rome and buried at Saint Peter’s. The Church remembers him as a martyr. The documented events of his brief pontificate show how a bishop could be asked to act as an envoy in a conflict that crossed both political borders and divisions within Christianity.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint John I"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-i/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint John I"
+url = "https://www.britannica.com/biography/Saint-John-I"
 
 [[saints]]
 id = "bernardine-of-siena"
@@ -356,12 +454,19 @@ vocation = "Franciscan priest and preacher"
 place = "Siena and L’Aquila, Italy"
 summary = "A Franciscan preacher who helped spread devotion to the Holy Name of Jesus in Italian towns and cities."
 biography = [
-  "Bernardine cared for people during an outbreak of plague before becoming a Franciscan. He traveled widely as a preacher and encouraged devotion to Jesus through the monogram IHS, which he displayed during his ministry. He also worked to strengthen observance within his order.",
+  "Bernardine was born in 1380 in Massa Marittima, where his father held office. He grew up around Siena and received an education in the liberal arts and law. When plague reached Siena in 1400, he and other members of a hospital confraternity helped keep its work going and nursed patients for several months.",
+  "He joined the Observant Franciscans and eventually became an itinerant preacher. He spoke in cities and towns across northern and central Italy, often before crowds in public squares. He addressed religious practice and public conflicts, including factional violence and lending practices that harmed the poor. Some of his sermons also expressed hostility toward Jews and other groups, a documented part of the preaching that drew large audiences.",
+  "Bernardine promoted devotion to the Holy Name of Jesus. He used a tablet showing the letters IHS surrounded by rays to give listeners a visible sign they could remember after the sermon. The form spread to churches, houses, and public buildings. Under his leadership the Observant reform also attracted new friars and renewed emphasis on their formation.",
+  "Bernardine continued traveling and preaching in his later years. He died in L’Aquila in 1444 and was canonized six years later. His influence can be seen both in the Observant Franciscan movement and in the devotional symbol he helped make familiar.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Bernardine of Siena"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-bernardine-of-siena/"
+
+[[saints.sources]]
+title = "Commission on the Franciscan Intellectual Tradition — Saint Bernardine of Siena"
+url = "https://www.franciscantradition.org/blog/saint-bernardine-of-siena-the-apostle-of-italy/"
 
 [[saints]]
 id = "christopher-magallanes"
@@ -372,7 +477,10 @@ vocation = "Priest and martyr"
 place = "Totatiche, Jalisco, Mexico"
 summary = "A parish priest who helped continue the education of seminarians during restrictions on Catholic ministry in Mexico."
 biography = [
-  "Christopher served the parish of Totatiche and organized seminary classes after the diocesan seminary closed. He was arrested and executed during the Cristero conflict. The Catholic Church honors him among a group of Mexican martyrs canonized together in 2000.",
+  "Cristóbal Magallanes was a diocesan priest in Jalisco, Mexico. He worked during a period in which the federal government restricted Catholic institutions and the public exercise of religion. The restrictions reached schools and seminaries as well as parishes. Under President Plutarco Elías Calles, priests who continued their work sometimes had to do so in secret.",
+  "When regular seminary training was interrupted, Magallanes helped establish a clandestine seminary at Totatiche. It gave local men a way to continue preparing for priesthood despite the closure of institutions they had depended on. This work put his ministry in direct tension with the authorities enforcing the restrictions.",
+  "He was killed in 1927. The Catholic Church remembers him with twenty-four companions, including priests and three laymen. They died at different times and in several Mexican states. The shared designation comes from the circumstances in which they continued practicing their faith and ministering during the wider period of conflict.",
+  "Pope John Paul II canonized the group on May 21, 2000. In his homily he addressed people from Mexico directly and placed the martyrs’ lives in the history of the Catholic communities that remembered them. For Magallanes in particular, the seminary at Totatiche gives a concrete example of the responsibilities he continued to take on while ordinary public ministry was restricted.",
 ]
 
 [[saints.sources]]
@@ -392,12 +500,19 @@ vocation = "Benedictine bishop and missionary"
 place = "Kent, England"
 summary = "A monk sent by Gregory the Great whose mission established Canterbury as a center of Christianity in England."
 biography = [
-  "Augustine led a group of monks from Rome to Kent, where King Æthelberht received them and allowed them to settle and preach. After becoming a bishop, Augustine based his ministry at Canterbury. He sought guidance from Gregory about organizing the growing church.",
+  "Augustine was prior of Saint Andrew’s monastery in Rome when Pope Gregory the Great chose him to lead a missionary party to England. The group set out in 596. Hearing warnings in Gaul about what they might encounter, the missionaries sent Augustine back to Rome for advice. Gregory encouraged him to continue and gave the party letters of support.",
+  "They landed in Kent in 597. King Æthelberht gave them a place to live at Canterbury and allowed them to use Saint Martin’s Church. The king later became Christian. The missionaries’ ability to remain and preach depended in part on the protection they received from his court.",
+  "After Augustine became a bishop, Gregory sent additional missionaries and instructions. Augustine established Christ Church at Canterbury as his cathedral and founded a monastery dedicated to Saints Peter and Paul. He also helped establish bishoprics at London and Rochester. Those institutions provided a way for the mission to continue beyond its first group of monks.",
+  "Christian communities already existed in Britain. Augustine’s attempts to reach agreement with British bishops over church practice and cooperation failed. He died around 605 and was buried at the monastery he had founded. Canterbury’s lasting place in the history of English Christianity came from the institutions he and his collaborators established there.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Augustine of Canterbury"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-augustine-of-canterbury/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Augustine of Canterbury"
+url = "https://www.britannica.com/biography/Saint-Augustine-of-Canterbury"
 
 [[saints]]
 id = "gregory-vii"
@@ -408,12 +523,19 @@ vocation = "Pope and reformer"
 place = "Rome and Salerno, Italy"
 summary = "A reforming pope whose opposition to lay control of Church offices brought him into conflict with Henry IV."
 biography = [
-  "Known as Hildebrand before his election, Gregory promoted changes in the conduct of clergy and in how bishops received office. His dispute with Henry IV led to the meeting at Canossa in 1077. The conflict later resumed, and Gregory died away from Rome in Salerno.",
+  "Gregory was born Hildebrand, probably in southern Tuscany, in the early eleventh century. He received much of his education through church institutions in Rome. He served Gregory VI and accompanied him into exile. On returning to Rome he worked with Leo IX and other popes, taking on responsibilities in administration and diplomacy before he was elected pope himself in 1073.",
+  "As Gregory VII he pressed for reform of the clergy and opposed the purchase of church offices. One of the disputes that came to define his pontificate concerned lay investiture, the practice by which rulers conferred office and its symbols upon bishops. Bishops often controlled lands and resources important to rulers, so a change in how they received office had political consequences.",
+  "Gregory’s conflict with Henry IV led to Henry’s excommunication. In 1077 Henry went to Canossa, where Gregory was staying, and sought absolution. Gregory lifted the excommunication, but the underlying struggle continued. Relations deteriorated again, and Henry entered Rome and backed a rival pope.",
+  "Gregory received military help from the Norman ruler Robert Guiscard. Norman troops entered Rome, and Gregory eventually left the city. He died in Salerno in 1085. The reforms associated with his name continued beyond his pontificate. They reshaped arguments about who could appoint bishops and how far the political authority of a ruler reached inside the Church.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Gregory VII"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-gregory-vii/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Gregory VII"
+url = "https://www.britannica.com/biography/Saint-Gregory-VII"
 
 [[saints]]
 id = "mary-magdalene-de-pazzi"
@@ -424,9 +546,16 @@ vocation = "Carmelite nun and mystic"
 place = "Florence, Italy"
 summary = "A Florentine Carmelite whose community recorded her accounts of prayer and spiritual experience."
 biography = [
-  "Born Caterina de’ Pazzi, she entered a Carmelite convent in Florence and took the name Mary Magdalene. Sisters in the community recorded her spiritual experiences and teachings. She also helped guide newer members of the convent.",
+  "Mary Magdalene de’ Pazzi was born into a Florentine family in 1566 and baptized Caterina. She entered the Carmel of Saint Mary of the Angels in Florence and received the Carmelite habit in 1583. The convent’s practice of frequent Communion helped draw her there. In 1584, when she became gravely ill, her superiors allowed her to make her profession early.",
+  "Her companions observed episodes of intense prayer around this period and later. They recorded what she said or dictated, creating several volumes that include recollections of these experiences and her reflections on Scripture and worship. She also dictated letters urging reform of the Church. Some may never have been sent, but the collection preserves the concerns she wanted Catholic leaders to address.",
+  "The same sources record prolonged periods of spiritual dryness and physical suffering. Her work in the convent continued through those years. She helped form women entering religious life, and a collection of her counsels reflects that responsibility.",
+  "She died in 1607. The writings associated with her are unusual because other Carmelites recorded much of what survives. They give a view of a community trying to understand an individual member’s experiences while continuing its ordinary work of worship, formation, and care for one another.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Mary Magdalene de’ Pazzi"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-mary-magdalene-de-pazzi/"
+
+[[saints.sources]]
+title = "Benedict XVI — Letter on the fourth centenary of Saint Mary Magdalene de’ Pazzi"
+url = "https://www.vatican.va/content/benedict-xvi/en/letters/2007/documents/hf_ben-xvi_let_20070429_maddalena-pazzi.html"

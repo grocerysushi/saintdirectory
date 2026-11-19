@@ -7,8 +7,10 @@ vocation = "Early Christian minister and martyr"
 place = "Jerusalem"
 summary = "The Acts of the Apostles recounts Stephen’s service and his death as the first named Christian martyr."
 biography = [
-  "Acts introduces Stephen as one of seven men chosen after Greek-speaking believers complained that their widows were being overlooked in the community’s daily distribution. The seven were entrusted with the work so that the apostles could give their attention to prayer and preaching.",
-  "Stephen was brought before the council and stoned after making a long defense of his faith. In the account, he prayed for his killers while Saul, later known as Paul, approved of his death.",
+  "Stephen appears in the Acts of the Apostles when the young Church in Jerusalem faces an argument about food. Greek-speaking believers complained that their widows were being neglected in the daily distribution. The apostles asked the assembly to choose seven people to oversee the work. Stephen was among those selected, and the apostles prayed and laid hands on the seven. The episode gives a place in the Church’s earliest history to the practical problem of caring for people fairly.",
+  "Acts also presents Stephen as a public witness. His opponents disputed with him and brought him before the council, where witnesses accused him of speaking against the Temple and the law. He answered with a speech following the story of Israel from Abraham through Moses to the prophets. His argument culminates in an accusation that his hearers have resisted the Holy Spirit.",
+  "The account says Stephen looked toward heaven and spoke of seeing Jesus at God’s right hand. The crowd drove him outside the city and stoned him. Stephen prayed for those killing him. Acts calls attention to Saul, who was present and approved of the execution. Saul would later become the Christian missionary Paul.",
+  "Luke’s narrative places the death at the beginning of a wider persecution in Jerusalem. Believers scattered into Judea and Samaria, taking their preaching with them. Christian tradition remembers Stephen as the first martyr named in the Church’s story and as a model for those charged with service.",
 ]
 
 [[saints.sources]]
@@ -23,6 +25,10 @@ url = "https://bible.usccb.org/bible/acts/7"
 title = "Franciscan Media — Saint Stephen"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-stephen"
 
+[[saints.sources]]
+title = "USCCB Bible — Acts of the Apostles, chapter 8"
+url = "https://bible.usccb.org/bible/acts/8"
+
 [[saints]]
 id = "lawrence-of-rome"
 name = "Saint Lawrence of Rome"
@@ -32,8 +38,10 @@ vocation = "Deacon and martyr"
 place = "Rome, Italy"
 summary = "A Roman deacon executed during the persecution of Christians under Emperor Valerian."
 biography = [
-  "Lawrence served the Church of Rome as a deacon and died in the persecution that also claimed Pope Sixtus II. The community continued to honor his memory at his burial site on the Via Tiburtina.",
-  "A famous account says that Lawrence presented people living in poverty when officials demanded the Church’s treasures. The story and the traditional account of his death on a gridiron belong to the later record of his veneration.",
+  "Lawrence served as a deacon in Rome under Pope Sixtus II. In 258, Emperor Valerian’s persecution reached the clergy of the city. Sixtus was executed, and Lawrence died a few days later. Early Christian communities preserved the names of the martyrs even though few securely documented details about Lawrence’s life or his execution have survived.",
+  "A tradition associated with Lawrence’s service as deacon tells of an official who demanded the Church’s property. Lawrence is said to have distributed what was available and then presented the people receiving the Church’s aid. The story locates the Church’s wealth in the people it cares for. Later writers told it as an example of the obligations that come with overseeing a community’s resources.",
+  "Another tradition says that he was killed on a gridiron. The image became familiar in Christian art, where the object often identifies him. Accounts of his final words and the precise method used to kill him belong to the literary tradition surrounding his martyrdom.",
+  "Rome honored Lawrence at his grave on the Via Tiburtina. The basilica built at the site became one of the city’s principal pilgrim churches. His annual feast, observed on August 10, shows how quickly the memory of an otherwise little-documented Roman deacon could take root far from his own congregation.",
 ]
 
 [[saints.sources]]
@@ -49,8 +57,9 @@ vocation = "Virgin and martyr"
 place = "Rome, Italy"
 summary = "An early Roman martyr remembered for her youth and fidelity to Christ."
 biography = [
-  "Early Christian writers, including Ambrose of Milan, remembered Agnes as a young girl who faced death with courage. Her tomb on the Via Nomentana became a center of devotion in Rome.",
-  "Later accounts give different descriptions of the circumstances of her death. Her age, the precise year, and much of the familiar story of her trial remain uncertain.",
+  "Agnes was a young Christian martyr of Rome. Evidence for her early veneration comes from the burial site on the Via Nomentana and from writers of late antiquity. Ambrose of Milan held up her youth and conviction in his writing on virginity. The survival of early testimony makes it possible to trace her reputation even though a continuous account of her life is unavailable.",
+  "Ancient and later authors relate her death in different ways. Christian tradition remembers her as refusing to give up her faith or her commitment to virginity. The exact year, her precise age, and the circumstances of her execution are uncertain. The familiar stories of threats made against her belong to accounts written to commemorate her courage.",
+  "The church of Sant’Agnese fuori le Mura grew around her burial place. Her name entered the Roman Canon, the historic Eucharistic prayer of the Roman Rite. In art she is often shown with a lamb, a symbol connected to her name in Latin devotional tradition. Her memorial falls on January 21.",
 ]
 
 [[saints.sources]]
@@ -66,8 +75,9 @@ vocation = "Virgin and martyr"
 place = "Catania, Sicily, Italy"
 summary = "A Sicilian martyr honored in Catania and remembered in the Roman Canon."
 biography = [
-  "Agatha’s early cult was centered in Catania, where tradition places her imprisonment and death during the persecution under Decius. She is named among the martyrs in the Roman Canon.",
-  "The familiar account of Agatha’s resistance to a Roman official and the injuries she suffered comes from traditions about her passion. These accounts shaped depictions of Agatha even though the details cannot be securely reconstructed.",
+  "Agatha is remembered as a Christian martyr of Sicily, and Catania has been a center of her veneration since antiquity. Tradition places her death around 251, during the persecution under Emperor Decius. Secure contemporary details about her family, her trial, and the precise circumstances of her death are scarce.",
+  "The narratives of her passion present Agatha as a young woman committed to Christ who refuses the demands of a Roman official. They recount imprisonment and serious injuries. These later accounts shaped the images by which readers and worshippers recognize her, and they should be read as part of the history of her devotion.",
+  "Agatha is named among the martyrs in the Roman Canon. Catania venerates her as a protector, and local tradition associates her with appeals for help during volcanic danger. Devotion also came to connect her with people suffering from diseases of the breast. The Roman Rite celebrates her memorial on February 5.",
 ]
 
 [[saints.sources]]
@@ -83,8 +93,9 @@ vocation = "Virgin and martyr"
 place = "Syracuse, Sicily, Italy"
 summary = "A Sicilian martyr whose ancient cult spread widely through the Church."
 biography = [
-  "Lucy was honored as a martyr at Syracuse and is remembered by name in the Roman Canon. Tradition places her death in the persecution of Christians under Diocletian.",
-  "Accounts of her broken engagement and the circumstances of her death come from later narratives. The association with eyes and sight became a prominent part of her devotion and iconography.",
+  "Lucy was honored as a martyr in Syracuse, Sicily. The ancient devotion and the preservation of her name provide more reliable evidence than the detailed accounts told about her later. Tradition places her execution around 304, during the persecution of Christians in the reign of Diocletian.",
+  "One account describes Lucy as a young woman who decided to remain unmarried and devote her resources to people in need. When a disappointed suitor denounced her as a Christian, she refused to surrender her faith. The trial and the familiar details about injuries to her eyes come from later tradition.",
+  "Her memorial falls on December 13. Devotion to Lucy has spread through the Roman Canon, churches bearing her name, and the customs that surround her feast in various countries. Her name became associated with light, and depictions often show her holding a pair of eyes. Catholics have long invoked her in connection with eye disorders and the loss of sight.",
 ]
 patronage = ["Traditionally invoked by people with eye disorders"]
 
@@ -101,8 +112,10 @@ vocation = "Early Christian martyr"
 place = "Carthage, present-day Tunisia"
 summary = "A young mother executed for her Christian faith in Roman Africa, whose account of prison survives in an early passion narrative."
 biography = [
-  "Perpetua was arrested as part of a group preparing for baptism. The ancient Passion of Perpetua and Felicity preserves a first-person account attributed to Perpetua, describing her father’s appeals, her care for her infant and the visions that sustained her in prison.",
-  "An anonymous narrator completes the account of her execution alongside Felicity and their companions in the arena at Carthage. Perpetua and Felicity are both named in the Roman Canon.",
+  "Perpetua belonged to a group of Christians imprisoned near Carthage in Roman North Africa. The ancient Passion of Perpetua and Felicity includes an account narrated in her voice. The surviving work also contains material from another prisoner, Saturus, and a narrator who describes the events the prisoners could no longer record themselves.",
+  "The section attributed to Perpetua describes her as a young mother who is still nursing her child. She recounts the anxiety of being separated from the baby and the relief of securing permission to keep the child with her for a time. Her father visits and pleads with her to spare the family further grief by yielding. At her hearing, Perpetua continues to identify herself as a Christian.",
+  "The account includes dreams and visions in which she makes sense of what is happening. A ladder guarded by a dragon becomes an image of danger and the way forward. In another vision, her dead brother Dinocrates passes from suffering to a condition of relief. These episodes show what Perpetua and the community that preserved her testimony thought prayer could mean under extreme pressure.",
+  "An anonymous narrator recounts Perpetua’s death with Felicity and their companions at the public games in 203. Their joint memorial on March 7 and their names in the Roman Canon preserve the connection between two women whose circumstances differed and whose imprisonment brought them together.",
 ]
 
 [[saints.sources]]
@@ -122,8 +135,10 @@ vocation = "Early Christian martyr"
 place = "Carthage, present-day Tunisia"
 summary = "An enslaved Christian who gave birth in prison and was executed with Perpetua and their companions."
 biography = [
-  "Felicity, also called Felicitas, appears in the early account of the Carthaginian martyrs as an enslaved woman arrested while preparing for baptism. She was pregnant at her arrest and gave birth shortly before the group was sent to the arena.",
-  "The account says another Christian woman took in her baby. Felicity died alongside Perpetua, and the two women are remembered together in the Roman Canon.",
+  "Felicity, or Felicitas, was an enslaved member of a group arrested for their Christian faith near Carthage. The group included Perpetua, whose first-person account survives as part of the ancient Passion of Perpetua and Felicity. Felicity’s story is told principally by the narrator who completes that text.",
+  "According to the Passion, Felicity was pregnant and feared that she would be kept behind when the other prisoners died, since the law barred the execution of a pregnant woman. The prisoners prayed together. She gave birth in custody shortly before the appointed day, and the narrator says that another Christian woman raised her daughter.",
+  "The narrator records an exchange in which a guard mocks Felicity’s pain in childbirth. Felicity replies that Christ will share her suffering when the time comes to face death. The scene is an example of how the text presents Felicity as able to speak and act for herself under conditions that sharply restricted her freedom.",
+  "Felicity and Perpetua were executed with their companions in 203. Their stories show different experiences of motherhood, social standing, and imprisonment within the same Christian community. The Church remembers both women together on March 7 and names them in the Roman Canon. The Passion itself remains the most important evidence for the details preserved about Felicity.",
 ]
 
 [[saints.sources]]
@@ -143,8 +158,9 @@ vocation = "Martyr"
 place = "Rome, Italy"
 summary = "An early Roman martyr whose burial site on the Appian Way became a place of veneration."
 biography = [
-  "Sebastian is remembered in an early Roman calendar, and his shrine is associated with the catacombs on the Via Appia. Secure details about his life and execution are scarce.",
-  "A later narrative makes Sebastian a soldier under Diocletian and says he survived an execution by arrows before being killed. The image of Sebastian bound and pierced by arrows comes from that tradition.",
+  "Sebastian’s burial was associated with the Appian Way outside Rome. His name appears in an early Roman calendar of martyrs, evidence that Christians had begun to mark his death within the life of the city. The catacombs and basilica that bear his name preserve a place in Rome’s pilgrimage tradition.",
+  "The most familiar story comes from a later passion narrative. It presents Sebastian as a Roman soldier who used his position to sustain Christians facing arrest. According to that account, he survived being shot with arrows and was eventually killed after confronting the emperor. There is little secure evidence for these episodes beyond the tradition that carried them.",
+  "The image of Sebastian bound and pierced by arrows spread through medieval and Renaissance art. Devotions in Christian communities also associated him with appeals for protection during plague. The Roman Rite places his observance on January 20, the same date as the commemoration of Pope Fabian. The early burial tradition and the later imagery illuminate different parts of Sebastian’s long reception.",
 ]
 
 [[saints.sources]]
@@ -160,8 +176,9 @@ vocation = "Pope and martyr"
 place = "Rome, Italy"
 summary = "A bishop of Rome who died during the persecution under Emperor Decius."
 biography = [
-  "Fabian became bishop of Rome in 236 and led the community for about fourteen years. The historian Eusebius preserved the tradition that a dove landing on Fabian helped prompt his unexpected election.",
-  "Fabian was killed during the persecution under Decius. His burial in the cemetery of Callistus is attested by a surviving grave inscription.",
+  "Fabian became bishop of Rome in 236, when Roman Christians still met within a society that periodically treated their religious allegiance as suspect. Eusebius, writing much later, recounts that Fabian was visiting the city when a dove settled on him during the assembly choosing a bishop. In the story, the community took it as a sign and elected Fabian. The episode records a tradition about his election.",
+  "Fabian served for about fourteen years. His death came in 250 during the persecution associated with Emperor Decius. Cyprian of Carthage later wrote with admiration of his conduct and death, an indication that the Roman community’s loss was known beyond the city.",
+  "A grave inscription from the catacomb of Saint Callistus identifies Fabian in Greek as a bishop and martyr. The surviving stone gives a physical point of reference for a figure whose earlier life is otherwise sparsely documented. The Roman Rite remembers him on January 20, the same date as the observance of the martyr Sebastian.",
 ]
 
 [[saints.sources]]
@@ -177,8 +194,10 @@ vocation = "Bishop, early Christian writer, and martyr"
 place = "Smyrna, now İzmir, Türkiye"
 summary = "An early bishop whose letter to the Philippians and whose community’s account of his martyrdom survive."
 biography = [
-  "Polycarp was bishop of Smyrna in Roman Asia. His letter to the Church at Philippi gives practical counsel on Christian life and offers a window into how early Christian communities shared teachings and writings.",
-  "An account circulated by his own community describes his refusal to renounce Christ and his execution at Smyrna. Historians date the event to the second century and differ on the precise year.",
+  "Polycarp led the Christian community of Smyrna, a city on the coast of Roman Asia. Ignatius of Antioch wrote to him while being taken to Rome, and Polycarp’s own letter to the Philippians survives. The correspondence shows leaders of communities at considerable distances exchanging news, advice, and copies of letters.",
+  "In his letter Polycarp urges the Philippians to persevere in faith and gives counsel to widows, deacons, presbyters, and others. He asks the community to share any further news of Ignatius and his companions. The letter is also evidence of how early Christian writers used texts that would become part of the New Testament in their pastoral teaching.",
+  "The Church at Smyrna circulated an account of Polycarp’s arrest and death. It describes an old man who was asked to deny Christ and refused. The account draws attention to the congregation’s desire to preserve his memory and honor the anniversary of his death. Its dramatic scenes belong to the ancient community’s testimony and have shaped later pictures of martyrdom.",
+  "The exact year of his execution is debated, with dates in the middle decades of the second century most often proposed. Polycarp’s place in early Christian memory rests both on his own surviving words and on how his community recorded his death.",
 ]
 
 [[saints.sources]]
@@ -194,13 +213,19 @@ vocation = "Bishop, early Christian writer, and martyr"
 place = "Antioch, now Antakya, Türkiye, and Rome"
 summary = "A bishop whose letters from custody are early witnesses to Christian worship and church leadership."
 biography = [
-  "Ignatius led the Christian community of Antioch. While being taken to Rome under guard, he wrote to congregations he met or heard from on the journey, as well as to Polycarp of Smyrna.",
-  "His letters speak about unity around the bishop, the Eucharist, and Christ’s real suffering. In his letter to the Romans he asked the community to refrain from intervening to save his life.",
+  "Ignatius served as bishop in Antioch, an important city in Roman Syria where a Christian community had formed early. What can be said about him with the greatest confidence comes from the letters he wrote after his arrest, when he was under guard on the way to Rome. Christian tradition places his martyrdom in the early second century.",
+  "Seven letters are widely accepted as his. From Smyrna he addressed the churches of Ephesus, Magnesia, Tralles, and Rome. Further along the journey he wrote to Philadelphia and Smyrna and sent a personal letter to Polycarp. The collection shows a prisoner who remained in active conversation with communities meeting and worshipping across Roman Asia.",
+  "Ignatius urged his readers to hold together around their bishops and to pursue a common life of prayer and worship. He insisted on the reality of Christ’s human suffering and wrote of the Eucharist in close connection with that belief. His letter to Rome takes a different tone, asking the community there to refrain from acting to prevent his death.",
+  "The later historian Eusebius records the tradition that Ignatius was executed in Rome. The letters matter independently of the details of that final event. Their language offers an early witness to the emergence of the term Catholic Church and to how a bishop understood his responsibility for unity.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Ignatius of Antioch"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-ignatius-of-antioch"
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Ignatius of Antioch"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070314.html"
 
 [[saints]]
 id = "blaise"
@@ -211,8 +236,9 @@ vocation = "Bishop and martyr"
 place = "Sebaste, now Sivas, Türkiye"
 summary = "A bishop and martyr whose traditional association with throat ailments is remembered in the blessing of throats."
 biography = [
-  "Christian tradition remembers Blaise as a bishop of Sebaste, an ancient city in what is now Türkiye, who was killed during a persecution. Detailed stories of his life circulated long after the period in which he is believed to have lived.",
-  "One of those stories recounts his helping a child who was choking. It is associated with the custom of blessing throats using crossed candles on his feast day.",
+  "Blaise is remembered as a bishop of Sebaste, an ancient city at the site of modern Sivas in Türkiye. Tradition places his death during the Roman persecutions in the early fourth century. Much of what is told about him survives in accounts composed after that period, so few details of his ministry or death can be independently established.",
+  "One tradition has him withdrawing from danger to a place where wild animals gathered. Another recounts his helping a child who was choking. These stories helped shape devotion to Blaise as a protector of those suffering from ailments of the throat.",
+  "The Roman Rite commemorates him on February 3. In the blessing associated with his feast, two candles are held in the form of a cross as a prayer is said for protection from illnesses of the throat and other harm. The blessing remains the way many Catholics first encounter a saint whose ancient biography is largely lost.",
 ]
 patronage = ["Traditionally invoked against throat ailments"]
 
@@ -229,8 +255,9 @@ vocation = "Martyr"
 place = "Lydda, now Lod, Israel, in traditions of his burial"
 summary = "A martyr widely honored in Eastern and Western Christianity and remembered in a later story about a dragon."
 biography = [
-  "An early center of devotion to George was Lydda. Tradition describes him as a soldier martyred during the Roman persecutions, although reliable details of his life are few.",
-  "The tale in which George defeats a dragon and saves a town became prominent in medieval literature and art. It belongs to the later history of his devotion.",
+  "George is venerated as a martyr in both Eastern and Western Christianity. One ancient center of his cult was Lydda, now Lod, where pilgrims honored a place associated with his burial. Tradition describes him as a soldier during the Roman persecutions. The date and circumstances of his death and the details of his service remain uncertain.",
+  "Different versions of George’s passion were already circulating in antiquity. The story of a town threatened by a dragon belongs to a much later phase of his devotion. In medieval retellings, George defeats the dragon and saves a young woman offered to it. Christian artists used the scene to portray courage and deliverance.",
+  "The cult of George developed its own local forms across the Christian world. In England his name became attached to national patronage and to the red cross on a white ground. His Roman Rite memorial falls on April 23. The breadth of the devotion is well attested even where the surviving evidence for George’s life is limited.",
 ]
 patronage = ["Traditionally venerated as a patron of England"]
 
@@ -247,8 +274,9 @@ vocation = "Deacon and martyr"
 place = "Zaragoza and Valencia, Spain"
 summary = "A Spanish deacon venerated as a martyr in Valencia from early Christian times."
 biography = [
-  "Vincent served as a deacon in Zaragoza under Bishop Valerius. Christian tradition places his arrest during the reign of Diocletian and his death at Valencia after he refused to surrender his faith.",
-  "The poet Prudentius celebrated Vincent in late antiquity. The graphic particulars of the torture and the stories surrounding his burial are preserved in accounts written after his death.",
+  "Vincent served as a deacon in Zaragoza and is venerated as a martyr in Valencia. Late antique writers preserve evidence of his reputation. The poet Prudentius celebrated him in verse, and Augustine preached about his martyrdom. Such works show that his memory traveled beyond the city where he died.",
+  "In the traditional account, Vincent was arrested with his bishop, Valerius, during the persecution under Diocletian. The bishop was sent away, and Vincent remained in custody. The accounts portray him resisting demands to hand over sacred books and refusing to abandon his faith. The narratives of his trials were written after his death and give more detail than can be firmly established.",
+  "His burial at Valencia became a focus of local devotion. Later stories offered different explanations for how his body reached its resting place, and Christian art used images from his passion to identify him. The General Roman Calendar assigns his commemoration to January 22. The U.S. proper calendar lists it on January 23.",
 ]
 
 [[saints.sources]]
@@ -264,8 +292,9 @@ vocation = "Martyr, traditionally a priest"
 place = "Rome, Italy"
 summary = "A martyr remembered on February 14 whose historical identity is difficult to distinguish from other saints named Valentine."
 biography = [
-  "Tradition remembers a priest named Valentine who died as a martyr in Rome. Another early devotion honors a bishop of Terni of the same name. The sources leave open whether these traditions describe two men or variants of one martyr’s story.",
-  "The custom of exchanging tokens of affection on February 14 belongs to the later history of Saint Valentine’s Day. The stories that connect Valentine personally with secret weddings cannot be established as historical fact.",
+  "Valentine of Rome is traditionally remembered as a priest and martyr associated with the Via Flaminia. Another devotion honors a bishop of Terni named Valentine. Early evidence is too thin to settle whether these traditions concern different people or whether a single martyr’s cult developed more than one account. Dates and details given in later stories should be treated accordingly.",
+  "Accounts of the Roman priest often place him in the third century and connect him with persecution under a Roman emperor. Stories of his helping Christians, healing the daughter of a man responsible for keeping him under guard, or arranging secret marriages vary across versions. They attest to changing ways in which Christians and later popular culture imagined his life.",
+  "The association between February 14 and the exchange of tokens of affection developed long after the period usually assigned to Valentine. Late medieval writers helped give the day a connection with courtship, and later customs extended it to letters, cards, and gifts. The existence of those traditions leaves the historical identity of the ancient martyr open.",
 ]
 patronage = ["Traditionally associated with lovers"]
 
@@ -286,13 +315,19 @@ vocation = "Bishop, cardinal, and martyr"
 place = "Rochester and London, England"
 summary = "A scholar and bishop executed after refusing to recognize Henry VIII as supreme head of the Church in England."
 biography = [
-  "Fisher helped advance higher education at Cambridge and served for three decades as bishop of Rochester. He defended the validity of Henry VIII’s marriage to Catherine of Aragon and opposed royal supremacy over the English Church.",
-  "Fisher was imprisoned in the Tower of London, and Pope Paul III made him a cardinal during his imprisonment. He was executed in June 1535 and canonized with Thomas More in 1935.",
+  "John Fisher studied at Cambridge, where he became a priest, teacher, and eventually chancellor of the university. He worked with Lady Margaret Beaufort, the mother of Henry VII, to advance education and helped carry out her plans for colleges at Cambridge. Fisher’s interest in learning extended to preaching and to the formation of clergy. He became bishop of Rochester in 1504 and served there for three decades.",
+  "Fisher took part in the theological controversies of the early Reformation, writing in defense of Catholic teaching. His public role also brought him into Henry VIII’s dispute over the validity of the king’s marriage to Catherine of Aragon. Fisher defended the marriage. He later opposed the king’s claim to supremacy over the Church in England.",
+  "In 1534 Fisher and Thomas More refused the oath demanded under the succession legislation and were confined in the Tower of London. While Fisher was in prison, Pope Paul III made him a cardinal. Henry’s government proceeded against him for treason over his denial of the king’s ecclesiastical supremacy. He was executed on Tower Hill on June 22, 1535, several weeks before More.",
+  "The Catholic Church canonized Fisher and More together in 1935. Their stories intersect at the Tower, although their careers were different. Fisher’s defense of what he understood as the freedom of the Church came after years spent as a teacher, preacher, and diocesan bishop.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint John Fisher"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-fisher"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint John Fisher"
+url = "https://www.britannica.com/biography/Saint-John-Fisher"
 
 [[saints]]
 id = "thomas-more"
@@ -303,13 +338,19 @@ vocation = "Layman, statesman, and martyr"
 place = "London, England"
 summary = "The author of Utopia and former lord chancellor was executed amid Henry VIII’s break with Rome."
 biography = [
-  "More was a lawyer, humanist author, and father who became lord chancellor under Henry VIII. He resigned in 1532 and was later jailed after he refused the oath required under the succession legislation.",
-  "The government prosecuted More for treason under the royal supremacy laws. He was beheaded in 1535 and canonized in 1935. His letters from prison record his concern for his family and his reasons for standing by his conscience.",
+  "Thomas More grew up in London and trained in law. An accomplished humanist who was close to Erasmus, he wrote Utopia in Latin. The book uses an imaginary society and a conversation among travelers to examine questions about property, punishment, and public life. The work gives a different view of More from the one that emerges from the records of his trial.",
+  "More served Henry VIII as a diplomat and adviser and became lord chancellor in 1529. He defended Catholic teaching against the early English Reformation and supported the prosecution of heresy. His religious writings from this period document both his convictions and the harsh boundaries governments and church authorities drew around religious dissent.",
+  "More resigned from office in 1532. In 1534 he declined the oath required under legislation governing the royal succession and was imprisoned in the Tower of London. The government subsequently tried him for treason over the king’s claim to supremacy in the Church. He was executed on July 6, 1535.",
+  "His prison correspondence includes letters to his family, particularly his daughter Margaret Roper. These letters show him working through the practical and personal cost of the position he had taken. The Catholic Church canonized him with John Fisher in 1935. His career continues to draw attention to the relationship between public office, religious allegiance, and conscience.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Thomas More"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-thomas-more"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Thomas More"
+url = "https://www.britannica.com/biography/Thomas-More-English-humanist-and-statesman"
 
 [[saints]]
 id = "maximilian-kolbe"
@@ -320,13 +361,19 @@ vocation = "Conventual Franciscan priest and martyr"
 place = "Poland, Japan, and Auschwitz"
 summary = "A Polish Franciscan who ran publications and missions and offered to die in place of another prisoner at Auschwitz."
 biography = [
-  "Kolbe founded the Militia of the Immaculata and helped establish large-scale Catholic publishing at Niepokalanów in Poland. He also worked as a missionary in Japan before returning to Poland.",
-  "Imprisoned at Auschwitz during the Nazi occupation, Kolbe volunteered to take the place of Franciszek Gajowniczek, a prisoner selected for death by starvation. After surviving several days in the starvation bunker, Kolbe was killed by lethal injection in August 1941.",
+  "Born Rajmund Kolbe, Maximilian entered the Conventual Franciscans and studied in Rome. He was ordained a priest in 1918. While still a student, he helped establish a movement called the Militia of the Immaculata, encouraging members to place their prayer and missionary work under Mary’s patronage.",
+  "Kolbe developed publications that could reach readers well beyond the friary. In Poland he established a publishing community at Niepokalanów and circulated a magazine called the Knight of the Immaculata. He also traveled to Japan, where he founded a Franciscan community near Nagasaki and helped publish a Japanese edition of the magazine.",
+  "German occupation authorities arrested Kolbe and a group of friars in 1939, then released them. He was arrested again in February 1941 and sent to Auschwitz in May. That summer, after a prisoner went missing, guards selected ten men to die by starvation in retaliation. Kolbe offered himself in the place of Franciszek Gajowniczek, who had spoken of his wife and children. The guards accepted the exchange.",
+  "Kolbe was kept in a starvation bunker with the other men. He survived until guards killed him by injection on August 14, 1941. Gajowniczek survived the war and later spoke publicly about Kolbe’s decision. The Auschwitz Memorial’s account draws on prisoner testimony and surviving records. Pope John Paul II canonized Kolbe in 1982 and recognized him as a martyr.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Maximilian Mary Kolbe"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-maximilian-mary-kolbe"
+
+[[saints.sources]]
+title = "Auschwitz Memorial — The Sacrifice and Death of Father Maximilian Kolbe"
+url = "https://www.auschwitz.org/en/education/e-learning/podcast/the-sacrifice-and-death-of-father-maximilian-kolbe/"
 
 [[saints]]
 id = "edith-stein"
@@ -337,13 +384,20 @@ vocation = "Discalced Carmelite, philosopher, and martyr"
 place = "Germany, the Netherlands, and Auschwitz-Birkenau"
 summary = "A Jewish-born philosopher who became a Catholic Carmelite and was murdered at Auschwitz-Birkenau in the Holocaust."
 biography = [
-  "Edith Stein grew up in a Jewish family in Breslau, now Wrocław. She earned a doctorate in philosophy and worked in phenomenology, then entered the Catholic Church and took the name Teresa Benedicta of the Cross as a Carmelite.",
-  "She moved to a convent at Echt in the Netherlands. After Dutch bishops publicly condemned Nazi deportations, German authorities arrested Jewish Catholics, including Edith and her sister Rosa. The sisters were transported to Auschwitz-Birkenau and murdered in 1942.",
+  "Edith Stein was born in Breslau, now Wrocław, into a Jewish family. She pursued philosophy in Göttingen and Freiburg, where she studied with Edmund Husserl. Her doctoral work examined empathy and the way another person’s experience becomes accessible to us. During the First World War she also worked as a volunteer nurse.",
+  "Stein assisted Husserl with his manuscripts and continued developing her own account of how people encounter each other as persons. Her work addressed emotions, shared experience, and the relation between individual lives and communities. These early investigations remained important to her later work as she took up questions about education and Christian philosophy.",
+  "Stein entered the Catholic Church in 1922. She taught and wrote on education, the role of women, and the relationship between philosophy and Christian thought. After Nazi restrictions cut short her work in Germany, she entered the Discalced Carmelite convent in Cologne and took the religious name Teresa Benedicta of the Cross. Her study of the mysticism of John of the Cross continued in religious life.",
+  "Stein moved to the Carmel at Echt in the Netherlands. Her sister Rosa, who had also become Catholic, joined her there. After Dutch bishops denounced Nazi deportations, the occupation authorities arrested Catholics of Jewish ancestry. Edith and Rosa were taken to the Westerbork transit camp and deported to Auschwitz-Birkenau, where they were murdered in August 1942.",
+  "The Catholic Church canonized Stein in 1998 and later named her a co-patron of Europe. Her murder belongs to the history of the Holocaust. Reading her writings alongside the record of her persecution helps explain why she is remembered in several settings, as a philosopher, a Carmelite, and a Jewish-born victim of Nazi racial persecution.",
 ]
 
 [[saints.sources]]
 title = "Holy See — Edith Stein, Teresa Benedicta of the Cross"
 url = "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_19981011_edith_stein_en.html"
+
+[[saints.sources]]
+title = "Stanford Encyclopedia of Philosophy — Edith Stein"
+url = "https://plato.stanford.edu/entries/stein/"
 
 [[saints]]
 id = "oscar-romero"
@@ -354,13 +408,19 @@ vocation = "Archbishop and martyr"
 place = "San Salvador, El Salvador"
 summary = "The archbishop of San Salvador spoke publicly against killings and repression and was assassinated while celebrating Mass."
 biography = [
-  "Romero became archbishop of San Salvador in 1977. As political violence intensified, he used his homilies to name abuses, defend the poor, and appeal to people with the power to stop killings.",
-  "On March 24, 1980, he was shot while celebrating Mass in a hospital chapel. The Catholic Church recognized his death as martyrdom and canonized him in 2018.",
+  "Óscar Romero was ordained in Rome and returned to El Salvador to work as a priest. He served as auxiliary bishop of San Salvador and then as bishop of Santiago de María before becoming archbishop of San Salvador in 1977. At a time of growing conflict over land, labor, and political power, people in church communities and rural districts faced escalating violence.",
+  "The killing of his friend, the Jesuit priest Rutilio Grande, alongside two companions in March 1977 had a profound effect on Romero. His Sunday preaching increasingly named people who had been killed or had disappeared and appealed to authorities to investigate. Broadcasts carried the homilies beyond the cathedral to listeners across the country.",
+  "Romero called attention to attacks on people from many walks of life, including rural workers, clergy, and lay Catholics. In his final Sunday homily he asked soldiers to obey their consciences and refuse orders to kill their own people. The next day, March 24, 1980, he was shot while celebrating Mass in the chapel of a hospital for patients with cancer.",
+  "The Church beatified Romero in El Salvador in 2015 and canonized him in 2018. His recorded homilies provide unusually direct evidence for how a bishop spoke to a country moving into civil war. They also preserve names and events that mattered to communities facing persecution and loss.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Óscar Arnulfo Romero"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-oscar-arnulfo-romero"
+
+[[saints.sources]]
+title = "Archbishop Romero Trust — Romero’s Homilies"
+url = "https://www.romerotrust.org.uk/homilies-and-writing/homilies/"
 
 [[saints]]
 id = "charles-lwanga"
@@ -371,8 +431,10 @@ vocation = "Lay catechist and martyr"
 place = "Kingdom of Buganda, present-day Uganda"
 summary = "A catechist at the Bugandan royal court who was killed in the persecution of Christian converts under Mwanga II."
 biography = [
-  "Charles served at the court of Mwanga II and helped instruct young pages in the Christian faith. During the persecution of converts, he defended younger members of the court and continued to support those who chose to be baptized.",
-  "Charles was killed at Namugongo in June 1886. He is remembered with other Catholic martyrs of Uganda, and Anglican Christians were also killed in the persecution.",
+  "Charles Lwanga served at the royal court of Buganda, an African kingdom in what is now Uganda. Catholic and Protestant missionaries had arrived in the region in the years before Charles was killed. Some members of the court began to receive instruction and be baptized. Their new religious loyalties became a source of conflict under King Mwanga II.",
+  "Charles became a leader among the Catholic pages after the killing of Joseph Mukasa Balikuddembe. Accounts of the martyrs remember Charles helping to protect younger pages and instructing those who wanted to become Christians. According to the tradition preserved by members of the community, he baptized several of them as the danger of arrest increased.",
+  "Mwanga ordered a number of converts at court to be put to death. Charles was among those killed at Namugongo in June 1886. The prisoners included adults and young people. Anglican Christians were also killed during the persecution, and their churches commemorate them alongside the Catholic martyrs.",
+  "The Catholic Church canonized Charles and twenty-one other martyrs of Uganda in 1964. In Uganda, pilgrimages to Namugongo connect the story to the places where people died, while the Roman Rite remembers Charles and his companions on June 3. Their histories preserve the choices of African Christians during the early growth of Christianity in Buganda.",
 ]
 
 [[saints.sources]]
@@ -388,8 +450,10 @@ vocation = "Jesuit preacher and martyr"
 place = "Japan"
 summary = "A Japanese Jesuit who preached the Christian faith and was crucified at Nagasaki with twenty-five companions."
 biography = [
-  "Paul Miki entered the Society of Jesus in Japan and became known for preaching in his own language. He was still awaiting ordination when the ruler Toyotomi Hideyoshi ordered the arrest of a group of Christians.",
-  "The prisoners included Franciscans, Jesuits, and laypeople. They were taken to Nagasaki and crucified in February 1597. Accounts of the execution recall that Miki addressed the crowd and forgave those responsible for his death.",
+  "Paul Miki was a Japanese Christian who entered the Society of Jesus. He became a preacher and was studying for the priesthood when he was arrested. His ability to preach in Japanese made him an important figure in a Christian community that had grown from missionary contacts to include its own teachers, religious, and lay leaders.",
+  "In the 1590s the ruler Toyotomi Hideyoshi took measures against some Christian missions. The people arrested with Miki included Japanese Christians and Franciscan missionaries. The authorities marched the prisoners to Nagasaki, where twenty-six of them were executed in February 1597. The group included laypeople as well as friars and Jesuits.",
+  "Accounts of their death recall that Miki addressed the people who gathered beneath the crosses. He identified himself as Japanese and Christian and spoke of forgiveness. These accounts preserve how Christian witnesses understood his final preaching. They also show that the victims belonged to several different communities and were of widely differing ages.",
+  "The twenty-six martyrs were canonized in 1862. A memorial site at Nishizaka in Nagasaki recalls the place of their execution, and the Roman Rite commemorates Miki and his companions on February 6. Miki’s name in the title of the memorial points readers to a group whose members shared a death and whose paths to Christianity had been quite different.",
 ]
 
 [[saints.sources]]
@@ -405,13 +469,19 @@ vocation = "Jesuit priest, missionary, and martyr"
 place = "New France and the Mohawk Valley"
 summary = "A French Jesuit who returned to the Mohawk Valley after surviving captivity and was killed there in 1646."
 biography = [
-  "Jogues came to New France in 1636 and served among the Wendat. During travel in 1642 he was captured by a Mohawk party with other members of his group. After more than a year in captivity, Dutch settlers helped him escape.",
-  "He returned to North America and went again to the Mohawk Valley, where he was killed in 1646. His companion Jean de Lalande was also killed. They are remembered among the North American Martyrs.",
+  "Isaac Jogues was born at Orléans and entered the Jesuits in France. He reached New France in 1636 and served among the Wendat. His travels took place within a network of Indigenous alliances, conflicts, and trade in which French settlers and missionaries were new participants. The mission depended on the people who hosted, guided, and interpreted for the Europeans.",
+  "In 1642 a Mohawk party captured Jogues and others as they traveled. Among the group was René Goupil, who was later killed. Jogues was held for more than a year before Dutch colonists helped him escape. He returned to France but decided to go back to New France.",
+  "He later undertook a journey connected with efforts to maintain peace with the Mohawk. In 1646 he entered the Mohawk Valley again with Jean de Lalande. Both men were killed. The case illustrates how missionary work, diplomacy, and armed rivalry could intersect without having the same aims or participants.",
+  "The Catholic Church canonized Jogues with seven other North American martyrs in 1930. The group is honored in the United States and Canada, where different dates appear in the respective liturgical calendars. Jogues’s journeys are also documented in accounts that place his work within the wider seventeenth-century history of the St. Lawrence and Mohawk river valleys.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saints Isaac Jogues, Jean de Brébeuf, and Companions"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saints-isaac-jogues-jean-de-brebeuf-and-companions"
+
+[[saints.sources]]
+title = "The Canadian Encyclopedia — Isaac Jogues"
+url = "https://www.thecanadianencyclopedia.ca/en/article/isaac-jogues"
 
 [[saints]]
 id = "jean-de-brebeuf"
@@ -422,13 +492,19 @@ vocation = "Jesuit priest, missionary, and martyr"
 place = "Wendat country, present-day Ontario, Canada"
 summary = "A French Jesuit who learned the Wendat language and was killed during warfare in the region in 1649."
 biography = [
-  "Brébeuf arrived in New France in 1625 and spent much of his mission among the Wendat. He learned their language and wrote about the mission at a time of epidemic disease, colonial expansion, and conflict between communities.",
-  "During a Haudenosaunee attack in 1649, Brébeuf and fellow Jesuit Gabriel Lalemant were captured and killed. Both are remembered among the North American Martyrs.",
+  "Jean de Brébeuf entered the Society of Jesus in France and reached New France in 1625. He spent much of his missionary life among the Wendat in what is now Ontario. Learning their language took years and became central to his work. The mission reports in which he wrote describe an encounter between communities with distinct ideas about health, kinship, and religious practice.",
+  "Brébeuf left New France after the colony was taken by the English in 1629 and later returned. He worked in Wendat country as Jesuit settlements expanded. The period brought outbreaks of disease and growing tensions alongside the changes associated with European trade and settlement. Christian mission accounts provide evidence for the work of the Jesuits and require careful reading alongside Indigenous history.",
+  "In 1649 a Haudenosaunee attack on Wendat settlements led to the capture of Brébeuf and fellow Jesuit Gabriel Lalemant. Both were killed. Their deaths came during a period of upheaval in which many Wendat people were killed or forced to leave their settlements.",
+  "The Catholic Church canonized Brébeuf and the other North American martyrs in 1930. He is remembered in part through the writings of the mission and in part through later devotional accounts. The places associated with his life also belong to the ongoing history of the Wendat people.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saints Isaac Jogues, Jean de Brébeuf, and Companions"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saints-isaac-jogues-jean-de-brebeuf-and-companions"
+
+[[saints.sources]]
+title = "The Canadian Encyclopedia — Jean de Brébeuf"
+url = "https://www.thecanadianencyclopedia.ca/en/article/jean-de-brebeuf"
 
 [[saints]]
 id = "kateri-tekakwitha"
@@ -439,8 +515,10 @@ vocation = "Laywoman and virgin"
 place = "Mohawk Valley and the St. Lawrence River valley"
 summary = "A Mohawk Catholic whose short life was marked by prayer and a commitment to remain unmarried."
 biography = [
-  "Kateri was born in the Mohawk Valley to an Algonquin mother and a Mohawk father. She survived the smallpox outbreak that killed members of her family and was baptized as a young adult.",
-  "She moved to a Catholic Indigenous community near Montreal, where she devoted herself to prayer and chose a life of chastity. Pope Benedict XVI canonized her in 2012.",
+  "Kateri Tekakwitha grew up in a Mohawk community in the Mohawk Valley. Her mother was Algonquin and her father was Mohawk. A smallpox outbreak killed her parents and left Kateri with lasting effects. Relatives raised her after the epidemic, a period when Mohawk families were also dealing with warfare, mission activity, and changes in the region.",
+  "As a young woman, she prepared for baptism with a Jesuit missionary and received the name Catherine, rendered Kateri in Mohawk. She later moved to an Indigenous Catholic mission community along the St. Lawrence near Montreal. Her move gave her access to a community that supported her religious choices and introduced her to other Indigenous women devoted to prayer.",
+  "At the mission she made a commitment to remain unmarried and give her life to prayer. Missionaries wrote down accounts of the life she chose and of the way people remembered her after her death in 1680. Those sources preserve important details and also reflect the spiritual expectations of the writers who recorded them.",
+  "Pope Benedict XVI canonized Kateri in 2012. Catholic devotion to her grew across the United States and Canada, with particular connection to the Mohawk Valley and the community near Montreal. Her story is part of the history of Indigenous Catholic life and of the many different ways Indigenous people responded to Christian missions.",
 ]
 
 [[saints.sources]]
@@ -456,8 +534,10 @@ vocation = "Franciscan priest and missionary"
 place = "Mallorca, Mexico, and Alta California"
 summary = "A Franciscan who led the founding of Spanish missions in Alta California and was canonized in 2015."
 biography = [
-  "Serra was born in Mallorca and taught philosophy before leaving for New Spain. He worked in the Sierra Gorda of Mexico and later led Franciscan mission activity in Alta California, beginning at San Diego in 1769.",
-  "The missions were part of Spanish colonization. The system disrupted Indigenous communities and imposed labor, discipline, and restrictions on movement. Serra’s role in that system is central to the public debate over his legacy and his canonization in 2015.",
+  "Junípero Serra was born on Mallorca and entered the Franciscans. He taught philosophy before traveling to New Spain. He worked for years in mission communities in Mexico, including the Sierra Gorda, and later led Franciscan mission activity farther north.",
+  "Serra traveled into Alta California with the Spanish expedition of 1769. The mission at San Diego was the first of the communities he helped establish there. The mission at Carmel became his base. He sometimes pressed Spanish officials to limit violence by soldiers against Indigenous people. The missions nonetheless worked within the larger project of Spanish colonization and depended on the authority and resources of the colonial government.",
+  "California Indigenous communities experienced the mission system in different ways. Missions restricted the movement of people who lived there, required labor, and used punishments to enforce discipline. Disease, disruption of foodways, and separation from ancestral places had lasting effects. Native people also preserved connections to families, languages, and land during and after the mission period.",
+  "Serra died at Carmel in 1784. Pope Francis canonized him in 2015. The Catholic Church remembers his missionary commitment, while historians and Indigenous communities continue to document the costs of the institutions he helped found. Both kinds of sources are needed to understand which part of California’s history each account preserves.",
 ]
 
 [[saints.sources]]
@@ -477,13 +557,19 @@ vocation = "Layman"
 place = "Tepeyac, Mexico"
 summary = "A Nahua Catholic honored for his role in the tradition of the apparitions of Our Lady of Guadalupe."
 biography = [
-  "The Guadalupe tradition says that Mary appeared to Juan Diego at Tepeyac in 1531 and asked that a church be built there. In the account, he brought roses to the bishop, and an image of Mary appeared on his cloak when he opened it.",
-  "The account is central to devotion at the Basilica of Guadalupe. Pope John Paul II canonized Juan Diego there in 2002.",
+  "Catholic tradition remembers Juan Diego Cuauhtlatoatzin as a Nahua man who had accepted Christianity in the early decades of Spanish rule in central Mexico. In the Guadalupe account, he encountered Mary at Tepeyac in December 1531. She spoke to him and asked him to take a message to the bishop requesting a church at the site.",
+  "According to the tradition, the bishop asked for a sign. Juan Diego gathered roses at Mary’s instruction and brought them in his cloak, or tilma. When he opened it before the bishop, Mary’s image was revealed on the cloth. The accounts also include the illness and recovery of Juan Diego’s uncle. These episodes are received within the Catholic tradition of the apparitions.",
+  "The events and some details of Juan Diego’s life are known chiefly through later accounts and the development of the shrine. The Nahuatl narrative known as the Nican Mopohua is an important witness to the way the Guadalupe story was transmitted. Tepeyac became a major site of pilgrimage, and the image of Our Lady of Guadalupe took on a central place in Mexican Catholic devotion.",
+  "Pope John Paul II canonized Juan Diego at the Basilica of Guadalupe in 2002. The Roman Rite commemorates Juan Diego on December 9 and celebrates Our Lady of Guadalupe separately. The account continues to carry particular significance for readers attentive to the Nahua language and the place of Indigenous people in the story of Guadalupe.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Juan Diego"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-juan-diego"
+
+[[saints.sources]]
+title = "John Paul II — Homily at the Canonization of Juan Diego"
+url = "https://www.vatican.va/content/john-paul-ii/en/homilies/2002/documents/hf_jp-ii_hom_20020731_canonization-mexico.html"
 
 [[saints]]
 id = "josephine-bakhita"
@@ -494,14 +580,20 @@ vocation = "Canossian religious sister"
 place = "Darfur, Sudan, and Schio, Italy"
 summary = "A survivor of enslavement who gained her freedom in Italy and became a Canossian sister."
 biography = [
-  "Bakhita was kidnapped as a child in Darfur and sold into slavery. An Italian diplomat brought her to Italy, where she came to know the Canossian sisters. When she resisted attempts to make her leave Italy, Italian authorities determined that she was free.",
-  "She was baptized Josephine and entered the Canossian congregation. She lived much of her later life at Schio, carrying out the ordinary work of her community and speaking about her experiences when asked.",
+  "Josephine Bakhita was born in Darfur. While still a child, she was kidnapped, sold, and moved between enslavers. The name Bakhita was imposed on her during that period. Her own later accounts preserved memories of the violence she endured and the loss of the life she had known with her family.",
+  "An Italian diplomat brought her to Italy, where she was placed with a household and cared for a young girl. At an institute run by the Canossian sisters in Venice, Bakhita learned about Catholic Christianity. When the household sought to take her away again, she refused. With support from the sisters, she remained in Italy. An Italian legal ruling recognized that she was free.",
+  "Bakhita was baptized as Josephine in 1890 and entered the Canossian congregation. Much of her religious life took place at Schio, where she worked in ordinary roles in the house and served its guests. When she was invited to speak about her experiences, her testimony gave listeners a first-person account of enslavement and of the freedom she had claimed.",
+  "She died in 1947 and was canonized in 2000. The Church marks an international day of prayer and awareness against human trafficking on her feast day, February 8. That observance brings her life into conversations about forms of exploitation that continue today.",
 ]
 patronage = ["Invoked by Catholics working against human trafficking"]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Josephine Bakhita"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-josephine-bakhita"
+
+[[saints.sources]]
+title = "Holy See — Josephine Bakhita"
+url = "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20001001_giuseppina-bakhita_en.html"
 
 [[saints]]
 id = "damien-of-molokai"
@@ -512,13 +604,19 @@ vocation = "Priest and missionary"
 place = "Kalaupapa, Molokaʻi, Hawaiʻi"
 summary = "A Belgian priest who lived and worked among people forcibly isolated because they had Hansen’s disease."
 biography = [
-  "Damien, born Jozef de Veuster, joined the Congregation of the Sacred Hearts of Jesus and Mary and traveled to Hawaiʻi. In 1873 he volunteered to serve at the settlement on Molokaʻi where the Hawaiian government had sent people with Hansen’s disease.",
-  "He lived with the residents, served their parishes, and helped improve living conditions and care for the dead. Damien developed the disease himself and remained at the settlement until his death in 1889.",
+  "Damien was born Jozef de Veuster in Belgium and entered the Congregation of the Sacred Hearts of Jesus and Mary. He volunteered for the Hawaiian mission when his brother, a member of the same congregation, became ill. He was ordained in Honolulu in 1864 and worked in parishes before going to Molokaʻi.",
+  "The Hawaiian government had established a settlement at Kalaupapa for people with Hansen’s disease, then commonly called leprosy. Residents were separated from their families under compulsory isolation laws. Damien went to the settlement in 1873 and chose to stay. He lived among the residents rather than visiting on an occasional assignment.",
+  "Damien served patients and their families as a priest, helped care for people who were ill, and worked alongside residents to improve housing, water, and community buildings. He advocated for supplies and assistance from outside the settlement. Other workers and residents had made lives and institutions on the peninsula before his arrival and continued the work after his death.",
+  "Damien developed Hansen’s disease himself and died at Kalaupapa in 1889. The Catholic Church canonized him in 2009. The National Park Service preserves the site and the history of the people sent there. Reading their story with Damien’s biography helps show what compulsory separation meant to the families who lived through it.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Damien de Veuster of Molokaʻi"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-damien-de-veuster-of-molokai"
+
+[[saints.sources]]
+title = "National Park Service — Kalaupapa National Historical Park, History and Culture"
+url = "https://www.nps.gov/kala/learn/historyculture/index.htm"
 
 [[saints]]
 id = "marianne-cope"
@@ -529,13 +627,19 @@ vocation = "Franciscan religious sister and healthcare administrator"
 place = "Syracuse, New York, and Hawaiʻi"
 summary = "A Franciscan sister who led hospitals and cared for people with Hansen’s disease in Hawaiʻi."
 biography = [
-  "Born in Germany and raised in New York, Marianne joined the Sisters of Saint Francis of Syracuse and helped oversee hospitals in central New York. In 1883 she led a group of sisters to Hawaiʻi after a request for help caring for people with Hansen’s disease.",
-  "Marianne eventually moved to Kalaupapa on Molokaʻi. There the sisters cared for girls and women and helped provide continuity of care as Father Damien’s health failed. Marianne remained at the settlement until her death.",
+  "Marianne Cope came to the United States as a small child with her German-born family. She grew up in Utica, New York, and worked in a factory before entering the Sisters of Saint Francis in Syracuse. She went on to teach, train new sisters, and serve in hospital leadership. The administrative experience mattered when she later took responsibility for the congregation’s work in Hawaiʻi.",
+  "In 1883 Marianne and six sisters traveled to Hawaiʻi in response to a request for help with the care of people thought to have Hansen’s disease. They worked at the receiving hospital in Honolulu, where people were examined and those under compulsory isolation could be sent onward. The sisters also developed services for people and families affected by the disease.",
+  "Marianne moved to Kalaupapa on Molokaʻi in 1888. Her community cared for women and girls, many of whom had been separated from their families. The sisters continued caring for residents as Father Damien’s health failed and took responsibility for additional facilities following his death. Marianne remained at the settlement until she died in 1918.",
+  "She was canonized in 2012. Her life shows the importance of nursing, education, and administration in the long history of care at Kalaupapa. The residents’ experience of isolation gives that work its setting and explains why attention to their dignity mattered.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Marianne Cope"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-marianne-cope"
+
+[[saints.sources]]
+title = "National Park Service — Kalaupapa National Historical Park, History and Culture"
+url = "https://www.nps.gov/kala/learn/historyculture/index.htm"
 
 [[saints]]
 id = "katharine-drexel"
@@ -546,13 +650,19 @@ vocation = "Religious founder and educator"
 place = "Philadelphia, Pennsylvania, and the United States"
 summary = "The founder of the Sisters of the Blessed Sacrament used her inheritance to support education for Black and Indigenous communities."
 biography = [
-  "Drexel was born into a wealthy Philadelphia family and chose religious life after seeing how racial discrimination restricted access to education. She founded the Sisters of the Blessed Sacrament and used family resources to support their work.",
-  "Drexel and her congregation helped establish schools in many parts of the United States, including Xavier University of Louisiana. Their work took place in communities where segregation and discrimination limited educational opportunities.",
+  "Katharine Drexel grew up in a wealthy Philadelphia family. As a young woman, she cared for her stepmother through a long illness and became interested in the treatment of Indigenous people and their access to education. After visits to communities in the Dakotas, she began giving money to support missions and schools.",
+  "Drexel eventually chose religious life and founded the Sisters of the Blessed Sacrament. She brought personal resources to a congregation devoted to education and pastoral work among Black and Indigenous communities in the United States. Drexel and the sisters taught, traveled, raised funds, and made long-term commitments to the institutions they supported.",
+  "The congregation helped establish and develop schools at a time when segregation and racial exclusion restricted educational opportunities. In New Orleans, it opened a high school in 1915 on a site formerly used by Southern University. Teacher training followed. The institution became Xavier University of Louisiana, which offered degree programs to Black students. Drexel later bought land for the university’s campus.",
+  "Illness limited Drexel’s work later in life. She died in 1955 and was canonized by Pope John Paul II in 2000. Her legacy can be seen in institutions that took root over decades, with the work carried on by teachers, families, and local communities.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Katharine Drexel"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-katharine-drexel"
+
+[[saints.sources]]
+title = "Xavier University of Louisiana — The Full Story"
+url = "https://www.xula.edu/about/the-full-story.html"
 
 [[saints]]
 id = "elizabeth-ann-seton"
@@ -563,8 +673,10 @@ vocation = "Religious founder, educator, and widow"
 place = "New York and Emmitsburg, Maryland"
 summary = "A widowed mother of five who entered the Catholic Church and founded a religious community devoted to education."
 biography = [
-  "Elizabeth was raised an Episcopalian in New York. She encountered Catholic life during a stay in Italy, where her husband William died. After returning to New York with her children, she entered the Catholic Church.",
-  "In Maryland, she founded the Sisters of Charity of Saint Joseph’s and led a school at Emmitsburg. She was canonized in 1975, the first person born in what became the United States to be declared a Catholic saint.",
+  "Elizabeth Ann Bayley grew up in New York in an Episcopalian family. She married William Magee Seton and had five children. Their finances deteriorated, and the couple traveled to Italy because of William’s poor health. After his death there, friends supported Elizabeth and introduced her to Catholic religious life.",
+  "Elizabeth returned to New York and entered the Catholic Church in 1805. She was a widow with children to support. Her conversion strained some longstanding relationships and complicated her efforts to earn a living through education. She eventually accepted an invitation to work in Maryland.",
+  "In Emmitsburg she established a school and gathered women who became the Sisters of Charity of Saint Joseph’s. The community adapted a way of religious life drawing on the French tradition of Vincent de Paul and Louise de Marillac. Elizabeth led the sisters while continuing to care for her own family. The community’s work in schools and charitable institutions grew beyond Emmitsburg.",
+  "Seton died in Maryland in 1821. Pope Paul VI canonized her in 1975, making her the first person born in what became the United States to be canonized. Her letters and the institutions associated with the sisters give readers a way to trace the daily choices behind her roles as a parent, teacher, and religious founder.",
 ]
 
 [[saints.sources]]
@@ -580,8 +692,10 @@ vocation = "Redemptorist bishop"
 place = "Bohemia and Philadelphia, Pennsylvania"
 summary = "An immigrant Redemptorist who expanded parish schools and served immigrant communities as bishop of Philadelphia."
 biography = [
-  "Neumann grew up in Bohemia and traveled to the United States, where he was ordained in 1836. He served scattered Catholic communities in western New York and later entered the Redemptorists.",
-  "As bishop of Philadelphia, Neumann supported the establishment and coordination of Catholic schools and opened parishes in a growing diocese. His familiarity with several languages helped him minister to immigrant communities.",
+  "John Neumann grew up in Bohemia and studied in Prague, in what is now Czechia. He traveled to the United States as a young man and was ordained a priest in New York in 1836. One of his first assignments was to Catholics in small settlements spread across western New York, where making pastoral visits meant long trips between communities.",
+  "Neumann entered the Redemptorists and continued mission work, including among immigrants whose first language was German. His ability to minister in several languages helped him serve people from different backgrounds. He also took on leadership responsibilities in the congregation and gained experience organizing work across more than one diocese.",
+  "He was appointed bishop of Philadelphia in 1852. The diocese was growing quickly. Neumann established parishes and worked with teaching communities to support Catholic schools. By coordinating schools at a diocesan level, he helped them draw on resources beyond what each parish had available on its own.",
+  "Neumann died in Philadelphia in 1860. The Catholic Church canonized him in 1977. His shrine at the Church of St. Peter the Apostle remains a place of pilgrimage. Neumann’s work gives a view of how newcomers, clergy, and religious communities built institutions in American cities during a period of rapid immigration.",
 ]
 
 [[saints.sources]]
@@ -597,8 +711,10 @@ vocation = "Jesuit priest and missionary"
 place = "Cartagena, Colombia"
 summary = "A Jesuit priest who met slave ships in Cartagena and cared for people forced across the Atlantic."
 biography = [
-  "Born in Catalonia, Claver went to Spanish America and was ordained in Cartagena, a major port in the Atlantic slave trade. He boarded arriving ships with interpreters and brought food, medicine, and practical help to the enslaved people on board.",
-  "Claver provided religious instruction and continued visiting people after their arrival. The Church honors him for decades of service to people subjected to a system of forced labor and sale.",
+  "Peter Claver was born in Catalonia and joined the Jesuits. He went to Spanish America and was ordained in Cartagena, now in Colombia. The city was a major port in the Atlantic slave trade. By the time Claver began his priesthood there, the Jesuit Alonso de Sandoval had already developed work among enslaved people brought to Cartagena.",
+  "Claver met ships carrying people who had survived the Atlantic crossing. He brought food and other supplies and sought out interpreters who could help him communicate. Many of those arriving were ill, frightened, or separated from anyone who spoke their language. Claver offered medical and practical help alongside his pastoral ministry.",
+  "He continued to visit people after their arrival and also worked among prisoners and the sick. His own time was spent within a port whose economy depended heavily on slavery, a context essential to understanding what the people he served faced. The activities remembered by his community center on direct assistance to those subjected to the trade.",
+  "Claver died in Cartagena in 1654 and was canonized in 1888. The Roman Rite remembers him on September 9, and his life also has a place in the history of Afro-Catholic communities in the Americas. The people who worked as interpreters and the people he met in Cartagena were participants in that history in their own right.",
 ]
 
 [[saints.sources]]
@@ -614,8 +730,10 @@ vocation = "Marist priest, missionary, and martyr"
 place = "France and Futuna in the South Pacific"
 summary = "A Marist priest killed on Futuna during the first years of the Catholic mission there."
 biography = [
-  "Chanel was a French parish priest before joining the Society of Mary. He traveled to the South Pacific and settled on Futuna, where he learned the local language and cared for the sick.",
-  "Some members of the community became interested in Christianity. As concerns grew among the island’s leadership, Chanel was attacked and killed in April 1841. He is remembered as the first Catholic martyr of Oceania.",
+  "Peter Chanel grew up in France and served as a parish priest before joining the Society of Mary, whose members are known as Marists. He left Europe with a group of missionaries assigned to the Pacific. After a long journey he and a companion settled on Futuna in 1837.",
+  "They began to learn the language and seek the confidence of people on the island. Chanel visited households and cared for people who were sick. Progress was slow, and the mission depended on relationships with local residents and leaders. Interest in Christianity developed at a time when the communities of Futuna had their own political and religious ties.",
+  "Accounts of the mission describe mounting conflict as some inhabitants became interested in baptism. In April 1841 Chanel was attacked and killed. The growth of the Church on Futuna after his death involved decisions made by the island’s people and the work of other missionaries who came after him.",
+  "Chanel was canonized in 1954. Catholics honor him as a martyr of Oceania, and the Roman Rite commemorates him on April 28. His story is also an episode in the history of contact between Pacific communities and Europeans, a history that includes the languages, leadership, and choices of the people who received the missionaries.",
 ]
 patronage = ["Venerated as a patron of Oceania"]
 
@@ -632,8 +750,10 @@ vocation = "Capuchin priest and martyr"
 place = "Sigmaringen, Germany, and Graubünden, Switzerland"
 summary = "A lawyer who became a Capuchin and was killed during a mission in a region divided by confessional conflict."
 biography = [
-  "Fidelis practiced law before entering the Capuchins and taking a new religious name. As a friar he preached and cared for people affected by illness and poverty.",
-  "He was sent to the Prättigau valley in Graubünden, where religious and political tensions were high. He was killed at Seewis in 1622 during that mission.",
+  "Fidelis was born in Sigmaringen and received a legal education. Before entering religious life, he practiced law and came to be known for helping clients who had little money. He joined the Capuchin Franciscans, took the name Fidelis, and was ordained a priest.",
+  "As a friar he preached and ministered to communities affected by poverty and disease. Church authorities later sent him to the Prättigau valley in what is now Graubünden, Switzerland, amid religious conflict between Catholics and Protestants. Political disputes over Habsburg authority also shaped how people received the mission.",
+  "Fidelis continued to preach even after being warned that his presence had become dangerous. He was killed near Seewis in April 1622. Accounts written by those who honored him emphasize his decision to remain at his post. The record of the mission also shows how quickly an effort at religious persuasion could be read as part of a conflict over local autonomy.",
+  "The Catholic Church honored him as a martyr and canonized him in the eighteenth century. The Roman Rite commemorates him on April 24. His biography includes years spent serving clients and the sick, as well as the conflict that brought his final mission to an end.",
 ]
 
 [[saints.sources]]
@@ -649,8 +769,10 @@ vocation = "Duke and martyr"
 place = "Bohemia, present-day Czechia"
 summary = "A duke of Bohemia killed in a struggle connected with his brother’s rise to power."
 biography = [
-  "Wenceslaus was a member of the Přemyslid dynasty and ruled Bohemia in the tenth century. Early accounts connect his education in Christianity with his grandmother Ludmila and remember his support for the Church.",
-  "He was killed at Stará Boleslav in circumstances associated with his brother Boleslaus. The year remains disputed. The later carol remembers him as a generous king, although the title he held in his lifetime was duke.",
+  "Wenceslaus was a prince of Bohemia in the Přemyslid dynasty. His grandmother Ludmila is associated in early Christian accounts with his upbringing and education. He came to power as duke early in the tenth century, when the spread of Christianity in Bohemia was closely connected with the interests and alliances of the ruling family.",
+  "Wenceslaus supported the Church and cultivated ties with neighboring rulers. He was killed at Stará Boleslav, where he had gone to visit his brother Boleslaus. Later accounts give dramatic versions of the killing, while historians disagree over whether it happened in 929 or 935. Boleslaus succeeded him as duke.",
+  "The cult of Wenceslaus grew after his death. He was honored as a martyr and became an enduring patron of the Czech lands. His association with Prague made him important to the religious life and public memory of Bohemia long after the political disputes of his own time.",
+  "The English-language carol about “Good King Wenceslas” is much later. It tells a story about a ruler helping a poor man at Christmas and draws on a tradition of remembering Wenceslaus for charity. The historical ruler held the title of duke. The carol is evidence of his later reception rather than a record of an event in his reign.",
 ]
 patronage = ["Traditionally venerated as a patron of the Czech lands"]
 
@@ -667,8 +789,10 @@ vocation = "Bishop and martyr"
 place = "Kraków, Poland"
 summary = "A bishop of Kraków who was killed after a conflict with King Bolesław II."
 biography = [
-  "Stanislaus became bishop of Kraków in the eleventh century. His confrontation with King Bolesław II ended in his death in 1079. The surviving accounts differ about the nature of the dispute and the circumstances of the killing.",
-  "Stanislaus’s shrine at Kraków became a center of devotion. He was canonized in 1253 and is venerated as a patron of Poland.",
+  "Stanislaus was born near Kraków and became a priest before taking responsibility for the diocese in the eleventh century. Details about his upbringing and education are preserved in later accounts. His tenure as bishop brought him into contact with King Bolesław II, a ruler whose reign was marked by wars and disputes over his authority.",
+  "The two men came into conflict, and Stanislaus was killed in 1079. The surviving sources give different explanations for the dispute. Some later Christian narratives portray the bishop defending people against the king’s abuses and relate dramatic details of his death. The earlier evidence makes it difficult to reconstruct the causes of the confrontation or the circumstances of the killing with confidence.",
+  "Stanislaus’s grave in Kraków became a focus of veneration. Pope Innocent IV canonized him in 1253. He came to be honored as a patron of Poland, and generations of Polish Catholics associated him with episcopal responsibility and courage under unjust pressure.",
+  "The different accounts of his death matter to the history of the devotion. They show how writers came to understand the proper limits of a king’s authority and the duty of a bishop. The Roman Rite remembers Stanislaus as a bishop and martyr, while his cult in Kraków has a long local history of its own.",
 ]
 patronage = ["Venerated as a patron of Poland"]
 
@@ -685,13 +809,19 @@ vocation = "Archbishop and martyr"
 place = "Canterbury, England"
 summary = "An archbishop murdered in Canterbury Cathedral after a conflict with Henry II over the jurisdiction of the Church."
 biography = [
-  "Becket was Henry II’s chancellor before becoming archbishop of Canterbury in 1162. The two men clashed over royal authority in matters involving clergy, and Becket spent several years in exile in France.",
-  "Becket returned to England in 1170. Four knights killed him in Canterbury Cathedral in December of that year. His tomb subsequently became a major destination for pilgrims.",
+  "Thomas Becket grew up in London and entered the service of the archbishop of Canterbury. He became a capable administrator and later served King Henry II as chancellor. The men worked closely together before Henry chose Becket to become archbishop of Canterbury in 1162.",
+  "As archbishop, Becket resisted parts of Henry’s effort to extend royal jurisdiction over the clergy. A major dispute concerned how members of the clergy accused of crimes should be judged and punished. Becket spent several years in exile in France while he, the king, and church authorities tried to negotiate a settlement.",
+  "Becket returned to England in 1170. Fresh disputes followed, and four knights traveled from the royal court to Canterbury. They confronted the archbishop and killed him in the cathedral on December 29. The reaction was swift. Pope Alexander III canonized Becket in 1173, and Henry later performed public penance at Canterbury.",
+  "Becket’s tomb drew pilgrims from England and abroad. The pilgrimage had a lasting place in English literature, including the framework of Chaucer’s Canterbury Tales. The shrine was dismantled in the sixteenth century under Henry VIII. Becket’s career remains a record of how a friendship between a king and an administrator gave way to a conflict over the limits of royal and ecclesiastical power.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Thomas Becket"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-thomas-becket"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Thomas Becket"
+url = "https://www.britannica.com/biography/Saint-Thomas-Becket"
 
 [[saints]]
 id = "charles-de-foucauld"
@@ -702,8 +832,10 @@ vocation = "Priest and hermit"
 place = "France and the Algerian Sahara"
 summary = "A former French officer and explorer who became a priest and settled among Tuareg communities in the Sahara."
 biography = [
-  "Foucauld served in the French army and traveled in Morocco before returning to Catholic practice. He spent time as a Trappist and lived in Nazareth before being ordained in 1901.",
-  "He later settled at Tamanrasset in the Algerian Sahara. He welcomed travelers, studied the local Tuareg language, and compiled a dictionary. Foucauld was killed in a raid in 1916. Religious communities inspired by his writings developed after his death.",
+  "Charles de Foucauld grew up in France and served in the army. After leaving military life, he traveled in Morocco and published an account of the journey. His time in North Africa contributed to a wider religious search. Back in France he returned to Catholic practice and began looking for a way of life centered on prayer.",
+  "He entered the Trappists, later lived near the Poor Clares in Nazareth, and was ordained a priest in 1901. He returned to North Africa and eventually settled in Tamanrasset, in the Algerian Sahara. He devoted part of each day to prayer and gave much of his time to work and hospitality.",
+  "Living near Tuareg communities, Foucauld studied the language and worked on a dictionary and records of local poetry. These projects depended on knowledge shared by people among whom he lived. His hopes of establishing a religious community of his own were not realized during his lifetime.",
+  "Foucauld was killed in a raid in 1916. His writings later inspired communities committed to prayer, ordinary work, and living among people of different religious backgrounds. In 2022 the Catholic Church canonized him. His explorations, language work, and religious life reflect different stages of a life spent between France and North Africa.",
 ]
 
 [[saints.sources]]

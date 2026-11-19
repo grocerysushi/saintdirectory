@@ -7,8 +7,9 @@ vocation = "Priest and martyr"
 place = "Rome, Italy"
 summary = "A Roman priest executed with Peter the Exorcist during the persecution under Diocletian."
 biography = [
-  "Little is known about Marcellinus before his imprisonment. The Church remembers him as a priest of Rome who died with Peter, an exorcist, during the early fourth-century persecutions.",
-  "Pope Damasus later composed an epitaph for the pair, drawing on a report attributed to their executioner. Their names also entered the Roman Canon, now known as Eucharistic Prayer I.",
+  "Marcellinus was a priest of the Church of Rome around the beginning of the fourth century. The surviving accounts begin with his imprisonment during the persecution under Diocletian. An imperial order directed against Christian ministers brought bishops, priests, and deacons before Roman authorities. Tradition places Marcellinus in prison with Peter, an exorcist of the same community.",
+  "Pope Damasus, who lived several decades later, composed an epitaph that described the men being taken to an isolated place for execution. He attributed the account to someone involved in their deaths. Later stories add conversions and healings in the prison. These details belong to the saints’ remembered life in the Church, and their historical circumstances are difficult to establish.",
+  "The burial place on the Via Labicana became a center of veneration. A basilica rose above their burial crypt, and their names were included together in the Roman Canon, preserved today as Eucharistic Prayer I. The inscription, burial site, and liturgical remembrance explain how a priest whose personal history is mostly unknown remained part of Rome’s Christian memory.",
 ]
 
 [[saints.sources]]
@@ -28,8 +29,9 @@ vocation = "Exorcist and martyr"
 place = "Rome, Italy"
 summary = "An exorcist of the Roman Church remembered alongside the priest Marcellinus."
 biography = [
-  "Peter served Rome’s Christian community as an exorcist. Surviving accounts give few details about his ministry apart from his association with Marcellinus and their deaths under Diocletian.",
-  "The two were buried together in Rome. A basilica later stood over their burial site, and the Roman Canon preserved Peter’s name beside that of his companion.",
+  "Peter is known from the early memory of the Roman Church as an exorcist. In that period the term designated a recognized ministry in the Christian community. The sources preserve his title and his association with Marcellinus, a priest. Peter’s family, origins, and the details of his ordinary duties are unknown.",
+  "The two men died during Diocletian’s persecution, traditionally dated around 304. Pope Damasus later commemorated them in verse and attributed his information about their execution to a person who had taken part. The wider account tells how a woman named Lucilla recovered their bodies and arranged a new burial. The names and places were carried forward in Roman tradition.",
+  "Their tomb on the Via Labicana gave its name to a complex of catacombs. The Church also remembered them side by side in the Roman Canon. In both the burial tradition and the liturgy, Peter’s ministry remained identifiable alongside that of his companion, despite the scarcity of individual records.",
 ]
 
 [[saints.sources]]
@@ -49,13 +51,19 @@ vocation = "Benedictine missionary, bishop, and martyr"
 place = "England, German lands, and Frisia"
 summary = "An English Benedictine who helped organize the Church in the German lands and died on a mission to Frisia."
 biography = [
-  "Boniface left his English monastery to preach on the continent. With a commission from Pope Gregory II, he worked among Germanic peoples and eventually took responsibility for organizing churches and training clergy across a wide territory.",
-  "He also helped reform church life in the Frankish kingdom. On a later mission to Frisia, Boniface and a group of companions were killed as they prepared to meet people who had recently become Christian.",
+  "Boniface was born in Anglo-Saxon Wessex around 675 and was baptized Winfrid. He entered monastic life while young and became a priest after years of study. He taught Latin grammar and wrote in Latin before turning to overseas missions. His first attempt to preach in Frisia, in 716, met opposition from a local ruler, and he returned to England.",
+  "He sought guidance in Rome in 718. Pope Gregory II gave him the name Boniface and commissioned him to preach among the peoples of the German lands. The pope later consecrated him as a regional bishop. Papal backing and cooperation with Frankish leaders gave him room to establish churches, organize dioceses, and hold councils that addressed problems in clerical life and governance.",
+  "Boniface asked monasteries in England to send men and women who could help. Their communities extended his work by providing places for prayer, education, and the training of missionaries. The monastery of Fulda became a major center. His surviving correspondence shows how much the mission depended on keeping ties with its supporters and coordinating work over great distances.",
+  "Late in life he returned to Frisia, where he and members of his party were killed in 754 as they prepared to meet converts. His body was later taken to Fulda. Christian communities in several countries remember him both for his missionary work and for the institutions that continued it after his death.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Boniface"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-boniface/"
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Boniface"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20090311.html"
 
 [[saints]]
 id = "norbert-of-xanten"
@@ -66,8 +74,10 @@ vocation = "Archbishop and founder of the Premonstratensians"
 place = "Prémontré, France, and Magdeburg, Germany"
 summary = "The founder of the Norbertines, whose common life joined prayer to service in local churches."
 biography = [
-  "Norbert established a community at Prémontré in the twelfth century. Its members came to be known as Premonstratensians or Norbertines. Their life combined common prayer and devotion to the Eucharist with preaching and parish ministry.",
-  "As archbishop of Magdeburg, Norbert brought his experience of reform and pastoral work to a region where Christian communities were still developing. He remained in that office until his death.",
+  "Norbert founded a community at Prémontré in twelfth-century France. It became the center of the order known as the Premonstratensians, or Norbertines. The community gave its members a household and a schedule of prayer in common while allowing them to undertake ministry beyond the house.",
+  "Devotion to the Eucharist stood at the center of Norbert’s preaching. He wanted people whose religious practice had grown weak to take it seriously again. Eucharistic teaching was also disputed in his time, and he took part in those debates as a preacher. He worked to reconcile people in conflict, making pastoral care a substantial part of his followers’ work.",
+  "The order’s form of life put the demands of common prayer and parish work side by side. Some of its members lived at a central house during the week and served local parishes on weekends. That pattern gave them the support of a community while giving smaller churches access to regular pastoral care.",
+  "Norbert later became archbishop of Magdeburg, east of many of the communities shaped by his early work. He continued preaching and reform there until his death in 1134. The order carries the name of its first house as well as the name of its founder, reflecting the importance of the community as a home for the work he began.",
 ]
 
 [[saints.sources]]
@@ -83,8 +93,10 @@ vocation = "Benedictine monk and monastic founder"
 place = "Ravenna and Camaldoli, Italy"
 summary = "A monk whose foundations helped shape the Camaldolese tradition of communal and solitary prayer."
 biography = [
-  "Romuald entered monastic life near Ravenna and spent much of his later life establishing or renewing communities across Italy. He encouraged periods of solitude and prayer within a disciplined monastic life.",
-  "Camaldoli in Tuscany became the best-known of his foundations. The Camaldolese tradition that took root there combined the shared life of a Benedictine monastery with the contemplative practice of a hermitage.",
+  "Romuald came from the region of Ravenna and entered a monastery nearby. His early life is known chiefly from religious biography, which places his turn toward monastic life after a violent dispute in his family. He eventually left that first house and spent years moving between monasteries and hermitages in Italy.",
+  "During those journeys Romuald helped establish and reform communities. A monastery gave its members a common rule, shared worship, and regular work. A hermitage placed a greater part of the day under the responsibility of the individual monk, who prayed and worked in seclusion. Romuald encouraged forms of life in which both practices could support sustained attention to God.",
+  "Camaldoli in Tuscany became the most enduring of the sites associated with him. It developed a Benedictine community with room for the more solitary vocation of the hermit. The Camaldolese tradition takes its name from Camaldoli, and its combination of community and solitude is still the feature most closely associated with Romuald’s work.",
+  "His interest extended beyond Italy. A biographical account says he sought permission to preach in Hungary, but illness prevented him from continuing. He died in 1027 after decades of monastic work. The communities associated with his name carried forward a pattern he had tested repeatedly in his own life.",
 ]
 
 [[saints.sources]]
@@ -100,8 +112,10 @@ vocation = "Jesuit religious"
 place = "Castiglione delle Stiviere and Rome, Italy"
 summary = "A young Jesuit who gave up his inheritance and cared for patients during an epidemic in Rome."
 biography = [
-  "Aloysius grew up in an Italian noble family with a military career expected of him. He gave up his rights as heir and entered the Society of Jesus, where he studied and prepared for priesthood.",
-  "When an epidemic struck Rome in 1591, he helped care for patients in a hospital the Jesuits had opened. He fell ill and died that June at the age of twenty-three.",
+  "Aloysius was born in 1568 into a branch of the Gonzaga family. As the eldest son he was expected to inherit a title, and his father anticipated a military career for him. Life in a noble household also exposed him to the expectations of the Italian courts. Aloysius committed himself to prayer and eventually asked to enter the Society of Jesus.",
+  "His decision met strong resistance at home because it meant giving up the rights of the heir. He ultimately renounced his claim and entered the Jesuits. His training joined prayer, study, and preparation for priesthood. The ordinary obligations of community life became part of a vocation he had previously tried to pursue largely by himself.",
+  "When epidemic disease struck Rome in 1591, the Jesuits opened a hospital and assigned members of their community to help. Aloysius took on nursing tasks such as washing patients and making their beds. He became ill himself. After the initial illness, a persistent fever left him too weak to continue his normal routine.",
+  "Aloysius died in June 1591, aged twenty-three, while still preparing for priesthood. His remembered life brings together two decisions separated by only a few years. As a young heir he left a career arranged for him, and as a Jesuit he accepted practical care for sick people as part of the vocation he had chosen.",
 ]
 
 [[saints.sources]]
@@ -117,13 +131,19 @@ vocation = "Bishop, poet, and letter writer"
 place = "Bordeaux, Roman Gaul, and Nola, Italy"
 summary = "A Roman public official who embraced a life of prayer and charity and became bishop of Nola."
 biography = [
-  "Paulinus came from a wealthy family near Bordeaux and held office in the Roman Empire. He and his wife, Therasia, adopted a simpler life and gave away much of their property after the death of their infant son. He was ordained in Barcelona.",
-  "They settled in Nola, near the shrine of Saint Felix. Paulinus put his resources toward helping people in need, eventually became the city’s bishop, and left poems and letters that preserve his relationships with other Christians of his era.",
+  "Paulinus was born near Bordeaux into a wealthy Roman family. The poet Ausonius taught him, and he acquired the literary education expected of someone entering public life. He became governor of Campania while still young. The steady traffic of pilgrims to the nearby shrine of Saint Felix caught his attention, and he used his office to improve access and provide lodging for poor visitors.",
+  "Paulinus was baptized in Bordeaux and married Therasia, a Christian from Spain. After the death of their infant son, the couple agreed to give much of their property to people in need and to adopt a more austere way of life. Paulinus was ordained a priest in Barcelona. He and Therasia later settled beside the shrine of Felix at Nola, where a community grew around their household.",
+  "Care for pilgrims and other visitors was a regular part of the community’s work. Paulinus eventually became bishop of Nola, around 409. He contributed to the shrine as its bishop and as a writer. In an expanded basilica he used paintings and captions to teach visitors biblical stories, providing a form of instruction people could follow as they moved through the building.",
+  "His literary work continued through his years of ministry. Some surviving poems were written for the annual celebration of Saint Felix, and his correspondence connects him with figures such as Augustine of Hippo. Together, these texts show how patronage, hospitality, poetry, and preaching could all form part of a bishop’s work in the later Roman Empire.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Paulinus of Nola"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-paulinus-of-nola/"
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Paulinus of Nola"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20071212.html"
 
 [[saints]]
 id = "anthony-mary-zaccaria"
@@ -134,8 +154,10 @@ vocation = "Priest, physician, and founder"
 place = "Cremona and Milan, Italy"
 summary = "A physician who became a priest and helped found the Barnabites during the Catholic reform of Italy."
 biography = [
-  "Zaccaria studied medicine and returned to Cremona before entering the priesthood. In Milan he worked with other reformers who wanted to rebuild Christian practice through preaching, instruction, and works of service.",
-  "He helped establish the Clerics Regular of Saint Paul, later called the Barnabites, and supported sister and lay communities. He drew the groups together through a shared devotion to Saint Paul and a commitment to renewal in daily life.",
+  "Antonio Maria Zaccaria was born in Cremona in 1502. He studied medicine and returned home to practice. The later Barnabite account treats those years as part of his religious formation, since his medical work gave him a practical way to serve people he would eventually know as a priest. He received priestly ordination at Cremona Cathedral in 1529.",
+  "His work took him to Milan and into contact with people seeking reform of Catholic life. He and his collaborators formed the Clerics Regular of Saint Paul, a community of priests. They acquired the name Barnabites through their association with the church of Saint Barnabas in Milan. Their work included preaching and instruction as well as the discipline of a shared life.",
+  "Zaccaria helped form two related communities, the Angelic Sisters of Saint Paul and a group for lay people. Each had a different place in the project. Using the life and letters of Saint Paul as a common reference, the groups sought to carry their commitments into households and neighborhoods as well as religious houses.",
+  "He also encouraged public Eucharistic prayer, especially the devotion known as the Forty Hours. Zaccaria died in Cremona in 1539, while the communities he had helped establish were still young. His order continued that work, and in 1897 the Church canonized him.",
 ]
 
 [[saints.sources]]
@@ -151,8 +173,10 @@ vocation = "Virgin and martyr"
 place = "Corinaldo and Nettuno, Italy"
 summary = "An eleven-year-old Italian girl remembered as a martyr and for the forgiveness she expressed before her death."
 biography = [
-  "Maria grew up in a family of farmworkers. After her father died, she helped care for her brothers and sisters while her mother worked. In July 1902 a man attacked and gravely wounded her when she resisted his attempt to sexually assault her.",
-  "As Maria lay dying in hospital, she said she forgave her attacker. Her mother was present when Pope Pius XII beatified her in 1947. Maria was canonized three years later.",
+  "Maria Goretti was born in Italy in 1890 into a family that earned its living through farm work. She grew up with little opportunity for schooling. Household responsibilities took much of her time. Her First Communion, which came shortly before her death, was a milestone the people who later told her story remembered distinctly.",
+  "In July 1902, when Maria was eleven, a young man named Alessandro Serenelli attempted to sexually assault her. He stabbed her when she resisted. Maria was taken to a hospital and died about a day later. Accounts of her final hours record her concern for her mother and her decision to forgive Serenelli before she died.",
+  "Her family lived to see the Church publicly recognize her as a martyr. When Pope Pius XII beatified her in 1947, her mother and several siblings took part in the events in Rome. Her canonization followed in 1950, drawing a large crowd to Saint Peter’s. Serenelli, who had served a prison sentence for the killing, was among those present.",
+  "The accounts of Maria’s youth were preserved through the testimony of people who had known her and through the process of her beatification and canonization. Her own recorded words are few. The decision she made in the hospital, to forgive despite what she had suffered, became central to her remembrance.",
 ]
 
 [[saints.sources]]
@@ -168,8 +192,10 @@ vocation = "Diocesan priest and martyr"
 place = "China"
 summary = "A former soldier who became a Chinese diocesan priest and died in custody during the Qing period."
 biography = [
-  "Augustine served as a soldier before becoming Christian. After his baptism he was ordained a diocesan priest and ministered in China. Authorities arrested him in a period of persecution, and he died in 1815.",
-  "Pope John Paul II canonized him in 2000 with 119 other martyrs who died in China over nearly three centuries. The group includes Chinese laypeople and clergy as well as missionaries from abroad.",
+  "Augustine Zhao Rong served as a soldier before his baptism. In the account prepared by the Holy See for his canonization, he encountered Bishop John Gabriel Taurin Dufresse while assigned to escort him. Dufresse’s conduct made an impression on Zhao, who asked to begin preparing for baptism. He later attended a seminary and was ordained a Chinese diocesan priest.",
+  "His ministry took place during the Qing dynasty, in a period when the court imposed new restrictions on Catholic life. The Holy See’s account describes orders directed at men preparing for priesthood and priests who continued to preach. Zhao Rong was one of the Christians arrested in the ensuing persecution. He died after ill treatment while in custody in 1815.",
+  "John Paul II canonized Zhao Rong and 119 companions on October 1, 2000. The title of the group gathers people whose lives and deaths span nearly three centuries. They include Chinese clergy, catechists, families, and other laypeople, alongside priests and religious who came to China from abroad.",
+  "Zhao Rong’s name gives the group a named point of reference in the Roman calendar. The details of his life also point to a particular history within that larger remembrance. His path from military service to diocesan ministry unfolded through encounters in China itself and belongs to the history of Chinese Catholic communities.",
 ]
 
 [[saints.sources]]
@@ -189,13 +215,19 @@ vocation = "Holy Roman emperor"
 place = "Bavaria and the Holy Roman Empire"
 summary = "A ruler of the Holy Roman Empire who supported the reform and development of churches and monasteries."
 biography = [
-  "Henry ruled as German king and later Holy Roman emperor. His reign included disputes over territory and authority in both the German lands and Italy, as well as collaboration with Pope Benedict VIII.",
-  "Henry exercised the influence over episcopal appointments customary for rulers of his era. He used that authority to support reforms in dioceses and monasteries. The Church canonized him in 1146.",
+  "Henry was born into Bavaria’s ruling family around 973 and spent part of his youth under the care of churchmen while his father was in exile. He received an education connected to the cathedral school at Hildesheim. He became duke of Bavaria in the 990s. When Otto III died in 1002, Henry had to secure the support of other German rulers before he could establish himself as king.",
+  "The kingdom required the ruler to travel continually, hearing disputes and asserting royal power in different regions. Henry also intervened in Italy, where his authority was contested. In 1014 Pope Benedict VIII crowned him emperor in Rome. Relations with the papacy formed an important part of his rule, alongside the ordinary work of maintaining alliances and dealing with rivals.",
+  "Henry drew bishops into royal administration and used public authority to support church institutions. A lasting example was the bishopric of Bamberg, which he endowed from his own property and secured through an agreement with the bishops at Frankfurt in 1007. Bamberg’s cathedral, learning, and arts benefited from the support of Henry and his wife, Cunigunde.",
+  "He continued discussing church reform with Benedict VIII late in his life, though he died in 1024 before their planned council at Pavia could take place. Pope Eugene III canonized Henry in 1146. Henry’s career shows how closely the responsibilities of a medieval ruler could intersect with the appointment of bishops, patronage of religious life, and the government of the Church.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Henry"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-henry/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Henry II, Holy Roman emperor"
+url = "https://www.britannica.com/biography/Henry-II-Holy-Roman-emperor"
 
 [[saints]]
 id = "apollinaris-of-ravenna"
@@ -206,8 +238,9 @@ vocation = "Bishop and martyr"
 place = "Ravenna and Classe, Italy"
 summary = "An early bishop honored as a martyr and traditionally remembered as Ravenna’s first bishop."
 biography = [
-  "Later tradition says that Saint Peter sent Apollinaris to Ravenna, where his preaching met resistance. The early evidence is too limited to establish when he lived or to confirm the details of the story.",
-  "Ravenna’s Christian community kept his memory. A sixth-century basilica in Classe, near Ravenna, was dedicated in his honor and remains a witness to the importance of his veneration.",
+  "Apollinaris is venerated as an early bishop and martyr associated with Ravenna. Later tradition counts him as the city’s first bishop and says that Saint Peter sent him there. The age of the cult is easier to establish than the chronology in those stories. His lifetime and the circumstances of his death remain uncertain.",
+  "In the traditional narrative, Apollinaris preached in Ravenna, was driven away, and returned more than once. Accounts place his death in the area of Classe, Ravenna’s ancient port. These details belong to the received story through which later Christians remembered their beginnings.",
+  "The basilica in Classe dedicated to him was built in the sixth century. Its presence gives a concrete sense of the place Apollinaris occupied in the life of the local Church long after the events described in his biography. Later generations knew him both as the saint of a particular place and as a figure in Ravenna’s account of its first bishops.",
 ]
 
 [[saints.sources]]
@@ -223,8 +256,10 @@ vocation = "Maronite priest, monk, and hermit"
 place = "Bekaa Kafra and Annaya, Lebanon"
 summary = "A Lebanese Maronite monk who spent his later years in prayer and solitude at the hermitage in Annaya."
 biography = [
-  "Born Youssef Makhlouf in a mountain village in Lebanon, he entered the Lebanese Maronite Order and took the name Charbel. He was ordained a priest and lived in the community of Saint Maron’s monastery at Annaya.",
-  "He later moved to a nearby hermitage, where he lived under a demanding routine of prayer and work. His grave at Annaya became a place of pilgrimage. Pope Paul VI canonized him in 1977.",
+  "Sharbel was born in 1828 in a mountain village in Lebanon. He entered the Lebanese Maronite Order in 1851 and took his vows at the monastery of Saint Maron at Annaya. He was ordained a priest in 1859. His vocation developed within the Maronite Catholic tradition, which has its own liturgical and monastic life.",
+  "For years after ordination he lived with the other monks. Their shared life established the pattern of work, worship, and obedience from which his later vocation grew. He eventually moved to the nearby hermitage and spent twenty-three years there. The hermitage provided space for sustained solitude while keeping him connected to the monastery.",
+  "He died at Annaya on Christmas Eve in 1898. Devotion to him spread after his death, and people began visiting the site of his burial. Reports of healings attributed to his intercession helped draw pilgrims beyond his immediate community. Pope Paul VI beatified him in 1965 and canonized him in 1977.",
+  "The monastery and hermitage remain associated with his life. In an interview with Vatican News, a monk at Annaya described how his tomb draws visitors across different religious communities in Lebanon. That shared place of pilgrimage carries forward the memory of a man whose life was spent largely in one small monastic setting.",
 ]
 
 [[saints.sources]]
@@ -240,13 +275,19 @@ vocation = "Bishop and Doctor of the Church"
 place = "Imola and Ravenna, Italy"
 summary = "A bishop of Ravenna known for the short sermons that earned him the name Chrysologus."
 biography = [
-  "Peter came from Imola and became bishop of Ravenna when it served as the capital of the western Roman Empire. He taught his congregation through short sermons grounded in Scripture and the practice of Christian life.",
-  "Many of those sermons survive and provide a view of fifth-century Ravenna. His name Chrysologus means golden-worded. Centuries later Pope Benedict XIII declared him a Doctor of the Church.",
+  "Peter came from Imola and became bishop of Ravenna around 433, when the city was an imperial capital in the West. The court’s presence gave the local church unusual prominence. Peter promoted the building of churches with support from Galla Placidia, mother of the emperor Valentinian III, while attending to the teaching of his own congregation.",
+  "Many of his short sermons survive. They explain central Christian teachings in language suited to the needs of worshipers and connect those teachings to everyday duties. The sermons also offer a view of preaching in fifth-century Ravenna. Later readers referred to him as Chrysologus, a name that describes his eloquence and is often translated as golden orator.",
+  "Peter also took part by correspondence in the disputes of the wider Church. When the monk Eutyches appealed to him after a controversy about the nature of Christ, Peter directed him to heed Pope Leo. The surviving letter places a bishop best remembered for his local preaching in the midst of a debate involving churches in both East and West.",
+  "Peter died around 450, after returning to Imola. The tradition of reading his sermons continued, though some pieces in the collected works are of disputed authorship. In 1729 Benedict XIII declared him a Doctor of the Church, recognizing the value of the teaching preserved in his authentic work.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Peter Chrysologus"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-peter-chrysologus/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Peter Chrysologus"
+url = "https://www.britannica.com/biography/Saint-Peter-Chrysologus"
 
 [[saints]]
 id = "eusebius-of-vercelli"
@@ -257,13 +298,19 @@ vocation = "Bishop"
 place = "Sardinia and Vercelli, Italy"
 summary = "A fourth-century bishop who lived in community with his clergy and defended the Nicene faith in exile."
 biography = [
-  "Born in Sardinia, Eusebius served in the Roman clergy before becoming bishop of Vercelli. He organized a common life for his diocesan clergy in which prayer and pastoral work supported each other.",
-  "At the Council of Milan he refused to condemn Athanasius, a fellow defender of the Nicene Creed. Emperor Constantius II sent him into exile. Eusebius was eventually allowed to return to Vercelli, where he died in 371.",
+  "Eusebius was born in Sardinia near the beginning of the fourth century. He served as a lector in Rome before becoming bishop of Vercelli around 345. He brought his clergy together in a household shaped by the practices of monastic life. Its members shared prayer and other obligations while serving the Christian communities of the region.",
+  "As bishop he defended the profession of Christ’s full divinity articulated at Nicaea. When the bishops met at Milan in 355, Emperor Constantius II pressed for the condemnation of Athanasius of Alexandria, a leading defender of Nicaea. Eusebius withheld his consent and was sent into exile. His enforced absence took him first to Scythopolis, in Palestine, and later to other parts of the eastern empire.",
+  "One of his surviving letters from Scythopolis addresses the Christians of Vercelli, Novara, Ivrea, and Tortona. The letter shows that communities beyond his episcopal city already had an identity of their own, and that he still understood himself to have duties toward them while separated from them. He also formed a small religious community in exile.",
+  "He was able to return after Constantius died. Eusebius took part in the Council of Alexandria in 362 and eventually resumed his ministry in Vercelli, where he died in 371. His work continued to influence northern Italian bishops, for whom the common life of their clergy could be a means of formation as well as a practical way to share responsibility.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Eusebius of Vercelli"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-eusebius-of-vercelli/"
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Eusebius of Vercelli"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20071017.html"
 
 [[saints]]
 id = "peter-julian-eymard"
@@ -274,8 +321,10 @@ vocation = "Priest and founder of Eucharistic congregations"
 place = "La Mure and Paris, France"
 summary = "A French priest who founded communities devoted to prayer before the Eucharist and its place in ordinary Christian life."
 biography = [
-  "Ordained for the Diocese of Grenoble, Peter Julian later joined the Marists and preached in parishes. He became convinced that a religious community could help more people deepen their participation in the Eucharist.",
-  "In 1856 he founded the Congregation of the Blessed Sacrament, whose members combined Eucharistic prayer and pastoral work. He and Marguerite Guillot also founded the Servants of the Blessed Sacrament.",
+  "Peter Julian Eymard was born in 1811 in La Mure, in southeastern France. He was ordained a priest for the Diocese of Grenoble in 1834, then entered the Marists in 1839. His work with the Marists took him beyond his first diocesan assignments and eventually included responsibility for other members of the community.",
+  "He often preached during parish celebrations of the Forty Hours, an extended period of prayer before the Eucharist. This experience helped shape his decision to start a community devoted to Eucharistic life. He came to emphasize that sustained prayer before the Eucharist should draw people into a closer relationship with Christ and encourage more active participation in the life of the Church.",
+  "In 1856 he founded the Congregation of the Blessed Sacrament. Its members combined periods of prayer with practical work directed toward that purpose. He helped build a women’s community as well. With Marguerite Guillot he founded the Servants of the Blessed Sacrament, whose name preserves the same focus.",
+  "Obtaining approval for his work took time, and Eymard faced illness and financial difficulty during the years when the communities developed. He died in 1868. Pope John XXIII canonized him in 1962, just after the first session of the Second Vatican Council.",
 ]
 
 [[saints.sources]]
@@ -291,14 +340,20 @@ vocation = "Parish priest and confessor"
 place = "Dardilly and Ars-sur-Formans, France"
 summary = "The parish priest of Ars, whose ministry in the confessional drew visitors from across France."
 biography = [
-  "John grew up near Lyon during the upheaval of the French Revolution. Limited schooling made his studies for the priesthood difficult, but he continued with private help and was ordained.",
-  "At Ars he spent much of his time hearing confessions and guiding people who traveled to the village to consult him. He also helped establish a home for girls. The Church honors him as a patron of parish priests.",
+  "John Mary Vianney was born into a farming family in Dardilly in 1786. He worked on the land as a boy and had little opportunity for formal education. When he sought the priesthood, the academic demands of his training, particularly study through Latin, presented a serious obstacle. Encouragement and private instruction helped him persist, and he was ordained in 1815.",
+  "He became the priest of Ars, a small village where he tried to rebuild habits of worship and religious instruction after years of upheaval in France. Celebrating Mass and praying before the Eucharist were central to his daily work. He also preached to people whose lives and concerns he knew through the parish.",
+  "Word spread about his ministry in the confessional, and visitors came to Ars to speak with him. He devoted long hours to hearing confessions and giving spiritual counsel. With two women from the community, Catherine Lassagne and Benedicta Lardet, he also helped establish La Providence, a home for girls.",
+  "Vianney died in Ars in 1859 after decades of parish ministry. Pope Pius XI canonized him in 1925, and he is honored as a patron of parish priests. His association with Ars is so strong that his traditional title simply names his role there, the Curé d’Ars or parish priest of Ars.",
 ]
 patronage = ["Patron of parish priests"]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint John Vianney"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-vianney/"
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint John Mary Vianney"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20090805.html"
 
 [[saints]]
 id = "sixtus-ii"
@@ -309,8 +364,10 @@ vocation = "Pope and martyr"
 place = "Rome, Italy"
 summary = "A bishop of Rome executed with several deacons under Emperor Valerian."
 biography = [
-  "Sixtus succeeded Pope Stephen I in 257. During his brief pontificate he eased a dispute between Rome and churches elsewhere over whether converts received from certain Christian groups should be baptized again.",
-  "Imperial orders against Christians soon placed the Roman Church under renewed pressure. Sixtus was seized with several deacons at a cemetery along the Appian Way in 258. He was executed and buried in the nearby cemetery of Callixtus.",
+  "Sixtus became bishop of Rome in 257, succeeding Stephen I. He inherited a disagreement over how to receive converts who had already been baptized in communities outside Catholic communion. Rome and some churches in the East had arrived at different practices. Sixtus eased the conflict by allowing the Eastern communities to continue their practice and renewed contacts that had been interrupted.",
+  "The situation of Christians in Rome deteriorated during his short pontificate. Emperor Valerian issued orders against Christian gatherings and leaders. In August 258 authorities seized Sixtus at a cemetery along the Appian Way where Christians had assembled. Several of his deacons were taken with him and executed.",
+  "Sixtus was buried at the nearby cemetery of Callixtus. The proximity of the places of worship, arrest, and burial reflects how important the cemeteries were to the early Christian community in Rome. The memory of Sixtus’s death remained connected to the deacons who were killed with him.",
+  "His time as bishop lasted about a year. The record of his pontificate is brief, yet it includes both relationships with distant churches and pastoral responsibility for a local congregation facing persecution. The Roman Church honors him as a martyr, and his calendar observance remembers him with his companions.",
 ]
 
 [[saints.sources]]
@@ -326,8 +383,10 @@ vocation = "Priest and co-founder of the Theatines"
 place = "Vicenza, Rome, and Naples, Italy"
 summary = "An Italian priest who helped found the Theatines and supported charitable work in Naples."
 biography = [
-  "Cajetan trained in law before seeking ordination. With Gian Pietro Carafa and other priests he established the Theatines, a community that sought to renew the clergy through a common life of prayer and pastoral service.",
-  "He also promoted practical help for people in need. In Naples he founded a charitable lending fund that offered small loans on pledged goods.",
+  "Cajetan, born Gaetano da Thiene in 1480, studied law and later became a priest. In Rome he joined the Oratory of Divine Love, where members practiced prayer and charity. His work took him to Venice and Vicenza, where he helped care for people who were sick and had few other means of support.",
+  "Concern about the training and conduct of clergy led Cajetan and several fellow priests to found the Theatines. One co-founder, Gian Pietro Carafa, later became Pope Paul IV. The order’s name derives from the Latin name for Chieti, the city where Carafa served as bishop. The community sought to reform clerical life through the example of priests living and serving together.",
+  "After troops sacked Rome in 1527, the Theatines’ house was wrecked and members of the community took refuge in Venice. Cajetan continued working in other parts of Italy. In Naples he helped set up a charitable lending fund so people in financial difficulty could borrow money against pledged goods instead of relying on predatory loans.",
+  "He died in Naples in 1547. His work took different forms as local needs changed. Some efforts gave clergy a structure for reform, while others provided material help. The community he helped found kept those commitments to worship and service together.",
 ]
 
 [[saints.sources]]
@@ -343,8 +402,10 @@ vocation = "Pope and martyr"
 place = "Rome and Sardinia, Italy"
 summary = "A bishop of Rome who resigned after being exiled to Sardinia during a persecution."
 biography = [
-  "Pontian led the Church of Rome from 230. When persecution intensified under Emperor Maximinus in 235, the authorities sent him to Sardinia along with Hippolytus, who had led a rival Roman community.",
-  "Pontian resigned in exile, allowing the Roman Church to choose a successor. Accounts remember him and Hippolytus reconciling before their deaths. The Church commemorates them together as martyrs.",
+  "Pontian became bishop of Rome in 230. Early in his pontificate, the Roman Church was still divided by opposition from a group led by the theologian Hippolytus. Pontian also convened a Roman synod that confirmed a condemnation of Origen of Alexandria, a prominent Greek-speaking Christian teacher. It was part of a theological dispute that reached Christian communities far from both cities.",
+  "When persecution began under Emperor Maximinus in 235, Roman authorities sent both Pontian and Hippolytus to the mines of Sardinia. The banishment removed them from their communities. On September 28, 235, Pontian resigned as bishop, enabling the Church in Rome to choose a successor. Anterus took his place.",
+  "The two men are remembered as having reconciled in exile. Pontian died soon after his resignation, probably around 236. Tradition attributes their deaths to the conditions they endured. The Church commemorates Pontian and Hippolytus together as martyrs.",
+  "A tomb inscription identifying Pontian was found in the catacomb of Callixtus. The early Roman chronological record preserves the day of his resignation, unusually precise evidence from this period in papal history. Many historians identify him as the earliest pope known to have resigned.",
 ]
 
 [[saints.sources]]
@@ -360,8 +421,10 @@ vocation = "Priest, theologian, and martyr"
 place = "Rome and Sardinia, Italy"
 summary = "An early Roman theologian remembered for reconciling with Pope Pontian before their deaths in exile."
 biography = [
-  "Hippolytus was an influential teacher in the Church of Rome and sided with those who favored a stricter approach to admitting penitents back into the community. He came to lead a rival group in opposition to successive bishops of Rome.",
-  "In 235 the emperor exiled him to Sardinia, where Pope Pontian was also sent. An early tradition remembers the two men reconciling in exile. They are honored together in the Catholic calendar.",
+  "Hippolytus was active as a teacher and theologian in Rome in the early third century. He took part in disputes about how to speak of the Father and Christ and how to receive Christians who had committed serious sins back into the community. He favored a strict approach to penitential discipline and criticized changes made by the Roman bishop Callixtus.",
+  "Hippolytus eventually led a rival community. The division continued under Callixtus’s successors, Urban and Pontian. During the persecution under Maximinus in 235, authorities exiled both Hippolytus and Pontian to Sardinia. A tradition of their final years remembers Hippolytus reconciling with Pontian and encouraging his followers to return to communion with the Church in Rome.",
+  "He died in exile, traditionally around 235. Their bodies were later brought back to Rome for burial. The two men became associated in the Church’s liturgy through their imprisonment and reconciliation, although their earlier careers took them into sustained opposition.",
+  "Hippolytus is also associated with works of theology and church practice in Greek. The collection of writings transmitted under his name includes an extensive refutation of other teachings and material on early Christian liturgy. The exact attribution of some of that material is debated, so it is useful to distinguish what the texts tell us about the period from what they establish about Hippolytus himself.",
 ]
 
 [[saints.sources]]
@@ -377,8 +440,10 @@ vocation = "King"
 place = "Kingdom of Hungary"
 summary = "An early king of Hungary who established dioceses and supported the growth of Latin Christianity in his kingdom."
 biography = [
-  "Stephen received a royal crown around the turn of the eleventh century. He worked to consolidate his rule, resisted challenges from rival nobles, and established dioceses and other Christian institutions.",
-  "The death of his son Emeric left the question of succession unsettled. Stephen died in 1038 and was canonized with Emeric in 1083.",
+  "Stephen, known in Hungarian as István, was born into the ruling family of the Magyars in the late tenth century. Christianity was already making inroads among his people. As ruler he promoted the organization of the Church and sought recognition for a settled Christian kingdom. He received a royal crown around the turn of the eleventh century.",
+  "His authority was contested by rival nobles, and establishing the kingdom involved military as well as diplomatic work. Stephen gave support to church institutions and sought cooperation from Rome in their organization. Dioceses gave bishops a continuing responsibility for the communities of the kingdom, and royal support helped secure their place in its public life.",
+  "The death of his son Emeric in 1031 brought uncertainty about the succession. Stephen had hoped to pass on the kingdom to him, but his death forced the court to consider rival claims. Illness and political conflict marked the remainder of Stephen’s reign. He died in 1038.",
+  "The Church canonized Stephen and Emeric in 1083. In Hungary the king is remembered as a founder of the state as well as for his place in the history of Christianity. His observance honors a ruler whose decisions helped shape the institutions in which later generations practiced their faith.",
 ]
 
 [[saints.sources]]
@@ -394,13 +459,19 @@ vocation = "Priest, missionary, and founder"
 place = "Normandy, France"
 summary = "A French parish missionary who founded a congregation dedicated to the formation of priests."
 biography = [
-  "John entered the Oratory of Jesus in France and served the sick during outbreaks of plague. He later preached parish missions throughout his region and became deeply concerned about how priests were prepared for their work.",
-  "He founded the Congregation of Jesus and Mary, known as the Eudists, to conduct seminaries. He also helped open a refuge for women in need and promoted devotion to the hearts of Jesus and Mary.",
+  "John Eudes was born in Normandy in 1601. He entered the French Oratory and was ordained at twenty-four. When plague struck his region he volunteered to care for people who were sick. He later became a parish missionary, preaching and hearing confessions in missions that sometimes continued for weeks.",
+  "From that work he became convinced that parishes would be better served if future priests had a stronger preparation for ministry. The Council of Trent had called for diocesan seminaries, but they were unevenly established in France. John left the Oratory and founded the Congregation of Jesus and Mary, whose members became known as the Eudists. Its first seminary was in Caen.",
+  "John was also concerned about women who had few safe places to turn. He helped establish a refuge whose work developed into a distinct religious community. Both projects had to win supporters and find people prepared to carry out their responsibilities over time.",
+  "Devotion to the hearts of Jesus and Mary gave a spiritual focus to his preaching and his work with priests. He taught that formation should encourage a way of life attentive to Christ’s love as well as competence in the work of ministry. John died in 1680. Pope Pius XI canonized him in 1925 alongside John Vianney.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint John Eudes"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-eudes/"
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint John Eudes"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20090819.html"
 
 [[saints]]
 id = "rose-of-lima"
@@ -411,13 +482,19 @@ vocation = "Lay Dominican"
 place = "Lima, Peru"
 summary = "A lay Dominican who cared for people in need at her family home in Lima."
 biography = [
-  "Rose grew up in colonial Lima and took Catherine of Siena as a model for her life of prayer. She remained in her family home, contributed to its upkeep through work, and joined the Dominican Third Order.",
-  "In her later years she set aside room at home to care for sick people, older people, and children who had nowhere else to go. She became the first person born in the Americas to be canonized.",
+  "Rose grew up in Lima in the Spanish Viceroyalty of Peru. The life of Catherine of Siena helped shape her decision to pursue a vocation of prayer. She faced pressure from her family to marry and was unable to enter a convent. In 1606 she became a member of the Dominican Third Order, a way of sharing the order’s spiritual life while remaining in her household.",
+  "She used a small retreat in the family garden for prayer. Her practices of fasting and austerity form a prominent part of early accounts. Household work also occupied her time. She grew flowers and made needlework, which helped support her family and gave her means to assist people in need.",
+  "In her later years she took in sick and hungry people and cared for them in the family home. Accounts mention children, older people, and others who had nowhere else to go. The practical work of receiving people in her home continued alongside the periods of solitude associated with her life.",
+  "Rose died in Lima in 1617. Pope Clement IX beatified her in 1668 and declared her patron of Lima. Pope Clement X canonized her in 1671. She was the first person born in the Americas to be canonized, and her veneration spread well beyond the city where she had lived.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Rose of Lima"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-rose-of-lima/"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Rose of Lima"
+url = "https://www.britannica.com/biography/Saint-Rose-of-Lima"
 
 [[saints]]
 id = "joseph-calasanz"
@@ -428,8 +505,10 @@ vocation = "Priest, educator, and founder of the Piarists"
 place = "Aragon, Spain, and Rome, Italy"
 summary = "A Spanish priest who opened a free school in Rome and founded a teaching order called the Piarists."
 biography = [
-  "Joseph trained for the priesthood in Spain and later moved to Rome. Seeing how few children from poor families received an education, he and several companions opened a free school.",
-  "Their work grew into the Piarists, a religious community whose members taught in the schools. The community came under investigation and was suppressed during his lifetime. It was reestablished after his death.",
+  "Joseph was born in Aragon and received university training in theology and canon law before becoming a priest. He moved to Rome, where he saw that children from poor families had few opportunities for education. When existing institutions were unable to take up the project, he and several partners opened a school that charged no tuition.",
+  "Demand soon exceeded what the original school could accommodate, and more teachers joined the work. Popes Clement VIII and Paul V supported the project, and other schools opened. The teachers developed a religious community alongside their daily work. In 1621 it was recognized as the order commonly known as the Piarists.",
+  "The schools placed a regular education within reach of families without the means to pay for it. The work also drew opposition. Some objected to extending schooling to poor children, while disputes within and around the order led to investigations. Joseph eventually lost his leadership position, and the authorities curtailed the community’s formal standing.",
+  "He died in Rome in 1648. The Piarists eventually regained recognition and continued the teaching work. The history of the first school helps explain why the order placed education at the center of its vocation. The structure of the community grew out of the time, training, and continuity required to keep its schools open.",
 ]
 
 [[saints.sources]]
