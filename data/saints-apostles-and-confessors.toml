@@ -1,0 +1,891 @@
+[[saints]]
+id = "matthew-the-apostle"
+name = "Saint Matthew the Apostle"
+aliases = ["Matthew the Evangelist","Levi","Saint Matthew"]
+years = "First century"
+vocation = "Apostle and evangelist"
+place = "Galilee"
+summary = "A tax collector called by Jesus and traditionally identified with the evangelist Matthew."
+biography = [
+  "Matthew’s Gospel places his call in the middle of an ordinary workday. Jesus sees him at a tax booth and asks him to follow. The meal that follows prompts a dispute about why Jesus eats with tax collectors and others regarded as sinners.",
+  "Christian tradition attributes the first Gospel in the New Testament to Matthew. The Gospel tells of his call but does not name its author in the text.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Matthew 9"
+url = "https://bible.usccb.org/bible/matthew/9"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Matthew 10"
+url = "https://bible.usccb.org/bible/matthew/10"
+
+[[saints.sources]]
+title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
+url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+
+[[saints]]
+id = "mark-the-evangelist"
+name = "Saint Mark the Evangelist"
+aliases = ["John Mark","Saint Mark","Mark the Evangelist"]
+years = "First century"
+vocation = "Evangelist"
+place = "Jerusalem and the Mediterranean world"
+summary = "The evangelist traditionally associated with Peter’s preaching and the Gospel of Mark."
+biography = [
+  "Acts tells of a man called John Mark whose mother, Mary, hosted a community of believers in Jerusalem. Mark traveled with Barnabas, and the decision to bring him on a later journey became a point of disagreement between Barnabas and Paul.",
+  "Christian tradition identifies Mark with the author of the Gospel bearing his name. The First Letter of Peter ends with a greeting from someone named Mark, whom the letter calls a son.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Acts of the Apostles 12"
+url = "https://bible.usccb.org/bible/acts/12"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Acts of the Apostles 15"
+url = "https://bible.usccb.org/bible/acts/15"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — 1 Peter 5"
+url = "https://bible.usccb.org/bible/1peter/5"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Mark (Introduction)"
+url = "https://bible.usccb.org/bible/mark/0"
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Mark"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-mark/"
+
+[[saints]]
+id = "luke-the-evangelist"
+name = "Saint Luke the Evangelist"
+aliases = ["Luke the Physician","Saint Luke"]
+years = "First century"
+vocation = "Evangelist"
+place = "Eastern Mediterranean"
+summary = "Christian tradition attributes both the Gospel of Luke and the Acts of the Apostles to Luke."
+biography = [
+  "Luke’s Gospel opens with an account of how its author prepared an orderly narrative for Theophilus. Acts also addresses Theophilus, then follows the spread of the Christian proclamation from Jerusalem into the wider Roman world.",
+  "The Letter to the Colossians sends greetings from Luke, a physician. Christian tradition identifies him with the author of both works.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Luke 1"
+url = "https://bible.usccb.org/bible/luke/1"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Acts of the Apostles 1"
+url = "https://bible.usccb.org/bible/acts/1"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Colossians 4"
+url = "https://bible.usccb.org/bible/colossians/4"
+
+[[saints]]
+id = "john-the-apostle"
+name = "Saint John the Apostle"
+aliases = ["John the Evangelist","John son of Zebedee","Saint John the Apostle","John the Beloved"]
+years = "First century"
+vocation = "Apostle and evangelist"
+place = "Galilee"
+summary = "One of the Twelve and the brother of James, John is traditionally associated with the Fourth Gospel."
+biography = [
+  "Mark names John and his brother James as sons of Zebedee. The two appear with Peter at the Transfiguration, where they see Jesus in glory and hear a voice from the cloud.",
+  "Christian tradition links John with the Fourth Gospel and its beloved disciple. The Gospel never gives that disciple a personal name, including in the scene at the cross where Jesus entrusts his mother to him.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Mark 3"
+url = "https://bible.usccb.org/bible/mark/3"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Mark 9"
+url = "https://bible.usccb.org/bible/mark/9"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 19"
+url = "https://bible.usccb.org/bible/john/19"
+
+[[saints.sources]]
+title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
+url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+
+[[saints]]
+id = "james-the-greater"
+name = "Saint James the Greater"
+aliases = ["James son of Zebedee","Saint James the Apostle","Santiago Apóstol"]
+years = "First century"
+vocation = "Apostle and martyr"
+place = "Galilee and Jerusalem"
+summary = "One of the Twelve, James left the family fishing boat with his brother John and was later killed on Herod’s orders."
+biography = [
+  "Matthew places the call of James and John by the Sea of Galilee. Jesus finds them preparing their nets with Zebedee, and they leave the boat to follow him.",
+  "Acts reports that Herod killed James with the sword. A later tradition associates him with Spain and the pilgrimage to Santiago de Compostela.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Matthew 4"
+url = "https://bible.usccb.org/bible/matthew/4"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Acts of the Apostles 12"
+url = "https://bible.usccb.org/bible/acts/12"
+
+[[saints.sources]]
+title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
+url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+
+[[saints]]
+id = "james-the-less"
+name = "Saint James the Less"
+aliases = ["James son of Alphaeus","James the Lesser"]
+years = "First century"
+vocation = "Apostle"
+place = "Galilee"
+summary = "The apostle James son of Alphaeus is traditionally called James the Less."
+biography = [
+  "Matthew’s list of the Twelve distinguishes two apostles named James by their fathers, Zebedee and Alphaeus. The lists establish James son of Alphaeus as one of the Twelve but give few details of his life.",
+  "Christian traditions sometimes identify other New Testament figures named James with this apostle. Those identifications should be read with care, since the texts do not settle all the relationships.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Matthew 10"
+url = "https://bible.usccb.org/bible/matthew/10"
+
+[[saints.sources]]
+title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
+url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+
+[[saints]]
+id = "philip-the-apostle"
+name = "Saint Philip the Apostle"
+aliases = ["Philip of Bethsaida","Saint Philip the Apostle"]
+years = "First century"
+vocation = "Apostle"
+place = "Bethsaida, Galilee"
+summary = "The disciple from Bethsaida who invited Nathanael to meet Jesus."
+biography = [
+  "In John’s Gospel, Philip responds to Jesus’ call and then tells Nathanael what he has found. When Nathanael questions whether anything good can come from Nazareth, Philip asks him to see for himself.",
+  "John also puts Philip in the scene where Jesus feeds a large crowd. His calculation of what bread would cost shows the scale of the need before the meal is shared.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 1"
+url = "https://bible.usccb.org/bible/john/1"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 6"
+url = "https://bible.usccb.org/bible/john/6"
+
+[[saints.sources]]
+title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
+url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+
+[[saints]]
+id = "bartholomew-the-apostle"
+name = "Saint Bartholomew the Apostle"
+aliases = ["Bartholomew","Nathanael","Nathaniel"]
+years = "First century"
+vocation = "Apostle"
+place = "Galilee"
+summary = "One of the Twelve, often identified in Christian tradition with Nathanael."
+biography = [
+  "Matthew names Bartholomew among the Twelve. John’s Gospel tells instead of a disciple named Nathanael, whom Philip brings to Jesus. The identification of Nathanael with Bartholomew comes from tradition.",
+  "John depicts Nathanael moving from skepticism about Nazareth to a public confession about Jesus. The episode is the clearest New Testament account associated with Bartholomew through that identification.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Matthew 10"
+url = "https://bible.usccb.org/bible/matthew/10"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 1"
+url = "https://bible.usccb.org/bible/john/1"
+
+[[saints.sources]]
+title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
+url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+
+[[saints]]
+id = "thomas-the-apostle"
+name = "Saint Thomas the Apostle"
+aliases = ["Thomas Didymus","Thomas the Twin","Doubting Thomas","Saint Thomas the Apostle"]
+years = "First century"
+vocation = "Apostle"
+place = "Galilee and, by tradition, India"
+summary = "The apostle who met the risen Jesus after asking to see his wounds."
+biography = [
+  "In John’s Gospel, Thomas is absent when Jesus first appears to the disciples after the Resurrection. He asks for direct evidence. When Jesus appears again, Thomas addresses him as his Lord and God.",
+  "A longstanding tradition connects Thomas with the spread of Christianity to India. The Gospel accounts give little information about his life after the Resurrection.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 20"
+url = "https://bible.usccb.org/bible/john/20"
+
+[[saints.sources]]
+title = "Vatican, Benedict XVI — Thomas, the Twin"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060927.html"
+
+[[saints]]
+id = "simon-the-zealot"
+name = "Saint Simon the Zealot"
+aliases = ["Simon the Cananaean","Simon the Cananean","Saint Simon the Apostle"]
+years = "First century"
+vocation = "Apostle"
+place = "Galilee"
+summary = "The apostle called the Zealot in Luke and Acts."
+biography = [
+  "Luke distinguishes him from Simon Peter by calling him the Zealot. Matthew uses a different form of the same designation. The lists give little basis for reconstructing Simon’s earlier life or political commitments.",
+  "Acts names him among the disciples who gathered in Jerusalem after the Ascension. His later travels and death are described in differing traditions.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Luke 6"
+url = "https://bible.usccb.org/bible/luke/6"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Acts of the Apostles 1"
+url = "https://bible.usccb.org/bible/acts/1"
+
+[[saints.sources]]
+title = "Vatican, Benedict XVI — Simon and Jude"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20061011.html"
+
+[[saints]]
+id = "jude-thaddeus"
+name = "Saint Jude Thaddeus"
+aliases = ["Jude the Apostle","Saint Jude","Thaddaeus","Judas son of James"]
+years = "First century"
+vocation = "Apostle"
+place = "Galilee"
+summary = "A member of the Twelve traditionally identified with Thaddeus."
+biography = [
+  "Luke lists Judas son of James among the apostles, while Matthew includes an apostle named Thaddeus. Christian tradition usually identifies them as the same person and commonly calls him Jude.",
+  "John records a question from a Judas whom the Gospel specifically distinguishes from Judas Iscariot. He asks why Jesus will reveal himself to the disciples in a way the wider world will not see.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Luke 6"
+url = "https://bible.usccb.org/bible/luke/6"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Matthew 10"
+url = "https://bible.usccb.org/bible/matthew/10"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 14"
+url = "https://bible.usccb.org/bible/john/14"
+
+[[saints.sources]]
+title = "Vatican, Benedict XVI — Simon and Jude"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20061011.html"
+
+[[saints]]
+id = "matthias-the-apostle"
+name = "Saint Matthias the Apostle"
+aliases = ["Saint Matthias","Matthias"]
+years = "First century"
+vocation = "Apostle"
+place = "Jerusalem"
+summary = "The disciple chosen by lot to join the Twelve after the departure of Judas Iscariot."
+biography = [
+  "Acts presents the choice of Matthias at a gathering in Jerusalem. Peter asks for a witness who had accompanied the disciples during Jesus’ ministry and could testify to the Resurrection.",
+  "The group proposes two men, prays, and casts lots. Matthias joins the Eleven. Acts does not then give a separate account of his ministry.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Acts of the Apostles 1"
+url = "https://bible.usccb.org/bible/acts/1"
+
+[[saints.sources]]
+title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
+url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+
+[[saints]]
+id = "barnabas-the-apostle"
+name = "Saint Barnabas the Apostle"
+aliases = ["Saint Barnabas","Joseph of Cyprus","Barnabas"]
+years = "First century"
+vocation = "Apostle and missionary"
+place = "Cyprus and Antioch"
+summary = "A Cypriot Christian who introduced Paul to the Jerusalem disciples and later traveled with him."
+biography = [
+  "Acts introduces Barnabas as a Levite from Cyprus who gives the proceeds of a field to the community. He later speaks on Paul’s behalf when the Jerusalem disciples are still afraid of Paul.",
+  "The Church in Antioch sends Barnabas and Paul out together. They preach in Cyprus and other parts of the eastern Mediterranean, then report back to the community that sent them.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Acts of the Apostles 4"
+url = "https://bible.usccb.org/bible/acts/4"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Acts of the Apostles 9"
+url = "https://bible.usccb.org/bible/acts/9"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Acts of the Apostles 13"
+url = "https://bible.usccb.org/bible/acts/13"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Acts of the Apostles 14"
+url = "https://bible.usccb.org/bible/acts/14"
+
+[[saints.sources]]
+title = "Vatican, Benedict XVI — Barnabas, Silas, and Apollos"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070131.html"
+
+[[saints]]
+id = "mary-magdalene"
+name = "Saint Mary Magdalene"
+aliases = ["Mary of Magdala","Magdalene","Apostle to the Apostles"]
+years = "First century"
+vocation = "Disciple and witness to the Resurrection"
+place = "Galilee and Jerusalem"
+summary = "A disciple of Jesus and the first person to encounter the risen Christ in John’s Gospel."
+biography = [
+  "Luke names Mary Magdalene among the women who accompanied Jesus and supported his ministry. John places her at the cross and later at the tomb, where she initially mistakes the risen Jesus for the gardener.",
+  "When Jesus calls Mary by name, she recognizes him. He sends her to the disciples, and she tells them that she has seen the Lord.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Luke 8"
+url = "https://bible.usccb.org/bible/luke/8"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 19"
+url = "https://bible.usccb.org/bible/john/19"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 20"
+url = "https://bible.usccb.org/bible/john/20"
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Mary Magdalene"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-mary-magdalene/"
+
+[[saints]]
+id = "martha-of-bethany"
+name = "Saint Martha of Bethany"
+aliases = ["Saint Martha","Martha of Bethany"]
+years = "First century"
+vocation = "Disciple"
+place = "Bethany, near Jerusalem"
+summary = "The sister of Mary and Lazarus who welcomed Jesus and professed faith in him after Lazarus’ death."
+biography = [
+  "Luke portrays Martha welcoming Jesus into her home and speaking frankly about the burden of serving. John names her as the sister of Mary and Lazarus and describes her going out to meet Jesus as she grieves.",
+  "Their conversation in John moves from grief to hope in the Resurrection. Martha declares her faith in Jesus before she sees Lazarus return from the tomb.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Luke 10"
+url = "https://bible.usccb.org/bible/luke/10"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 11"
+url = "https://bible.usccb.org/bible/john/11"
+
+[[saints.sources]]
+title = "USCCB — Saints Martha, Mary, and Lazarus"
+url = "https://www.usccb.org/prayer-worship/liturgical-year/saints-martha-mary-and-lazarus"
+
+[[saints]]
+id = "mary-of-bethany"
+name = "Saint Mary of Bethany"
+aliases = ["Mary of Bethany","Mary sister of Martha","Mary sister of Lazarus"]
+years = "First century"
+vocation = "Disciple"
+place = "Bethany, near Jerusalem"
+summary = "The sister of Martha and Lazarus who listened to Jesus and anointed his feet at Bethany."
+biography = [
+  "Luke’s account shows Mary sitting to hear Jesus while Martha serves. John places the sisters in Bethany and describes Mary grieving after Lazarus dies.",
+  "At a meal six days before Passover in John’s account, Mary anoints Jesus’ feet. Jesus links her action to his coming burial.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Luke 10"
+url = "https://bible.usccb.org/bible/luke/10"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 11"
+url = "https://bible.usccb.org/bible/john/11"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 12"
+url = "https://bible.usccb.org/bible/john/12"
+
+[[saints.sources]]
+title = "USCCB — Saints Martha, Mary, and Lazarus"
+url = "https://www.usccb.org/prayer-worship/liturgical-year/saints-martha-mary-and-lazarus"
+
+[[saints]]
+id = "lazarus-of-bethany"
+name = "Saint Lazarus of Bethany"
+aliases = ["Saint Lazarus","Lazarus of Bethany","Lazarus the Friend of Jesus"]
+years = "First century"
+vocation = "Disciple"
+place = "Bethany, near Jerusalem"
+summary = "The brother of Martha and Mary whom Jesus calls out of the tomb in John’s Gospel."
+biography = [
+  "John portrays Lazarus and his sisters as friends of Jesus. Lazarus dies while Jesus is away. After speaking with the sisters and grieving at the tomb, Jesus calls Lazarus outside.",
+  "John later places Lazarus at a meal in Bethany. His presence draws attention because people had heard what happened at the tomb.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 11"
+url = "https://bible.usccb.org/bible/john/11"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — John 12"
+url = "https://bible.usccb.org/bible/john/12"
+
+[[saints.sources]]
+title = "USCCB — Saints Martha, Mary, and Lazarus"
+url = "https://www.usccb.org/prayer-worship/liturgical-year/saints-martha-mary-and-lazarus"
+
+[[saints]]
+id = "joseph"
+name = "Saint Joseph"
+aliases = ["Joseph of Nazareth","Joseph the Worker","Spouse of the Blessed Virgin Mary"]
+years = "First century"
+vocation = "Spouse of Mary"
+place = "Nazareth and Bethlehem"
+summary = "The spouse of Mary who cares for Jesus in the infancy narratives."
+biography = [
+  "Matthew recounts Joseph’s decision to take Mary into his home after a dream. When danger threatens the child, Joseph leads the family into Egypt and later settles with them in Nazareth.",
+  "In Luke, Joseph travels with Mary to Bethlehem and joins her in presenting Jesus at the Temple. The Gospels describe his decisions and responsibilities, while preserving no direct words of his.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Matthew 1"
+url = "https://bible.usccb.org/bible/matthew/1"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Matthew 2"
+url = "https://bible.usccb.org/bible/matthew/2"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Luke 2"
+url = "https://bible.usccb.org/bible/luke/2"
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Joseph, Husband of Mary"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-joseph-husband-of-mary/"
+
+[[saints]]
+id = "john-the-baptist"
+name = "Saint John the Baptist"
+aliases = ["John the Forerunner","John son of Zechariah","John the Baptizer"]
+years = "First century"
+vocation = "Prophet and martyr"
+place = "Judea and the Jordan River"
+summary = "The prophet who preached repentance, baptized Jesus, and was killed by order of Herod."
+biography = [
+  "Luke gives John’s birth a place beside the story of Jesus’ infancy. John later preaches in the region of the Jordan, asking his listeners to show by their conduct that they have changed their lives.",
+  "Mark connects John’s imprisonment with his condemnation of Herod’s marriage. John is later executed, and his disciples take his body for burial.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Luke 1"
+url = "https://bible.usccb.org/bible/luke/1"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Luke 3"
+url = "https://bible.usccb.org/bible/luke/3"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Mark 1"
+url = "https://bible.usccb.org/bible/mark/1"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Mark 6"
+url = "https://bible.usccb.org/bible/mark/6"
+
+[[saints]]
+id = "elizabeth-mother-of-john"
+name = "Saint Elizabeth, Mother of John the Baptist"
+aliases = ["Elizabeth of Judea","Elisabeth","Elizabeth mother of John"]
+years = "First century"
+vocation = "Mother of John the Baptist"
+place = "Hill country of Judea"
+summary = "Zechariah’s wife and the mother of John the Baptist, Elizabeth welcomed Mary in Luke’s account of the Visitation."
+biography = [
+  "Luke introduces Elizabeth and Zechariah as a faithful couple who have reached old age without children. During her pregnancy, Elizabeth welcomes Mary and blesses her and the child she carries.",
+  "After the birth, Elizabeth insists that her son be named John. This surprises the neighbors, because none of the family has that name.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Luke 1"
+url = "https://bible.usccb.org/bible/luke/1"
+
+[[saints.sources]]
+title = "University of Notre Dame, FaithND — Saints Elizabeth and Zechariah"
+url = "https://faith.nd.edu/saint/sts-elizabeth-and-zechariah/"
+
+[[saints]]
+id = "zechariah-father-of-john"
+name = "Saint Zechariah, Father of John the Baptist"
+aliases = ["Zachary","Zacharias","Zechariah father of John"]
+years = "First century"
+vocation = "Priest and father of John the Baptist"
+place = "Judea and Jerusalem"
+summary = "The priest in Luke’s Gospel who heard the announcement of John the Baptist’s birth at the Temple."
+biography = [
+  "Luke recounts that Zechariah received the announcement while serving at the Temple. He doubts that he and Elizabeth can have a child in their old age and is unable to speak for a time.",
+  "After the birth, Zechariah publicly confirms the name John. His speech returns, and he praises God in the canticle known as the Benedictus.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Luke 1"
+url = "https://bible.usccb.org/bible/luke/1"
+
+[[saints.sources]]
+title = "University of Notre Dame, FaithND — Saints Elizabeth and Zechariah"
+url = "https://faith.nd.edu/saint/sts-elizabeth-and-zechariah/"
+
+[[saints]]
+id = "joachim"
+name = "Saint Joachim"
+aliases = ["Joachim father of Mary","Saint Joachim of Nazareth"]
+years = "Dates uncertain"
+vocation = "Father of Mary in Christian tradition"
+place = "Judea, by tradition"
+summary = "Christian tradition honors Joachim as the father of Mary and the grandfather of Jesus."
+biography = [
+  "The New Testament does not name Mary’s parents. An early Christian work commonly called the Protoevangelium of James presents them as Joachim and Anne and tells of their long wait for a child.",
+  "The Church commemorates Joachim together with Anne. The tradition about them reflects the place of family life in Christian devotion to Mary.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Joachim and Anne"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-joachim-and-anne/"
+
+[[saints]]
+id = "anne"
+name = "Saint Anne"
+aliases = ["Anna","Anne mother of Mary","Saint Ann"]
+years = "Dates uncertain"
+vocation = "Mother of Mary in Christian tradition"
+place = "Judea, by tradition"
+summary = "Christian tradition honors Anne as the mother of Mary and the grandmother of Jesus."
+biography = [
+  "The canonical Gospels do not name Mary’s mother. The early Christian text known as the Protoevangelium of James tells of Anne and Joachim and of the birth of their daughter.",
+  "The Church commemorates the couple together. Anne is remembered through her relationship to Mary, and many details of her life remain unknown.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Joachim and Anne"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-joachim-and-anne/"
+
+[[saints]]
+id = "timothy"
+name = "Saint Timothy"
+aliases = ["Timothy of Ephesus","Timotheus"]
+years = "First century"
+vocation = "Bishop and missionary"
+place = "Lystra and Ephesus"
+summary = "A younger co-worker of Paul, introduced in Acts as a disciple from Lystra."
+biography = [
+  "Acts says Timothy had a Jewish mother who was a believer and a Greek father. Paul invites him to travel with him. Paul later names him with affection as a proven co-worker.",
+  "The First Letter to Timothy situates him in Ephesus and addresses questions of teaching and leadership in the local church.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Acts of the Apostles 16"
+url = "https://bible.usccb.org/bible/acts/16"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Philippians 2"
+url = "https://bible.usccb.org/bible/philippians/2"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — 1 Timothy 1"
+url = "https://bible.usccb.org/bible/1timothy/1"
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Timothy and Titus"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-timothy-and-titus/"
+
+[[saints]]
+id = "titus"
+name = "Saint Titus"
+aliases = ["Titus of Crete","Saint Titus of Crete"]
+years = "First century"
+vocation = "Bishop and missionary"
+place = "Crete and the eastern Mediterranean"
+summary = "A co-worker whom Paul sent to Corinth and whom the Letter to Titus places in Crete."
+biography = [
+  "In the Second Letter to the Corinthians, Paul describes the relief he felt when Titus brought word about the community. He later entrusts Titus with work connected with the collection for another church.",
+  "The Letter to Titus places him in Crete and charges him with organizing local leadership. That passage is the basis of his traditional association with the island.",
+]
+
+[[saints.sources]]
+title = "USCCB, New American Bible — 2 Corinthians 7"
+url = "https://bible.usccb.org/bible/2corinthians/7"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — 2 Corinthians 8"
+url = "https://bible.usccb.org/bible/2corinthians/8"
+
+[[saints.sources]]
+title = "USCCB, New American Bible — Titus 1"
+url = "https://bible.usccb.org/bible/titus/1"
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Timothy and Titus"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-timothy-and-titus/"
+
+[[saints]]
+id = "benedict-joseph-labre"
+name = "Saint Benedict Joseph Labre"
+aliases = ["Benoît-Joseph Labre","Benedict Labre"]
+years = "1748–1783"
+vocation = "Pilgrim"
+place = "France and Rome"
+summary = "A French pilgrim who spent his final years in Rome after attempts to enter religious life."
+biography = [
+  "Labre tried several religious houses before taking up a life of pilgrimage. He traveled to shrines in Europe, living with very few possessions.",
+  "In Rome he spent much of his time in prayer and accepted what others gave him. His way of life was unusual even among the pilgrims and poor of the city.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Benedict Joseph Labre"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-benedict-joseph-labre/"
+
+[[saints]]
+id = "louis-ix-of-france"
+name = "Saint Louis IX of France"
+aliases = ["Louis of France","Louis IX","Louis the Saint","Saint Louis"]
+years = "1214–1270"
+vocation = "King"
+place = "France"
+summary = "A medieval French king remembered for his religious devotion, charitable works, and efforts to administer justice."
+biography = [
+  "Louis inherited the French throne as a child. His mother, Blanche of Castile, served as regent. As king, he supported religious institutions and took a personal interest in the administration of justice.",
+  "Louis also led crusading expeditions. He was captured during the first and died near Tunis during the second.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Louis of France"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-louis-of-france/"
+
+[[saints]]
+id = "elizabeth-of-portugal"
+name = "Saint Elizabeth of Portugal"
+aliases = ["Isabel of Aragon","Elizabeth of Aragon","Rainha Santa Isabel"]
+years = "1271–1336"
+vocation = "Queen and Franciscan tertiary"
+place = "Portugal"
+summary = "A Portuguese queen noted for care of the poor and mediation in conflicts within her family."
+biography = [
+  "Born into the royal house of Aragon, Elizabeth married King Denis of Portugal. She supported charitable works and is remembered for intervening when disputes within the royal family threatened violence.",
+  "After Denis died, Elizabeth lived near the Poor Clare convent in Coimbra and continued her religious and charitable life. A later journey to help settle another conflict was her last.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Elizabeth of Portugal"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-elizabeth-of-portugal/"
+
+[[saints]]
+id = "bridget-of-sweden"
+name = "Saint Bridget of Sweden"
+aliases = ["Birgitta Birgersdotter","Birgitta of Sweden","Brigid of Sweden"]
+years = "c. 1303–1373"
+vocation = "Mystic and religious founder"
+place = "Sweden and Rome"
+summary = "A Swedish mother and widow whose religious visions and work helped give rise to the Bridgettine Order."
+biography = [
+  "Bridget married and raised a large family. After her husband’s death, her religious life took a more public form through the visions she reported and the counsel she offered to church leaders.",
+  "She spent many years in Rome. The religious community she envisioned became known as the Order of the Most Holy Savior, or the Bridgettines.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Bridget of Sweden"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-bridget-of-sweden/"
+
+[[saints]]
+id = "margaret-mary-alacoque"
+name = "Saint Margaret Mary Alacoque"
+aliases = ["Marguerite-Marie Alacoque","Margaret Mary"]
+years = "1647–1690"
+vocation = "Visitation nun and mystic"
+place = "Paray-le-Monial, France"
+summary = "A Visitation nun whose reported visions helped spread devotion to the Sacred Heart of Jesus."
+biography = [
+  "At the Visitation convent in Paray-le-Monial, Margaret Mary reported experiences in prayer that focused on the love of Christ, represented by his heart. Her claims met resistance.",
+  "The Jesuit Claude de la Colombière supported her. The devotion later spread far beyond the convent where she had lived.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Margaret Mary Alacoque"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-margaret-mary-alacoque/"
+
+[[saints]]
+id = "frances-of-rome"
+name = "Saint Frances of Rome"
+aliases = ["Francesca Romana","Francesca Bussa de’ Leoni","Francesca of Rome"]
+years = "1384–1440"
+vocation = "Lay religious founder"
+place = "Rome, Italy"
+summary = "A Roman wife and mother who organized women for prayer and service to people in need."
+biography = [
+  "Frances married into a Roman family and cared for her household while helping neighbors affected by hardship. During periods of conflict and scarcity, she helped provide food and assistance to the sick.",
+  "She founded a community of women associated with the Benedictine Olivetans. After her husband died, she joined the women whose way of life she had helped establish.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Frances of Rome"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-frances-of-rome/"
+
+[[saints]]
+id = "camillus-de-lellis"
+name = "Saint Camillus de Lellis"
+aliases = ["Camillo de Lellis","Camillus of Lellis"]
+years = "1550–1614"
+vocation = "Priest and religious founder"
+place = "Italy"
+summary = "A former soldier who founded a religious community dedicated to caring for the sick."
+biography = [
+  "Camillus spent part of his early life as a soldier. An injury to his leg brought him into contact with hospital care, and he eventually began working among the sick.",
+  "After ordination, he organized a community dedicated to serving people with illness. Its members were known for taking on difficult work in hospitals and during outbreaks of disease.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Camillus de Lellis"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-camillus-de-lellis/"
+
+[[saints]]
+id = "john-of-god"
+name = "Saint John of God"
+aliases = ["Juan de Dios","João de Deus"]
+years = "1495–1550"
+vocation = "Religious founder and caregiver"
+place = "Granada, Spain"
+summary = "A Portuguese-born caregiver whose hospital work in Granada gave rise to the Brothers Hospitallers."
+biography = [
+  "After years of traveling and working at different occupations, John settled in Granada. A sermon by John of Ávila prompted a profound change, and he eventually began gathering and caring for people who had nowhere else to go.",
+  "He raised support for his work and made room for sick and poor people in a house he had acquired. Other caregivers continued the work after his death.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John of God"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-of-god/"
+
+[[saints]]
+id = "rita-of-cascia"
+name = "Saint Rita of Cascia"
+aliases = ["Margherita of Cascia","Rita of Roccaporena"]
+years = "c. 1381–1457"
+vocation = "Augustinian nun"
+place = "Cascia, Italy"
+summary = "An Italian wife, mother, and widow who later joined an Augustinian convent."
+biography = [
+  "Rita lived in a small community near Cascia. Her husband was killed, and her sons died before she entered religious life. Accounts of her life emphasize her refusal to perpetuate retaliation.",
+  "She entered an Augustinian convent in Cascia and lived there for the rest of her life. The details of her early life come largely from devotional accounts.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Rita of Cascia"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-rita-of-cascia/"
+
+[[saints]]
+id = "clare-of-assisi"
+name = "Saint Clare of Assisi"
+aliases = ["Chiara d’Assisi","Clare of San Damiano"]
+years = "1194–1253"
+vocation = "Religious founder"
+place = "Assisi, Italy"
+summary = "A follower of Francis of Assisi who founded a community of women at San Damiano."
+biography = [
+  "Clare left her family home as a young woman and embraced the form of Gospel poverty that Francis preached. She led the community at San Damiano near Assisi, where other women joined her.",
+  "She defended her sisters’ choice to live without property. A rule for their community received papal approval shortly before she died.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Clare of Assisi"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-clare-of-assisi/"
+
+[[saints]]
+id = "louis-de-montfort"
+name = "Saint Louis de Montfort"
+aliases = ["Louis-Marie Grignion de Montfort","Louis Mary Grignion de Montfort"]
+years = "1673–1716"
+vocation = "Priest and missionary"
+place = "Western France"
+summary = "A French preacher and writer whose works encouraged devotion to Jesus through Mary."
+biography = [
+  "Louis was ordained in Paris and spent much of his priesthood preaching missions in western France. He used preaching and writing to renew Christian practice in the places he visited.",
+  "His writing treats devotion to Mary as a way to deepen commitment to Christ. His work also inspired religious communities that continued after his death.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Louis Mary Grignion de Montfort"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-louis-mary-grignion-de-montfort/"
+
+[[saints]]
+id = "pius-x"
+name = "Saint Pius X"
+aliases = ["Pope Pius X","Giuseppe Sarto","Giuseppe Melchiorre Sarto"]
+years = "1835–1914"
+vocation = "Pope"
+place = "Italy and Rome"
+summary = "The pope who encouraged frequent Communion and lowered the customary age for children to receive it."
+biography = [
+  "Giuseppe Sarto worked as a parish priest and later served as bishop of Mantua and patriarch of Venice. He was elected pope in 1903.",
+  "His pontificate encouraged Catholics to receive Communion more frequently and called for children to receive it once they reached the age of reason and were suitably prepared.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Pius X"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-pius-x/"
+
+[[saints]]
+id = "john-xxiii"
+name = "Saint John XXIII"
+aliases = ["Pope John XXIII","Angelo Giuseppe Roncalli","Angelo Roncalli"]
+years = "1881–1963"
+vocation = "Pope"
+place = "Italy and Rome"
+summary = "The pope who convened the Second Vatican Council."
+biography = [
+  "Angelo Roncalli represented the Holy See abroad and served as patriarch of Venice before his election in 1958. One of the central decisions of his pontificate was to call an ecumenical council.",
+  "The Second Vatican Council opened in 1962. John died after its first session, and his successor Paul VI continued the council.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John XXIII"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-xxiii/"
+
+[[saints]]
+id = "paul-vi"
+name = "Saint Paul VI"
+aliases = ["Pope Paul VI","Giovanni Battista Montini","Giovanni Montini"]
+years = "1897–1978"
+vocation = "Pope"
+place = "Italy and Rome"
+summary = "The pope who led the Second Vatican Council after John XXIII’s death and oversaw its conclusion."
+biography = [
+  "Giovanni Battista Montini worked for the Holy See and served as archbishop of Milan before becoming pope in 1963. He continued the Second Vatican Council and presided over its conclusion in 1965.",
+  "He then guided the Church through the first years of implementing the council’s decisions. His travels and encyclicals addressed questions facing Catholics within and beyond Europe.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Paul VI"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-paul-vi/"
+
+[[saints]]
+id = "john-paul-ii"
+name = "Saint John Paul II"
+aliases = ["Pope John Paul II","Karol Józef Wojtyła","Karol Wojtyla","JP II"]
+years = "1920–2005"
+vocation = "Pope"
+place = "Poland and Rome"
+summary = "A Polish archbishop who became pope in 1978 and traveled widely during his pontificate."
+biography = [
+  "Karol Wojtyła studied for the priesthood in occupied Poland and was ordained after the Second World War. He later served as archbishop of Kraków and took part in the Second Vatican Council.",
+  "As pope, he traveled extensively and helped establish World Youth Day. His long pontificate began while Poland was still under communist rule.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John Paul II"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-paul-ii/"

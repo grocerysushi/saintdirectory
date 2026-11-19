@@ -1,0 +1,3375 @@
+year = 2026
+title = "2026"
+name = "U.S. Roman Rite"
+source_title = "USCCB • Liturgical Calendar for the Dioceses of the United States of America (2026, emended February 2026)"
+source_url = "https://www.usccb.org/resources/2026cal.pdf"
+
+[[days]]
+date = "2026-01-01"
+
+[[days.observances]]
+title = "Solemnity of Mary, the Holy Mother of God"
+rank = "Solemnity"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-01-02"
+
+[[days.observances]]
+title = "Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church"
+rank = "Memorial"
+saints = ["basil-the-great", "gregory-nazianzen"]
+
+[[days]]
+date = "2026-01-03"
+
+[[days.observances]]
+title = "Christmas Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The Most Holy Name of Jesus"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-01-04"
+
+[[days.observances]]
+title = "The Epiphany of the Lord"
+rank = "Solemnity"
+
+[[days]]
+date = "2026-01-05"
+
+[[days.observances]]
+title = "Saint John Neumann, Bishop"
+rank = "Memorial"
+saints = ["john-neumann"]
+
+[[days]]
+date = "2026-01-06"
+
+[[days.observances]]
+title = "Christmas Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint André Bessette, Religious"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-01-07"
+
+[[days.observances]]
+title = "Christmas Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Raymond of Penyafort, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-01-08"
+
+[[days.observances]]
+title = "Christmas Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-01-09"
+
+[[days.observances]]
+title = "Christmas Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-01-10"
+
+[[days.observances]]
+title = "Christmas Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-01-11"
+
+[[days.observances]]
+title = "The Baptism of the Lord"
+rank = "Feast"
+
+[[days]]
+date = "2026-01-12"
+
+[[days.observances]]
+title = "Weekday (First Week in Ordinary Time)"
+rank = "Weekday"
+
+[[days]]
+date = "2026-01-13"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Hilary, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-01-14"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-01-15"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-01-16"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-01-17"
+
+[[days.observances]]
+title = "Saint Anthony, Abbot"
+rank = "Memorial"
+saints = ["anthony-the-great"]
+
+[[days]]
+date = "2026-01-18"
+
+[[days.observances]]
+title = "Second Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-01-19"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-01-20"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Fabian, Pope and Martyr"
+rank = "Optional memorial"
+saints = ["fabian"]
+optional = true
+
+[[days.observances]]
+title = "Saint Sebastian, Martyr"
+rank = "Optional memorial"
+saints = ["sebastian"]
+optional = true
+
+[[days]]
+date = "2026-01-21"
+
+[[days.observances]]
+title = "Saint Agnes, Virgin and Martyr"
+rank = "Memorial"
+saints = ["agnes-of-rome"]
+
+[[days]]
+date = "2026-01-22"
+
+[[days.observances]]
+title = "Day of Prayer for the Legal Protection of Unborn Children"
+rank = "Day of prayer"
+
+[[days]]
+date = "2026-01-23"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Vincent, Deacon and Martyr"
+rank = "Optional memorial"
+saints = ["vincent-of-saragossa"]
+optional = true
+
+[[days.observances]]
+title = "Saint Marianne Cope, Virgin"
+rank = "Optional memorial"
+saints = ["marianne-cope"]
+optional = true
+
+[[days]]
+date = "2026-01-24"
+
+[[days.observances]]
+title = "Saint Francis de Sales, Bishop and Doctor of the Church"
+rank = "Memorial"
+saints = ["francis-de-sales"]
+
+[[days]]
+date = "2026-01-25"
+
+[[days.observances]]
+title = "Third Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-01-26"
+
+[[days.observances]]
+title = "Saints Timothy and Titus, Bishops"
+rank = "Memorial"
+saints = ["timothy", "titus"]
+
+[[days]]
+date = "2026-01-27"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Angela Merici, Virgin"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-01-28"
+
+[[days.observances]]
+title = "Saint Thomas Aquinas, Priest and Doctor of the Church"
+rank = "Memorial"
+saints = ["thomas-aquinas"]
+
+[[days]]
+date = "2026-01-29"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-01-30"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-01-31"
+
+[[days.observances]]
+title = "Saint John Bosco, Priest"
+rank = "Memorial"
+saints = ["john-bosco"]
+
+[[days]]
+date = "2026-02-01"
+
+[[days.observances]]
+title = "Fourth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-02-02"
+
+[[days.observances]]
+title = "The Presentation of the Lord"
+rank = "Feast"
+
+[[days]]
+date = "2026-02-03"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Blaise, Bishop and Martyr"
+rank = "Optional memorial"
+saints = ["blaise"]
+optional = true
+
+[[days.observances]]
+title = "Saint Ansgar, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-02-04"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-02-05"
+
+[[days.observances]]
+title = "Saint Agatha, Virgin and Martyr"
+rank = "Memorial"
+saints = ["agatha-of-sicily"]
+
+[[days]]
+date = "2026-02-06"
+
+[[days.observances]]
+title = "Saint Paul Miki and Companions, Martyrs"
+rank = "Memorial"
+saints = ["paul-miki"]
+
+[[days]]
+date = "2026-02-07"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-02-08"
+
+[[days.observances]]
+title = "Fifth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-02-09"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-02-10"
+
+[[days.observances]]
+title = "Saint Scholastica, Virgin"
+rank = "Memorial"
+saints = ["scholastica"]
+
+[[days]]
+date = "2026-02-11"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Our Lady of Lourdes"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-02-12"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-02-13"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-02-14"
+
+[[days.observances]]
+title = "Saints Cyril, Monk, and Methodius, Bishop"
+rank = "Memorial"
+
+[[days]]
+date = "2026-02-15"
+
+[[days.observances]]
+title = "Sixth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-02-16"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-02-17"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The Seven Holy Founders of the Servite Order"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-02-18"
+
+[[days.observances]]
+title = "Ash Wednesday"
+rank = "Day of penance"
+
+[[days]]
+date = "2026-02-19"
+
+[[days.observances]]
+title = "Thursday after Ash Wednesday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-02-20"
+
+[[days.observances]]
+title = "Friday after Ash Wednesday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-02-21"
+
+[[days.observances]]
+title = "Saturday after Ash Wednesday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Peter Damian, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["peter-damian"]
+optional = true
+
+[[days]]
+date = "2026-02-22"
+
+[[days.observances]]
+title = "First Sunday of Lent"
+rank = "Sunday"
+
+[[days]]
+date = "2026-02-23"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Polycarp, Bishop and Martyr"
+rank = "Optional memorial"
+saints = ["polycarp"]
+optional = true
+
+[[days]]
+date = "2026-02-24"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-02-25"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-02-26"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-02-27"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Gregory of Narek, Abbot and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["gregory-of-narek"]
+optional = true
+
+[[days]]
+date = "2026-02-28"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-01"
+
+[[days.observances]]
+title = "Second Sunday of Lent"
+rank = "Sunday"
+
+[[days]]
+date = "2026-03-02"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-03"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Katharine Drexel, Virgin"
+rank = "Optional memorial"
+saints = ["katharine-drexel"]
+optional = true
+
+[[days]]
+date = "2026-03-04"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Casimir"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-03-05"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-06"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-07"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saints Perpetua and Felicity, Martyrs"
+rank = "Optional memorial"
+saints = ["perpetua-of-carthage", "felicity-of-carthage"]
+optional = true
+
+[[days]]
+date = "2026-03-08"
+
+[[days.observances]]
+title = "Third Sunday of Lent"
+rank = "Sunday"
+
+[[days]]
+date = "2026-03-09"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Frances of Rome, Religious"
+rank = "Optional memorial"
+saints = ["frances-of-rome"]
+optional = true
+
+[[days]]
+date = "2026-03-10"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-11"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-12"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-13"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-14"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-15"
+
+[[days.observances]]
+title = "Fourth Sunday of Lent"
+rank = "Sunday"
+
+[[days]]
+date = "2026-03-16"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-17"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Patrick, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-03-18"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Cyril of Jerusalem, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["cyril-of-jerusalem"]
+optional = true
+
+[[days]]
+date = "2026-03-19"
+
+[[days.observances]]
+title = "Saint Joseph, Spouse of the Blessed Virgin Mary"
+rank = "Solemnity"
+saints = ["joseph", "mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-03-20"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-21"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-22"
+
+[[days.observances]]
+title = "Fifth Sunday of Lent"
+rank = "Sunday"
+
+[[days]]
+date = "2026-03-23"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Turibius of Mogrovejo, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-03-24"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-25"
+
+[[days.observances]]
+title = "The Annunciation of the Lord"
+rank = "Solemnity"
+
+[[days]]
+date = "2026-03-26"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-27"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-28"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-29"
+
+[[days.observances]]
+title = "Palm Sunday of the Passion of the Lord"
+rank = "Sunday"
+
+[[days]]
+date = "2026-03-30"
+
+[[days.observances]]
+title = "Monday of Holy Week"
+rank = "Weekday"
+
+[[days]]
+date = "2026-03-31"
+
+[[days.observances]]
+title = "Tuesday of Holy Week"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-01"
+
+[[days.observances]]
+title = "Wednesday of Holy Week"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-02"
+
+[[days.observances]]
+title = "Thursday of Holy Week (Holy Thursday)"
+rank = "Holy Week"
+
+[[days]]
+date = "2026-04-03"
+
+[[days.observances]]
+title = "Friday of the Passion of the Lord (Good Friday)"
+rank = "Paschal Triduum"
+
+[[days]]
+date = "2026-04-04"
+
+[[days.observances]]
+title = "Holy Saturday"
+rank = "Paschal Triduum"
+
+[[days]]
+date = "2026-04-05"
+
+[[days.observances]]
+title = "Easter Sunday of the Resurrection of the Lord"
+rank = "Solemnity"
+
+[[days]]
+date = "2026-04-06"
+
+[[days.observances]]
+title = "Monday within the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-07"
+
+[[days.observances]]
+title = "Tuesday within the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-08"
+
+[[days.observances]]
+title = "Wednesday within the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-09"
+
+[[days.observances]]
+title = "Thursday within the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-10"
+
+[[days.observances]]
+title = "Friday within the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-11"
+
+[[days.observances]]
+title = "Saturday within the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-12"
+
+[[days.observances]]
+title = "Second Sunday of Easter (or Sunday of Divine Mercy)"
+rank = "Sunday"
+
+[[days]]
+date = "2026-04-13"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Martin I, Pope and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-04-14"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-15"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-16"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-17"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-18"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-19"
+
+[[days.observances]]
+title = "Third Sunday of Easter"
+rank = "Sunday"
+
+[[days]]
+date = "2026-04-20"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-21"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Anselm, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["anselm-of-canterbury"]
+optional = true
+
+[[days]]
+date = "2026-04-22"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-23"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint George, Martyr"
+rank = "Optional memorial"
+saints = ["george"]
+optional = true
+
+[[days.observances]]
+title = "Saint Adalbert, Bishop and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-04-24"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Fidelis of Sigmaringen, Priest and Martyr"
+rank = "Optional memorial"
+saints = ["fidelis-of-sigmaringen"]
+optional = true
+
+[[days]]
+date = "2026-04-25"
+
+[[days.observances]]
+title = "Saint Mark, Evangelist"
+rank = "Feast"
+saints = ["mark-the-evangelist"]
+
+[[days]]
+date = "2026-04-26"
+
+[[days.observances]]
+title = "Fourth Sunday of Easter"
+rank = "Sunday"
+
+[[days]]
+date = "2026-04-27"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-04-28"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Peter Chanel, Priest and Martyr"
+rank = "Optional memorial"
+saints = ["peter-chanel"]
+optional = true
+
+[[days.observances]]
+title = "Saint Louis Grignion de Montfort, Priest"
+rank = "Optional memorial"
+saints = ["louis-de-montfort"]
+optional = true
+
+[[days]]
+date = "2026-04-29"
+
+[[days.observances]]
+title = "Saint Catherine of Siena, Virgin and Doctor of the Church"
+rank = "Memorial"
+saints = ["catherine-of-siena"]
+
+[[days]]
+date = "2026-04-30"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Pius V, Pope"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-05-01"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Joseph the Worker"
+rank = "Optional memorial"
+saints = ["joseph"]
+optional = true
+
+[[days]]
+date = "2026-05-02"
+
+[[days.observances]]
+title = "Saint Athanasius, Bishop and Doctor of the Church"
+rank = "Memorial"
+saints = ["athanasius-of-alexandria"]
+
+[[days]]
+date = "2026-05-03"
+
+[[days.observances]]
+title = "Fifth Sunday of Easter"
+rank = "Sunday"
+
+[[days]]
+date = "2026-05-04"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-05-05"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-05-06"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-05-07"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-05-08"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-05-09"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-05-10"
+
+[[days.observances]]
+title = "Sixth Sunday of Easter"
+rank = "Sunday"
+
+[[days]]
+date = "2026-05-11"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-05-12"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saints Nereus and Achilleus, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint Pancras, Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-05-13"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Our Lady of Fatima"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-05-14"
+
+[[days.observances]]
+title = "The Ascension of the Lord"
+rank = "Solemnity"
+note = "In the ecclesiastical provinces of Boston, Hartford, New York, Omaha, and Philadelphia."
+
+[[days.observances]]
+title = "Saint Matthias, Apostle"
+rank = "Feast"
+saints = ["matthias-the-apostle"]
+note = "In all other U.S. ecclesiastical provinces."
+
+[[days]]
+date = "2026-05-15"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Isidore"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-05-16"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-05-17"
+
+[[days.observances]]
+title = "Seventh Sunday of Easter"
+rank = "Sunday"
+note = "In the ecclesiastical provinces of Boston, Hartford, New York, Omaha, and Philadelphia."
+
+[[days.observances]]
+title = "The Ascension of the Lord"
+rank = "Solemnity"
+note = "In all other U.S. ecclesiastical provinces."
+
+[[days]]
+date = "2026-05-18"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John I, Pope and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-05-19"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-05-20"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Bernardine of Siena, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-05-21"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Christopher Magallanes, Priest, and Companions, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-05-22"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Rita of Cascia, Religious"
+rank = "Optional memorial"
+saints = ["rita-of-cascia"]
+optional = true
+
+[[days]]
+date = "2026-05-23"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-05-24"
+
+[[days.observances]]
+title = "Pentecost Sunday"
+rank = "Solemnity"
+
+[[days]]
+date = "2026-05-25"
+
+[[days.observances]]
+title = "The Blessed Virgin Mary, Mother of the Church"
+rank = "Memorial"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-05-26"
+
+[[days.observances]]
+title = "Saint Philip Neri, Priest"
+rank = "Memorial"
+saints = ["philip-neri"]
+
+[[days]]
+date = "2026-05-27"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Augustine of Canterbury, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-05-28"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-05-29"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Paul VI, Pope"
+rank = "Optional memorial"
+saints = ["paul-vi"]
+optional = true
+
+[[days]]
+date = "2026-05-30"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-05-31"
+
+[[days.observances]]
+title = "The Most Holy Trinity"
+rank = "Solemnity"
+
+[[days]]
+date = "2026-06-01"
+
+[[days.observances]]
+title = "Saint Justin, Martyr (Ninth Week in Ordinary Time)"
+rank = "Memorial"
+saints = ["justin-martyr"]
+
+[[days]]
+date = "2026-06-02"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saints Marcellinus and Peter, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-06-03"
+
+[[days.observances]]
+title = "Saint Charles Lwanga and Companions, Martyrs"
+rank = "Memorial"
+saints = ["charles-lwanga"]
+
+[[days]]
+date = "2026-06-04"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-06-05"
+
+[[days.observances]]
+title = "Saint Boniface, Bishop and Martyr"
+rank = "Memorial"
+
+[[days]]
+date = "2026-06-06"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Norbert, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-06-07"
+
+[[days.observances]]
+title = "The Most Holy Body and Blood of Christ (Corpus Christi)"
+rank = "Solemnity"
+
+[[days]]
+date = "2026-06-08"
+
+[[days.observances]]
+title = "Weekday (Tenth Week in Ordinary Time)"
+rank = "Weekday"
+
+[[days]]
+date = "2026-06-09"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Ephrem, Deacon and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["ephrem-the-syrian"]
+optional = true
+
+[[days]]
+date = "2026-06-10"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-06-11"
+
+[[days.observances]]
+title = "Saint Barnabas, Apostle"
+rank = "Memorial"
+saints = ["barnabas-the-apostle"]
+
+[[days]]
+date = "2026-06-12"
+
+[[days.observances]]
+title = "The Most Sacred Heart of Jesus"
+rank = "Solemnity"
+
+[[days]]
+date = "2026-06-13"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The Immaculate Heart of the Blessed Virgin Mary"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+note = "In 2026, this memorial is optional because it falls on the same day as the memorial of Saint Anthony of Padua."
+
+[[days.observances]]
+title = "Saint Anthony of Padua, Priest and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+saints = ["anthony-of-padua"]
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-06-14"
+
+[[days.observances]]
+title = "Eleventh Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-06-15"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-06-16"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-06-17"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-06-18"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-06-19"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Romuald, Abbot"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-06-20"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-06-21"
+
+[[days.observances]]
+title = "Twelfth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-06-22"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Paulinus of Nola, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saints John Fisher, Bishop, and Thomas More, Martyrs"
+rank = "Optional memorial"
+saints = ["john-fisher", "thomas-more"]
+optional = true
+
+[[days]]
+date = "2026-06-23"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-06-24"
+
+[[days.observances]]
+title = "The Nativity of Saint John the Baptist"
+rank = "Solemnity"
+saints = ["john-the-baptist"]
+
+[[days]]
+date = "2026-06-25"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-06-26"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-06-27"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Cyril of Alexandria, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["cyril-of-alexandria"]
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-06-28"
+
+[[days.observances]]
+title = "Thirteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-06-29"
+
+[[days.observances]]
+title = "Saints Peter and Paul, Apostles"
+rank = "Solemnity"
+saints = ["peter-the-apostle", "paul-the-apostle"]
+
+[[days]]
+date = "2026-06-30"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The First Martyrs of the Holy Roman Church"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-07-01"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Junípero Serra, Priest"
+rank = "Optional memorial"
+saints = ["junipero-serra"]
+optional = true
+
+[[days]]
+date = "2026-07-02"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-07-03"
+
+[[days.observances]]
+title = "Saint Thomas, Apostle"
+rank = "Feast"
+saints = ["thomas-the-apostle"]
+
+[[days]]
+date = "2026-07-04"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Independence Day"
+rank = "Optional observance"
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-07-05"
+
+[[days.observances]]
+title = "Fourteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-07-06"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Maria Goretti, Virgin and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-07-07"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-07-08"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-07-09"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Augustine Zhao Rong, Priest, and Companions, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-07-10"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-07-11"
+
+[[days.observances]]
+title = "Saint Benedict, Abbot"
+rank = "Memorial"
+saints = ["benedict-of-nursia"]
+
+[[days]]
+date = "2026-07-12"
+
+[[days.observances]]
+title = "Fifteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-07-13"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Henry"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-07-14"
+
+[[days.observances]]
+title = "Saint Kateri Tekakwitha, Virgin"
+rank = "Memorial"
+saints = ["kateri-tekakwitha"]
+
+[[days]]
+date = "2026-07-15"
+
+[[days.observances]]
+title = "Saint Bonaventure, Bishop and Doctor of the Church"
+rank = "Memorial"
+saints = ["bonaventure"]
+
+[[days]]
+date = "2026-07-16"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Our Lady of Mount Carmel"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-07-17"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-07-18"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Camillus de Lellis, Priest"
+rank = "Optional memorial"
+saints = ["camillus-de-lellis"]
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-07-19"
+
+[[days.observances]]
+title = "Sixteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-07-20"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Apollinaris, Bishop and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-07-21"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Lawrence of Brindisi, Priest and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["lawrence-of-brindisi"]
+optional = true
+
+[[days]]
+date = "2026-07-22"
+
+[[days.observances]]
+title = "Saint Mary Magdalene"
+rank = "Feast"
+saints = ["mary-magdalene"]
+
+[[days]]
+date = "2026-07-23"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Bridget, Religious"
+rank = "Optional memorial"
+saints = ["bridget-of-sweden"]
+optional = true
+
+[[days]]
+date = "2026-07-24"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Sharbel Makhlūf, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-07-25"
+
+[[days.observances]]
+title = "Saint James, Apostle"
+rank = "Feast"
+saints = ["james-the-greater"]
+
+[[days]]
+date = "2026-07-26"
+
+[[days.observances]]
+title = "Seventeenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-07-27"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-07-28"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-07-29"
+
+[[days.observances]]
+title = "Saints Martha, Mary, and Lazarus"
+rank = "Memorial"
+saints = ["martha-of-bethany", "mary-of-bethany", "lazarus-of-bethany"]
+
+[[days]]
+date = "2026-07-30"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Peter Chrysologus, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-07-31"
+
+[[days.observances]]
+title = "Saint Ignatius of Loyola, Priest"
+rank = "Memorial"
+saints = ["ignatius-of-loyola"]
+
+[[days]]
+date = "2026-08-01"
+
+[[days.observances]]
+title = "Saint Alphonsus Liguori, Bishop and Doctor of the Church"
+rank = "Memorial"
+saints = ["alphonsus-liguori"]
+
+[[days]]
+date = "2026-08-02"
+
+[[days.observances]]
+title = "Eighteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-08-03"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-08-04"
+
+[[days.observances]]
+title = "Saint John Vianney, Priest"
+rank = "Memorial"
+
+[[days]]
+date = "2026-08-05"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The Dedication of the Basilica of Saint Mary Major"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-08-06"
+
+[[days.observances]]
+title = "The Transfiguration of the Lord"
+rank = "Feast"
+
+[[days]]
+date = "2026-08-07"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Sixtus II, Pope, and Companions, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint Cajetan, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-08-08"
+
+[[days.observances]]
+title = "Saint Dominic, Priest"
+rank = "Memorial"
+saints = ["dominic"]
+
+[[days]]
+date = "2026-08-09"
+
+[[days.observances]]
+title = "Nineteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-08-10"
+
+[[days.observances]]
+title = "Saint Lawrence, Deacon and Martyr"
+rank = "Feast"
+saints = ["lawrence-of-rome"]
+
+[[days]]
+date = "2026-08-11"
+
+[[days.observances]]
+title = "Saint Clare, Virgin"
+rank = "Memorial"
+saints = ["clare-of-assisi"]
+
+[[days]]
+date = "2026-08-12"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Jane Frances de Chantal, Religious"
+rank = "Optional memorial"
+saints = ["jane-frances-de-chantal"]
+optional = true
+
+[[days]]
+date = "2026-08-13"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saints Pontian, Pope, and Hippolytus, Priest, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-08-14"
+
+[[days.observances]]
+title = "Saint Maximilian Kolbe, Priest and Martyr"
+rank = "Memorial"
+saints = ["maximilian-kolbe"]
+
+[[days]]
+date = "2026-08-15"
+
+[[days.observances]]
+title = "The Assumption of the Blessed Virgin Mary"
+rank = "Solemnity"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-08-16"
+
+[[days.observances]]
+title = "Twentieth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-08-17"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-08-18"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-08-19"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John Eudes, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-08-20"
+
+[[days.observances]]
+title = "Saint Bernard, Abbot and Doctor of the Church"
+rank = "Memorial"
+saints = ["bernard-of-clairvaux"]
+
+[[days]]
+date = "2026-08-21"
+
+[[days.observances]]
+title = "Saint Pius X, Pope"
+rank = "Memorial"
+saints = ["pius-x"]
+
+[[days]]
+date = "2026-08-22"
+
+[[days.observances]]
+title = "The Queenship of the Blessed Virgin Mary"
+rank = "Memorial"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-08-23"
+
+[[days.observances]]
+title = "Twenty-First Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-08-24"
+
+[[days.observances]]
+title = "Saint Bartholomew, Apostle"
+rank = "Feast"
+saints = ["bartholomew-the-apostle"]
+
+[[days]]
+date = "2026-08-25"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Louis"
+rank = "Optional memorial"
+saints = ["louis-ix-of-france"]
+optional = true
+
+[[days.observances]]
+title = "Saint Joseph Calasanz, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-08-26"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-08-27"
+
+[[days.observances]]
+title = "Saint Monica"
+rank = "Memorial"
+saints = ["monica"]
+
+[[days]]
+date = "2026-08-28"
+
+[[days.observances]]
+title = "Saint Augustine, Bishop and Doctor of the Church"
+rank = "Memorial"
+saints = ["augustine-of-hippo"]
+
+[[days]]
+date = "2026-08-29"
+
+[[days.observances]]
+title = "The Passion of Saint John the Baptist"
+rank = "Memorial"
+saints = ["john-the-baptist"]
+
+[[days]]
+date = "2026-08-30"
+
+[[days.observances]]
+title = "Twenty-Second Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-08-31"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-09-01"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-09-02"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-09-03"
+
+[[days.observances]]
+title = "Saint Gregory the Great, Pope and Doctor of the Church"
+rank = "Memorial"
+saints = ["gregory-the-great"]
+
+[[days]]
+date = "2026-09-04"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-09-05"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Teresa of Calcutta, Virgin"
+rank = "Optional memorial"
+optional = true
+saints = ["teresa-of-calcutta"]
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-09-06"
+
+[[days.observances]]
+title = "Twenty-Third Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-09-07"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-09-08"
+
+[[days.observances]]
+title = "The Nativity of the Blessed Virgin Mary"
+rank = "Feast"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-09-09"
+
+[[days.observances]]
+title = "Saint Peter Claver, Priest"
+rank = "Memorial"
+saints = ["peter-claver"]
+
+[[days]]
+date = "2026-09-10"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-09-11"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-09-12"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The Most Holy Name of Mary"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-09-13"
+
+[[days.observances]]
+title = "Twenty-Fourth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-09-14"
+
+[[days.observances]]
+title = "The Exaltation of the Holy Cross"
+rank = "Feast"
+
+[[days]]
+date = "2026-09-15"
+
+[[days.observances]]
+title = "Our Lady of Sorrows"
+rank = "Memorial"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-09-16"
+
+[[days.observances]]
+title = "Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs"
+rank = "Memorial"
+
+[[days]]
+date = "2026-09-17"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Robert Bellarmine, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["robert-bellarmine"]
+optional = true
+
+[[days.observances]]
+title = "Saint Hildegard of Bingen, Virgin and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["hildegard-of-bingen"]
+optional = true
+
+[[days]]
+date = "2026-09-18"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-09-19"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Januarius, Bishop and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-09-20"
+
+[[days.observances]]
+title = "Twenty-Fifth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-09-21"
+
+[[days.observances]]
+title = "Saint Matthew, Apostle and Evangelist"
+rank = "Feast"
+saints = ["matthew-the-apostle"]
+
+[[days]]
+date = "2026-09-22"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-09-23"
+
+[[days.observances]]
+title = "Saint Pius of Pietrelcina, Priest"
+rank = "Memorial"
+
+[[days]]
+date = "2026-09-24"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-09-25"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-09-26"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saints Cosmas and Damian, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-09-27"
+
+[[days.observances]]
+title = "Twenty-Sixth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-09-28"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Wenceslaus, Martyr"
+rank = "Optional memorial"
+saints = ["wenceslaus"]
+optional = true
+
+[[days.observances]]
+title = "Saint Lawrence Ruiz and Companions, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-09-29"
+
+[[days.observances]]
+title = "Saints Michael, Gabriel and Raphael, Archangels"
+rank = "Feast"
+
+[[days]]
+date = "2026-09-30"
+
+[[days.observances]]
+title = "Saint Jerome, Priest and Doctor of the Church"
+rank = "Memorial"
+saints = ["jerome"]
+
+[[days]]
+date = "2026-10-01"
+
+[[days.observances]]
+title = "Saint Thérèse of the Child Jesus, Virgin and Doctor of the Church"
+rank = "Memorial"
+saints = ["therese-of-lisieux"]
+
+[[days]]
+date = "2026-10-02"
+
+[[days.observances]]
+title = "The Holy Guardian Angels"
+rank = "Memorial"
+
+[[days]]
+date = "2026-10-03"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-10-04"
+
+[[days.observances]]
+title = "Twenty-Seventh Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-10-05"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Faustina Kowalska, Virgin"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Francis Xavier Seelos, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-10-06"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Bruno, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Marie Rose Durocher, Virgin"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-10-07"
+
+[[days.observances]]
+title = "Our Lady of the Rosary"
+rank = "Memorial"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-10-08"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-10-09"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Denis, Bishop, and Companions, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint John Leonardi, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint John Henry Newman, Priest and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["john-henry-newman"]
+optional = true
+
+[[days]]
+date = "2026-10-10"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-10-11"
+
+[[days.observances]]
+title = "Twenty-Eighth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-10-12"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-10-13"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-10-14"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Callistus I, Pope and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-10-15"
+
+[[days.observances]]
+title = "Saint Teresa of Jesus, Virgin and Doctor of the Church"
+rank = "Memorial"
+saints = ["teresa-of-avila"]
+
+[[days]]
+date = "2026-10-16"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Hedwig, Religious"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint Margaret Mary Alacoque, Virgin"
+rank = "Optional memorial"
+saints = ["margaret-mary-alacoque"]
+optional = true
+
+[[days]]
+date = "2026-10-17"
+
+[[days.observances]]
+title = "Saint Ignatius of Antioch, Bishop and Martyr"
+rank = "Memorial"
+saints = ["ignatius-of-antioch"]
+
+[[days]]
+date = "2026-10-18"
+
+[[days.observances]]
+title = "Twenty-Ninth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-10-19"
+
+[[days.observances]]
+title = "Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs"
+rank = "Memorial"
+saints = ["jean-de-brebeuf", "isaac-jogues"]
+
+[[days]]
+date = "2026-10-20"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Paul of the Cross, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-10-21"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-10-22"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John Paul II, Pope"
+rank = "Optional memorial"
+saints = ["john-paul-ii"]
+optional = true
+
+[[days]]
+date = "2026-10-23"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John of Capistrano, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-10-24"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Anthony Mary Claret, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-10-25"
+
+[[days.observances]]
+title = "Thirtieth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-10-26"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-10-27"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-10-28"
+
+[[days.observances]]
+title = "Saints Simon and Jude, Apostles"
+rank = "Feast"
+saints = ["simon-the-zealot", "jude-thaddeus"]
+
+[[days]]
+date = "2026-10-29"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-10-30"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-10-31"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-11-01"
+
+[[days.observances]]
+title = "All Saints"
+rank = "Solemnity"
+
+[[days]]
+date = "2026-11-02"
+
+[[days.observances]]
+title = "The Commemoration of All the Faithful Departed (All Souls’ Day)"
+rank = "Commemoration"
+
+[[days]]
+date = "2026-11-03"
+
+[[days.observances]]
+title = "Weekday (Thirty-First Week in Ordinary Time)"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Martin de Porres, Religious"
+rank = "Optional memorial"
+optional = true
+saints = ["martin-de-porres"]
+
+[[days]]
+date = "2026-11-04"
+
+[[days.observances]]
+title = "Saint Charles Borromeo, Bishop"
+rank = "Memorial"
+saints = ["charles-borromeo"]
+
+[[days]]
+date = "2026-11-05"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-11-06"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-11-07"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-11-08"
+
+[[days.observances]]
+title = "Thirty-Second Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-11-09"
+
+[[days.observances]]
+title = "The Dedication of the Lateran Basilica"
+rank = "Feast"
+
+[[days]]
+date = "2026-11-10"
+
+[[days.observances]]
+title = "Saint Leo the Great, Pope and Doctor of the Church"
+rank = "Memorial"
+saints = ["leo-the-great"]
+
+[[days]]
+date = "2026-11-11"
+
+[[days.observances]]
+title = "Saint Martin of Tours, Bishop"
+rank = "Memorial"
+saints = ["martin-of-tours"]
+
+[[days]]
+date = "2026-11-12"
+
+[[days.observances]]
+title = "Saint Josaphat, Bishop and Martyr"
+rank = "Memorial"
+saints = ["josaphat-kuntsevych"]
+
+[[days]]
+date = "2026-11-13"
+
+[[days.observances]]
+title = "Saint Frances Xavier Cabrini, Virgin"
+rank = "Memorial"
+saints = ["frances-xavier-cabrini"]
+
+[[days]]
+date = "2026-11-14"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-11-15"
+
+[[days.observances]]
+title = "Thirty-Third Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2026-11-16"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Margaret of Scotland"
+rank = "Optional memorial"
+optional = true
+saints = ["margaret-of-scotland"]
+
+[[days.observances]]
+title = "Saint Gertrude, Virgin"
+rank = "Optional memorial"
+optional = true
+saints = ["gertrude-the-great"]
+
+[[days]]
+date = "2026-11-17"
+
+[[days.observances]]
+title = "Saint Elizabeth of Hungary, Religious"
+rank = "Memorial"
+saints = ["elizabeth-of-hungary"]
+
+[[days]]
+date = "2026-11-18"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The Dedication of the Basilicas of Saints Peter and Paul, Apostles"
+rank = "Optional memorial"
+optional = true
+saints = ["peter-the-apostle", "paul-the-apostle"]
+
+[[days.observances]]
+title = "Saint Rose Philippine Duchesne, Virgin"
+rank = "Optional memorial"
+optional = true
+saints = ["rose-philippine-duchesne"]
+
+[[days]]
+date = "2026-11-19"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-11-20"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-11-21"
+
+[[days.observances]]
+title = "The Presentation of the Blessed Virgin Mary"
+rank = "Memorial"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-11-22"
+
+[[days.observances]]
+title = "Our Lord Jesus Christ, King of the Universe"
+rank = "Solemnity"
+
+[[days]]
+date = "2026-11-23"
+
+[[days.observances]]
+title = "Weekday (Thirty-Fourth or Last Week in Ordinary Time)"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Clement I, Pope and Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["clement-i"]
+
+[[days.observances]]
+title = "Saint Columban, Abbot"
+rank = "Optional memorial"
+optional = true
+saints = ["columban"]
+
+[[days.observances]]
+title = "Blessed Miguel Agustín Pro, Priest and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-11-24"
+
+[[days.observances]]
+title = "Saint Andrew Dũng-Lạc, Priest, and Companions, Martyrs"
+rank = "Memorial"
+saints = ["andrew-dung-lac"]
+
+[[days]]
+date = "2026-11-25"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Catherine of Alexandria, Virgin and Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["catherine-of-alexandria"]
+
+[[days]]
+date = "2026-11-26"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Thanksgiving Day"
+rank = "Optional observance"
+optional = true
+
+[[days]]
+date = "2026-11-27"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2026-11-28"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-11-29"
+
+[[days.observances]]
+title = "First Sunday of Advent"
+rank = "Sunday"
+
+[[days]]
+date = "2026-11-30"
+
+[[days.observances]]
+title = "Saint Andrew, Apostle"
+rank = "Feast"
+saints = ["andrew-the-apostle"]
+
+[[days]]
+date = "2026-12-01"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-12-02"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-12-03"
+
+[[days.observances]]
+title = "Saint Francis Xavier, Priest"
+rank = "Memorial"
+saints = ["francis-xavier"]
+
+[[days]]
+date = "2026-12-04"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John Damascene, Priest and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-12-05"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-12-06"
+
+[[days.observances]]
+title = "Second Sunday of Advent"
+rank = "Sunday"
+
+[[days]]
+date = "2026-12-07"
+
+[[days.observances]]
+title = "Saint Ambrose, Bishop and Doctor of the Church"
+rank = "Memorial"
+saints = ["ambrose"]
+
+[[days]]
+date = "2026-12-08"
+
+[[days.observances]]
+title = "The Immaculate Conception of the Blessed Virgin Mary"
+rank = "Solemnity"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-12-09"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Juan Diego Cuauhtlatoatzin"
+rank = "Optional memorial"
+saints = ["juan-diego"]
+optional = true
+
+[[days]]
+date = "2026-12-10"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Our Lady of Loreto"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-12-11"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Damasus I, Pope"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-12-12"
+
+[[days.observances]]
+title = "Our Lady of Guadalupe"
+rank = "Feast"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2026-12-13"
+
+[[days.observances]]
+title = "Third Sunday of Advent"
+rank = "Sunday"
+
+[[days]]
+date = "2026-12-14"
+
+[[days.observances]]
+title = "Saint John of the Cross, Priest and Doctor of the Church"
+rank = "Memorial"
+saints = ["john-of-the-cross"]
+
+[[days]]
+date = "2026-12-15"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-12-16"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-12-17"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-12-18"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-12-19"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-12-20"
+
+[[days.observances]]
+title = "Fourth Sunday of Advent"
+rank = "Sunday"
+
+[[days]]
+date = "2026-12-21"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Peter Canisius, Priest and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["peter-canisius"]
+optional = true
+
+[[days]]
+date = "2026-12-22"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-12-23"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John of Kanty, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2026-12-24"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2026-12-25"
+
+[[days.observances]]
+title = "The Nativity of the Lord (Christmas)"
+rank = "Solemnity"
+
+[[days]]
+date = "2026-12-26"
+
+[[days.observances]]
+title = "Saint Stephen, The First Martyr"
+rank = "Feast"
+saints = ["stephen-the-first-martyr"]
+
+[[days]]
+date = "2026-12-27"
+
+[[days.observances]]
+title = "The Holy Family of Jesus, Mary and Joseph"
+rank = "Feast"
+saints = ["mary-mother-of-jesus", "joseph"]
+
+[[days]]
+date = "2026-12-28"
+
+[[days.observances]]
+title = "The Holy Innocents, Martyrs"
+rank = "Feast"
+
+[[days]]
+date = "2026-12-29"
+
+[[days.observances]]
+title = "Fifth Day within the Octave of the Nativity of the Lord"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Thomas Becket, Bishop and Martyr"
+rank = "Optional memorial"
+saints = ["thomas-becket"]
+optional = true
+
+[[days]]
+date = "2026-12-30"
+
+[[days.observances]]
+title = "Sixth Day within the Octave of the Nativity of the Lord"
+rank = "Weekday"
+
+[[days]]
+date = "2026-12-31"
+
+[[days.observances]]
+title = "Seventh Day within the Octave of the Nativity of the Lord"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Sylvester I, Pope"
+rank = "Optional memorial"
+optional = true

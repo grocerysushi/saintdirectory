@@ -1,0 +1,20 @@
+{% macro list(entries) %}
+<ul class="calendar-entries">
+  {% for entry in entries %}
+  <li class="calendar-entry{% if entry.observance.optional %} is-optional{% endif %}">
+    <span class="rank">{{ entry.observance.rank }}</span>
+    <p class="calendar-title">{{ entry.observance.title }}</p>
+    {% if let Some(note) = entry.observance.note %}
+    <p class="calendar-note">{{ note }}</p>
+    {% endif %}
+    {% if !entry.saints.is_empty() %}
+    <ul class="calendar-links">
+      {% for saint in entry.saints %}
+      <li><a href="/saints/{{ saint.id }}">{{ saint.name }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endmacro %}

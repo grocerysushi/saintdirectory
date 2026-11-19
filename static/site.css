@@ -466,6 +466,82 @@ button:hover {
   color: var(--muted);
 }
 
+.calendar-month-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-bottom: 2rem;
+}
+
+.calendar-month-nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding-inline: 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 0.2rem;
+  background: var(--surface);
+  font-size: 0.875rem;
+}
+
+.calendar-month {
+  scroll-margin-top: 1rem;
+}
+
+.calendar-month + .calendar-month {
+  margin-top: 2.75rem;
+}
+
+.calendar-month h2, .today-schedule h2 {
+  margin-bottom: 1rem;
+}
+
+.zone-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1.2rem;
+}
+
+.page-heading > .today-date {
+  color: var(--accent-dark);
+  font-size: 1.15rem;
+}
+
+.zone-form label {
+  font-weight: 650;
+}
+
+.zone-form select, .zone-form button {
+  min-height: 2.75rem;
+  padding: 0.45rem 0.75rem;
+  border: 1px solid var(--accent);
+  border-radius: 0.2rem;
+  font: inherit;
+}
+
+.zone-form select {
+  color: var(--ink);
+  background: var(--surface);
+}
+
+.zone-form button {
+  color: var(--surface);
+  background: var(--accent-dark);
+}
+
+.today-observances {
+  padding: clamp(1.15rem, 3vw, 1.7rem);
+  border: 1px solid var(--line);
+  border-radius: 0.2rem;
+  background: var(--surface);
+}
+
+.today-schedule > p {
+  margin-top: 1rem;
+}
+
 .calendar-list {
   display: grid;
   gap: 0.6rem;
@@ -525,6 +601,12 @@ button:hover {
   display: block;
   margin: 0.15rem 0;
   font-weight: 650;
+}
+
+.calendar-note {
+  margin: 0.3rem 0;
+  color: var(--muted);
+  font-size: 0.9375rem;
 }
 
 .rank {

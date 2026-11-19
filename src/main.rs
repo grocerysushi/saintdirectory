@@ -1,6 +1,6 @@
 mod catalog;
 
-use std::{error::Error, sync::Arc};
+use std::{error::Error, sync::Arc, time::SystemTime};
 
 use askama::Template;
 use axum::{
@@ -11,6 +11,8 @@ use axum::{
     routing::get,
 };
 use catalog::{Calendar, Catalog, Day, Observance, Saint};
+use chrono::{DateTime, Datelike, NaiveDate, Utc};
+use chrono_tz::{America, Pacific, Tz};
 use serde::Deserialize;
 
 type AppState = Arc<Catalog>;
@@ -38,11 +40,74 @@ struct CalendarEntry<'a> {
     saints: Vec<&'a Saint>,
 }
 
+struct CalendarDay<'a> {
+    date: NaiveDate,
+    entries: Vec<CalendarEntry<'a>>,
+}
+
+struct CalendarMonth<'a> {
+    start: NaiveDate,
+    days: Vec<CalendarDay<'a>>,
+}
+
 #[derive(Template)]
 #[template(path = "calendar.html")]
 struct CalendarPage<'a> {
     calendar: &'a Calendar,
-    schedule: Vec<(&'a Day, Vec<CalendarEntry<'a>>)>,
+    months: Vec<CalendarMonth<'a>>,
+}
+
+#[derive(Template)]
+#[template(path = "today.html")]
+struct TodayPage<'a> {
+    calendar: &'a Calendar,
+    date: NaiveDate,
+    selected_zone: &'static Zone,
+    zones: &'static [Zone],
+    entries: Vec<CalendarEntry<'a>>,
+}
+
+struct Zone {
+    time_zone: Tz,
+    label: &'static str,
+}
+
+const CENTRAL_TIME: Zone = Zone {
+    time_zone: America::Chicago,
+    label: "Central Time",
+};
+
+const ZONES: &[Zone] = &[
+    Zone {
+        time_zone: America::New_York,
+        label: "Eastern Time",
+    },
+    CENTRAL_TIME,
+    Zone {
+        time_zone: America::Denver,
+        label: "Mountain Time",
+    },
+    Zone {
+        time_zone: America::Phoenix,
+        label: "Arizona Time",
+    },
+    Zone {
+        time_zone: America::Los_Angeles,
+        label: "Pacific Time",
+    },
+    Zone {
+        time_zone: America::Anchorage,
+        label: "Alaska Time",
+    },
+    Zone {
+        time_zone: Pacific::Honolulu,
+        label: "Hawaii Time",
+    },
+];
+
+#[derive(Deserialize)]
+struct TodayParams {
+    zone: Option<String>,
 }
 
 #[derive(Template)]
@@ -74,6 +139,7 @@ fn app(catalog: AppState) -> Router {
         .route("/search", get(search))
         .route("/saints/{id}", get(profile))
         .route("/calendar", get(calendar))
+        .route("/today", get(today))
         .route("/assets/site.css", get(styles))
         .route("/assets/paradise.jpg", get(artwork))
         .fallback(not_found)
@@ -125,30 +191,68 @@ async fn profile(State(catalog): State<AppState>, Path(id): Path<String>) -> Res
 }
 
 async fn calendar(State(catalog): State<AppState>) -> Response {
-    let schedule = catalog
+    let months = catalog
         .calendar
         .days
-        .iter()
-        .map(|day| {
-            let entries = day
-                .observances
+        .chunk_by(|left, right| left.date.month() == right.date.month())
+        .map(|days| CalendarMonth {
+            start: days[0].date,
+            days: days
                 .iter()
-                .map(|observance| CalendarEntry {
-                    observance,
-                    saints: observance
-                        .saints
-                        .iter()
-                        .filter_map(|id| catalog.saint(id))
-                        .collect(),
+                .map(|day| CalendarDay {
+                    date: day.date,
+                    entries: calendar_entries(&catalog, day),
                 })
-                .collect();
-            (day, entries)
+                .collect(),
         })
         .collect();
     render(CalendarPage {
         calendar: &catalog.calendar,
-        schedule,
+        months,
     })
+}
+
+async fn today(State(catalog): State<AppState>, Query(params): Query<TodayParams>) -> Response {
+    today_at(&catalog, params.zone.as_deref(), SystemTime::now().into())
+}
+
+fn today_at(catalog: &Catalog, zone_name: Option<&str>, now: DateTime<Utc>) -> Response {
+    let selected_zone = ZONES
+        .iter()
+        .find(|zone| Some(zone.time_zone.name()) == zone_name)
+        .unwrap_or(&CENTRAL_TIME);
+    let date = now.with_timezone(&selected_zone.time_zone).date_naive();
+    let entries = catalog
+        .calendar
+        .day(date)
+        .map(|day| calendar_entries(catalog, day))
+        .unwrap_or_default();
+    let mut page = render(TodayPage {
+        calendar: &catalog.calendar,
+        date,
+        selected_zone,
+        zones: ZONES,
+        entries,
+    });
+    page.headers_mut().insert(
+        header::CACHE_CONTROL,
+        axum::http::HeaderValue::from_static("no-store"),
+    );
+    page
+}
+
+fn calendar_entries<'a>(catalog: &'a Catalog, day: &'a Day) -> Vec<CalendarEntry<'a>> {
+    day.observances
+        .iter()
+        .map(|observance| CalendarEntry {
+            observance,
+            saints: observance
+                .saints
+                .iter()
+                .filter_map(|id| catalog.saint(id))
+                .collect(),
+        })
+        .collect()
 }
 
 async fn styles() -> impl IntoResponse {
@@ -189,9 +293,9 @@ mod tests {
     use tower::ServiceExt;
 
     #[test]
-    fn first_release_has_25_sourced_profiles() {
+    fn directory_has_150_sourced_profiles() {
         let catalog = Catalog::load().unwrap();
-        assert_eq!(catalog.saints.len(), 25);
+        assert_eq!(catalog.saints.len(), 150);
         assert!(catalog.saints.iter().all(|saint| !saint.sources.is_empty()));
     }
 
@@ -201,6 +305,10 @@ mod tests {
         assert_eq!(catalog.search("St. Therese")[0].id, "therese-of-lisieux");
         assert_eq!(catalog.search("Mother Teresa")[0].id, "teresa-of-calcutta");
         assert_eq!(catalog.search("Đũng Lạc")[0].id, "andrew-dung-lac");
+        assert_eq!(
+            catalog.search("Benoit Joseph Labre")[0].id,
+            "benedict-joseph-labre"
+        );
         let results = catalog.search("saint anthony");
         let ids: Vec<_> = results
             .iter()
@@ -212,27 +320,48 @@ mod tests {
     }
 
     #[test]
-    fn november_calendar_preserves_sunday_precedence_and_optional_memorials() {
+    fn annual_calendar_keeps_precedence_and_regional_alternatives() {
         let catalog = Catalog::load().unwrap();
-        let days = &catalog.calendar.days;
-        assert_eq!(days.len(), 30);
-        assert_eq!(days[0].observances[0].title, "All Saints");
-        assert_eq!(days[21].observances[0].rank, "Solemnity");
-        assert!(
-            days[21].observances[0]
-                .title
-                .contains("King of the Universe")
-        );
+        let calendar = &catalog.calendar;
+        let observances = |date: &str| &calendar.day(date.parse().unwrap()).unwrap().observances;
+
+        assert_eq!(calendar.days.len(), 365);
+        assert!(observances("2026-04-05")[0].title.contains("Easter"));
+        assert_eq!(observances("2026-11-01")[0].title, "All Saints");
+        assert_eq!(observances("2026-11-22")[0].rank, "Solemnity");
         assert_eq!(
-            days[22]
-                .observances
+            observances("2026-11-23")
                 .iter()
                 .filter(|entry| entry.optional)
                 .count(),
             3
         );
-        assert!(days[28].observances[0].title.contains("Advent"));
-        assert_eq!(days[29].observances[0].saints, ["andrew-the-apostle"]);
+        assert!(observances("2026-11-29")[0].title.contains("Advent"));
+        assert_eq!(observances("2026-11-30")[0].saints, ["andrew-the-apostle"]);
+        assert!(
+            observances("2026-09-05")
+                .iter()
+                .any(|entry| entry.optional && entry.title.contains("Teresa of Calcutta"))
+        );
+        assert!(
+            observances("2026-10-09")
+                .iter()
+                .any(|entry| entry.optional && entry.title.contains("John Henry Newman"))
+        );
+
+        for date in ["2026-05-14", "2026-05-17"] {
+            let primary: Vec<_> = observances(date)
+                .iter()
+                .filter(|entry| !entry.optional)
+                .collect();
+            assert_eq!(primary.len(), 2);
+            assert!(
+                primary
+                    .iter()
+                    .any(|entry| entry.title.contains("Ascension"))
+            );
+            assert!(primary.iter().all(|entry| entry.note.is_some()));
+        }
     }
 
     #[tokio::test]
@@ -240,9 +369,10 @@ mod tests {
         let app = app(Arc::new(Catalog::load().unwrap()));
         let (status, home) = request(&app, "/").await;
         assert_eq!(status, StatusCode::OK);
-        assert!(home.contains("25 sourced profiles"));
+        assert!(home.contains("150 sourced profiles"));
         assert!(home.contains("action=\"/search\""));
-        assert_eq!(home.matches("class=\"saint-card\"").count(), 25);
+        assert_eq!(home.matches("class=\"saint-card\"").count(), 150);
+        assert!(home.contains("href=\"/today\""));
 
         let (status, results) = request(&app, "/search?q=St.+Therese").await;
         assert_eq!(status, StatusCode::OK);
@@ -255,7 +385,8 @@ mod tests {
 
         let (status, calendar) = request(&app, "/calendar").await;
         assert_eq!(status, StatusCode::OK);
-        assert_eq!(calendar.matches("class=\"calendar-day\"").count(), 30);
+        assert_eq!(calendar.matches("class=\"calendar-day\"").count(), 365);
+        assert!(calendar.contains("href=\"#month-12\""));
         assert!(calendar.contains("/saints/frances-xavier-cabrini"));
         assert!(calendar.contains("2026cal.pdf"));
 
@@ -269,11 +400,37 @@ mod tests {
         );
     }
 
+    #[tokio::test]
+    async fn today_uses_the_selected_zones_civil_date_and_shows_coverage_gaps() {
+        let catalog = Catalog::load().unwrap();
+        let now = "2026-11-04T05:30:00Z".parse().unwrap();
+        let central = today_at(&catalog, None, now);
+        assert_eq!(central.headers()[header::CACHE_CONTROL], "no-store");
+        let central = response_text(central).await;
+        assert!(central.contains("datetime=\"2026-11-03\""));
+        assert!(central.contains("Martin de Porres"));
+        assert!(central.contains("Optional memorial"));
+
+        let eastern = response_text(today_at(&catalog, Some("America/New_York"), now)).await;
+        assert!(eastern.contains("datetime=\"2026-11-04\""));
+        assert!(eastern.contains("Charles Borromeo"));
+        assert!(eastern.contains("/calendar#day-2026-11-04"));
+
+        let date_outside_coverage = "2027-01-02T12:00:00Z".parse().unwrap();
+        let uncovered = response_text(today_at(&catalog, None, date_outside_coverage)).await;
+        assert!(uncovered.contains("verified schedule covers January 1 through December 31, 2026"));
+        assert!(!uncovered.contains("class=\"calendar-entry"));
+    }
+
     async fn request(app: &Router, uri: &str) -> (StatusCode, String) {
         let request = Request::builder().uri(uri).body(Body::empty()).unwrap();
         let response = app.clone().oneshot(request).await.unwrap();
         let status = response.status();
+        (status, response_text(response).await)
+    }
+
+    async fn response_text(response: Response) -> String {
         let body = to_bytes(response.into_body(), 1_000_000).await.unwrap();
-        (status, String::from_utf8(body.to_vec()).unwrap())
+        String::from_utf8(body.to_vec()).unwrap()
     }
 }

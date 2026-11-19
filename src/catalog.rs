@@ -6,8 +6,13 @@ use chrono::{Datelike, NaiveDate};
 use serde::Deserialize;
 use unicode_normalization::{UnicodeNormalization, char::is_combining_mark};
 
-const PROFILES: &str = include_str!("../data/saints.toml");
-const CALENDAR: &str = include_str!("../data/calendar.toml");
+const PROFILE_FILES: &[&str] = &[
+    include_str!("../data/saints.toml"),
+    include_str!("../data/saints-founders.toml"),
+    include_str!("../data/saints-witnesses.toml"),
+    include_str!("../data/saints-apostles-and-confessors.toml"),
+];
+const CALENDAR: &str = include_str!("../data/calendar-2026.toml");
 
 #[derive(Deserialize)]
 #[serde(deny_unknown_fields)]
@@ -42,7 +47,6 @@ struct Profiles {
 #[serde(deny_unknown_fields)]
 pub struct Calendar {
     pub year: i32,
-    pub month: u32,
     pub title: String,
     pub name: String,
     pub source_title: String,
@@ -66,6 +70,14 @@ pub struct Observance {
     pub optional: bool,
     #[serde(default)]
     pub saints: Vec<String>,
+    pub note: Option<String>,
+}
+
+impl Calendar {
+    pub fn day(&self, date: NaiveDate) -> Option<&Day> {
+        let index = self.days.binary_search_by_key(&date, |day| day.date).ok()?;
+        self.days.get(index)
+    }
 }
 
 pub struct Catalog {
@@ -75,7 +87,11 @@ pub struct Catalog {
 
 impl Catalog {
     pub fn load() -> Result<Self, Box<dyn Error>> {
-        let Profiles { mut saints } = toml::from_str(PROFILES)?;
+        let mut saints = Vec::new();
+        for file in PROFILE_FILES {
+            let profiles: Profiles = toml::from_str(file)?;
+            saints.extend(profiles.saints);
+        }
         let calendar: Calendar = toml::from_str(CALENDAR)?;
         validate(&saints, &calendar)?;
         saints.sort_by_cached_key(|saint| normalize(&saint.name));
@@ -206,18 +222,16 @@ fn validate(saints: &[Saint], calendar: &Calendar) -> io::Result<()> {
         }
     }
 
-    let first = NaiveDate::from_ymd_opt(calendar.year, calendar.month, 1)
-        .ok_or_else(|| invalid("Invalid calendar year or month".into()))?;
-    let dates: Vec<_> = first
-        .iter_days()
-        .take_while(|date| date.month() == calendar.month)
-        .collect();
-    if calendar.days.len() != dates.len() || !is_source_url(&calendar.source_url) {
+    let first = NaiveDate::from_ymd_opt(calendar.year, 1, 1)
+        .ok_or_else(|| invalid("Invalid calendar year".into()))?;
+    let last = NaiveDate::from_ymd_opt(calendar.year, 12, 31)
+        .ok_or_else(|| invalid("Invalid calendar year".into()))?;
+    if calendar.days.len() != last.ordinal() as usize || !is_source_url(&calendar.source_url) {
         return Err(invalid(
             "The calendar needs a source and one entry for each date".into(),
         ));
     }
-    for (day, date) in calendar.days.iter().zip(dates) {
+    for (day, date) in calendar.days.iter().zip(first.iter_days()) {
         if day.date != date || day.observances.is_empty() {
             return Err(invalid(format!(
                 "Missing or out-of-order calendar entry for {date}"

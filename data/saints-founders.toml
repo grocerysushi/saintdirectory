@@ -1,0 +1,750 @@
+[[saints]]
+id = "benedict-of-nursia"
+name = "Saint Benedict of Nursia"
+aliases = ["Benedict of Norcia", "Benedict of Monte Cassino", "Benedictus de Nursia"]
+years = "c. 480–547"
+vocation = "Abbot and monastic founder"
+place = "Subiaco and Monte Cassino, Italy"
+summary = "Benedict shaped Western monastic life through the rule he wrote for his community."
+biography = [
+  "Benedict left his studies in Rome for a life of prayer, first in solitude near Subiaco and later in communities. At Monte Cassino he established a monastery. His Rule organizes communal prayer, work, hospitality, and the responsibilities of an abbot.",
+]
+patronage = ["Patron of Europe"]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Benedict of Nursia"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080409.html"
+
+[[saints]]
+id = "scholastica"
+name = "Saint Scholastica"
+aliases = ["Scholastica of Nursia", "Santa Scolastica"]
+years = "c. 480–547"
+vocation = "Nun"
+place = "Central Italy"
+summary = "Benedict of Nursia’s sister is remembered for her religious life and her yearly meetings with him."
+biography = [
+  "Little is known about Scholastica apart from the account in Gregory the Great’s Dialogues. Gregory tells of a final visit in which a storm allowed the siblings to remain together and continue their conversation about God.",
+]
+patronage = ["Traditionally associated with cloistered nuns"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Scholastica"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-scholastica/"
+
+[[saints]]
+id = "gregory-the-great"
+name = "Saint Gregory the Great"
+aliases = ["Pope Gregory I", "Gregory I", "Gregory the Dialogist"]
+years = "c. 540–604"
+vocation = "Pope and Doctor of the Church"
+place = "Rome, Italy"
+summary = "A former Roman official and monk, Gregory became pope and sent missionaries to England."
+biography = [
+  "Gregory held civil office in Rome before embracing monastic life. As pope he dealt with famine, war, and the needs of refugees while overseeing the Church’s pastoral work. He sent Augustine of Canterbury and other monks to evangelize the Anglo-Saxons.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Gregory the Great"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080528.html"
+
+[[saints]]
+id = "augustine-of-hippo"
+name = "Saint Augustine of Hippo"
+aliases = ["Augustine of Hippo", "Aurelius Augustinus", "Augustine of Thagaste"]
+years = "354–430"
+vocation = "Bishop and Doctor of the Church"
+place = "North Africa and Milan"
+summary = "The bishop of Hippo described his conversion in the Confessions and wrote extensively on grace, faith, and the Christian life."
+biography = [
+  "Augustine taught rhetoric before coming to Christian faith. After hearing Ambrose preach in Milan, he was baptized there and later returned to North Africa. As bishop of Hippo, he continued writing and preaching through controversies within the Church.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Augustine of Hippo"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080109.html"
+
+[[saints]]
+id = "monica"
+name = "Saint Monica"
+aliases = ["Monica of Hippo", "Monica of Thagaste", "Saint Monnica"]
+years = "c. 331–387"
+vocation = "Laywoman"
+place = "Thagaste, Milan, and Ostia"
+summary = "Augustine of Hippo’s mother accompanied his long search for faith through prayer and encouragement."
+biography = [
+  "Augustine’s Confessions preserves much of what is known about Monica. She followed him from North Africa to Italy and shared in his joy after his baptism. Before her death at Ostia, mother and son reflected together on eternal life.",
+]
+patronage = ["Traditionally associated with mothers and conversion"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Monica"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-monica/"
+
+[[saints]]
+id = "ambrose"
+name = "Saint Ambrose"
+aliases = ["Ambrose of Milan", "Aurelius Ambrosius", "Sant’Ambrogio"]
+years = "c. 340–397"
+vocation = "Bishop and Doctor of the Church"
+place = "Milan, Italy"
+summary = "A Roman governor unexpectedly chosen as bishop of Milan, Ambrose became a prominent preacher and teacher."
+biography = [
+  "Ambrose was still a catechumen when he was acclaimed bishop. After receiving baptism and ordination, he studied Scripture and brought its language and images into his preaching. Augustine later credited Ambrose’s preaching with helping him understand the Christian faith.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Ambrose"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20071024.html"
+
+[[saints]]
+id = "jerome"
+name = "Saint Jerome"
+aliases = ["Jerome of Stridon", "Hieronymus", "Eusebius Sophronius Hieronymus"]
+years = "c. 347–420"
+vocation = "Priest and Doctor of the Church"
+place = "Rome and Bethlehem"
+summary = "Jerome’s translations and biblical scholarship shaped the Latin Bible known as the Vulgate."
+biography = [
+  "Jerome studied classical literature and languages before devoting much of his life to interpreting Scripture. At Bethlehem he translated books from Hebrew into Latin, wrote commentaries, and corresponded with others who shared his interest in the Bible.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Jerome"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20071107.html"
+
+[[saints]]
+id = "basil-the-great"
+name = "Saint Basil the Great"
+aliases = ["Basil of Caesarea", "Basil of Cappadocia", "Basil the Great"]
+years = "c. 330–379"
+vocation = "Bishop and Doctor of the Church"
+place = "Caesarea, Cappadocia"
+summary = "Basil organized communities of prayer and service and defended the faith of Nicaea as bishop of Caesarea."
+biography = [
+  "After studying in Athens, Basil pursued an ascetic life and wrote guidance for Christians living in community. His work as bishop included teaching on the Trinity and establishing care for the poor and sick. His writings continue to influence Eastern Christian monasticism.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Basil the Great"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070704.html"
+
+[[saints]]
+id = "gregory-nazianzen"
+name = "Saint Gregory Nazianzen"
+aliases = ["Gregory of Nazianzus", "Gregory the Theologian", "Gregory of Constantinople"]
+years = "c. 330–c. 390"
+vocation = "Bishop and Doctor of the Church"
+place = "Cappadocia and Constantinople"
+summary = "Gregory’s sermons in Constantinople earned him the name Gregory the Theologian."
+biography = [
+  "Gregory studied with Basil and later served as a bishop. His theological orations defended belief in the Father, Son, and Holy Spirit. He eventually withdrew from public church leadership and continued to write poetry and letters.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Gregory Nazianzen"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070808.html"
+
+[[saints]]
+id = "thomas-aquinas"
+name = "Saint Thomas Aquinas"
+aliases = ["Tommaso d’Aquino", "Angelic Doctor", "Doctor Angelicus"]
+years = "c. 1225–1274"
+vocation = "Dominican priest and Doctor of the Church"
+place = "Italy and Paris"
+summary = "A Dominican theologian whose Summa Theologiae brings philosophical reasoning into the study of Christian faith."
+biography = [
+  "Thomas joined the Dominicans and studied under Albert the Great. He taught at universities and wrote commentaries, disputed questions, and books on theology. His Summa Theologiae works through questions by examining objections before offering a reasoned response.",
+]
+patronage = ["Patron of the Church’s educational mission, jointly with Saint John Henry Newman"]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Thomas Aquinas"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100602.html"
+
+[[saints.sources]]
+title = "Leo XIV — Homily naming Saint Thomas Aquinas and Saint John Henry Newman co-patrons of the Church’s educational mission"
+url = "https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20251101-messa-giubileo-formatori.html"
+
+[[saints]]
+id = "bonaventure"
+name = "Saint Bonaventure"
+aliases = ["Bonaventure of Bagnoregio", "Giovanni di Fidanza", "Seraphic Doctor"]
+years = "c. 1217–1274"
+vocation = "Franciscan bishop and Doctor of the Church"
+place = "Italy and France"
+summary = "Bonaventure led the Franciscan order and wrote about the place of contemplation in Christian life."
+biography = [
+  "Bonaventure joined the Franciscans and taught theology in Paris. As minister general he helped the order think through how to live its founding commitments as it grew. His Journey of the Mind to God presents contemplation as a path toward union with God.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Bonaventure"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100303.html"
+
+[[saints]]
+id = "dominic"
+name = "Saint Dominic"
+aliases = ["Dominic de Guzmán", "Domingo de Guzmán", "Dominic of Caleruega"]
+years = "c. 1170–1221"
+vocation = "Priest and religious founder"
+place = "Spain, France, and Italy"
+summary = "Dominic founded the Order of Preachers, the community known as the Dominicans."
+biography = [
+  "Dominic’s work in southern France led him to form a community dedicated to preaching. Its members combined study and common prayer with a life of poverty and public teaching. The order received papal confirmation in 1216.",
+]
+patronage = ["Patron of Bologna"]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Dominic"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100203.html"
+
+[[saints]]
+id = "catherine-of-siena"
+name = "Saint Catherine of Siena"
+aliases = ["Caterina da Siena", "Caterina Benincasa", "Catherine Benincasa"]
+years = "1347–1380"
+vocation = "Dominican laywoman and Doctor of the Church"
+place = "Siena, Italy"
+summary = "A Dominican laywoman whose letters and Dialogue brought her life of prayer into public questions of peace and Church reform."
+biography = [
+  "Catherine cared for the sick and corresponded widely with rulers and Church leaders. She urged Gregory XI to return from Avignon to Rome. Her Dialogue presents teachings about prayer, conversion, and love of neighbor through a conversation with God.",
+]
+patronage = ["Patron of Europe and Italy"]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Catherine of Siena"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20101124.html"
+
+[[saints]]
+id = "teresa-of-avila"
+name = "Saint Teresa of Ávila"
+aliases = ["Teresa of Jesus", "Teresa de Ávila", "Teresa Sánchez de Cepeda y Ahumada", "Teresa de Jesús"]
+years = "1515–1582"
+vocation = "Carmelite nun and Doctor of the Church"
+place = "Ávila, Spain"
+summary = "A Carmelite reformer who wrote about prayer and founded communities with a renewed rule of life."
+biography = [
+  "Teresa began a reform with the foundation of the convent of Saint Joseph in Ávila. She went on to establish other communities and worked with John of the Cross on reforming the friars. In The Interior Castle she uses the image of a many-roomed castle to describe growth in prayer.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Teresa of Ávila"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110202.html"
+
+[[saints]]
+id = "john-of-the-cross"
+name = "Saint John of the Cross"
+aliases = ["Juan de la Cruz", "Juan de Yepes", "San Juan de la Cruz"]
+years = "1542–1591"
+vocation = "Carmelite priest and Doctor of the Church"
+place = "Spain"
+summary = "A Carmelite friar whose poems and commentaries explore the trials and joys of union with God."
+biography = [
+  "John worked with Teresa of Ávila to establish reformed Carmelite communities. Opposition to the reform led to his imprisonment in Toledo, where he composed poetry. In later works he used the image of a dark night to describe difficulties encountered in prayer and purification.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint John of the Cross"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110216.html"
+
+[[saints]]
+id = "ignatius-of-loyola"
+name = "Saint Ignatius of Loyola"
+aliases = ["Ignacio de Loyola", "Íñigo López de Loyola", "Ignatius Loyola"]
+years = "1491–1556"
+vocation = "Jesuit priest and religious founder"
+place = "Spain and Rome"
+summary = "Ignatius founded the Society of Jesus with companions and developed a method of prayer and discernment in the Spiritual Exercises."
+biography = [
+  "While recovering from a battlefield injury, Ignatius began to examine the different desires that directed his life. He pursued studies in Paris and formed friendships that became the nucleus of the Society of Jesus. As its first superior general he guided its expanding missions from Rome.",
+]
+patronage = ["Traditionally associated with spiritual retreats"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Ignatius of Loyola"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-ignatius-of-loyola/"
+
+[[saints]]
+id = "francis-xavier"
+name = "Saint Francis Xavier"
+aliases = ["Francisco Javier", "Francisco de Jasso y Azpilicueta", "Francis Xavier, Jesuit"]
+years = "1506–1552"
+vocation = "Jesuit priest and missionary"
+place = "Goa, Japan, and the coast of China"
+summary = "A founding Jesuit who carried out missionary work in India, Southeast Asia, and Japan."
+biography = [
+  "Francis met Ignatius of Loyola while studying in Paris and joined his circle of companions. As a missionary he worked in Goa and other parts of Asia and helped establish a Christian community in Japan. He died on an island off the coast of China while seeking to enter the country.",
+]
+patronage = ["Patron of the missions"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Francis Xavier"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-francis-xavier/"
+
+[[saints]]
+id = "philip-neri"
+name = "Saint Philip Neri"
+aliases = ["Filippo Neri", "Philip Romolo Neri", "Apostle of Rome"]
+years = "1515–1595"
+vocation = "Priest and religious founder"
+place = "Rome, Italy"
+summary = "Philip gathered Romans for prayer and spiritual conversation, forming the community that became the Oratory."
+biography = [
+  "After moving from Florence to Rome, Philip spent years in prayer and service before his ordination. He invited people to gatherings that included readings, discussion, and devotional music. The community of priests that grew from this work became the Congregation of the Oratory.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Philip Neri"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-philip-neri/"
+
+[[saints]]
+id = "francis-de-sales"
+name = "Saint Francis de Sales"
+aliases = ["François de Sales", "Francis of Sales", "Bishop of Geneva"]
+years = "1567–1622"
+vocation = "Bishop and Doctor of the Church"
+place = "Annecy and the Chablais"
+summary = "A bishop and spiritual writer who described how people could pursue a devout life within their everyday responsibilities."
+biography = [
+  "Francis prepared for a career in law before becoming a priest. He ministered in the Chablais and became bishop of Geneva, residing in Annecy. His Introduction to the Devout Life offers practical guidance on prayer, work, and relationships for readers living outside a monastery.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Francis de Sales"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110302.html"
+
+[[saints]]
+id = "jane-frances-de-chantal"
+name = "Saint Jane Frances de Chantal"
+aliases = ["Jeanne-Françoise de Chantal", "Jane de Chantal", "Jeanne de Chantal"]
+years = "1572–1641"
+vocation = "Religious founder"
+place = "Dijon and Annecy, France"
+summary = "A widowed mother who founded the Visitation of Holy Mary with Francis de Sales."
+biography = [
+  "After her husband died, Jane managed family obligations while receiving spiritual guidance from Francis de Sales. Together they established a community in Annecy. Jane led the new congregation as it grew and founded houses in other places.",
+]
+patronage = ["Traditionally associated with mothers and widows"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Jane Frances de Chantal"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-jane-frances-de-chantal/"
+
+[[saints]]
+id = "vincent-de-paul"
+name = "Saint Vincent de Paul"
+aliases = ["Vincent Depaul", "Monsieur Vincent", "Vincent of Paul"]
+years = "1581–1660"
+vocation = "Priest and religious founder"
+place = "France"
+summary = "A French priest who organized parish missions and enduring forms of practical help for people in poverty."
+biography = [
+  "Vincent came to focus his ministry on rural communities that lacked regular pastoral care. He founded the Congregation of the Mission and helped organize lay groups to relieve poverty. With Louise de Marillac he founded the Daughters of Charity.",
+]
+patronage = ["Patron of charitable societies"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Vincent de Paul"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-vincent-de-paul/"
+
+[[saints]]
+id = "louise-de-marillac"
+name = "Saint Louise de Marillac"
+aliases = ["Louise of Marillac", "Luisa de Marillac"]
+years = "1591–1660"
+vocation = "Religious founder"
+place = "Paris, France"
+summary = "Louise helped found the Daughters of Charity and trained women to care for people in their homes and communities."
+biography = [
+  "After the death of her husband, Louise supported Vincent de Paul’s charitable work. She helped organize and train women who nursed the sick, educated children, and responded to local needs. Their work developed into the Daughters of Charity.",
+]
+patronage = ["Patron of social workers"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Louise de Marillac"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-louise-de-marillac/"
+
+[[saints]]
+id = "alphonsus-liguori"
+name = "Saint Alphonsus Liguori"
+aliases = ["Alphonsus Maria de Liguori", "Alfonso Maria de’ Liguori", "Alfonso de Liguori"]
+years = "1696–1787"
+vocation = "Bishop and Doctor of the Church"
+place = "Naples, Italy"
+summary = "The founder of the Redemptorists was a prolific writer on moral theology and prayer."
+biography = [
+  "Alphonsus left the practice of law to become a priest. He founded a community to preach among people with little access to parish ministry, especially in rural areas. His writing on moral theology drew on his experience of guiding people in confession.",
+]
+patronage = ["Patron of confessors and moral theologians"]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Alphonsus Liguori"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110330.html"
+
+[[saints]]
+id = "john-bosco"
+name = "Saint John Bosco"
+aliases = ["Don Bosco", "Giovanni Bosco", "Giovanni Melchiorre Bosco"]
+years = "1815–1888"
+vocation = "Priest, educator, and religious founder"
+place = "Turin, Italy"
+summary = "The founder of the Salesians built a ministry around the education and care of young people in Turin."
+biography = [
+  "John opened a place for boys to learn, play, and receive religious instruction. His educational practice emphasized encouragement and close, practical guidance. The religious community he founded extended that work beyond Turin.",
+]
+patronage = ["Traditionally associated with young apprentices and Catholic publishers"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John Bosco"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-bosco/"
+
+[[saints]]
+id = "mary-mazzarello"
+name = "Saint Mary Mazzarello"
+aliases = ["Mary Domenica Mazzarello", "Maria Domenica Mazzarello", "Mother Mazzarello"]
+years = "1837–1881"
+vocation = "Religious founder and educator"
+place = "Mornese, Italy"
+summary = "Mary helped found the Daughters of Mary Help of Christians, the Salesian sisters."
+biography = [
+  "In Mornese, Mary and companions organized instruction and practical training for girls. With John Bosco she helped found a religious institute in 1872 that made this work its mission. She became its first superior and guided it as new houses opened.",
+]
+
+[[saints.sources]]
+title = "Daughters of Mary Help of Christians — Saint Mary Domenica Mazzarello"
+url = "https://www.cgfmanet.org/en/mary-domenica-mazzarello/"
+
+[[saints]]
+id = "bernard-of-clairvaux"
+name = "Saint Bernard of Clairvaux"
+aliases = ["Bernard de Clairvaux", "Bernard of Fontaine", "Doctor Mellifluus"]
+years = "1090–1153"
+vocation = "Cistercian abbot and Doctor of the Church"
+place = "Clairvaux, France"
+summary = "A Cistercian abbot whose preaching and writing helped shape medieval Christian spirituality."
+biography = [
+  "Bernard entered the community at Cîteaux and was sent to establish a monastery at Clairvaux. His sermons on the Song of Songs interpret the biblical poem through the love between God and the soul. He also took part in major disputes within the medieval Church.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Bernard of Clairvaux"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20091021.html"
+
+[[saints]]
+id = "anselm-of-canterbury"
+name = "Saint Anselm of Canterbury"
+aliases = ["Anselm of Aosta", "Anselm of Bec", "Anselmus Cantuariensis"]
+years = "1033–1109"
+vocation = "Archbishop and Doctor of the Church"
+place = "Bec and Canterbury"
+summary = "An archbishop and theologian who described his inquiry as faith seeking understanding."
+biography = [
+  "Anselm became a monk and teacher at Bec in Normandy before serving as archbishop of Canterbury. His Proslogion reflects on what reason can say about God, while Why God Became Man examines the meaning of the Incarnation.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Anselm of Canterbury"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20090923.html"
+
+[[saints]]
+id = "hildegard-of-bingen"
+name = "Saint Hildegard of Bingen"
+aliases = ["Hildegard von Bingen", "Hildegard of Rupertsberg", "Sibyl of the Rhine"]
+years = "1098–1179"
+vocation = "Abbess and Doctor of the Church"
+place = "Bingen, Germany"
+summary = "A Benedictine abbess whose visions, music, and writings became part of the Christian heritage of the Rhineland."
+biography = [
+  "Hildegard led a religious community and established a monastery at Rupertsberg. In Scivias she recorded visions and interpreted their meaning. She also composed sacred music and corresponded with religious and civil leaders.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Hildegard of Bingen"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100901.html"
+
+[[saints.sources]]
+title = "Benedict XVI — Apostolic letter proclaiming Saint Hildegard a Doctor of the Church"
+url = "https://www.vatican.va/content/benedict-xvi/en/apost_letters/documents/hf_ben-xvi_apl_20121007_ildegarda-bingen.html"
+
+[[saints]]
+id = "bede-the-venerable"
+name = "Saint Bede the Venerable"
+aliases = ["Venerable Bede", "Beda Venerabilis", "Saint Bede"]
+years = "c. 673–735"
+vocation = "Benedictine monk and Doctor of the Church"
+place = "Wearmouth–Jarrow, England"
+summary = "A Northumbrian monk whose Ecclesiastical History records the early development of Christianity in England."
+biography = [
+  "Bede spent his life in the monastic community of Wearmouth and Jarrow. He taught and wrote about Scripture, chronology, and history. His Ecclesiastical History uses documents and reports from across England to trace the growth of the English Church.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Bede the Venerable"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20090218.html"
+
+[[saints]]
+id = "john-henry-newman"
+name = "Saint John Henry Newman"
+aliases = ["Cardinal Newman", "John Henry Cardinal Newman", "J. H. Newman"]
+years = "1801–1890"
+vocation = "Oratorian priest and Doctor of the Church"
+place = "Oxford and Birmingham, England"
+summary = "A theologian and writer whose journey from Anglican ministry to Catholicism shaped his work on education, conscience, and faith."
+biography = [
+  "Newman helped lead the Oxford Movement while serving as an Anglican priest and entered the Catholic Church in 1845. He brought the Oratory to England and later became a cardinal. He wrote on the development of doctrine and the purposes of a university. Leo XIV proclaimed him a Doctor of the Church in 2025.",
+]
+patronage = ["Patron of the Church’s educational mission, jointly with Saint Thomas Aquinas"]
+
+[[saints.sources]]
+title = "Benedict XVI — Homily at the beatification of John Henry Newman"
+url = "https://www.vatican.va/content/benedict-xvi/en/homilies/2010/documents/hf_ben-xvi_hom_20100919_beatif-newman.html"
+
+[[saints.sources]]
+title = "Leo XIV — Homily proclaiming Saint John Henry Newman a Doctor of the Church"
+url = "https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20251101-messa-giubileo-formatori.html"
+
+[[saints]]
+id = "john-of-avila"
+name = "Saint John of Ávila"
+aliases = ["Juan de Ávila", "Juan de Avila", "Apostle of Andalusia"]
+years = "c. 1499–1569"
+vocation = "Priest and Doctor of the Church"
+place = "Andalusia, Spain"
+summary = "A Spanish preacher and spiritual adviser whose work included education and the formation of priests."
+biography = [
+  "John’s ministry centered on Andalusia, where he preached and established schools. His correspondence gave guidance to clergy and laypeople. In Audi, filia he wrote about prayer and the ordering of a Christian life.",
+]
+patronage = ["Patron of diocesan clergy in Spain"]
+
+[[saints.sources]]
+title = "Benedict XVI — Apostolic letter on Saint John of Ávila"
+url = "https://www.vatican.va/content/benedict-xvi/en/apost_letters/documents/hf_ben-xvi_apl_20121007_giovanni-avila.html"
+
+[[saints]]
+id = "peter-damian"
+name = "Saint Peter Damian"
+aliases = ["Pier Damiani", "Pietro Damiani", "Peter Damiani"]
+years = "1007–1072"
+vocation = "Cardinal bishop and Doctor of the Church"
+place = "Fonte Avellana and Ostia, Italy"
+summary = "A monk and reformer who brought the discipline of hermit life into his work as a Church leader."
+biography = [
+  "Peter joined the community of hermits at Fonte Avellana and later became its prior. He wrote about prayer and communal life and spoke against abuses in the clergy. As cardinal bishop of Ostia he undertook missions for the papacy.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Peter Damian"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20090909.html"
+
+[[saints]]
+id = "irenaeus-of-lyons"
+name = "Saint Irenaeus of Lyons"
+aliases = ["Irenaeus of Lyon", "Irénée de Lyon", "Doctor of Unity", "Doctor Unitatis"]
+years = "c. 140–c. 202"
+vocation = "Bishop and Doctor of the Church"
+place = "Smyrna and Lyons"
+summary = "A bishop of Lyons who defended the Christian faith and explained how its teaching was handed down through the churches."
+biography = [
+  "Irenaeus came from Asia Minor and remembered hearing Polycarp of Smyrna. In Gaul he became bishop of Lyons. His work Against Heresies explains how the Church’s public teaching and the unity of Scripture answer competing claims to secret knowledge.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Irenaeus of Lyons"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070328.html"
+
+[[saints.sources]]
+title = "Francis — Decree proclaiming Saint Irenaeus a Doctor of the Church"
+url = "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2022/01/21/220121b.html"
+
+[[saints]]
+id = "justin-martyr"
+name = "Saint Justin Martyr"
+aliases = ["Justin the Philosopher", "Justin of Neapolis", "Saint Justin"]
+years = "c. 100–c. 165"
+vocation = "Philosopher and martyr"
+place = "Flavia Neapolis and Rome"
+summary = "An early Christian philosopher whose writings describe Christian worship and defend the faith before Roman readers."
+biography = [
+  "Justin studied several schools of philosophy before becoming Christian. In Rome he taught and wrote apologies defending Christians against false accusations. His account of Sunday worship includes public readings, prayer, and the Eucharist. He was executed in Rome.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Justin Martyr"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070321.html"
+
+[[saints]]
+id = "athanasius-of-alexandria"
+name = "Saint Athanasius of Alexandria"
+aliases = ["Athanasius the Great", "Athanasius of Alexandria", "Athanasius the Apostolic"]
+years = "c. 295–373"
+vocation = "Bishop and Doctor of the Church"
+place = "Alexandria, Egypt"
+summary = "A bishop who defended the teaching of the Council of Nicaea on the divinity of Christ."
+biography = [
+  "Athanasius attended Nicaea as a young deacon and later became bishop of Alexandria. His defense of the council’s teaching brought repeated periods of exile. His Life of Antony helped make the example of Egyptian monasticism known far beyond Egypt.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Athanasius of Alexandria"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070620.html"
+
+[[saints]]
+id = "john-chrysostom"
+name = "Saint John Chrysostom"
+aliases = ["John of Antioch", "John of Constantinople", "Golden-Mouthed John"]
+years = "c. 349–407"
+vocation = "Bishop and Doctor of the Church"
+place = "Antioch and Constantinople"
+summary = "A preacher known for explaining Scripture and challenging his listeners to care for the poor."
+biography = [
+  "John preached in Antioch before becoming bishop of Constantinople. His sermons address both the text of Scripture and the responsibilities of people in ordinary life. Conflict with the imperial court and other church leaders led to exile, during which he died.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint John Chrysostom"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070919.html"
+
+[[saints]]
+id = "cyril-of-alexandria"
+name = "Saint Cyril of Alexandria"
+aliases = ["Cyril the Alexandrian", "Cyril of Alexandria"]
+years = "c. 370–444"
+vocation = "Bishop and Doctor of the Church"
+place = "Alexandria, Egypt"
+summary = "A bishop of Alexandria whose teaching about Christ was central to the Council of Ephesus."
+biography = [
+  "Cyril argued that the one born to Mary was the same divine Word who took human flesh. The Council of Ephesus affirmed the title Theotokos, often translated as Mother of God. Cyril’s letters and biblical commentaries also preserve much of his theological work.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Cyril of Alexandria"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20071003.html"
+
+[[saints]]
+id = "cyril-of-jerusalem"
+name = "Saint Cyril of Jerusalem"
+aliases = ["Cyril of Jerusalem", "Cyrillus Hierosolymitanus"]
+years = "c. 315–386"
+vocation = "Bishop and Doctor of the Church"
+place = "Jerusalem"
+summary = "A bishop whose catechetical lectures show how the Church of Jerusalem prepared people for baptism."
+biography = [
+  "Cyril taught candidates for baptism through lessons on Scripture, the creed, and Christian practice. He led the Church in Jerusalem through disputes that repeatedly interrupted his ministry. His catecheses remain a witness to fourth-century Christian initiation.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Cyril of Jerusalem"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070627.html"
+
+[[saints]]
+id = "ephrem-the-syrian"
+name = "Saint Ephrem the Syrian"
+aliases = ["Ephrem of Nisibis", "Ephraem Syrus", "Ephraim the Syrian", "Harp of the Holy Spirit"]
+years = "c. 306–373"
+vocation = "Deacon and Doctor of the Church"
+place = "Nisibis and Edessa"
+summary = "A deacon who taught Christian theology in Syriac through poetry and hymns."
+biography = [
+  "Ephrem ministered in Nisibis and later in Edessa. His hymns draw on biblical images to speak about Christ, creation, and salvation. Their poetic form helped communities sing and remember the teachings they conveyed.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Ephrem the Syrian"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20071128.html"
+
+[[saints]]
+id = "gregory-of-narek"
+name = "Saint Gregory of Narek"
+aliases = ["Grigor Narekatsi", "Gregory Narekatsi", "Grigor of Narek"]
+years = "c. 950–c. 1003"
+vocation = "Monk and Doctor of the Church"
+place = "Narek, historic Armenia"
+summary = "An Armenian monk whose Book of Lamentations gives voice to repentance, sorrow, and hope in God."
+biography = [
+  "Gregory lived at the monastery of Narek and wrote in Armenian. In the Book of Lamentations he addresses God in prayers that acknowledge human suffering and rely on divine mercy. Pope Francis proclaimed him a Doctor of the Church.",
+]
+
+[[saints.sources]]
+title = "Francis — General audience on Saint Gregory of Narek"
+url = "https://www.vatican.va/content/francesco/en/audiences/2023/documents/20230426-udienza-generale.html"
+
+[[saints]]
+id = "isidore-of-seville"
+name = "Saint Isidore of Seville"
+aliases = ["Isidoro de Sevilla", "Isidorus Hispalensis"]
+years = "c. 560–636"
+vocation = "Bishop and Doctor of the Church"
+place = "Seville, Spain"
+summary = "The bishop of Seville assembled a survey of inherited learning in his Etymologies."
+biography = [
+  "Isidore succeeded his brother Leander as bishop of Seville and helped lead the Church in Visigothic Spain. His writings cover Scripture, history, language, and the natural world. Medieval readers used his Etymologies as a reference for many subjects.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Isidore of Seville"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080618.html"
+
+[[saints]]
+id = "peter-canisius"
+name = "Saint Peter Canisius"
+aliases = ["Petrus Canisius", "Peter Kanis", "Pieter Kanis"]
+years = "1521–1597"
+vocation = "Jesuit priest and Doctor of the Church"
+place = "Nijmegen and Central Europe"
+summary = "A Jesuit teacher whose catechisms explained Catholic faith during the Reformation."
+biography = [
+  "Born in Nijmegen, Peter became one of the early Jesuits. He preached, taught, and helped establish colleges across Central Europe. His catechisms were adapted for different audiences and circulated in many editions.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Peter Canisius"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110209.html"
+
+[[saints]]
+id = "robert-bellarmine"
+name = "Saint Robert Bellarmine"
+aliases = ["Roberto Bellarmino", "Robert Bellarmino", "Roberto Francesco Romolo Bellarmino"]
+years = "1542–1621"
+vocation = "Jesuit cardinal and Doctor of the Church"
+place = "Montepulciano and Rome, Italy"
+summary = "A Jesuit theologian and cardinal who explained Catholic teaching in an age of religious controversy."
+biography = [
+  "Robert taught theology at the Roman College and wrote the Controversies, a sustained response to disputes of the Reformation. He also composed catechisms for a wider readership and served the Church as bishop and adviser.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Robert Bellarmine"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110223.html"
+
+[[saints]]
+id = "lawrence-of-brindisi"
+name = "Saint Lawrence of Brindisi"
+aliases = ["Lorenzo da Brindisi", "Laurence of Brindisi", "Giulio Cesare Russo"]
+years = "1559–1619"
+vocation = "Capuchin priest and Doctor of the Church"
+place = "Brindisi and Central Europe"
+summary = "A Capuchin preacher who drew on his knowledge of languages and Scripture in his ministry."
+biography = [
+  "Lawrence joined the Capuchins and took on missions that carried him well beyond Italy. His sermons and other writings reflect his study of the Bible, including Hebrew. He also served his order in leadership and carried out diplomatic work.",
+]
+
+[[saints.sources]]
+title = "Benedict XVI — General audience on Saint Lawrence of Brindisi"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110323.html"
+
+[[saints]]
+id = "albert-chmielowski"
+name = "Saint Albert Chmielowski"
+aliases = ["Adam Chmielowski", "Brother Albert", "Brat Albert", "Adam Hilary Bernard Chmielowski"]
+years = "1845–1916"
+vocation = "Religious brother and founder"
+place = "Kraków, Poland"
+summary = "A Polish painter who became Brother Albert and established communities serving people without shelter."
+biography = [
+  "Albert was born Adam Chmielowski and pursued painting after being wounded in the Polish uprising. In Kraków he took up a life of religious service and began working with people living in poverty. Communities of brothers and sisters carried on the work he founded.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Albert Chmielowski"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-albert-chmielowski/"

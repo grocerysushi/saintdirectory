@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% import "observances.html" as observances %}
+{% block title %}Today · Saint Directory{% endblock %}
+{% block description %}Today's liturgical celebrations and optional observances in the U.S. Roman Rite calendar.{% endblock %}
+{% block today_current %} aria-current="page"{% endblock %}
+{% block content %}
+  <div class="container page-heading">
+    <p class="eyebrow">{{ calendar.name }}</p>
+    <h1>Today</h1>
+    <p class="today-date"><time datetime="{{ date }}">{{ date.format("%A, %B %-d, %Y") }}</time></p>
+    <form class="zone-form" action="/today" method="get">
+      <label for="today-zone">Time zone</label>
+      <select id="today-zone" name="zone">
+        {% for zone in zones %}
+        <option value="{{ zone.time_zone.name() }}"{% if zone.time_zone == selected_zone.time_zone %} selected{% endif %}>{{ zone.label }}</option>
+        {% endfor %}
+      </select>
+      <button type="submit">Update</button>
+    </form>
+  </div>
+  <section class="container section today-schedule" aria-labelledby="today-heading">
+    <h2 id="today-heading">Liturgical observances</h2>
+    {% if entries.is_empty() %}
+    <div class="empty-state">
+      <p>The verified schedule covers January 1 through December 31, {{ calendar.year }}.</p>
+      <a href="/calendar">Browse the {{ calendar.year }} calendar</a>
+    </div>
+    {% else %}
+    <div class="today-observances">
+      {% call observances::list(entries.iter()) %}
+    </div>
+    <p><a href="/calendar#day-{{ date }}">View this date in the full calendar</a></p>
+    {% endif %}
+    <p class="calendar-source"><a href="{{ calendar.source_url }}">{{ calendar.source_title }}</a></p>
+  </section>
+{% endblock %}

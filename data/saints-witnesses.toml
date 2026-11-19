@@ -1,0 +1,711 @@
+[[saints]]
+id = "stephen-the-first-martyr"
+name = "Saint Stephen the First Martyr"
+aliases = ["Stephen Protomartyr", "Stephen of Jerusalem", "Stephen the Deacon"]
+years = "Died c. 35"
+vocation = "Early Christian minister and martyr"
+place = "Jerusalem"
+summary = "The Acts of the Apostles recounts Stephen’s service and his death as the first named Christian martyr."
+biography = [
+  "Acts introduces Stephen as one of seven men chosen after Greek-speaking believers complained that their widows were being overlooked in the community’s daily distribution. The seven were entrusted with the work so that the apostles could give their attention to prayer and preaching.",
+  "Stephen was brought before the council and stoned after making a long defense of his faith. In the account, he prayed for his killers while Saul, later known as Paul, approved of his death.",
+]
+
+[[saints.sources]]
+title = "USCCB Bible — Acts of the Apostles, chapter 6"
+url = "https://bible.usccb.org/bible/acts/6"
+
+[[saints.sources]]
+title = "USCCB Bible — Acts of the Apostles, chapter 7"
+url = "https://bible.usccb.org/bible/acts/7"
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Stephen"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-stephen"
+
+[[saints]]
+id = "lawrence-of-rome"
+name = "Saint Lawrence of Rome"
+aliases = ["Laurence of Rome", "Laurentius", "San Lorenzo"]
+years = "Died 258"
+vocation = "Deacon and martyr"
+place = "Rome, Italy"
+summary = "A Roman deacon executed during the persecution of Christians under Emperor Valerian."
+biography = [
+  "Lawrence served the Church of Rome as a deacon and died in the persecution that also claimed Pope Sixtus II. The community continued to honor his memory at his burial site on the Via Tiburtina.",
+  "A famous account says that Lawrence presented people living in poverty when officials demanded the Church’s treasures. The story and the traditional account of his death on a gridiron belong to the later record of his veneration.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Lawrence"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-lawrence"
+
+[[saints]]
+id = "agnes-of-rome"
+name = "Saint Agnes of Rome"
+aliases = ["Agnes the Virgin", "Agnes of the Via Nomentana", "Sant’Agnese"]
+years = "Died in antiquity; traditionally c. 304"
+vocation = "Virgin and martyr"
+place = "Rome, Italy"
+summary = "An early Roman martyr remembered for her youth and fidelity to Christ."
+biography = [
+  "Early Christian writers, including Ambrose of Milan, remembered Agnes as a young girl who faced death with courage. Her tomb on the Via Nomentana became a center of devotion in Rome.",
+  "Later accounts give different descriptions of the circumstances of her death. Her age, the precise year, and much of the familiar story of her trial remain uncertain.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Agnes"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-agnes"
+
+[[saints]]
+id = "agatha-of-sicily"
+name = "Saint Agatha of Sicily"
+aliases = ["Agatha of Catania", "Sant’Agata", "Agatha of Palermo"]
+years = "Died c. 251"
+vocation = "Virgin and martyr"
+place = "Catania, Sicily, Italy"
+summary = "A Sicilian martyr honored in Catania and remembered in the Roman Canon."
+biography = [
+  "Agatha’s early cult was centered in Catania, where tradition places her imprisonment and death during the persecution under Decius. She is named among the martyrs in the Roman Canon.",
+  "The familiar account of Agatha’s resistance to a Roman official and the injuries she suffered comes from traditions about her passion. These accounts shaped depictions of Agatha even though the details cannot be securely reconstructed.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Agatha"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-agatha"
+
+[[saints]]
+id = "lucy-of-syracuse"
+name = "Saint Lucy of Syracuse"
+aliases = ["Saint Lucia", "Lucia of Syracuse", "Santa Lucia"]
+years = "Died c. 304"
+vocation = "Virgin and martyr"
+place = "Syracuse, Sicily, Italy"
+summary = "A Sicilian martyr whose ancient cult spread widely through the Church."
+biography = [
+  "Lucy was honored as a martyr at Syracuse and is remembered by name in the Roman Canon. Tradition places her death in the persecution of Christians under Diocletian.",
+  "Accounts of her broken engagement and the circumstances of her death come from later narratives. The association with eyes and sight became a prominent part of her devotion and iconography.",
+]
+patronage = ["Traditionally invoked by people with eye disorders"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Lucy"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-lucy"
+
+[[saints]]
+id = "perpetua-of-carthage"
+name = "Saint Perpetua"
+aliases = ["Vibia Perpetua", "Perpetua of Carthage"]
+years = "Died 203"
+vocation = "Early Christian martyr"
+place = "Carthage, present-day Tunisia"
+summary = "A young mother executed for her Christian faith in Roman Africa, whose account of prison survives in an early passion narrative."
+biography = [
+  "Perpetua was arrested as part of a group preparing for baptism. The ancient Passion of Perpetua and Felicity preserves a first-person account attributed to Perpetua, describing her father’s appeals, her care for her infant and the visions that sustained her in prison.",
+  "An anonymous narrator completes the account of her execution alongside Felicity and their companions in the arena at Carthage. Perpetua and Felicity are both named in the Roman Canon.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Perpetua and Felicity"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-perpetua-and-felicity"
+
+[[saints.sources]]
+title = "Fordham University Medieval Sourcebook — The Passion of Saints Perpetua and Felicity"
+url = "https://sourcebooks.fordham.edu/source/perpetua.asp"
+
+[[saints]]
+id = "felicity-of-carthage"
+name = "Saint Felicity of Carthage"
+aliases = ["Felicitas of Carthage", "Felicity the Martyr"]
+years = "Died 203"
+vocation = "Early Christian martyr"
+place = "Carthage, present-day Tunisia"
+summary = "An enslaved Christian who gave birth in prison and was executed with Perpetua and their companions."
+biography = [
+  "Felicity, also called Felicitas, appears in the early account of the Carthaginian martyrs as an enslaved woman arrested while preparing for baptism. She was pregnant at her arrest and gave birth shortly before the group was sent to the arena.",
+  "The account says another Christian woman took in her baby. Felicity died alongside Perpetua, and the two women are remembered together in the Roman Canon.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Perpetua and Felicity"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-perpetua-and-felicity"
+
+[[saints.sources]]
+title = "Fordham University Medieval Sourcebook — The Passion of Saints Perpetua and Felicity"
+url = "https://sourcebooks.fordham.edu/source/perpetua.asp"
+
+[[saints]]
+id = "sebastian"
+name = "Saint Sebastian"
+aliases = ["Sebastian of Rome", "Sebastianus", "San Sebastiano"]
+years = "Died in late Roman antiquity"
+vocation = "Martyr"
+place = "Rome, Italy"
+summary = "An early Roman martyr whose burial site on the Appian Way became a place of veneration."
+biography = [
+  "Sebastian is remembered in an early Roman calendar, and his shrine is associated with the catacombs on the Via Appia. Secure details about his life and execution are scarce.",
+  "A later narrative makes Sebastian a soldier under Diocletian and says he survived an execution by arrows before being killed. The image of Sebastian bound and pierced by arrows comes from that tradition.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Sebastian"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-sebastian"
+
+[[saints]]
+id = "fabian"
+name = "Saint Fabian"
+aliases = ["Pope Fabian", "Pope Saint Fabian", "Fabianus"]
+years = "Died 250"
+vocation = "Pope and martyr"
+place = "Rome, Italy"
+summary = "A bishop of Rome who died during the persecution under Emperor Decius."
+biography = [
+  "Fabian became bishop of Rome in 236 and led the community for about fourteen years. The historian Eusebius preserved the tradition that a dove landing on Fabian helped prompt his unexpected election.",
+  "Fabian was killed during the persecution under Decius. His burial in the cemetery of Callistus is attested by a surviving grave inscription.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Fabian"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-fabian"
+
+[[saints]]
+id = "polycarp"
+name = "Saint Polycarp of Smyrna"
+aliases = ["Polycarp", "Polykarpos", "Polycarp of İzmir"]
+years = "Died in the mid-second century"
+vocation = "Bishop, early Christian writer, and martyr"
+place = "Smyrna, now İzmir, Türkiye"
+summary = "An early bishop whose letter to the Philippians and whose community’s account of his martyrdom survive."
+biography = [
+  "Polycarp was bishop of Smyrna in Roman Asia. His letter to the Church at Philippi gives practical counsel on Christian life and offers a window into how early Christian communities shared teachings and writings.",
+  "An account circulated by his own community describes his refusal to renounce Christ and his execution at Smyrna. Historians date the event to the second century and differ on the precise year.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Polycarp"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-polycarp"
+
+[[saints]]
+id = "ignatius-of-antioch"
+name = "Saint Ignatius of Antioch"
+aliases = ["Ignatius Theophorus", "Ignatios of Antioch", "Ignatius of Syria"]
+years = "Died in the early second century"
+vocation = "Bishop, early Christian writer, and martyr"
+place = "Antioch, now Antakya, Türkiye, and Rome"
+summary = "A bishop whose letters from custody are early witnesses to Christian worship and church leadership."
+biography = [
+  "Ignatius led the Christian community of Antioch. While being taken to Rome under guard, he wrote to congregations he met or heard from on the journey, as well as to Polycarp of Smyrna.",
+  "His letters speak about unity around the bishop, the Eucharist, and Christ’s real suffering. In his letter to the Romans he asked the community to refrain from intervening to save his life.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Ignatius of Antioch"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-ignatius-of-antioch"
+
+[[saints]]
+id = "blaise"
+name = "Saint Blaise of Sebaste"
+aliases = ["Blaise", "Blase", "Blasius", "Vlasios"]
+years = "Died traditionally c. 316"
+vocation = "Bishop and martyr"
+place = "Sebaste, now Sivas, Türkiye"
+summary = "A bishop and martyr whose traditional association with throat ailments is remembered in the blessing of throats."
+biography = [
+  "Christian tradition remembers Blaise as a bishop of Sebaste, an ancient city in what is now Türkiye, who was killed during a persecution. Detailed stories of his life circulated long after the period in which he is believed to have lived.",
+  "One of those stories recounts his helping a child who was choking. It is associated with the custom of blessing throats using crossed candles on his feast day.",
+]
+patronage = ["Traditionally invoked against throat ailments"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Blaise"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-blaise"
+
+[[saints]]
+id = "george"
+name = "Saint George"
+aliases = ["George the Martyr", "George of Lydda", "Giorgio", "Jorge"]
+years = "Died in late Roman antiquity"
+vocation = "Martyr"
+place = "Lydda, now Lod, Israel, in traditions of his burial"
+summary = "A martyr widely honored in Eastern and Western Christianity and remembered in a later story about a dragon."
+biography = [
+  "An early center of devotion to George was Lydda. Tradition describes him as a soldier martyred during the Roman persecutions, although reliable details of his life are few.",
+  "The tale in which George defeats a dragon and saves a town became prominent in medieval literature and art. It belongs to the later history of his devotion.",
+]
+patronage = ["Traditionally venerated as a patron of England"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint George"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-george"
+
+[[saints]]
+id = "vincent-of-saragossa"
+name = "Saint Vincent of Saragossa"
+aliases = ["Vincent of Zaragoza", "Vincent of Zaragossa", "Vincent of Valencia", "Vicente Mártir"]
+years = "Died c. 304"
+vocation = "Deacon and martyr"
+place = "Zaragoza and Valencia, Spain"
+summary = "A Spanish deacon venerated as a martyr in Valencia from early Christian times."
+biography = [
+  "Vincent served as a deacon in Zaragoza under Bishop Valerius. Christian tradition places his arrest during the reign of Diocletian and his death at Valencia after he refused to surrender his faith.",
+  "The poet Prudentius celebrated Vincent in late antiquity. The graphic particulars of the torture and the stories surrounding his burial are preserved in accounts written after his death.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Vincent of Zaragossa"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-vincent-of-zaragossa"
+
+[[saints]]
+id = "valentine-of-rome"
+name = "Saint Valentine of Rome"
+aliases = ["Valentinus of Rome", "Valentine the Martyr", "San Valentino"]
+years = "Traditionally third century"
+vocation = "Martyr, traditionally a priest"
+place = "Rome, Italy"
+summary = "A martyr remembered on February 14 whose historical identity is difficult to distinguish from other saints named Valentine."
+biography = [
+  "Tradition remembers a priest named Valentine who died as a martyr in Rome. Another early devotion honors a bishop of Terni of the same name. The sources leave open whether these traditions describe two men or variants of one martyr’s story.",
+  "The custom of exchanging tokens of affection on February 14 belongs to the later history of Saint Valentine’s Day. The stories that connect Valentine personally with secret weddings cannot be established as historical fact.",
+]
+patronage = ["Traditionally associated with lovers"]
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Valentine"
+url = "https://www.britannica.com/biography/Saint-Valentine"
+
+[[saints.sources]]
+title = "Vatican News — Saint Valentine, martyr on the Via Flaminia"
+url = "https://www.vaticannews.va/en/saints/02/14/st--valentin--martyr-on-the--via-flaminia.html"
+
+[[saints]]
+id = "john-fisher"
+name = "Saint John Fisher"
+aliases = ["Cardinal John Fisher", "John Fisher of Rochester"]
+years = "1469–1535"
+vocation = "Bishop, cardinal, and martyr"
+place = "Rochester and London, England"
+summary = "A scholar and bishop executed after refusing to recognize Henry VIII as supreme head of the Church in England."
+biography = [
+  "Fisher helped advance higher education at Cambridge and served for three decades as bishop of Rochester. He defended the validity of Henry VIII’s marriage to Catherine of Aragon and opposed royal supremacy over the English Church.",
+  "Fisher was imprisoned in the Tower of London, and Pope Paul III made him a cardinal during his imprisonment. He was executed in June 1535 and canonized with Thomas More in 1935.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John Fisher"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-fisher"
+
+[[saints]]
+id = "thomas-more"
+name = "Saint Thomas More"
+aliases = ["Sir Thomas More", "Thomas Morus", "Tomás Moro"]
+years = "1478–1535"
+vocation = "Layman, statesman, and martyr"
+place = "London, England"
+summary = "The author of Utopia and former lord chancellor was executed amid Henry VIII’s break with Rome."
+biography = [
+  "More was a lawyer, humanist author, and father who became lord chancellor under Henry VIII. He resigned in 1532 and was later jailed after he refused the oath required under the succession legislation.",
+  "The government prosecuted More for treason under the royal supremacy laws. He was beheaded in 1535 and canonized in 1935. His letters from prison record his concern for his family and his reasons for standing by his conscience.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Thomas More"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-thomas-more"
+
+[[saints]]
+id = "maximilian-kolbe"
+name = "Saint Maximilian Kolbe"
+aliases = ["Maximilian Mary Kolbe", "Maksymilian Maria Kolbe", "Rajmund Kolbe"]
+years = "1894–1941"
+vocation = "Conventual Franciscan priest and martyr"
+place = "Poland, Japan, and Auschwitz"
+summary = "A Polish Franciscan who ran publications and missions and offered to die in place of another prisoner at Auschwitz."
+biography = [
+  "Kolbe founded the Militia of the Immaculata and helped establish large-scale Catholic publishing at Niepokalanów in Poland. He also worked as a missionary in Japan before returning to Poland.",
+  "Imprisoned at Auschwitz during the Nazi occupation, Kolbe volunteered to take the place of Franciszek Gajowniczek, a prisoner selected for death by starvation. After surviving several days in the starvation bunker, Kolbe was killed by lethal injection in August 1941.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Maximilian Mary Kolbe"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-maximilian-mary-kolbe"
+
+[[saints]]
+id = "edith-stein"
+name = "Saint Teresa Benedicta of the Cross"
+aliases = ["Edith Stein", "Teresa Benedicta a Cruce", "Teresia Benedicta vom Kreuz"]
+years = "1891–1942"
+vocation = "Discalced Carmelite, philosopher, and martyr"
+place = "Germany, the Netherlands, and Auschwitz-Birkenau"
+summary = "A Jewish-born philosopher who became a Catholic Carmelite and was murdered at Auschwitz-Birkenau in the Holocaust."
+biography = [
+  "Edith Stein grew up in a Jewish family in Breslau, now Wrocław. She earned a doctorate in philosophy and worked in phenomenology, then entered the Catholic Church and took the name Teresa Benedicta of the Cross as a Carmelite.",
+  "She moved to a convent at Echt in the Netherlands. After Dutch bishops publicly condemned Nazi deportations, German authorities arrested Jewish Catholics, including Edith and her sister Rosa. The sisters were transported to Auschwitz-Birkenau and murdered in 1942.",
+]
+
+[[saints.sources]]
+title = "Holy See — Edith Stein, Teresa Benedicta of the Cross"
+url = "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_19981011_edith_stein_en.html"
+
+[[saints]]
+id = "oscar-romero"
+name = "Saint Óscar Romero"
+aliases = ["Óscar Arnulfo Romero", "Oscar Romero", "Monsignor Romero", "San Romero de América"]
+years = "1917–1980"
+vocation = "Archbishop and martyr"
+place = "San Salvador, El Salvador"
+summary = "The archbishop of San Salvador spoke publicly against killings and repression and was assassinated while celebrating Mass."
+biography = [
+  "Romero became archbishop of San Salvador in 1977. As political violence intensified, he used his homilies to name abuses, defend the poor, and appeal to people with the power to stop killings.",
+  "On March 24, 1980, he was shot while celebrating Mass in a hospital chapel. The Catholic Church recognized his death as martyrdom and canonized him in 2018.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Óscar Arnulfo Romero"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-oscar-arnulfo-romero"
+
+[[saints]]
+id = "charles-lwanga"
+name = "Saint Charles Lwanga"
+aliases = ["Karoli Lwanga", "Charles Lwanga and Companions", "Uganda Martyrs"]
+years = "c. 1860–1886"
+vocation = "Lay catechist and martyr"
+place = "Kingdom of Buganda, present-day Uganda"
+summary = "A catechist at the Bugandan royal court who was killed in the persecution of Christian converts under Mwanga II."
+biography = [
+  "Charles served at the court of Mwanga II and helped instruct young pages in the Christian faith. During the persecution of converts, he defended younger members of the court and continued to support those who chose to be baptized.",
+  "Charles was killed at Namugongo in June 1886. He is remembered with other Catholic martyrs of Uganda, and Anglican Christians were also killed in the persecution.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Charles Lwanga and Companions"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-charles-lwanga-and-companions"
+
+[[saints]]
+id = "paul-miki"
+name = "Saint Paul Miki"
+aliases = ["Paulo Miki", "Paolo Miki", "Paul Miki and Companions"]
+years = "c. 1562–1597"
+vocation = "Jesuit preacher and martyr"
+place = "Japan"
+summary = "A Japanese Jesuit who preached the Christian faith and was crucified at Nagasaki with twenty-five companions."
+biography = [
+  "Paul Miki entered the Society of Jesus in Japan and became known for preaching in his own language. He was still awaiting ordination when the ruler Toyotomi Hideyoshi ordered the arrest of a group of Christians.",
+  "The prisoners included Franciscans, Jesuits, and laypeople. They were taken to Nagasaki and crucified in February 1597. Accounts of the execution recall that Miki addressed the crowd and forgave those responsible for his death.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Paul Miki and Companions"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-paul-miki-and-companions"
+
+[[saints]]
+id = "isaac-jogues"
+name = "Saint Isaac Jogues"
+aliases = ["Isaac Jogues of Orléans", "Isaac Jogues and Companions", "North American Martyrs", "Canadian Martyrs"]
+years = "1607–1646"
+vocation = "Jesuit priest, missionary, and martyr"
+place = "New France and the Mohawk Valley"
+summary = "A French Jesuit who returned to the Mohawk Valley after surviving captivity and was killed there in 1646."
+biography = [
+  "Jogues came to New France in 1636 and served among the Wendat. During travel in 1642 he was captured by a Mohawk party with other members of his group. After more than a year in captivity, Dutch settlers helped him escape.",
+  "He returned to North America and went again to the Mohawk Valley, where he was killed in 1646. His companion Jean de Lalande was also killed. They are remembered among the North American Martyrs.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Isaac Jogues, Jean de Brébeuf, and Companions"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-isaac-jogues-jean-de-brebeuf-and-companions"
+
+[[saints]]
+id = "jean-de-brebeuf"
+name = "Saint Jean de Brébeuf"
+aliases = ["John de Brébeuf", "Jean de Brebeuf", "North American Martyrs", "Canadian Martyrs"]
+years = "1593–1649"
+vocation = "Jesuit priest, missionary, and martyr"
+place = "Wendat country, present-day Ontario, Canada"
+summary = "A French Jesuit who learned the Wendat language and was killed during warfare in the region in 1649."
+biography = [
+  "Brébeuf arrived in New France in 1625 and spent much of his mission among the Wendat. He learned their language and wrote about the mission at a time of epidemic disease, colonial expansion, and conflict between communities.",
+  "During a Haudenosaunee attack in 1649, Brébeuf and fellow Jesuit Gabriel Lalemant were captured and killed. Both are remembered among the North American Martyrs.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saints Isaac Jogues, Jean de Brébeuf, and Companions"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saints-isaac-jogues-jean-de-brebeuf-and-companions"
+
+[[saints]]
+id = "kateri-tekakwitha"
+name = "Saint Kateri Tekakwitha"
+aliases = ["Catherine Tekakwitha", "Lily of the Mohawks", "Kateri"]
+years = "1656–1680"
+vocation = "Laywoman and virgin"
+place = "Mohawk Valley and the St. Lawrence River valley"
+summary = "A Mohawk Catholic whose short life was marked by prayer and a commitment to remain unmarried."
+biography = [
+  "Kateri was born in the Mohawk Valley to an Algonquin mother and a Mohawk father. She survived the smallpox outbreak that killed members of her family and was baptized as a young adult.",
+  "She moved to a Catholic Indigenous community near Montreal, where she devoted herself to prayer and chose a life of chastity. Pope Benedict XVI canonized her in 2012.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Kateri Tekakwitha"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-kateri-tekakwitha"
+
+[[saints]]
+id = "junipero-serra"
+name = "Saint Junípero Serra"
+aliases = ["Junipero Serra", "Miquel Josep Serra", "Fray Junípero Serra"]
+years = "1713–1784"
+vocation = "Franciscan priest and missionary"
+place = "Mallorca, Mexico, and Alta California"
+summary = "A Franciscan who led the founding of Spanish missions in Alta California and was canonized in 2015."
+biography = [
+  "Serra was born in Mallorca and taught philosophy before leaving for New Spain. He worked in the Sierra Gorda of Mexico and later led Franciscan mission activity in Alta California, beginning at San Diego in 1769.",
+  "The missions were part of Spanish colonization. The system disrupted Indigenous communities and imposed labor, discipline, and restrictions on movement. Serra’s role in that system is central to the public debate over his legacy and his canonization in 2015.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Junípero Serra"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-junipero-serra"
+
+[[saints.sources]]
+title = "California Native American Heritage Commission — California Indian History"
+url = "https://nahc.ca.gov/native-americans/california-indian-history/"
+
+[[saints]]
+id = "juan-diego"
+name = "Saint Juan Diego Cuauhtlatoatzin"
+aliases = ["Juan Diego", "Cuauhtlatoatzin", "Juan Diego of Guadalupe"]
+years = "Traditionally c. 1474–1548"
+vocation = "Layman"
+place = "Tepeyac, Mexico"
+summary = "A Nahua Catholic honored for his role in the tradition of the apparitions of Our Lady of Guadalupe."
+biography = [
+  "The Guadalupe tradition says that Mary appeared to Juan Diego at Tepeyac in 1531 and asked that a church be built there. In the account, he brought roses to the bishop, and an image of Mary appeared on his cloak when he opened it.",
+  "The account is central to devotion at the Basilica of Guadalupe. Pope John Paul II canonized Juan Diego there in 2002.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Juan Diego"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-juan-diego"
+
+[[saints]]
+id = "josephine-bakhita"
+name = "Saint Josephine Bakhita"
+aliases = ["Giuseppina Bakhita", "Mother Josephine Bakhita", "Bakhita"]
+years = "c. 1869–1947"
+vocation = "Canossian religious sister"
+place = "Darfur, Sudan, and Schio, Italy"
+summary = "A survivor of enslavement who gained her freedom in Italy and became a Canossian sister."
+biography = [
+  "Bakhita was kidnapped as a child in Darfur and sold into slavery. An Italian diplomat brought her to Italy, where she came to know the Canossian sisters. When she resisted attempts to make her leave Italy, Italian authorities determined that she was free.",
+  "She was baptized Josephine and entered the Canossian congregation. She lived much of her later life at Schio, carrying out the ordinary work of her community and speaking about her experiences when asked.",
+]
+patronage = ["Invoked by Catholics working against human trafficking"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Josephine Bakhita"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-josephine-bakhita"
+
+[[saints]]
+id = "damien-of-molokai"
+name = "Saint Damien of Molokaʻi"
+aliases = ["Damien of Molokai", "Father Damien", "Damien de Veuster", "Jozef de Veuster"]
+years = "1840–1889"
+vocation = "Priest and missionary"
+place = "Kalaupapa, Molokaʻi, Hawaiʻi"
+summary = "A Belgian priest who lived and worked among people forcibly isolated because they had Hansen’s disease."
+biography = [
+  "Damien, born Jozef de Veuster, joined the Congregation of the Sacred Hearts of Jesus and Mary and traveled to Hawaiʻi. In 1873 he volunteered to serve at the settlement on Molokaʻi where the Hawaiian government had sent people with Hansen’s disease.",
+  "He lived with the residents, served their parishes, and helped improve living conditions and care for the dead. Damien developed the disease himself and remained at the settlement until his death in 1889.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Damien de Veuster of Molokaʻi"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-damien-de-veuster-of-molokai"
+
+[[saints]]
+id = "marianne-cope"
+name = "Saint Marianne Cope"
+aliases = ["Mother Marianne Cope", "Maria Anna Barbara Koob", "Marianne of Molokai"]
+years = "1838–1918"
+vocation = "Franciscan religious sister and healthcare administrator"
+place = "Syracuse, New York, and Hawaiʻi"
+summary = "A Franciscan sister who led hospitals and cared for people with Hansen’s disease in Hawaiʻi."
+biography = [
+  "Born in Germany and raised in New York, Marianne joined the Sisters of Saint Francis of Syracuse and helped oversee hospitals in central New York. In 1883 she led a group of sisters to Hawaiʻi after a request for help caring for people with Hansen’s disease.",
+  "Marianne eventually moved to Kalaupapa on Molokaʻi. There the sisters cared for girls and women and helped provide continuity of care as Father Damien’s health failed. Marianne remained at the settlement until her death.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Marianne Cope"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-marianne-cope"
+
+[[saints]]
+id = "katharine-drexel"
+name = "Saint Katharine Drexel"
+aliases = ["Katherine Drexel", "Mother Katharine Drexel"]
+years = "1858–1955"
+vocation = "Religious founder and educator"
+place = "Philadelphia, Pennsylvania, and the United States"
+summary = "The founder of the Sisters of the Blessed Sacrament used her inheritance to support education for Black and Indigenous communities."
+biography = [
+  "Drexel was born into a wealthy Philadelphia family and chose religious life after seeing how racial discrimination restricted access to education. She founded the Sisters of the Blessed Sacrament and used family resources to support their work.",
+  "Drexel and her congregation helped establish schools in many parts of the United States, including Xavier University of Louisiana. Their work took place in communities where segregation and discrimination limited educational opportunities.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Katharine Drexel"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-katharine-drexel"
+
+[[saints]]
+id = "elizabeth-ann-seton"
+name = "Saint Elizabeth Ann Seton"
+aliases = ["Mother Seton", "Elizabeth Ann Bayley Seton", "Elizabeth Seton"]
+years = "1774–1821"
+vocation = "Religious founder, educator, and widow"
+place = "New York and Emmitsburg, Maryland"
+summary = "A widowed mother of five who entered the Catholic Church and founded a religious community devoted to education."
+biography = [
+  "Elizabeth was raised an Episcopalian in New York. She encountered Catholic life during a stay in Italy, where her husband William died. After returning to New York with her children, she entered the Catholic Church.",
+  "In Maryland, she founded the Sisters of Charity of Saint Joseph’s and led a school at Emmitsburg. She was canonized in 1975, the first person born in what became the United States to be declared a Catholic saint.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Elizabeth Ann Seton"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-elizabeth-ann-seton"
+
+[[saints]]
+id = "john-neumann"
+name = "Saint John Neumann"
+aliases = ["John Nepomucene Neumann", "Johann Nepomuk Neumann", "Bishop John Neumann"]
+years = "1811–1860"
+vocation = "Redemptorist bishop"
+place = "Bohemia and Philadelphia, Pennsylvania"
+summary = "An immigrant Redemptorist who expanded parish schools and served immigrant communities as bishop of Philadelphia."
+biography = [
+  "Neumann grew up in Bohemia and traveled to the United States, where he was ordained in 1836. He served scattered Catholic communities in western New York and later entered the Redemptorists.",
+  "As bishop of Philadelphia, Neumann supported the establishment and coordination of Catholic schools and opened parishes in a growing diocese. His familiarity with several languages helped him minister to immigrant communities.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint John Neumann"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-neumann"
+
+[[saints]]
+id = "peter-claver"
+name = "Saint Peter Claver"
+aliases = ["Pedro Claver", "Pere Claver", "Peter Claver of Cartagena"]
+years = "1580–1654"
+vocation = "Jesuit priest and missionary"
+place = "Cartagena, Colombia"
+summary = "A Jesuit priest who met slave ships in Cartagena and cared for people forced across the Atlantic."
+biography = [
+  "Born in Catalonia, Claver went to Spanish America and was ordained in Cartagena, a major port in the Atlantic slave trade. He boarded arriving ships with interpreters and brought food, medicine, and practical help to the enslaved people on board.",
+  "Claver provided religious instruction and continued visiting people after their arrival. The Church honors him for decades of service to people subjected to a system of forced labor and sale.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Peter Claver"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-peter-claver"
+
+[[saints]]
+id = "peter-chanel"
+name = "Saint Peter Chanel"
+aliases = ["Pierre Chanel", "Pierre Louis Marie Chanel", "Peter Chanel of Futuna"]
+years = "1803–1841"
+vocation = "Marist priest, missionary, and martyr"
+place = "France and Futuna in the South Pacific"
+summary = "A Marist priest killed on Futuna during the first years of the Catholic mission there."
+biography = [
+  "Chanel was a French parish priest before joining the Society of Mary. He traveled to the South Pacific and settled on Futuna, where he learned the local language and cared for the sick.",
+  "Some members of the community became interested in Christianity. As concerns grew among the island’s leadership, Chanel was attacked and killed in April 1841. He is remembered as the first Catholic martyr of Oceania.",
+]
+patronage = ["Venerated as a patron of Oceania"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Peter Chanel"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-peter-chanel"
+
+[[saints]]
+id = "fidelis-of-sigmaringen"
+name = "Saint Fidelis of Sigmaringen"
+aliases = ["Markus Roy", "Mark Rey", "Fidelis von Sigmaringen"]
+years = "1577–1622"
+vocation = "Capuchin priest and martyr"
+place = "Sigmaringen, Germany, and Graubünden, Switzerland"
+summary = "A lawyer who became a Capuchin and was killed during a mission in a region divided by confessional conflict."
+biography = [
+  "Fidelis practiced law before entering the Capuchins and taking a new religious name. As a friar he preached and cared for people affected by illness and poverty.",
+  "He was sent to the Prättigau valley in Graubünden, where religious and political tensions were high. He was killed at Seewis in 1622 during that mission.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Fidelis of Sigmaringen"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-fidelis-of-sigmaringen"
+
+[[saints]]
+id = "wenceslaus"
+name = "Saint Wenceslaus of Bohemia"
+aliases = ["Wenceslaus", "Václav", "Wenceslas", "Good King Wenceslas"]
+years = "c. 907–929 or 935"
+vocation = "Duke and martyr"
+place = "Bohemia, present-day Czechia"
+summary = "A duke of Bohemia killed in a struggle connected with his brother’s rise to power."
+biography = [
+  "Wenceslaus was a member of the Přemyslid dynasty and ruled Bohemia in the tenth century. Early accounts connect his education in Christianity with his grandmother Ludmila and remember his support for the Church.",
+  "He was killed at Stará Boleslav in circumstances associated with his brother Boleslaus. The year remains disputed. The later carol remembers him as a generous king, although the title he held in his lifetime was duke.",
+]
+patronage = ["Traditionally venerated as a patron of the Czech lands"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Wenceslaus"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-wenceslaus"
+
+[[saints]]
+id = "stanislaus-of-krakow"
+name = "Saint Stanislaus of Kraków"
+aliases = ["Stanislaus of Krakow", "Stanisław Szczepanowski", "Stanislaus of Szczepanów"]
+years = "c. 1030–1079"
+vocation = "Bishop and martyr"
+place = "Kraków, Poland"
+summary = "A bishop of Kraków who was killed after a conflict with King Bolesław II."
+biography = [
+  "Stanislaus became bishop of Kraków in the eleventh century. His confrontation with King Bolesław II ended in his death in 1079. The surviving accounts differ about the nature of the dispute and the circumstances of the killing.",
+  "Stanislaus’s shrine at Kraków became a center of devotion. He was canonized in 1253 and is venerated as a patron of Poland.",
+]
+patronage = ["Venerated as a patron of Poland"]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Stanislaus"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-stanislaus"
+
+[[saints]]
+id = "thomas-becket"
+name = "Saint Thomas Becket"
+aliases = ["Thomas of Canterbury", "Thomas à Becket", "Thomas Becket of Canterbury"]
+years = "c. 1118–1170"
+vocation = "Archbishop and martyr"
+place = "Canterbury, England"
+summary = "An archbishop murdered in Canterbury Cathedral after a conflict with Henry II over the jurisdiction of the Church."
+biography = [
+  "Becket was Henry II’s chancellor before becoming archbishop of Canterbury in 1162. The two men clashed over royal authority in matters involving clergy, and Becket spent several years in exile in France.",
+  "Becket returned to England in 1170. Four knights killed him in Canterbury Cathedral in December of that year. His tomb subsequently became a major destination for pilgrims.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Thomas Becket"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-thomas-becket"
+
+[[saints]]
+id = "charles-de-foucauld"
+name = "Saint Charles de Foucauld"
+aliases = ["Brother Charles of Jesus", "Charles de Jésus", "Charles Eugène de Foucauld"]
+years = "1858–1916"
+vocation = "Priest and hermit"
+place = "France and the Algerian Sahara"
+summary = "A former French officer and explorer who became a priest and settled among Tuareg communities in the Sahara."
+biography = [
+  "Foucauld served in the French army and traveled in Morocco before returning to Catholic practice. He spent time as a Trappist and lived in Nazareth before being ordained in 1901.",
+  "He later settled at Tamanrasset in the Algerian Sahara. He welcomed travelers, studied the local Tuareg language, and compiled a dictionary. Foucauld was killed in a raid in 1916. Religious communities inspired by his writings developed after his death.",
+]
+
+[[saints.sources]]
+title = "Franciscan Media — Saint Charles de Foucauld"
+url = "https://www.franciscanmedia.org/saint-of-the-day/saint-charles-de-foucauld"

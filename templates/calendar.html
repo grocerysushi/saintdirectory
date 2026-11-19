@@ -1,42 +1,38 @@
 {% extends "base.html" %}
+{% import "observances.html" as observances %}
 {% block title %}{{ calendar.title }} Calendar · Saint Directory{% endblock %}
 {% block description %}The {{ calendar.name }} liturgical calendar for {{ calendar.title }}, with links to saint profiles.{% endblock %}
 {% block calendar_current %} aria-current="page"{% endblock %}
 {% block content %}
   <div class="container page-heading">
     <p class="eyebrow">{{ calendar.name }}</p>
-    <h1>{{ calendar.title }}</h1>
+    <h1>{{ calendar.title }} calendar</h1>
     <p>Daily liturgical celebrations and optional observances for the United States. Local calendars may differ.</p>
     <p class="calendar-source"><a href="{{ calendar.source_url }}">{{ calendar.source_title }}</a></p>
   </div>
-  <section class="container section" aria-labelledby="calendar-heading">
-    <h2 class="sr-only" id="calendar-heading">Daily observances</h2>
-    <ol class="calendar-list">
-      {% for (day, entries) in schedule %}
-      <li class="calendar-day" id="day-{{ day.date }}">
-        <h3 class="calendar-date">
-          <time datetime="{{ day.date }}">
-            <span>{{ day.date.format("%B %-d") }}</span>
-            <span>{{ day.date.format("%A") }}</span>
-          </time>
-        </h3>
-        <ul class="calendar-entries">
-          {% for entry in entries %}
-          <li class="calendar-entry{% if entry.observance.optional %} is-optional{% endif %}">
-            <span class="rank">{{ entry.observance.rank }}</span>
-            <p class="calendar-title">{{ entry.observance.title }}</p>
-            {% if !entry.saints.is_empty() %}
-            <ul class="calendar-links">
-              {% for saint in entry.saints %}
-              <li><a href="/saints/{{ saint.id }}">{{ saint.name }}</a></li>
-              {% endfor %}
-            </ul>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-      </li>
+  <div class="container section">
+    <nav class="calendar-month-nav" aria-label="Calendar months">
+      {% for month in months %}
+      <a href="#month-{{ month.start.format("%m") }}">{{ month.start.format("%B") }}</a>
       {% endfor %}
-    </ol>
-  </section>
+    </nav>
+    {% for month in months %}
+    <section class="calendar-month" id="month-{{ month.start.format("%m") }}" aria-labelledby="heading-{{ month.start.format("%m") }}">
+      <h2 id="heading-{{ month.start.format("%m") }}">{{ month.start.format("%B") }}</h2>
+      <ol class="calendar-list">
+        {% for day in month.days %}
+        <li class="calendar-day" id="day-{{ day.date }}">
+          <h3 class="calendar-date">
+            <time datetime="{{ day.date }}">
+              <span>{{ day.date.format("%B %-d") }}</span>
+              <span>{{ day.date.format("%A") }}</span>
+            </time>
+          </h3>
+          {% call observances::list(day.entries.iter()) %}
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endfor %}
+  </div>
 {% endblock %}
