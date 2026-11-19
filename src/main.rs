@@ -16,6 +16,8 @@ use chrono_tz::{America, Pacific, Tz};
 use serde::Deserialize;
 
 type AppState = Arc<Catalog>;
+// Existing /calendar date fragments refer to 2026.
+const LEGACY_CALENDAR_YEAR: i32 = 2026;
 
 #[derive(Template)]
 #[template(path = "directory.html")]
@@ -24,13 +26,16 @@ struct DirectoryPage<'a> {
     count: usize,
     query: &'a str,
     is_search: bool,
-    calendar_title: &'a str,
 }
 
 #[derive(Template)]
 #[template(path = "profile.html")]
 struct ProfilePage<'a> {
     saint: &'a Saint,
+    schedules: Vec<ProfileSchedule<'a>>,
+}
+
+struct ProfileSchedule<'a> {
     calendar: &'a Calendar,
     observances: Vec<(&'a Day, &'a Observance)>,
 }
@@ -54,16 +59,22 @@ struct CalendarMonth<'a> {
 #[template(path = "calendar.html")]
 struct CalendarPage<'a> {
     calendar: &'a Calendar,
+    years: Vec<i32>,
     months: Vec<CalendarMonth<'a>>,
 }
 
 #[derive(Template)]
 #[template(path = "today.html")]
 struct TodayPage<'a> {
-    calendar: &'a Calendar,
     date: NaiveDate,
     selected_zone: &'static Zone,
     zones: &'static [Zone],
+    schedule: Option<TodaySchedule<'a>>,
+    years: Vec<i32>,
+}
+
+struct TodaySchedule<'a> {
+    calendar: &'a Calendar,
     entries: Vec<CalendarEntry<'a>>,
 }
 
@@ -138,7 +149,8 @@ fn app(catalog: AppState) -> Router {
         .route("/", get(directory))
         .route("/search", get(search))
         .route("/saints/{id}", get(profile))
-        .route("/calendar", get(calendar))
+        .route("/calendar", get(legacy_calendar))
+        .route("/calendar/{year}", get(calendar_by_year))
         .route("/today", get(today))
         .route("/assets/site.css", get(styles))
         .route("/assets/paradise.jpg", get(artwork))
@@ -152,7 +164,6 @@ async fn directory(State(catalog): State<AppState>) -> Response {
         count: catalog.saints.len(),
         query: "",
         is_search: false,
-        calendar_title: &catalog.calendar.title,
     })
 }
 
@@ -168,31 +179,48 @@ async fn search(State(catalog): State<AppState>, Query(params): Query<SearchPara
         saints,
         query: &query,
         is_search: true,
-        calendar_title: &catalog.calendar.title,
     })
 }
 
 async fn profile(State(catalog): State<AppState>, Path(id): Path<String>) -> Response {
     let Some(saint) = catalog.saint(&id) else {
-        return (StatusCode::NOT_FOUND, render(NotFoundPage)).into_response();
+        return not_found().await;
     };
-    let observances = catalog
-        .calendar
-        .days
-        .iter()
-        .flat_map(|day| day.observances.iter().map(move |entry| (day, entry)))
-        .filter(|(_, entry)| entry.saints.contains(&id))
+    let schedules = catalog
+        .calendars
+        .values()
+        .filter_map(|calendar| {
+            let observances: Vec<_> = calendar
+                .days
+                .iter()
+                .flat_map(|day| day.observances.iter().map(move |entry| (day, entry)))
+                .filter(|(_, entry)| entry.saints.contains(&id))
+                .collect();
+            (!observances.is_empty()).then_some(ProfileSchedule {
+                calendar,
+                observances,
+            })
+        })
         .collect();
-    render(ProfilePage {
-        saint,
-        calendar: &catalog.calendar,
-        observances,
-    })
+    render(ProfilePage { saint, schedules })
 }
 
-async fn calendar(State(catalog): State<AppState>) -> Response {
-    let months = catalog
-        .calendar
+async fn legacy_calendar(State(catalog): State<AppState>) -> Response {
+    render_calendar(&catalog, LEGACY_CALENDAR_YEAR)
+}
+
+async fn calendar_by_year(State(catalog): State<AppState>, Path(year): Path<String>) -> Response {
+    match year.parse() {
+        Ok(year) => render_calendar(&catalog, year),
+        Err(_) => not_found().await,
+    }
+}
+
+fn render_calendar(catalog: &Catalog, year: i32) -> Response {
+    let Some(calendar) = catalog.calendars.get(&year) else {
+        return (StatusCode::NOT_FOUND, render(NotFoundPage)).into_response();
+    };
+    let months = calendar
         .days
         .chunk_by(|left, right| left.date.month() == right.date.month())
         .map(|days| CalendarMonth {
@@ -201,13 +229,14 @@ async fn calendar(State(catalog): State<AppState>) -> Response {
                 .iter()
                 .map(|day| CalendarDay {
                     date: day.date,
-                    entries: calendar_entries(&catalog, day),
+                    entries: calendar_entries(catalog, day),
                 })
                 .collect(),
         })
         .collect();
     render(CalendarPage {
-        calendar: &catalog.calendar,
+        calendar,
+        years: catalog.calendars.keys().copied().collect(),
         months,
     })
 }
@@ -222,17 +251,18 @@ fn today_at(catalog: &Catalog, zone_name: Option<&str>, now: DateTime<Utc>) -> R
         .find(|zone| Some(zone.time_zone.name()) == zone_name)
         .unwrap_or(&CENTRAL_TIME);
     let date = now.with_timezone(&selected_zone.time_zone).date_naive();
-    let entries = catalog
-        .calendar
-        .day(date)
-        .map(|day| calendar_entries(catalog, day))
-        .unwrap_or_default();
+    let schedule = catalog.calendars.get(&date.year()).and_then(|calendar| {
+        calendar.day(date).map(|day| TodaySchedule {
+            calendar,
+            entries: calendar_entries(catalog, day),
+        })
+    });
     let mut page = render(TodayPage {
-        calendar: &catalog.calendar,
         date,
         selected_zone,
         zones: ZONES,
-        entries,
+        schedule,
+        years: catalog.calendars.keys().copied().collect(),
     });
     page.headers_mut().insert(
         header::CACHE_CONTROL,
@@ -269,8 +299,8 @@ async fn artwork() -> impl IntoResponse {
     )
 }
 
-async fn not_found() -> impl IntoResponse {
-    (StatusCode::NOT_FOUND, render(NotFoundPage))
+async fn not_found() -> Response {
+    (StatusCode::NOT_FOUND, render(NotFoundPage)).into_response()
 }
 
 fn render(template: impl Template) -> Response {
@@ -322,7 +352,7 @@ mod tests {
     #[test]
     fn annual_calendar_keeps_precedence_and_regional_alternatives() {
         let catalog = Catalog::load().unwrap();
-        let calendar = &catalog.calendar;
+        let calendar = &catalog.calendars[&2026];
         let observances = |date: &str| &calendar.day(date.parse().unwrap()).unwrap().observances;
 
         assert_eq!(calendar.days.len(), 365);
@@ -364,6 +394,46 @@ mod tests {
         }
     }
 
+    #[test]
+    fn calendar_2027_includes_transfers_and_the_amended_memorial() {
+        let catalog = Catalog::load().unwrap();
+        let calendar = &catalog.calendars[&2027];
+        let observances = |date: &str| &calendar.day(date.parse().unwrap()).unwrap().observances;
+
+        assert_eq!(calendar.days.len(), 365);
+        assert!(observances("2027-03-25")[0].title.contains("Holy Thursday"));
+        assert!(observances("2027-03-28")[0].title.contains("Easter"));
+        let annunciation = &observances("2027-04-05")[0];
+        assert!(annunciation.title.contains("Annunciation"));
+        assert_eq!(annunciation.rank, "Solemnity");
+        for date in ["2027-05-06", "2027-05-09"] {
+            let primary: Vec<_> = observances(date)
+                .iter()
+                .filter(|entry| !entry.optional)
+                .collect();
+            assert_eq!(primary.len(), 2);
+            assert!(
+                primary
+                    .iter()
+                    .any(|entry| entry.title.contains("Ascension"))
+            );
+            assert!(primary.iter().all(|entry| entry.note.is_some()));
+        }
+        assert_eq!(
+            observances("2027-06-05")
+                .iter()
+                .filter(|entry| entry.optional)
+                .count(),
+            3
+        );
+        assert!(
+            observances("2027-10-09")
+                .iter()
+                .any(|entry| { entry.optional && entry.title.contains("John Henry Newman") })
+        );
+        assert!(observances("2027-12-12")[0].title.contains("Advent"));
+    }
+
     #[tokio::test]
     async fn public_routes_render_results_and_cross_links() {
         let app = app(Arc::new(Catalog::load().unwrap()));
@@ -380,7 +450,8 @@ mod tests {
 
         let (status, profile) = request(&app, "/saints/frances-xavier-cabrini").await;
         assert_eq!(status, StatusCode::OK);
-        assert!(profile.contains("/calendar#day-2026-11-13"));
+        assert!(profile.contains("/calendar/2026#day-2026-11-13"));
+        assert!(profile.contains("/calendar/2027#day-2027-11-13"));
         assert!(profile.contains("Sources"));
 
         let (status, calendar) = request(&app, "/calendar").await;
@@ -389,6 +460,18 @@ mod tests {
         assert!(calendar.contains("href=\"#month-12\""));
         assert!(calendar.contains("/saints/frances-xavier-cabrini"));
         assert!(calendar.contains("2026cal.pdf"));
+
+        for year in [2026, 2027] {
+            let (status, calendar) = request(&app, &format!("/calendar/{year}")).await;
+            assert_eq!(status, StatusCode::OK);
+            assert_eq!(calendar.matches("class=\"calendar-day\"").count(), 365);
+            assert!(calendar.contains(&format!("id=\"day-{year}-12-31\"")));
+            assert!(calendar.contains(&format!("{year}cal.pdf")));
+        }
+        assert_eq!(
+            request(&app, "/calendar/2028").await.0,
+            StatusCode::NOT_FOUND
+        );
 
         let (status, empty) = request(&app, "/search?q=%3Cscript%3Ezzzxqz%3C%2Fscript%3E").await;
         assert_eq!(status, StatusCode::OK);
@@ -414,12 +497,27 @@ mod tests {
         let eastern = response_text(today_at(&catalog, Some("America/New_York"), now)).await;
         assert!(eastern.contains("datetime=\"2026-11-04\""));
         assert!(eastern.contains("Charles Borromeo"));
-        assert!(eastern.contains("/calendar#day-2026-11-04"));
+        assert!(eastern.contains("/calendar/2026#day-2026-11-04"));
 
-        let date_outside_coverage = "2027-01-02T12:00:00Z".parse().unwrap();
+        let date_outside_coverage = "2028-01-02T12:00:00Z".parse().unwrap();
         let uncovered = response_text(today_at(&catalog, None, date_outside_coverage)).await;
-        assert!(uncovered.contains("verified schedule covers January 1 through December 31, 2026"));
+        assert!(uncovered.contains("Browse the 2026 calendar"));
+        assert!(uncovered.contains("Browse the 2027 calendar"));
         assert!(!uncovered.contains("class=\"calendar-entry"));
+    }
+
+    #[tokio::test]
+    async fn today_rolls_into_2027_at_the_selected_zones_midnight() {
+        let catalog = Catalog::load().unwrap();
+        let now = "2027-01-01T05:30:00Z".parse().unwrap();
+        let central = response_text(today_at(&catalog, None, now)).await;
+        assert!(central.contains("/calendar/2026#day-2026-12-31"));
+        assert!(central.contains("2026cal.pdf"));
+
+        let eastern = response_text(today_at(&catalog, Some("America/New_York"), now)).await;
+        assert!(eastern.contains("/calendar/2027#day-2027-01-01"));
+        assert!(eastern.contains("Holy Mother of God"));
+        assert!(eastern.contains("2027cal.pdf"));
     }
 
     async fn request(app: &Router, uri: &str) -> (StatusCode, String) {

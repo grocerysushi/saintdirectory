@@ -1,4 +1,4 @@
-use std::collections::HashSet;
+use std::collections::{BTreeMap, HashSet};
 use std::error::Error;
 use std::io;
 
@@ -12,7 +12,10 @@ const PROFILE_FILES: &[&str] = &[
     include_str!("../data/saints-witnesses.toml"),
     include_str!("../data/saints-apostles-and-confessors.toml"),
 ];
-const CALENDAR: &str = include_str!("../data/calendar-2026.toml");
+const CALENDAR_FILES: &[&str] = &[
+    include_str!("../data/calendar-2026.toml"),
+    include_str!("../data/calendar-2027.toml"),
+];
 
 #[derive(Deserialize)]
 #[serde(deny_unknown_fields)]
@@ -82,7 +85,7 @@ impl Calendar {
 
 pub struct Catalog {
     pub saints: Vec<Saint>,
-    pub calendar: Calendar,
+    pub calendars: BTreeMap<i32, Calendar>,
 }
 
 impl Catalog {
@@ -92,10 +95,18 @@ impl Catalog {
             let profiles: Profiles = toml::from_str(file)?;
             saints.extend(profiles.saints);
         }
-        let calendar: Calendar = toml::from_str(CALENDAR)?;
-        validate(&saints, &calendar)?;
+        let ids = validate_profiles(&saints)?;
+        let mut calendars = BTreeMap::new();
+        for file in CALENDAR_FILES {
+            let calendar: Calendar = toml::from_str(file)?;
+            validate_calendar(&calendar, &ids)?;
+            let year = calendar.year;
+            if calendars.insert(year, calendar).is_some() {
+                return Err(invalid(format!("Duplicate calendar year: {year}")).into());
+            }
+        }
         saints.sort_by_cached_key(|saint| normalize(&saint.name));
-        Ok(Self { saints, calendar })
+        Ok(Self { saints, calendars })
     }
 
     pub fn saint(&self, id: &str) -> Option<&Saint> {
@@ -181,8 +192,7 @@ fn terms_match(terms: &[&str], text: &str) -> bool {
         .all(|term| text.split_whitespace().any(|word| word.starts_with(term)))
 }
 
-fn validate(saints: &[Saint], calendar: &Calendar) -> io::Result<()> {
-    let invalid = |message| io::Error::new(io::ErrorKind::InvalidData, message);
+fn validate_profiles(saints: &[Saint]) -> io::Result<HashSet<&str>> {
     let mut ids = HashSet::new();
     for saint in saints {
         let valid_id = !saint.id.is_empty()
@@ -221,15 +231,19 @@ fn validate(saints: &[Saint], calendar: &Calendar) -> io::Result<()> {
             return Err(invalid(format!("Incomplete profile: {}", saint.id)));
         }
     }
+    Ok(ids)
+}
 
+fn validate_calendar(calendar: &Calendar, ids: &HashSet<&str>) -> io::Result<()> {
     let first = NaiveDate::from_ymd_opt(calendar.year, 1, 1)
-        .ok_or_else(|| invalid("Invalid calendar year".into()))?;
+        .ok_or_else(|| invalid(format!("Invalid calendar year: {}", calendar.year)))?;
     let last = NaiveDate::from_ymd_opt(calendar.year, 12, 31)
-        .ok_or_else(|| invalid("Invalid calendar year".into()))?;
+        .ok_or_else(|| invalid(format!("Invalid calendar year: {}", calendar.year)))?;
     if calendar.days.len() != last.ordinal() as usize || !is_source_url(&calendar.source_url) {
-        return Err(invalid(
-            "The calendar needs a source and one entry for each date".into(),
-        ));
+        return Err(invalid(format!(
+            "The {} calendar needs a source and one entry for each date",
+            calendar.year
+        )));
     }
     for (day, date) in calendar.days.iter().zip(first.iter_days()) {
         if day.date != date || day.observances.is_empty() {
@@ -252,6 +266,10 @@ fn validate(saints: &[Saint], calendar: &Calendar) -> io::Result<()> {
         }
     }
     Ok(())
+}
+
+fn invalid(message: String) -> io::Error {
+    io::Error::new(io::ErrorKind::InvalidData, message)
 }
 
 fn is_source_url(url: &str) -> bool {

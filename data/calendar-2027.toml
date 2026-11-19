@@ -1,0 +1,3435 @@
+year = 2027
+title = "2027"
+name = "U.S. Roman Rite"
+source_title = "USCCB • Liturgical Calendar for the Dioceses of the United States of America (2027, emended February 2026)"
+source_url = "https://www.usccb.org/resources/2027cal.pdf"
+
+[[days]]
+date = "2027-01-01"
+
+[[days.observances]]
+title = "Solemnity of Mary, the Holy Mother of God"
+rank = "Solemnity"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-01-02"
+
+[[days.observances]]
+title = "Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church"
+rank = "Memorial"
+saints = ["basil-the-great", "gregory-nazianzen"]
+
+[[days]]
+date = "2027-01-03"
+
+[[days.observances]]
+title = "The Epiphany of the Lord"
+rank = "Solemnity"
+
+[[days]]
+date = "2027-01-04"
+
+[[days.observances]]
+title = "Saint Elizabeth Ann Seton, Religious"
+rank = "Memorial"
+saints = ["elizabeth-ann-seton"]
+
+[[days]]
+date = "2027-01-05"
+
+[[days.observances]]
+title = "Saint John Neumann, Bishop"
+rank = "Memorial"
+saints = ["john-neumann"]
+
+[[days]]
+date = "2027-01-06"
+
+[[days.observances]]
+title = "Christmas Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint André Bessette, Religious"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-01-07"
+
+[[days.observances]]
+title = "Christmas Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Raymond of Penyafort, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-01-08"
+
+[[days.observances]]
+title = "Christmas Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-01-09"
+
+[[days.observances]]
+title = "Christmas Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-01-10"
+
+[[days.observances]]
+title = "The Baptism of the Lord"
+rank = "Feast"
+
+[[days]]
+date = "2027-01-11"
+
+[[days.observances]]
+title = "Weekday (First Week in Ordinary Time)"
+rank = "Weekday"
+
+[[days]]
+date = "2027-01-12"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-01-13"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Hilary, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-01-14"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-01-15"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-01-16"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-01-17"
+
+[[days.observances]]
+title = "Second Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-01-18"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-01-19"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-01-20"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Fabian, Pope and Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["fabian"]
+
+[[days.observances]]
+title = "Saint Sebastian, Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["sebastian"]
+
+[[days]]
+date = "2027-01-21"
+
+[[days.observances]]
+title = "Saint Agnes, Virgin and Martyr"
+rank = "Memorial"
+saints = ["agnes-of-rome"]
+
+[[days]]
+date = "2027-01-22"
+
+[[days.observances]]
+title = "Day of Prayer for the Legal Protection of Unborn Children"
+rank = "Day of prayer"
+
+[[days]]
+date = "2027-01-23"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Vincent, Deacon and Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["vincent-of-saragossa"]
+
+[[days.observances]]
+title = "Saint Marianne Cope, Virgin"
+rank = "Optional memorial"
+optional = true
+saints = ["marianne-cope"]
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-01-24"
+
+[[days.observances]]
+title = "Third Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-01-25"
+
+[[days.observances]]
+title = "The Conversion of Saint Paul the Apostle"
+rank = "Feast"
+saints = ["paul-the-apostle"]
+
+[[days]]
+date = "2027-01-26"
+
+[[days.observances]]
+title = "Saints Timothy and Titus, Bishops"
+rank = "Memorial"
+saints = ["timothy", "titus"]
+
+[[days]]
+date = "2027-01-27"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Angela Merici, Virgin"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-01-28"
+
+[[days.observances]]
+title = "Saint Thomas Aquinas, Priest and Doctor of the Church"
+rank = "Memorial"
+saints = ["thomas-aquinas"]
+
+[[days]]
+date = "2027-01-29"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-01-30"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-01-31"
+
+[[days.observances]]
+title = "Fourth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-02-01"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-02"
+
+[[days.observances]]
+title = "The Presentation of the Lord"
+rank = "Feast"
+
+[[days]]
+date = "2027-02-03"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Blaise, Bishop and Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["blaise"]
+
+[[days.observances]]
+title = "Saint Ansgar, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-02-04"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-05"
+
+[[days.observances]]
+title = "Saint Agatha, Virgin and Martyr"
+rank = "Memorial"
+saints = ["agatha-of-sicily"]
+
+[[days]]
+date = "2027-02-06"
+
+[[days.observances]]
+title = "Saint Paul Miki and Companions, Martyrs"
+rank = "Memorial"
+saints = ["paul-miki"]
+
+[[days]]
+date = "2027-02-07"
+
+[[days.observances]]
+title = "Fifth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-02-08"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Jerome Emiliani"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint Josephine Bakhita, Virgin"
+rank = "Optional memorial"
+saints = ["josephine-bakhita"]
+optional = true
+
+[[days]]
+date = "2027-02-09"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-10"
+
+[[days.observances]]
+title = "Ash Wednesday"
+rank = "Day of penance"
+
+[[days]]
+date = "2027-02-11"
+
+[[days.observances]]
+title = "Thursday after Ash Wednesday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Our Lady of Lourdes"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-02-12"
+
+[[days.observances]]
+title = "Friday after Ash Wednesday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-13"
+
+[[days.observances]]
+title = "Saturday after Ash Wednesday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-14"
+
+[[days.observances]]
+title = "First Sunday of Lent"
+rank = "Sunday"
+
+[[days]]
+date = "2027-02-15"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-16"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-17"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The Seven Holy Founders of the Servite Order"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-02-18"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-19"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-20"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-21"
+
+[[days.observances]]
+title = "Second Sunday of Lent"
+rank = "Sunday"
+
+[[days]]
+date = "2027-02-22"
+
+[[days.observances]]
+title = "The Chair of Saint Peter the Apostle"
+rank = "Feast"
+saints = ["peter-the-apostle"]
+
+[[days]]
+date = "2027-02-23"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Polycarp, Bishop and Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["polycarp"]
+
+[[days]]
+date = "2027-02-24"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-25"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-26"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-02-27"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Gregory of Narek, Abbot and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+saints = ["gregory-of-narek"]
+
+[[days]]
+date = "2027-02-28"
+
+[[days.observances]]
+title = "Third Sunday of Lent"
+rank = "Sunday"
+
+[[days]]
+date = "2027-03-01"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-02"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-03"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Katharine Drexel, Virgin"
+rank = "Optional memorial"
+optional = true
+saints = ["katharine-drexel"]
+
+[[days]]
+date = "2027-03-04"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Casimir"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-03-05"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-06"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-07"
+
+[[days.observances]]
+title = "Fourth Sunday of Lent"
+rank = "Sunday"
+
+[[days]]
+date = "2027-03-08"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John of God, Religious"
+rank = "Optional memorial"
+saints = ["john-of-god"]
+optional = true
+
+[[days]]
+date = "2027-03-09"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Frances of Rome, Religious"
+rank = "Optional memorial"
+optional = true
+saints = ["frances-of-rome"]
+
+[[days]]
+date = "2027-03-10"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-11"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-12"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-13"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-14"
+
+[[days.observances]]
+title = "Fifth Sunday of Lent"
+rank = "Sunday"
+
+[[days]]
+date = "2027-03-15"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-16"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-17"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Patrick, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-03-18"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Cyril of Jerusalem, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+saints = ["cyril-of-jerusalem"]
+
+[[days]]
+date = "2027-03-19"
+
+[[days.observances]]
+title = "Saint Joseph, Spouse of the Blessed Virgin Mary"
+rank = "Solemnity"
+saints = ["joseph", "mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-03-20"
+
+[[days.observances]]
+title = "Lenten Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-21"
+
+[[days.observances]]
+title = "Palm Sunday of the Passion of the Lord"
+rank = "Sunday"
+
+[[days]]
+date = "2027-03-22"
+
+[[days.observances]]
+title = "Monday of Holy Week"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-23"
+
+[[days.observances]]
+title = "Tuesday of Holy Week"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-24"
+
+[[days.observances]]
+title = "Wednesday of Holy Week"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-25"
+
+[[days.observances]]
+title = "Thursday of Holy Week (Holy Thursday)"
+rank = "Holy Week"
+note = "The Annunciation of the Lord is transferred to April 5 in 2027."
+
+[[days]]
+date = "2027-03-26"
+
+[[days.observances]]
+title = "Friday of the Passion of the Lord (Good Friday)"
+rank = "Paschal Triduum"
+
+[[days]]
+date = "2027-03-27"
+
+[[days.observances]]
+title = "Holy Saturday"
+rank = "Paschal Triduum"
+
+[[days]]
+date = "2027-03-28"
+
+[[days.observances]]
+title = "Easter Sunday of the Resurrection of the Lord"
+rank = "Solemnity"
+
+[[days]]
+date = "2027-03-29"
+
+[[days.observances]]
+title = "Monday within the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-30"
+
+[[days.observances]]
+title = "Tuesday within the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2027-03-31"
+
+[[days.observances]]
+title = "Wednesday within the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-01"
+
+[[days.observances]]
+title = "Thursday within the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-02"
+
+[[days.observances]]
+title = "Friday in the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-03"
+
+[[days.observances]]
+title = "Saturday in the Octave of Easter"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-04"
+
+[[days.observances]]
+title = "Second Sunday of Easter (or Sunday of Divine Mercy)"
+rank = "Sunday"
+
+[[days]]
+date = "2027-04-05"
+
+[[days.observances]]
+title = "The Annunciation of the Lord"
+rank = "Solemnity"
+saints = ["mary-mother-of-jesus"]
+note = "Transferred from March 25 because that date falls on Holy Thursday in 2027."
+
+[[days]]
+date = "2027-04-06"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-07"
+
+[[days.observances]]
+title = "Saint John Baptist de la Salle, Priest"
+rank = "Memorial"
+
+[[days]]
+date = "2027-04-08"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-09"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-10"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-11"
+
+[[days.observances]]
+title = "Third Sunday of Easter"
+rank = "Sunday"
+
+[[days]]
+date = "2027-04-12"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-13"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Martin I, Pope and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-04-14"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-15"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-16"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-17"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-18"
+
+[[days.observances]]
+title = "Fourth Sunday of Easter"
+rank = "Sunday"
+
+[[days]]
+date = "2027-04-19"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-20"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-21"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Anselm, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+saints = ["anselm-of-canterbury"]
+
+[[days]]
+date = "2027-04-22"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-23"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint George, Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["george"]
+
+[[days.observances]]
+title = "Saint Adalbert, Bishop and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-04-24"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Fidelis of Sigmaringen, Priest and Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["fidelis-of-sigmaringen"]
+
+[[days]]
+date = "2027-04-25"
+
+[[days.observances]]
+title = "Fifth Sunday of Easter"
+rank = "Sunday"
+
+[[days]]
+date = "2027-04-26"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-27"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-04-28"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Peter Chanel, Priest and Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["peter-chanel"]
+
+[[days.observances]]
+title = "Saint Louis Grignion de Montfort, Priest"
+rank = "Optional memorial"
+optional = true
+saints = ["louis-de-montfort"]
+
+[[days]]
+date = "2027-04-29"
+
+[[days.observances]]
+title = "Saint Catherine of Siena, Virgin and Doctor of the Church"
+rank = "Memorial"
+saints = ["catherine-of-siena"]
+
+[[days]]
+date = "2027-04-30"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Pius V, Pope"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-05-01"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Joseph the Worker"
+rank = "Optional memorial"
+optional = true
+saints = ["joseph"]
+
+[[days]]
+date = "2027-05-02"
+
+[[days.observances]]
+title = "Sixth Sunday of Easter"
+rank = "Sunday"
+
+[[days]]
+date = "2027-05-03"
+
+[[days.observances]]
+title = "Saints Philip and James, Apostles"
+rank = "Feast"
+saints = ["philip-the-apostle", "james-the-less"]
+
+[[days]]
+date = "2027-05-04"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-05-05"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-05-06"
+
+[[days.observances]]
+title = "The Ascension of the Lord"
+rank = "Solemnity"
+note = "In the ecclesiastical provinces of Boston, Hartford, New York, Omaha, and Philadelphia."
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+note = "In all other U.S. ecclesiastical provinces."
+
+[[days]]
+date = "2027-05-07"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-05-08"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-05-09"
+
+[[days.observances]]
+title = "Seventh Sunday of Easter"
+rank = "Sunday"
+note = "In the ecclesiastical provinces of Boston, Hartford, New York, Omaha, and Philadelphia."
+
+[[days.observances]]
+title = "The Ascension of the Lord"
+rank = "Solemnity"
+note = "In all other U.S. ecclesiastical provinces."
+
+[[days]]
+date = "2027-05-10"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John De Avila, Priest and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["john-of-avila"]
+optional = true
+
+[[days.observances]]
+title = "Saint Damien de Veuster, Priest"
+rank = "Optional memorial"
+saints = ["damien-of-molokai"]
+optional = true
+
+[[days]]
+date = "2027-05-11"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-05-12"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saints Nereus and Achilleus, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint Pancras, Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-05-13"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Our Lady of Fatima"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-05-14"
+
+[[days.observances]]
+title = "Saint Matthias, Apostle"
+rank = "Feast"
+saints = ["matthias-the-apostle"]
+
+[[days]]
+date = "2027-05-15"
+
+[[days.observances]]
+title = "Easter Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Isidore"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-05-16"
+
+[[days.observances]]
+title = "Pentecost Sunday"
+rank = "Solemnity"
+
+[[days]]
+date = "2027-05-17"
+
+[[days.observances]]
+title = "The Blessed Virgin Mary, Mother of the Church"
+rank = "Memorial"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-05-18"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John I, Pope and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-05-19"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-05-20"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Bernardine of Siena, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-05-21"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Christopher Magallanes, Priest, and Companions, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-05-22"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Rita of Cascia, Religious"
+rank = "Optional memorial"
+optional = true
+saints = ["rita-of-cascia"]
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-05-23"
+
+[[days.observances]]
+title = "The Most Holy Trinity"
+rank = "Solemnity"
+
+[[days]]
+date = "2027-05-24"
+
+[[days.observances]]
+title = "Weekday (Eighth Week in Ordinary Time)"
+rank = "Weekday"
+
+[[days]]
+date = "2027-05-25"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Bede the Venerable, Priest and Doctor of the Church"
+rank = "Optional memorial"
+saints = ["bede-the-venerable"]
+optional = true
+
+[[days.observances]]
+title = "Saint Gregory VII, Pope"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint Mary Magdalene de’ Pazzi, Virgin"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-05-26"
+
+[[days.observances]]
+title = "Saint Philip Neri, Priest"
+rank = "Memorial"
+saints = ["philip-neri"]
+
+[[days]]
+date = "2027-05-27"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Augustine of Canterbury, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-05-28"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-05-29"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Paul VI, Pope"
+rank = "Optional memorial"
+optional = true
+saints = ["paul-vi"]
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-05-30"
+
+[[days.observances]]
+title = "The Most Holy Body and Blood of Christ (Corpus Christi)"
+rank = "Solemnity"
+
+[[days]]
+date = "2027-05-31"
+
+[[days.observances]]
+title = "The Visitation of the Blessed Virgin Mary"
+rank = "Feast"
+saints = ["mary-mother-of-jesus", "elizabeth-mother-of-john"]
+
+[[days]]
+date = "2027-06-01"
+
+[[days.observances]]
+title = "Saint Justin, Martyr"
+rank = "Memorial"
+saints = ["justin-martyr"]
+
+[[days]]
+date = "2027-06-02"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saints Marcellinus and Peter, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-06-03"
+
+[[days.observances]]
+title = "Saint Charles Lwanga and Companions, Martyrs"
+rank = "Memorial"
+saints = ["charles-lwanga"]
+
+[[days]]
+date = "2027-06-04"
+
+[[days.observances]]
+title = "The Most Sacred Heart of Jesus"
+rank = "Solemnity"
+
+[[days]]
+date = "2027-06-05"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The Immaculate Heart of the Blessed Virgin Mary"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+note = "In 2027, this memorial is optional because it falls on the same day as the memorial of Saint Boniface."
+
+[[days.observances]]
+title = "Saint Boniface, Bishop and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-06-06"
+
+[[days.observances]]
+title = "Tenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-06-07"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-06-08"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-06-09"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Ephrem, Deacon and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+saints = ["ephrem-the-syrian"]
+
+[[days]]
+date = "2027-06-10"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-06-11"
+
+[[days.observances]]
+title = "Saint Barnabas, Apostle"
+rank = "Memorial"
+saints = ["barnabas-the-apostle"]
+
+[[days]]
+date = "2027-06-12"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-06-13"
+
+[[days.observances]]
+title = "Eleventh Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-06-14"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-06-15"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-06-16"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-06-17"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-06-18"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-06-19"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Romuald, Abbot"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-06-20"
+
+[[days.observances]]
+title = "Twelfth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-06-21"
+
+[[days.observances]]
+title = "Saint Aloysius Gonzaga, Religious"
+rank = "Memorial"
+
+[[days]]
+date = "2027-06-22"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Paulinus of Nola, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saints John Fisher, Bishop, and Thomas More, Martyrs"
+rank = "Optional memorial"
+optional = true
+saints = ["john-fisher", "thomas-more"]
+
+[[days]]
+date = "2027-06-23"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-06-24"
+
+[[days.observances]]
+title = "The Nativity of Saint John the Baptist"
+rank = "Solemnity"
+saints = ["john-the-baptist"]
+
+[[days]]
+date = "2027-06-25"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-06-26"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-06-27"
+
+[[days.observances]]
+title = "Thirteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-06-28"
+
+[[days.observances]]
+title = "Saint Irenaeus, Bishop, Martyr, and Doctor of the Church"
+rank = "Memorial"
+saints = ["irenaeus-of-lyons"]
+
+[[days]]
+date = "2027-06-29"
+
+[[days.observances]]
+title = "Saints Peter and Paul, Apostles"
+rank = "Solemnity"
+saints = ["paul-the-apostle", "peter-the-apostle"]
+
+[[days]]
+date = "2027-06-30"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The First Martyrs of the Holy Roman Church"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-07-01"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Junípero Serra, Priest"
+rank = "Optional memorial"
+optional = true
+saints = ["junipero-serra"]
+
+[[days]]
+date = "2027-07-02"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-07-03"
+
+[[days.observances]]
+title = "Saint Thomas, Apostle"
+rank = "Feast"
+saints = ["thomas-the-apostle"]
+
+[[days]]
+date = "2027-07-04"
+
+[[days.observances]]
+title = "Fourteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-07-05"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Anthony Zaccaria, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint Elizabeth of Portugal"
+rank = "Optional memorial"
+saints = ["elizabeth-of-portugal"]
+optional = true
+
+[[days]]
+date = "2027-07-06"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Maria Goretti, Virgin and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-07-07"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-07-08"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-07-09"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Augustine Zhao Rong, Priest, and Companions, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-07-10"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-07-11"
+
+[[days.observances]]
+title = "Fifteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-07-12"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-07-13"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Henry"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-07-14"
+
+[[days.observances]]
+title = "Saint Kateri Tekakwitha, Virgin"
+rank = "Memorial"
+saints = ["kateri-tekakwitha"]
+
+[[days]]
+date = "2027-07-15"
+
+[[days.observances]]
+title = "Saint Bonaventure, Bishop and Doctor of the Church"
+rank = "Memorial"
+saints = ["bonaventure"]
+
+[[days]]
+date = "2027-07-16"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Our Lady of Mount Carmel"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-07-17"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-07-18"
+
+[[days.observances]]
+title = "Sixteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-07-19"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-07-20"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Apollinaris, Bishop and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-07-21"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Lawrence of Brindisi, Priest and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+saints = ["lawrence-of-brindisi"]
+
+[[days]]
+date = "2027-07-22"
+
+[[days.observances]]
+title = "Saint Mary Magdalene"
+rank = "Feast"
+saints = ["mary-magdalene"]
+
+[[days]]
+date = "2027-07-23"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Bridget, Religious"
+rank = "Optional memorial"
+optional = true
+saints = ["bridget-of-sweden"]
+
+[[days]]
+date = "2027-07-24"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Sharbel Makhlūf, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-07-25"
+
+[[days.observances]]
+title = "Seventeenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-07-26"
+
+[[days.observances]]
+title = "Saints Joachim and Anne, Parents of the Blessed Virgin Mary"
+rank = "Memorial"
+saints = ["joachim", "anne"]
+
+[[days]]
+date = "2027-07-27"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-07-28"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-07-29"
+
+[[days.observances]]
+title = "Saints Martha, Mary, and Lazarus"
+rank = "Memorial"
+saints = ["lazarus-of-bethany", "martha-of-bethany", "mary-of-bethany"]
+
+[[days]]
+date = "2027-07-30"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Peter Chrysologus, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-07-31"
+
+[[days.observances]]
+title = "Saint Ignatius of Loyola, Priest"
+rank = "Memorial"
+saints = ["ignatius-of-loyola"]
+
+[[days]]
+date = "2027-08-01"
+
+[[days.observances]]
+title = "Eighteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-08-02"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Eusebius of Vercelli, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint Peter Julian Eymard, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-08-03"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-08-04"
+
+[[days.observances]]
+title = "Saint John Vianney, Priest"
+rank = "Memorial"
+
+[[days]]
+date = "2027-08-05"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The Dedication of the Basilica of Saint Mary Major"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-08-06"
+
+[[days.observances]]
+title = "The Transfiguration of the Lord"
+rank = "Feast"
+
+[[days]]
+date = "2027-08-07"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Sixtus II, Pope, and Companions, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint Cajetan, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-08-08"
+
+[[days.observances]]
+title = "Nineteenth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-08-09"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Teresa Benedicta of the Cross, Virgin and Martyr"
+rank = "Optional memorial"
+saints = ["edith-stein"]
+optional = true
+
+[[days]]
+date = "2027-08-10"
+
+[[days.observances]]
+title = "Saint Lawrence, Deacon and Martyr"
+rank = "Feast"
+saints = ["lawrence-of-rome"]
+
+[[days]]
+date = "2027-08-11"
+
+[[days.observances]]
+title = "Saint Clare, Virgin"
+rank = "Memorial"
+saints = ["clare-of-assisi"]
+
+[[days]]
+date = "2027-08-12"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Jane Frances de Chantal, Religious"
+rank = "Optional memorial"
+optional = true
+saints = ["jane-frances-de-chantal"]
+
+[[days]]
+date = "2027-08-13"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saints Pontian, Pope, and Hippolytus, Priest, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-08-14"
+
+[[days.observances]]
+title = "Saint Maximilian Kolbe, Priest and Martyr"
+rank = "Memorial"
+saints = ["maximilian-kolbe"]
+
+[[days]]
+date = "2027-08-15"
+
+[[days.observances]]
+title = "The Assumption of the Blessed Virgin Mary"
+rank = "Solemnity"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-08-16"
+
+[[days.observances]]
+title = "Weekday (Twentieth Week in Ordinary Time)"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Stephen of Hungary"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-08-17"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-08-18"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-08-19"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John Eudes, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-08-20"
+
+[[days.observances]]
+title = "Saint Bernard, Abbot and Doctor of the Church"
+rank = "Memorial"
+saints = ["bernard-of-clairvaux"]
+
+[[days]]
+date = "2027-08-21"
+
+[[days.observances]]
+title = "Saint Pius X, Pope"
+rank = "Memorial"
+saints = ["pius-x"]
+
+[[days]]
+date = "2027-08-22"
+
+[[days.observances]]
+title = "Twenty-First Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-08-23"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Rose of Lima, Virgin"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-08-24"
+
+[[days.observances]]
+title = "Saint Bartholomew, Apostle"
+rank = "Feast"
+saints = ["bartholomew-the-apostle"]
+
+[[days]]
+date = "2027-08-25"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Louis"
+rank = "Optional memorial"
+optional = true
+saints = ["louis-ix-of-france"]
+
+[[days.observances]]
+title = "Saint Joseph Calasanz, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-08-26"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-08-27"
+
+[[days.observances]]
+title = "Saint Monica"
+rank = "Memorial"
+saints = ["monica"]
+
+[[days]]
+date = "2027-08-28"
+
+[[days.observances]]
+title = "Saint Augustine, Bishop and Doctor of the Church"
+rank = "Memorial"
+saints = ["augustine-of-hippo"]
+
+[[days]]
+date = "2027-08-29"
+
+[[days.observances]]
+title = "Twenty-Second Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-08-30"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-08-31"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-09-01"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-09-02"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-09-03"
+
+[[days.observances]]
+title = "Saint Gregory the Great, Pope and Doctor of the Church"
+rank = "Memorial"
+saints = ["gregory-the-great"]
+
+[[days]]
+date = "2027-09-04"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-09-05"
+
+[[days.observances]]
+title = "Twenty-Third Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-09-06"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-09-07"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-09-08"
+
+[[days.observances]]
+title = "The Nativity of the Blessed Virgin Mary"
+rank = "Feast"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-09-09"
+
+[[days.observances]]
+title = "Saint Peter Claver, Priest"
+rank = "Memorial"
+saints = ["peter-claver"]
+
+[[days]]
+date = "2027-09-10"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-09-11"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-09-12"
+
+[[days.observances]]
+title = "Twenty-Fourth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-09-13"
+
+[[days.observances]]
+title = "Saint John Chrysostom, Bishop and Doctor of the Church"
+rank = "Memorial"
+saints = ["john-chrysostom"]
+
+[[days]]
+date = "2027-09-14"
+
+[[days.observances]]
+title = "The Exaltation of the Holy Cross"
+rank = "Feast"
+
+[[days]]
+date = "2027-09-15"
+
+[[days.observances]]
+title = "Our Lady of Sorrows"
+rank = "Memorial"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-09-16"
+
+[[days.observances]]
+title = "Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs"
+rank = "Memorial"
+
+[[days]]
+date = "2027-09-17"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Robert Bellarmine, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+saints = ["robert-bellarmine"]
+
+[[days.observances]]
+title = "Saint Hildegard of Bingen, Virgin and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+saints = ["hildegard-of-bingen"]
+
+[[days]]
+date = "2027-09-18"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-09-19"
+
+[[days.observances]]
+title = "Twenty-Fifth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-09-20"
+
+[[days.observances]]
+title = "Saints Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang, and Companions, Martyrs"
+rank = "Memorial"
+
+[[days]]
+date = "2027-09-21"
+
+[[days.observances]]
+title = "Saint Matthew, Apostle and Evangelist"
+rank = "Feast"
+saints = ["matthew-the-apostle"]
+
+[[days]]
+date = "2027-09-22"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-09-23"
+
+[[days.observances]]
+title = "Saint Pius of Pietrelcina, Priest"
+rank = "Memorial"
+
+[[days]]
+date = "2027-09-24"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-09-25"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-09-26"
+
+[[days.observances]]
+title = "Twenty-Sixth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-09-27"
+
+[[days.observances]]
+title = "Saint Vincent de Paul, Priest"
+rank = "Memorial"
+saints = ["vincent-de-paul"]
+
+[[days]]
+date = "2027-09-28"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Wenceslaus, Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["wenceslaus"]
+
+[[days.observances]]
+title = "Saint Lawrence Ruiz and Companions, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-09-29"
+
+[[days.observances]]
+title = "Saints Michael, Gabriel and Raphael, Archangels"
+rank = "Feast"
+
+[[days]]
+date = "2027-09-30"
+
+[[days.observances]]
+title = "Saint Jerome, Priest and Doctor of the Church"
+rank = "Memorial"
+saints = ["jerome"]
+
+[[days]]
+date = "2027-10-01"
+
+[[days.observances]]
+title = "Saint Thérèse of the Child Jesus, Virgin and Doctor of the Church"
+rank = "Memorial"
+saints = ["therese-of-lisieux"]
+
+[[days]]
+date = "2027-10-02"
+
+[[days.observances]]
+title = "The Holy Guardian Angels"
+rank = "Memorial"
+
+[[days]]
+date = "2027-10-03"
+
+[[days.observances]]
+title = "Twenty-Seventh Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-10-04"
+
+[[days.observances]]
+title = "Saint Francis of Assisi"
+rank = "Memorial"
+saints = ["francis-of-assisi"]
+
+[[days]]
+date = "2027-10-05"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Faustina Kowalska, Virgin"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Francis Xavier Seelos, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-10-06"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Bruno, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Marie Rose Durocher, Virgin"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-10-07"
+
+[[days.observances]]
+title = "Our Lady of the Rosary"
+rank = "Memorial"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-10-08"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-10-09"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Denis, Bishop, and Companions, Martyrs"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint John Leonardi, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint John Henry Newman, Priest and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+saints = ["john-henry-newman"]
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-10-10"
+
+[[days.observances]]
+title = "Twenty-Eighth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-10-11"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John XXIII, Pope"
+rank = "Optional memorial"
+saints = ["john-xxiii"]
+optional = true
+
+[[days]]
+date = "2027-10-12"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-10-13"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-10-14"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Callistus I, Pope and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-10-15"
+
+[[days.observances]]
+title = "Saint Teresa of Jesus, Virgin and Doctor of the Church"
+rank = "Memorial"
+saints = ["teresa-of-avila"]
+
+[[days]]
+date = "2027-10-16"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Hedwig, Religious"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Saint Margaret Mary Alacoque, Virgin"
+rank = "Optional memorial"
+optional = true
+saints = ["margaret-mary-alacoque"]
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-10-17"
+
+[[days.observances]]
+title = "Twenty-Ninth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-10-18"
+
+[[days.observances]]
+title = "Saint Luke, Evangelist"
+rank = "Feast"
+saints = ["luke-the-evangelist"]
+
+[[days]]
+date = "2027-10-19"
+
+[[days.observances]]
+title = "Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs"
+rank = "Memorial"
+saints = ["isaac-jogues", "jean-de-brebeuf"]
+
+[[days]]
+date = "2027-10-20"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Paul of the Cross, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-10-21"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-10-22"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John Paul II, Pope"
+rank = "Optional memorial"
+optional = true
+saints = ["john-paul-ii"]
+
+[[days]]
+date = "2027-10-23"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John of Capistrano, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-10-24"
+
+[[days.observances]]
+title = "Thirtieth Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-10-25"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-10-26"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-10-27"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-10-28"
+
+[[days.observances]]
+title = "Saints Simon and Jude, Apostles"
+rank = "Feast"
+saints = ["jude-thaddeus", "simon-the-zealot"]
+
+[[days]]
+date = "2027-10-29"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-10-30"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-10-31"
+
+[[days.observances]]
+title = "Thirty-First Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-11-01"
+
+[[days.observances]]
+title = "All Saints"
+rank = "Solemnity"
+note = "The obligation to attend Mass for All Saints is abrogated in 2027 because it falls on a Monday."
+
+[[days]]
+date = "2027-11-02"
+
+[[days.observances]]
+title = "The Commemoration of All the Faithful Departed (All Souls’ Day)"
+rank = "Commemoration"
+
+[[days]]
+date = "2027-11-03"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Martin de Porres, Religious"
+rank = "Optional memorial"
+optional = true
+saints = ["martin-de-porres"]
+
+[[days]]
+date = "2027-11-04"
+
+[[days.observances]]
+title = "Saint Charles Borromeo, Bishop"
+rank = "Memorial"
+saints = ["charles-borromeo"]
+
+[[days]]
+date = "2027-11-05"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-11-06"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-11-07"
+
+[[days.observances]]
+title = "Thirty-Second Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-11-08"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-11-09"
+
+[[days.observances]]
+title = "The Dedication of the Lateran Basilica"
+rank = "Feast"
+
+[[days]]
+date = "2027-11-10"
+
+[[days.observances]]
+title = "Saint Leo the Great, Pope and Doctor of the Church"
+rank = "Memorial"
+saints = ["leo-the-great"]
+
+[[days]]
+date = "2027-11-11"
+
+[[days.observances]]
+title = "Saint Martin of Tours, Bishop"
+rank = "Memorial"
+saints = ["martin-of-tours"]
+
+[[days]]
+date = "2027-11-12"
+
+[[days.observances]]
+title = "Saint Josaphat, Bishop and Martyr"
+rank = "Memorial"
+saints = ["josaphat-kuntsevych"]
+
+[[days]]
+date = "2027-11-13"
+
+[[days.observances]]
+title = "Saint Frances Xavier Cabrini, Virgin"
+rank = "Memorial"
+saints = ["frances-xavier-cabrini"]
+
+[[days]]
+date = "2027-11-14"
+
+[[days.observances]]
+title = "Thirty-Third Sunday in Ordinary Time"
+rank = "Sunday"
+
+[[days]]
+date = "2027-11-15"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Albert the Great, Bishop and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+saints = ["albert-the-great"]
+
+[[days]]
+date = "2027-11-16"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Margaret of Scotland"
+rank = "Optional memorial"
+optional = true
+saints = ["margaret-of-scotland"]
+
+[[days.observances]]
+title = "Saint Gertrude, Virgin"
+rank = "Optional memorial"
+optional = true
+saints = ["gertrude-the-great"]
+
+[[days]]
+date = "2027-11-17"
+
+[[days.observances]]
+title = "Saint Elizabeth of Hungary, Religious"
+rank = "Memorial"
+saints = ["elizabeth-of-hungary"]
+
+[[days]]
+date = "2027-11-18"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "The Dedication of the Basilicas of Saints Peter and Paul, Apostles"
+rank = "Optional memorial"
+optional = true
+saints = ["paul-the-apostle", "peter-the-apostle"]
+
+[[days.observances]]
+title = "Saint Rose Philippine Duchesne, Virgin"
+rank = "Optional memorial"
+optional = true
+saints = ["rose-philippine-duchesne"]
+
+[[days]]
+date = "2027-11-19"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-11-20"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-11-21"
+
+[[days.observances]]
+title = "Our Lord Jesus Christ, King of the Universe"
+rank = "Solemnity"
+
+[[days]]
+date = "2027-11-22"
+
+[[days.observances]]
+title = "Saint Cecilia, Virgin and Martyr"
+rank = "Memorial"
+saints = ["cecilia"]
+
+[[days]]
+date = "2027-11-23"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Clement I, Pope and Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["clement-i"]
+
+[[days.observances]]
+title = "Saint Columban, Abbot"
+rank = "Optional memorial"
+optional = true
+saints = ["columban"]
+
+[[days.observances]]
+title = "Blessed Miguel Agustín Pro, Priest and Martyr"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-11-24"
+
+[[days.observances]]
+title = "Saint Andrew Dũng-Lạc, Priest, and Companions, Martyrs"
+rank = "Memorial"
+saints = ["andrew-dung-lac"]
+
+[[days]]
+date = "2027-11-25"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Catherine of Alexandria, Virgin and Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["catherine-of-alexandria"]
+
+[[days.observances]]
+title = "Thanksgiving Day"
+rank = "Optional observance"
+optional = true
+
+[[days]]
+date = "2027-11-26"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days]]
+date = "2027-11-27"
+
+[[days.observances]]
+title = "Weekday in Ordinary Time"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Blessed Virgin Mary on Saturday"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-11-28"
+
+[[days.observances]]
+title = "First Sunday of Advent"
+rank = "Sunday"
+
+[[days]]
+date = "2027-11-29"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-11-30"
+
+[[days.observances]]
+title = "Saint Andrew, Apostle"
+rank = "Feast"
+saints = ["andrew-the-apostle"]
+
+[[days]]
+date = "2027-12-01"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-12-02"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-12-03"
+
+[[days.observances]]
+title = "Saint Francis Xavier, Priest"
+rank = "Memorial"
+saints = ["francis-xavier"]
+
+[[days]]
+date = "2027-12-04"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John Damascene, Priest and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-12-05"
+
+[[days.observances]]
+title = "Second Sunday of Advent"
+rank = "Sunday"
+
+[[days]]
+date = "2027-12-06"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Nicholas, Bishop"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-12-07"
+
+[[days.observances]]
+title = "Saint Ambrose, Bishop and Doctor of the Church"
+rank = "Memorial"
+saints = ["ambrose"]
+
+[[days]]
+date = "2027-12-08"
+
+[[days.observances]]
+title = "The Immaculate Conception of the Blessed Virgin Mary"
+rank = "Solemnity"
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-12-09"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Juan Diego Cuauhtlatoatzin"
+rank = "Optional memorial"
+optional = true
+saints = ["juan-diego"]
+
+[[days]]
+date = "2027-12-10"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Our Lady of Loreto"
+rank = "Optional memorial"
+optional = true
+saints = ["mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-12-11"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Damasus I, Pope"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-12-12"
+
+[[days.observances]]
+title = "Third Sunday of Advent"
+rank = "Sunday"
+note = "The feast of Our Lady of Guadalupe is omitted in 2027. She may be honored during the Sunday liturgy, and a votive Mass may be celebrated on a nearby weekday when pastorally appropriate."
+
+[[days]]
+date = "2027-12-13"
+
+[[days.observances]]
+title = "Saint Lucy, Virgin and Martyr"
+rank = "Memorial"
+saints = ["lucy-of-syracuse"]
+
+[[days]]
+date = "2027-12-14"
+
+[[days.observances]]
+title = "Saint John of the Cross, Priest and Doctor of the Church"
+rank = "Memorial"
+saints = ["john-of-the-cross"]
+
+[[days]]
+date = "2027-12-15"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-12-16"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-12-17"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-12-18"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-12-19"
+
+[[days.observances]]
+title = "Fourth Sunday of Advent"
+rank = "Sunday"
+
+[[days]]
+date = "2027-12-20"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-12-21"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Peter Canisius, Priest and Doctor of the Church"
+rank = "Optional memorial"
+optional = true
+saints = ["peter-canisius"]
+
+[[days]]
+date = "2027-12-22"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-12-23"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint John of Kanty, Priest"
+rank = "Optional memorial"
+optional = true
+
+[[days]]
+date = "2027-12-24"
+
+[[days.observances]]
+title = "Advent Weekday"
+rank = "Weekday"
+
+[[days]]
+date = "2027-12-25"
+
+[[days.observances]]
+title = "The Nativity of the Lord (Christmas)"
+rank = "Solemnity"
+
+[[days]]
+date = "2027-12-26"
+
+[[days.observances]]
+title = "The Holy Family of Jesus, Mary and Joseph"
+rank = "Feast"
+saints = ["joseph", "mary-mother-of-jesus"]
+
+[[days]]
+date = "2027-12-27"
+
+[[days.observances]]
+title = "Saint John, Apostle and Evangelist"
+rank = "Feast"
+saints = ["john-the-apostle"]
+
+[[days]]
+date = "2027-12-28"
+
+[[days.observances]]
+title = "The Holy Innocents, Martyrs"
+rank = "Feast"
+
+[[days]]
+date = "2027-12-29"
+
+[[days.observances]]
+title = "Fifth Day within the Octave of the Nativity of the Lord"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Thomas Becket, Bishop and Martyr"
+rank = "Optional memorial"
+optional = true
+saints = ["thomas-becket"]
+
+[[days]]
+date = "2027-12-30"
+
+[[days.observances]]
+title = "Sixth Day within the Octave of the Nativity of the Lord"
+rank = "Weekday"
+
+[[days]]
+date = "2027-12-31"
+
+[[days.observances]]
+title = "Seventh Day within the Octave of the Nativity of the Lord"
+rank = "Weekday"
+
+[[days.observances]]
+title = "Saint Sylvester I, Pope"
+rank = "Optional memorial"
+optional = true

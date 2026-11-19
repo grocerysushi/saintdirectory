@@ -5,7 +5,7 @@
 {% block today_current %} aria-current="page"{% endblock %}
 {% block content %}
   <div class="container page-heading">
-    <p class="eyebrow">{{ calendar.name }}</p>
+    <p class="eyebrow">U.S. Roman Rite</p>
     <h1>Today</h1>
     <p class="today-date"><time datetime="{{ date }}">{{ date.format("%A, %B %-d, %Y") }}</time></p>
     <form class="zone-form" action="/today" method="get">
@@ -20,17 +20,21 @@
   </div>
   <section class="container section today-schedule" aria-labelledby="today-heading">
     <h2 id="today-heading">Liturgical observances</h2>
-    {% if entries.is_empty() %}
-    <div class="empty-state">
-      <p>The verified schedule covers January 1 through December 31, {{ calendar.year }}.</p>
-      <a href="/calendar">Browse the {{ calendar.year }} calendar</a>
-    </div>
-    {% else %}
+    {% if let Some(schedule) = schedule %}
     <div class="today-observances">
-      {% call observances::list(entries.iter()) %}
+      {% call observances::list(schedule.entries.iter()) %}
     </div>
-    <p><a href="/calendar#day-{{ date }}">View this date in the full calendar</a></p>
+    <p><a href="/calendar/{{ schedule.calendar.year }}#day-{{ date }}">View this date in the full calendar</a></p>
+    <p class="calendar-source"><a href="{{ schedule.calendar.source_url }}">{{ schedule.calendar.source_title }}</a></p>
+    {% else %}
+    <div class="empty-state">
+      <p>Verified schedules are available for these years.</p>
+      <ul>
+        {% for year in years %}
+        <li><a href="/calendar/{{ year }}">Browse the {{ year }} calendar</a></li>
+        {% endfor %}
+      </ul>
+    </div>
     {% endif %}
-    <p class="calendar-source"><a href="{{ calendar.source_url }}">{{ calendar.source_title }}</a></p>
   </section>
 {% endblock %}

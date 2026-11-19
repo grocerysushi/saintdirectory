@@ -44,20 +44,20 @@
         </ul>
       </section>
       {% endif %}
-      {% if !observances.is_empty() %}
+      {% for schedule in schedules %}
       <section>
-        <h2>{{ calendar.title }} observances</h2>
-        <p>{{ calendar.name }}</p>
+        <h2>{{ schedule.calendar.title }} observances</h2>
+        <p>{{ schedule.calendar.name }}</p>
         <ul>
-          {% for (day, entry) in observances %}
+          {% for (day, entry) in schedule.observances %}
           <li>
-            <a href="/calendar#day-{{ day.date }}">{{ day.date.format("%B %-d") }} · {{ entry.title }}</a>
+            <a href="/calendar/{{ schedule.calendar.year }}#day-{{ day.date }}">{{ day.date.format("%B %-d") }} · {{ entry.title }}</a>
             <span class="rank">{{ entry.rank }}</span>
           </li>
           {% endfor %}
         </ul>
       </section>
-      {% endif %}
+      {% endfor %}
     </aside>
   </div>
 {% endblock %}

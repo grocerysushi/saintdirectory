@@ -466,14 +466,21 @@ button:hover {
   color: var(--muted);
 }
 
-.calendar-month-nav {
+.calendar-year-nav, .calendar-month-nav {
   display: flex;
   flex-wrap: wrap;
   gap: 0.45rem;
+}
+
+.calendar-year-nav {
+  margin-bottom: 1rem;
+}
+
+.calendar-month-nav {
   margin-bottom: 2rem;
 }
 
-.calendar-month-nav a {
+.calendar-year-nav a, .calendar-month-nav a {
   display: inline-flex;
   align-items: center;
   min-height: 2.75rem;
@@ -482,6 +489,19 @@ button:hover {
   border-radius: 0.2rem;
   background: var(--surface);
   font-size: 0.875rem;
+}
+
+.calendar-year-nav a {
+  min-width: 3.5rem;
+  justify-content: center;
+  border-color: var(--accent);
+  font-weight: 650;
+}
+
+.calendar-year-nav a[aria-current='page'] {
+  background: var(--accent-dark);
+  color: var(--surface);
+  text-decoration: none;
 }
 
 .calendar-month {

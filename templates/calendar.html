@@ -11,6 +11,11 @@
     <p class="calendar-source"><a href="{{ calendar.source_url }}">{{ calendar.source_title }}</a></p>
   </div>
   <div class="container section">
+    <nav class="calendar-year-nav" aria-label="Calendar years">
+      {% for year in years.iter().copied() %}
+      <a href="/calendar/{{ year }}"{% if year == calendar.year %} aria-current="page"{% endif %}>{{ year }}</a>
+      {% endfor %}
+    </nav>
     <nav class="calendar-month-nav" aria-label="Calendar months">
       {% for month in months %}
       <a href="#month-{{ month.start.format("%m") }}">{{ month.start.format("%B") }}</a>
