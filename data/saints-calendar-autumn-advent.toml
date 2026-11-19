@@ -17,6 +17,10 @@ biography = [
 title = "Franciscan Media — Saint Cornelius"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-cornelius"
 
+[[saints.sources]]
+title = "National Eucharistic Congress — Saint Names in Eucharistic Prayer I"
+url = "https://eucharisticcongress.org/post/do-this-in-remembrance-of-me-part-55-saint-names-epi/"
+
 [[saints]]
 id = "cyprian-of-carthage"
 name = "Saint Cyprian of Carthage"
@@ -40,6 +44,10 @@ url = "https://www.franciscanmedia.org/saint-of-the-day/saint-cyprian"
 title = "Benedict XVI — General audience on Saint Cyprian"
 url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070606.html"
 
+[[saints.sources]]
+title = "National Eucharistic Congress — Saint Names in Eucharistic Prayer I"
+url = "https://eucharisticcongress.org/post/do-this-in-remembrance-of-me-part-55-saint-names-epi/"
+
 [[saints]]
 id = "januarius"
 name = "Saint Januarius"
@@ -58,6 +66,10 @@ patronage = ["Venerated as a patron of Naples"]
 [[saints.sources]]
 title = "Franciscan Media — Saint Januarius"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-januarius"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Januarius"
+url = "https://www.britannica.com/biography/Saint-Januarius"
 
 [[saints]]
 id = "andrew-kim-tae-gon"
@@ -143,6 +155,10 @@ patronage = ["Traditionally venerated as a patron of physicians"]
 title = "Encyclopaedia Britannica — Saints Cosmas and Damian"
 url = "https://www.britannica.com/biography/Saint-Cosmas"
 
+[[saints.sources]]
+title = "National Eucharistic Congress — Saint Names in Eucharistic Prayer I"
+url = "https://eucharisticcongress.org/post/do-this-in-remembrance-of-me-part-55-saint-names-epi/"
+
 [[saints]]
 id = "damian"
 name = "Saint Damian"
@@ -161,6 +177,10 @@ patronage = ["Traditionally venerated as a patron of physicians"]
 [[saints.sources]]
 title = "Encyclopaedia Britannica — Saints Cosmas and Damian"
 url = "https://www.britannica.com/biography/Saint-Cosmas"
+
+[[saints.sources]]
+title = "National Eucharistic Congress — Saint Names in Eucharistic Prayer I"
+url = "https://eucharisticcongress.org/post/do-this-in-remembrance-of-me-part-55-saint-names-epi/"
 
 [[saints]]
 id = "lawrence-ruiz"
@@ -407,6 +427,10 @@ patronage = ["Venerated as a patron of Silesia"]
 title = "Vatican News — Saint Hedwig, Duchess and Religious"
 url = "https://www.vaticannews.va/en/saints/10/16/st-hedwig--duchesse-of-polonia--religious.html"
 
+[[saints.sources]]
+title = "Catholic Encyclopedia — Saint Hedwig"
+url = "https://www.newadvent.org/cathen/07189a.htm"
+
 [[saints]]
 id = "paul-of-the-cross"
 name = "Saint Paul of the Cross"
@@ -425,6 +449,10 @@ biography = [
 [[saints.sources]]
 title = "Franciscan Media — Saint Paul of the Cross"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-paul-of-the-cross"
+
+[[saints.sources]]
+title = "University of Notre Dame, FaithND — Saint Paul of the Cross"
+url = "https://faith.nd.edu/saint/st-paul-of-the-cross/"
 
 [[saints]]
 id = "john-of-capistrano"
@@ -525,13 +553,21 @@ summary = "A fourth-century bishop of Rome who commissioned Jerome to revise the
 biography = [
   "Damasus became bishop of Rome in 366 after an election contested by supporters of another candidate, Ursinus. Rival groups fought, and the violence marked the beginning of his long episcopate. The episode is one part of a period in which Roman bishops were becoming more publicly influential within the late empire.",
   "Damasus asked Jerome to bring the Latin text of the Gospels into closer agreement with Greek manuscripts. It was a practical response to the circulation of Latin versions that did not always agree. Jerome’s subsequent work on biblical translation extended much further, but the revision of the Gospels has a particular connection to Damasus.",
-  "Around Rome, Damasus commissioned verse inscriptions commemorating martyrs at their burial places. The inscriptions called attention to sites Christians visited and supplied accounts of what communities remembered about their dead. Some originals and later copies survive. They help historians trace fourth-century traditions about earlier persecutions.",
+  "Around Rome, Damasus wrote verse inscriptions commemorating martyrs at their burial places. The inscriptions called attention to sites Christians visited and supplied accounts of what communities remembered about their dead. Some originals and later copies survive. They help historians trace fourth-century traditions about earlier persecutions.",
   "Damasus died in 384 and is commemorated on December 11. His work with Jerome and his historical inscriptions show two kinds of care for material passed down in the Church. One concerned the accuracy of biblical texts read in Latin. The other concerned the remembrance of people and places in the life of Rome.",
 ]
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Damasus I"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-damasus-i"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Damasus I"
+url = "https://www.britannica.com/biography/Saint-Damasus-I"
+
+[[saints.sources]]
+title = "Benedict XVI — General Audience on Saint Jerome"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20071107.html"
 
 [[saints]]
 id = "john-of-kanty"
@@ -573,3 +609,7 @@ biography = [
 [[saints.sources]]
 title = "Franciscan Media — Saint Sylvester I"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-sylvester-i"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Sylvester I"
+url = "https://www.britannica.com/biography/Saint-Sylvester-I"

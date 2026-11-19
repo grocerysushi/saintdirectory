@@ -266,6 +266,10 @@ biography = [
 title = "Vatican News — Saint Charbel Makhlouf and the monastery at Annaya"
 url = "https://www.vaticannews.va/en/church/news/2025-11/pope-leo-xiv-lebanon-saint-charbel-monastery-annaya.html"
 
+[[saints.sources]]
+title = "Catholic Bishops’ Conference of England and Wales — Saint Charbel"
+url = "https://www.cbcew.org.uk/saint-charbel/"
+
 [[saints]]
 id = "peter-chrysologus"
 name = "Saint Peter Chrysologus"

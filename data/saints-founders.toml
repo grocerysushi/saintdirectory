@@ -19,7 +19,7 @@ title = "Saint John’s Abbey — The Rule of Saint Benedict"
 url = "https://saintjohnsabbey.org/rule"
 
 [[saints.sources]]
-title = "Gregory the Great — Dialogues, Book II, chapters 33–34"
+title = "Gregory the Great — Dialogues, Book II, Life of Saint Benedict"
 url = "https://www.tertullian.org/fathers/gregory_02_dialogues_book2.htm"
 
 [[saints.sources]]
@@ -89,7 +89,7 @@ biography = [
 ]
 
 [[saints.sources]]
-title = "Augustine of Hippo — Confessions"
+title = "Augustine of Hippo — Confessions, book index"
 url = "https://www.newadvent.org/fathers/1101.htm"
 
 [[saints.sources]]
@@ -113,8 +113,8 @@ biography = [
 patronage = ["Traditionally associated with mothers and conversion"]
 
 [[saints.sources]]
-title = "Augustine of Hippo — Confessions"
-url = "https://www.newadvent.org/fathers/1101.htm"
+title = "Augustine of Hippo — Confessions, book IX"
+url = "https://www.newadvent.org/fathers/110109.htm"
 
 [[saints.sources]]
 title = "Franciscan Media — Saint Monica"
@@ -701,8 +701,8 @@ biography = [
 ]
 
 [[saints.sources]]
-title = "Irenaeus of Lyons — Against Heresies, book III"
-url = "https://www.newadvent.org/fathers/0103.htm"
+title = "Irenaeus of Lyons — Against Heresies, book III, chapter 3"
+url = "https://www.newadvent.org/fathers/0103303.htm"
 
 [[saints.sources]]
 title = "Benedict XVI — General audience on Saint Irenaeus of Lyons"
@@ -953,5 +953,13 @@ biography = [
 ]
 
 [[saints.sources]]
-title = "Franciscan Media — Saint Albert Chmielowski"
-url = "https://www.franciscanmedia.org/saint-of-the-day/saint-albert-chmielowski/"
+title = "Adam Mickiewicz Institute — Adam (Brother Albert) Chmielowski"
+url = "https://culture.pl/en/artist/adam-brat-albert-chmielowski"
+
+[[saints.sources]]
+title = "Albertine Sisters — Saint Brother Albert"
+url = "https://albertinesisters.org/st-brother-albert/"
+
+[[saints.sources]]
+title = "Adam Mickiewicz Institute — Karol Wojtyła and the play Our God’s Brother"
+url = "https://culture.pl/en/artist/karol-wojtyla"

@@ -66,6 +66,14 @@ biography = [
 title = "Franciscan Media — Saint Agnes"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-agnes"
 
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Agnes"
+url = "https://www.britannica.com/biography/Saint-Agnes"
+
+[[saints.sources]]
+title = "National Eucharistic Congress — Saint Names in Eucharistic Prayer I"
+url = "https://eucharisticcongress.org/post/do-this-in-remembrance-of-me-part-55-saint-names-epi/"
+
 [[saints]]
 id = "agatha-of-sicily"
 name = "Saint Agatha of Sicily"
@@ -83,6 +91,14 @@ biography = [
 [[saints.sources]]
 title = "Franciscan Media — Saint Agatha"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-agatha"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Agatha"
+url = "https://www.britannica.com/biography/Saint-Agatha"
+
+[[saints.sources]]
+title = "National Eucharistic Congress — Saint Names in Eucharistic Prayer I"
+url = "https://eucharisticcongress.org/post/do-this-in-remembrance-of-me-part-55-saint-names-epi/"
 
 [[saints]]
 id = "lucy-of-syracuse"
@@ -102,6 +118,14 @@ patronage = ["Traditionally invoked by people with eye disorders"]
 [[saints.sources]]
 title = "Franciscan Media — Saint Lucy"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-lucy"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Lucy"
+url = "https://www.britannica.com/biography/Saint-Lucy"
+
+[[saints.sources]]
+title = "National Eucharistic Congress — Saint Names in Eucharistic Prayer I"
+url = "https://eucharisticcongress.org/post/do-this-in-remembrance-of-me-part-55-saint-names-epi/"
 
 [[saints]]
 id = "perpetua-of-carthage"
@@ -126,6 +150,10 @@ url = "https://www.franciscanmedia.org/saint-of-the-day/saints-perpetua-and-feli
 title = "Fordham University Medieval Sourcebook — The Passion of Saints Perpetua and Felicity"
 url = "https://sourcebooks.fordham.edu/source/perpetua.asp"
 
+[[saints.sources]]
+title = "National Eucharistic Congress — Saint Names in Eucharistic Prayer I"
+url = "https://eucharisticcongress.org/post/do-this-in-remembrance-of-me-part-55-saint-names-epi/"
+
 [[saints]]
 id = "felicity-of-carthage"
 name = "Saint Felicity of Carthage"
@@ -149,6 +177,10 @@ url = "https://www.franciscanmedia.org/saint-of-the-day/saints-perpetua-and-feli
 title = "Fordham University Medieval Sourcebook — The Passion of Saints Perpetua and Felicity"
 url = "https://sourcebooks.fordham.edu/source/perpetua.asp"
 
+[[saints.sources]]
+title = "National Eucharistic Congress — Saint Names in Eucharistic Prayer I"
+url = "https://eucharisticcongress.org/post/do-this-in-remembrance-of-me-part-55-saint-names-epi/"
+
 [[saints]]
 id = "sebastian"
 name = "Saint Sebastian"
@@ -166,6 +198,10 @@ biography = [
 [[saints.sources]]
 title = "Franciscan Media — Saint Sebastian"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-sebastian"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Sebastian"
+url = "https://www.britannica.com/biography/Saint-Sebastian"
 
 [[saints]]
 id = "fabian"
@@ -203,6 +239,14 @@ biography = [
 [[saints.sources]]
 title = "Franciscan Media — Saint Polycarp"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-polycarp"
+
+[[saints.sources]]
+title = "Polycarp — Epistle to the Philippians"
+url = "https://www.newadvent.org/fathers/0136.htm"
+
+[[saints.sources]]
+title = "Church of Smyrna — Martyrdom of Polycarp"
+url = "https://www.newadvent.org/fathers/0102.htm"
 
 [[saints]]
 id = "ignatius-of-antioch"
@@ -265,6 +309,14 @@ patronage = ["Traditionally venerated as a patron of England"]
 title = "Franciscan Media — Saint George"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-george"
 
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint George"
+url = "https://www.britannica.com/biography/Saint-George"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Flag of England"
+url = "https://www.britannica.com/topic/flag-of-England"
+
 [[saints]]
 id = "vincent-of-saragossa"
 name = "Saint Vincent of Saragossa"
@@ -282,6 +334,10 @@ biography = [
 [[saints.sources]]
 title = "Franciscan Media — Saint Vincent of Zaragossa"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-vincent-of-zaragossa"
+
+[[saints.sources]]
+title = "USCCB — Proper Calendar for the Dioceses of the United States of America"
+url = "https://www.usccb.org/prayer-and-worship/liturgical-year-and-calendar/proper-calendar"
 
 [[saints]]
 id = "valentine-of-rome"
@@ -432,7 +488,7 @@ place = "Kingdom of Buganda, present-day Uganda"
 summary = "A catechist at the Bugandan royal court who was killed in the persecution of Christian converts under Mwanga II."
 biography = [
   "Charles Lwanga served at the royal court of Buganda, an African kingdom in what is now Uganda. Catholic and Protestant missionaries had arrived in the region in the years before Charles was killed. Some members of the court began to receive instruction and be baptized. Their new religious loyalties became a source of conflict under King Mwanga II.",
-  "Charles became a leader among the Catholic pages after the killing of Joseph Mukasa Balikuddembe. Accounts of the martyrs remember Charles helping to protect younger pages and instructing those who wanted to become Christians. According to the tradition preserved by members of the community, he baptized several of them as the danger of arrest increased.",
+  "Charles became a leader among the Catholic pages after the killing of Joseph Mukasa Balikuddembe. Accounts of the martyrs remember Charles helping to protect younger pages and instructing those who wanted to become Christians. They also report that he baptized several catechumens as the danger of arrest increased.",
   "Mwanga ordered a number of converts at court to be put to death. Charles was among those killed at Namugongo in June 1886. The prisoners included adults and young people. Anglican Christians were also killed during the persecution, and their churches commemorate them alongside the Catholic martyrs.",
   "The Catholic Church canonized Charles and twenty-one other martyrs of Uganda in 1964. In Uganda, pilgrimages to Namugongo connect the story to the places where people died, while the Roman Rite remembers Charles and his companions on June 3. Their histories preserve the choices of African Christians during the early growth of Christianity in Buganda.",
 ]
@@ -440,6 +496,10 @@ biography = [
 [[saints.sources]]
 title = "Franciscan Media — Saint Charles Lwanga and Companions"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-charles-lwanga-and-companions"
+
+[[saints.sources]]
+title = "America Magazine — Remembering the Ugandan Martyrs"
+url = "https://www.americamagazine.org/faith/2024/06/03/ugandan-martyrs-charles-lwanga-159253/"
 
 [[saints]]
 id = "paul-miki"
@@ -459,6 +519,10 @@ biography = [
 [[saints.sources]]
 title = "Franciscan Media — Saint Paul Miki and Companions"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-paul-miki-and-companions"
+
+[[saints.sources]]
+title = "Discover Nagasaki — The Twenty-Six Martyrs Museum and Monument"
+url = "https://www.discover-nagasaki.com/en/sightseeing/60788"
 
 [[saints]]
 id = "isaac-jogues"
@@ -525,6 +589,10 @@ biography = [
 title = "Franciscan Media — Saint Kateri Tekakwitha"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-kateri-tekakwitha"
 
+[[saints.sources]]
+title = "Benedict XVI — Canonization Mass for Kateri Tekakwitha, Marianne Cope, and Others"
+url = "https://www.vatican.va/content/benedict-xvi/en/homilies/2012/documents/hf_ben-xvi_hom_20121021_canonizzazioni.html"
+
 [[saints]]
 id = "junipero-serra"
 name = "Saint Junípero Serra"
@@ -570,6 +638,10 @@ url = "https://www.franciscanmedia.org/saint-of-the-day/saint-juan-diego"
 [[saints.sources]]
 title = "John Paul II — Homily at the Canonization of Juan Diego"
 url = "https://www.vatican.va/content/john-paul-ii/en/homilies/2002/documents/hf_jp-ii_hom_20020731_canonization-mexico.html"
+
+[[saints.sources]]
+title = "New York Public Library — Nican Mopohua"
+url = "https://www.nypl.org/events/exhibitions/galleries/belief/item/5559"
 
 [[saints]]
 id = "josephine-bakhita"
@@ -640,6 +712,10 @@ url = "https://www.franciscanmedia.org/saint-of-the-day/saint-marianne-cope"
 [[saints.sources]]
 title = "National Park Service — Kalaupapa National Historical Park, History and Culture"
 url = "https://www.nps.gov/kala/learn/historyculture/index.htm"
+
+[[saints.sources]]
+title = "Benedict XVI — Canonization Mass for Kateri Tekakwitha, Marianne Cope, and Others"
+url = "https://www.vatican.va/content/benedict-xvi/en/homilies/2012/documents/hf_ben-xvi_hom_20121021_canonizzazioni.html"
 
 [[saints]]
 id = "katharine-drexel"
@@ -780,6 +856,10 @@ patronage = ["Traditionally venerated as a patron of the Czech lands"]
 title = "Franciscan Media — Saint Wenceslaus"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-wenceslaus"
 
+[[saints.sources]]
+title = "Nashville Catholic — Saint Wenceslaus, Good King and Martyr"
+url = "https://www.nashvillecatholic.org/news/posts/st-wenceslaus-good-king-and-martyr"
+
 [[saints]]
 id = "stanislaus-of-krakow"
 name = "Saint Stanislaus of Kraków"
@@ -799,6 +879,10 @@ patronage = ["Venerated as a patron of Poland"]
 [[saints.sources]]
 title = "Franciscan Media — Saint Stanislaus"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-stanislaus"
+
+[[saints.sources]]
+title = "Encyclopaedia Britannica — Saint Stanislaus of Kraków"
+url = "https://www.britannica.com/biography/Saint-Stanislaus-of-Krakow"
 
 [[saints]]
 id = "thomas-becket"

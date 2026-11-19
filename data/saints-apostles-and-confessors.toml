@@ -23,8 +23,8 @@ title = "USCCB, New American Bible — Matthew 10"
 url = "https://bible.usccb.org/bible/matthew/10"
 
 [[saints.sources]]
-title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
-url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+title = "Vatican, Benedict XVI — Matthew, the tax collector"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060830.html"
 
 [[saints.sources]]
 title = "USCCB, New American Bible — Mark 2"
@@ -151,8 +151,8 @@ title = "USCCB, New American Bible — John 19"
 url = "https://bible.usccb.org/bible/john/19"
 
 [[saints.sources]]
-title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
-url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+title = "Vatican, Benedict XVI — John, son of Zebedee"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060705.html"
 
 [[saints.sources]]
 title = "USCCB, New American Bible — Matthew 4"
@@ -199,8 +199,8 @@ title = "USCCB, New American Bible — Acts of the Apostles 12"
 url = "https://bible.usccb.org/bible/acts/12"
 
 [[saints.sources]]
-title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
-url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+title = "Vatican, Benedict XVI — James, the Greater"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060621.html"
 
 [[saints.sources]]
 title = "USCCB, New American Bible — Mark 5"
@@ -238,8 +238,8 @@ title = "USCCB, New American Bible — Matthew 10"
 url = "https://bible.usccb.org/bible/matthew/10"
 
 [[saints.sources]]
-title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
-url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+title = "Vatican, Benedict XVI — James, the Lesser"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060628.html"
 
 [[saints.sources]]
 title = "USCCB, New American Bible — Mark 3"
@@ -285,8 +285,8 @@ title = "USCCB, New American Bible — John 6"
 url = "https://bible.usccb.org/bible/john/6"
 
 [[saints.sources]]
-title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
-url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+title = "Vatican, Benedict XVI — Philip, the Apostle"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060906.html"
 
 [[saints.sources]]
 title = "USCCB, New American Bible — John 12"
@@ -297,7 +297,7 @@ title = "USCCB, New American Bible — John 14"
 url = "https://bible.usccb.org/bible/john/14"
 
 [[saints.sources]]
-title = "USCCB, New American Bible — Acts 8"
+title = "USCCB, New American Bible — Acts 8 (Philip the evangelist)"
 url = "https://bible.usccb.org/bible/acts/8"
 
 [[saints]]
@@ -324,8 +324,8 @@ title = "USCCB, New American Bible — John 1"
 url = "https://bible.usccb.org/bible/john/1"
 
 [[saints.sources]]
-title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
-url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+title = "Vatican, Benedict XVI — Bartholomew"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20061004.html"
 
 [[saints.sources]]
 title = "USCCB, New American Bible — Acts 1"
@@ -452,8 +452,8 @@ title = "USCCB, New American Bible — Acts of the Apostles 1"
 url = "https://bible.usccb.org/bible/acts/1"
 
 [[saints.sources]]
-title = "Catholic Culture — Compendium of Benedict XVI’s Addresses on the Apostles"
-url = "https://www.catholicculture.org/culture/library/view.cfm?recnum=10029"
+title = "Vatican, Benedict XVI — Judas and Matthias"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20061018.html"
 
 [[saints]]
 id = "barnabas-the-apostle"
@@ -536,7 +536,7 @@ title = "Franciscan Media — Saint Mary Magdalene"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-mary-magdalene/"
 
 [[saints.sources]]
-title = "USCCB, New American Bible — Luke 7"
+title = "USCCB, New American Bible — Luke 7 (the unnamed woman)"
 url = "https://bible.usccb.org/bible/luke/7"
 
 [[saints.sources]]
@@ -635,7 +635,7 @@ title = "USCCB — Saints Martha, Mary, and Lazarus"
 url = "https://www.usccb.org/prayer-worship/liturgical-year/saints-martha-mary-and-lazarus"
 
 [[saints.sources]]
-title = "USCCB, New American Bible — Luke 16"
+title = "USCCB, New American Bible — Luke 16 (Lazarus in the parable)"
 url = "https://bible.usccb.org/bible/luke/16"
 
 [[saints]]
@@ -1111,6 +1111,10 @@ biography = [
 title = "Franciscan Media — Saint Louis Mary Grignion de Montfort"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-louis-mary-grignion-de-montfort/"
 
+[[saints.sources]]
+title = "Vatican, John Paul II — Letter to the Montfortian Religious Family"
+url = "https://www.vatican.va/content/john-paul-ii/en/letters/2004/documents/hf_jp-ii_let_20040113_famiglie-monfortane.html"
+
 [[saints]]
 id = "pius-x"
 name = "Saint Pius X"
@@ -1132,8 +1136,8 @@ title = "Franciscan Media — Saint Pius X"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-pius-x/"
 
 [[saints.sources]]
-title = "Vatican — Pontificate of Pius X"
-url = "https://www.vatican.va/content/pius-x/en.html"
+title = "Vatican, Benedict XVI — Saint Pius X"
+url = "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100818.html"
 
 [[saints.sources]]
 title = "Vatican, Pius X — Pascendi Dominici Gregis"
@@ -1160,8 +1164,8 @@ title = "Franciscan Media — Saint John XXIII"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-john-xxiii/"
 
 [[saints.sources]]
-title = "Vatican — Pontificate of John XXIII"
-url = "https://www.vatican.va/content/john-xxiii/en.html"
+title = "Vatican — Biographical Profile of Pope John XXIII"
+url = "https://www.vatican.va/content/john-xxiii/en/biography/documents/hf_j-xxiii_bio_20190722_biografia.html"
 
 [[saints.sources]]
 title = "Vatican, John XXIII — Pacem in Terris"
@@ -1188,8 +1192,8 @@ title = "Franciscan Media — Saint Paul VI"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-paul-vi/"
 
 [[saints.sources]]
-title = "Vatican — Pontificate of Paul VI"
-url = "https://www.vatican.va/content/paul-vi/en.html"
+title = "Vatican — Biographical Profile of Pope Paul VI"
+url = "https://www.vatican.va/content/paul-vi/en/biografia/documents/hf_p-vi_spe_20190722_biografia.html"
 
 [[saints.sources]]
 title = "Vatican — Joint Catholic-Orthodox Declaration of 1965"

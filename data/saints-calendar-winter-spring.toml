@@ -19,7 +19,7 @@ url = "https://www.franciscanmedia.org/saint-of-the-day/saint-andre-bessette/"
 
 [[saints.sources]]
 title = "Saint Joseph’s Oratory — Saint Brother André"
-url = "https://www.saint-joseph.org/en/saint-josephs-oratory/saint-brother-andre/"
+url = "https://saint-joseph.org/en/saint-brother-andre-and-devotion-to-saint-joseph/"
 
 [[saints]]
 id = "raymond-of-penyafort"
@@ -242,6 +242,10 @@ biography = [
 [[saints.sources]]
 title = "Franciscan Media — Saint Turibius of Mogrovejo"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-turibius-of-mogrovejo/"
+
+[[saints.sources]]
+title = "Catholic Standard — Turibius of Mogrovejo and the mission in Peru"
+url = "https://www.cathstan.org/us-world/at-peruvian-shrine-pope-leo-will-return-to-the-missionary-model-that-shaped-him"
 
 [[saints]]
 id = "martin-i"
@@ -536,6 +540,10 @@ url = "https://www.franciscanmedia.org/saint-of-the-day/saint-gregory-vii/"
 [[saints.sources]]
 title = "Encyclopaedia Britannica — Saint Gregory VII"
 url = "https://www.britannica.com/biography/Saint-Gregory-VII"
+
+[[saints.sources]]
+title = "Yale Law School Avalon Project — Gregory VII’s letter on the penance of Henry IV at Canossa"
+url = "https://avalon.law.yale.edu/medieval/inv08.asp"
 
 [[saints]]
 id = "mary-magdalene-de-pazzi"

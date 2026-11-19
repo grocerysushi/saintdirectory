@@ -37,7 +37,7 @@ biography = [
 ]
 
 [[saints.sources]]
-title = "Tacitus — Annals, book 15, chapter 44, University of Chicago edition"
+title = "Tacitus — Annals, book 15, chapter 44 (LacusCurtius)"
 url = "https://penelope.uchicago.edu/thayer/e/roman/texts/tacitus/annals/15b*.html"
 
 [[saints.sources]]
@@ -237,7 +237,7 @@ title = "Franciscan Media — Saint Lorenzo Ruiz and Companions"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-lorenzo-ruiz-and-companions/"
 
 [[saints.sources]]
-title = "Franciscan Media — Saint Paul Miki and Companions"
+title = "Franciscan Media — Saint Paul Miki and Companions (separate 1597 martyrdom)"
 url = "https://www.franciscanmedia.org/saint-of-the-day/saint-paul-miki-and-companions/"
 
 [[saints]]
@@ -310,9 +310,5 @@ title = "John Paul II — Homily at the canonization of the Vietnamese martyrs"
 url = "https://www.vatican.va/content/john-paul-ii/it/homilies/1988/documents/hf_jp-ii_hom_19880619_martiri.html"
 
 [[saints.sources]]
-title = "Vatican News — Saints Andrew Dũng Lạc and his Companions"
-url = "https://www.vaticannews.va/en/saints/11/24/sts--andrew-d_ng-lc--and-his-companions--martyrs.html"
-
-[[saints.sources]]
-title = "Franciscan Media — Saint Andrew Dung-Lac and Companions"
-url = "https://www.franciscanmedia.org/saint-of-the-day/saint-andrew-dung-lac-and-companions/"
+title = "Catholic Church in Norway — Saint Andrew Dũng-Lạc and his 116 companions, 1745–1862"
+url = "https://www.katolsk.no/biografier/historisk/adung_en"
