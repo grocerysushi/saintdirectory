@@ -349,7 +349,14 @@ date = "2027-02-06"
 [[days.observances]]
 title = "Saint Paul Miki and Companions, Martyrs"
 rank = "Memorial"
-saints = ["paul-miki", "gonsalo-garcia", "paul-miki-and-companions"]
+saints = [
+  "paul-miki",
+  "gonsalo-garcia",
+  "philip-of-jesus",
+  "peter-baptist",
+  "martin-of-the-ascension",
+  "paul-miki-and-companions",
+]
 
 [[days]]
 date = "2027-02-07"
@@ -1278,7 +1285,16 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Christopher Magallanes, Priest, and Companions, Martyrs"
 rank = "Optional memorial"
-saints = ["christopher-magallanes", "christopher-magallanes-and-companions"]
+saints = [
+  "christopher-magallanes",
+  "luis-batis-sainz",
+  "manuel-morales",
+  "mateo-correa-magallanes",
+  "jose-maria-robles-hurtado",
+  "sabas-reyes-salazar",
+  "toribio-romo-gonzalez",
+  "christopher-magallanes-and-companions",
+]
 optional = true
 
 [[days]]
@@ -1428,7 +1444,18 @@ date = "2027-06-03"
 [[days.observances]]
 title = "Saint Charles Lwanga and Companions, Martyrs"
 rank = "Memorial"
-saints = ["charles-lwanga", "joseph-mukasa-balikuddembe", "kizito", "charles-lwanga-and-companions"]
+saints = [
+  "charles-lwanga",
+  "joseph-mukasa-balikuddembe",
+  "kizito",
+  "denis-ssebuggwawo",
+  "andrew-kaggwa",
+  "matthias-mulumba",
+  "bruno-sserunkuuma",
+  "james-buuzaabalyaawo",
+  "mbaga-tuzinde",
+  "charles-lwanga-and-companions",
+]
 
 [[days]]
 date = "2027-06-04"
@@ -1782,7 +1809,13 @@ rank = "Weekday"
 [[days.observances]]
 title = "Saint Augustine Zhao Rong, Priest, and Companions, Martyrs"
 rank = "Optional memorial"
-saints = ["augustine-zhao-rong", "augustine-zhao-rong-and-companions"]
+saints = [
+  "augustine-zhao-rong",
+  "auguste-chapdelaine",
+  "anna-wang",
+  "mark-ji-tianxiang",
+  "augustine-zhao-rong-and-companions",
+]
 optional = true
 
 [[days]]
@@ -2799,7 +2832,17 @@ date = "2027-10-19"
 [[days.observances]]
 title = "Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs"
 rank = "Memorial"
-saints = ["isaac-jogues", "jean-de-brebeuf", "north-american-martyrs"]
+saints = [
+  "isaac-jogues",
+  "jean-de-brebeuf",
+  "antoine-daniel",
+  "gabriel-lalemant",
+  "charles-garnier",
+  "noel-chabanel",
+  "rene-goupil",
+  "jean-de-lalande",
+  "north-american-martyrs",
+]
 
 [[days]]
 date = "2027-10-20"

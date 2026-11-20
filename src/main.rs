@@ -323,9 +323,9 @@ mod tests {
     use tower::ServiceExt;
 
     #[test]
-    fn directory_has_279_sourced_profiles() {
+    fn directory_has_303_sourced_profiles() {
         let catalog = Catalog::load().unwrap();
-        assert_eq!(catalog.saints.len(), 279);
+        assert_eq!(catalog.saints.len(), 303);
         assert!(catalog.saints.iter().all(|saint| !saint.sources.is_empty()));
     }
 
@@ -365,6 +365,76 @@ mod tests {
             "The First Martyrs of the Holy Roman Church",
             "The Holy Innocents, Martyrs",
         ];
+        let martyr_memorials = [
+            (
+                2,
+                6,
+                &[
+                    "paul-miki",
+                    "gonsalo-garcia",
+                    "philip-of-jesus",
+                    "peter-baptist",
+                    "martin-of-the-ascension",
+                    "paul-miki-and-companions",
+                ][..],
+            ),
+            (
+                5,
+                21,
+                &[
+                    "christopher-magallanes",
+                    "luis-batis-sainz",
+                    "manuel-morales",
+                    "mateo-correa-magallanes",
+                    "jose-maria-robles-hurtado",
+                    "sabas-reyes-salazar",
+                    "toribio-romo-gonzalez",
+                    "christopher-magallanes-and-companions",
+                ][..],
+            ),
+            (
+                6,
+                3,
+                &[
+                    "charles-lwanga",
+                    "joseph-mukasa-balikuddembe",
+                    "kizito",
+                    "denis-ssebuggwawo",
+                    "andrew-kaggwa",
+                    "matthias-mulumba",
+                    "bruno-sserunkuuma",
+                    "james-buuzaabalyaawo",
+                    "mbaga-tuzinde",
+                    "charles-lwanga-and-companions",
+                ][..],
+            ),
+            (
+                7,
+                9,
+                &[
+                    "augustine-zhao-rong",
+                    "auguste-chapdelaine",
+                    "anna-wang",
+                    "mark-ji-tianxiang",
+                    "augustine-zhao-rong-and-companions",
+                ][..],
+            ),
+            (
+                10,
+                19,
+                &[
+                    "jean-de-brebeuf",
+                    "isaac-jogues",
+                    "antoine-daniel",
+                    "gabriel-lalemant",
+                    "charles-garnier",
+                    "noel-chabanel",
+                    "rene-goupil",
+                    "jean-de-lalande",
+                    "north-american-martyrs",
+                ][..],
+            ),
+        ];
 
         for calendar in catalog.calendars.values() {
             for day in &calendar.days {
@@ -394,21 +464,23 @@ mod tests {
             );
             let vietnam = &feast(11, 24).observances[0];
             assert_eq!(vietnam.saints, ["andrew-dung-lac", "vietnamese-martyrs"]);
-            let japan = &feast(2, 6).observances[0];
-            assert_eq!(
-                japan.saints,
-                ["paul-miki", "gonsalo-garcia", "paul-miki-and-companions"]
-            );
-            let uganda = &feast(6, 3).observances[0];
-            assert_eq!(
-                uganda.saints,
-                [
-                    "charles-lwanga",
-                    "joseph-mukasa-balikuddembe",
-                    "kizito",
-                    "charles-lwanga-and-companions"
-                ]
-            );
+            for (month, day, expected) in martyr_memorials {
+                let memorial_day = feast(month, day);
+                let group_id = expected.last().unwrap();
+                let observance = memorial_day
+                    .observances
+                    .iter()
+                    .find(|entry| entry.saints.last().is_some_and(|id| id == group_id))
+                    .unwrap_or_else(|| panic!("Missing {group_id} on {}", memorial_day.date));
+                assert_eq!(observance.saints.len(), expected.len(), "{group_id}");
+                for id in expected {
+                    assert!(
+                        observance.saints.iter().any(|actual| actual == id),
+                        "{id} is missing from {group_id} on {}",
+                        memorial_day.date
+                    );
+                }
+            }
         }
     }
 
@@ -502,9 +574,9 @@ mod tests {
         let app = app(Arc::new(Catalog::load().unwrap()));
         let (status, home) = request(&app, "/").await;
         assert_eq!(status, StatusCode::OK);
-        assert!(home.contains("279 sourced profiles"));
+        assert!(home.contains("303 sourced profiles"));
         assert!(home.contains("action=\"/search\""));
-        assert_eq!(home.matches("class=\"saint-card\"").count(), 279);
+        assert_eq!(home.matches("class=\"saint-card\"").count(), 303);
         assert!(home.contains("href=\"/today\""));
 
         let (status, results) = request(&app, "/search?q=St.+Therese").await;
@@ -532,6 +604,7 @@ mod tests {
             assert!(calendar.contains(&format!("{year}cal.pdf")));
             assert!(calendar.contains("/saints/andre-bessette"));
             assert!(calendar.contains("/saints/gonsalo-garcia"));
+            assert!(calendar.contains("/saints/noel-chabanel"));
             assert!(calendar.contains("/saints/seven-holy-founders-of-the-servite-order"));
         }
         let (status, new_profile) = request(&app, "/saints/andre-bessette").await;
@@ -542,6 +615,10 @@ mod tests {
         assert_eq!(status, StatusCode::OK);
         assert!(companion.contains("/calendar/2026#day-2026-02-06"));
         assert!(companion.contains("/calendar/2027#day-2027-02-06"));
+        let (status, new_companion) = request(&app, "/saints/noel-chabanel").await;
+        assert_eq!(status, StatusCode::OK);
+        assert!(new_companion.contains("/calendar/2026#day-2026-10-19"));
+        assert!(new_companion.contains("/calendar/2027#day-2027-10-19"));
         assert_eq!(
             request(&app, "/calendar/2028").await.0,
             StatusCode::NOT_FOUND

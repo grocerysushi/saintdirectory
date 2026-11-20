@@ -1,0 +1,149 @@
+[[saints]]
+id = "auguste-chapdelaine"
+name = "Saint Auguste Chapdelaine"
+aliases = ["Auguste Chapdelaine", "Augustus Chapdelaine", "Ma Lai", "Mǎ Lài", "馬賴"]
+years = "1814–1856"
+vocation = "Priest, missionary, and martyr"
+place = "Normandy, France, and Guizhou and Guangxi, China"
+summary = "A priest of the Paris Foreign Missions Society who served Catholic communities in southern China and was killed in Guangxi."
+biography = [
+  "Auguste Chapdelaine grew up in a farming family at La Rochelle-Normande in France. He worked on the land before training for the priesthood. Ordained for the Diocese of Coutances in 1843, he served for seven years in the parish of Boucey. He entered the Paris Foreign Missions Society in 1851 and departed for China the following year.",
+  "Chapdelaine studied Chinese at Guiyang, in Guizhou, before going into neighboring Guangxi late in 1854. The province was then closed to foreigners. Local officials detained him soon after he began working with people preparing for baptism. After his release, he continued visiting communities in the area and teaching new Catholics.",
+  "In February 1856 Chapdelaine was arrested with several local Christians at Xilin. The magistrate accused him of fomenting rebellion and ordered him to renounce his religion. He refused and died after torture in custody. The mission archive records different dates for his death, which took place in the last days of February.",
+  "French authorities cited Chapdelaine’s death in their case for joining Britain in the Second Opium War. Pope John Paul II canonized him in 2000 as one of the 120 Martyrs of China. The group includes Chinese lay Catholics and clergy as well as foreign missionaries, and those honored died at different times across nearly three centuries.",
+]
+
+[[saints.sources]]
+title = "France–Asia Research Institute — Auguste Chapdelaine, Paris Foreign Missions Archive"
+url = "https://irfa.paris/en/missionnaire/0620-chapdelaine-auguste/"
+
+[[saints.sources]]
+title = "Biographical Dictionary of Chinese Christianity — Auguste Chapdelaine"
+url = "https://www.bdcconline.net/en/stories/chapdelaine-auguste"
+
+[[saints.sources]]
+title = "Holy See — Augustine Zhao Rong and 119 Companions, Martyrs in China"
+url = "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20001001_zhao-rong-compagni_en.html"
+
+[[saints]]
+id = "anna-wang"
+name = "Saint Anna Wang"
+aliases = ["Ann Wang", "Anne Wang", "Anna Wang of China", "Wang Anna", "王安納"]
+years = "1886–1900"
+vocation = "Lay teenager and martyr"
+place = "Present-day Hebei, China"
+summary = "A fourteen-year-old Chinese Catholic who prayed with women sheltering during the Boxer Uprising and refused to renounce her faith."
+biography = [
+  "Anna Wang was born in 1886 to a Catholic family in the region of Xingtai, in what is now Hebei. She was still young when her mother died. Accounts of her childhood describe an interest in learning the catechism and a regular practice of prayer. They remember her deciding, while still a child, to dedicate her life to God.",
+  "In July 1900, during the Boxer Uprising, fighters were approaching her village. Anna joined a group of Catholic women who took shelter in a school. Accounts of the attack remember her leading the group in prayer and encouraging the others to remain faithful. They also describe her stepmother being led away as the attackers demanded that the women renounce Christianity.",
+  "The captives were taken out to be killed the next day. Anna refused another demand to give up her faith and was executed at fourteen. In the account Pope John Paul II recalled at her canonization, she spoke of her hope of heaven and repeatedly called on Jesus as she faced death.",
+  "Anna was canonized on October 1, 2000, with Augustine Zhao Rong and the other Martyrs of China. Their group includes children and adults from several regions and periods of persecution. Anna’s own story centers on the people sheltering alongside her and the encouragement she offered them before she died.",
+]
+
+[[saints.sources]]
+title = "University of Notre Dame, Alliance for Catholic Education — Anna Wang"
+url = "https://ace.nd.edu/news/moments-multicultural-saints-anna-wang"
+
+[[saints.sources]]
+title = "John Paul II — Homily at the Canonization of the Martyrs of China, October 1, 2000"
+url = "https://www.vatican.va/content/john-paul-ii/en/homilies/2000/documents/hf_jp-ii_hom_20001001_canonization.html"
+
+[[saints]]
+id = "mark-ji-tianxiang"
+name = "Saint Mark Ji Tianxiang"
+aliases = ["Mark Ji", "Mark Tianxiang", "Ji Tianxiang", "Marc Ji Tianxiang", "Mark Ki-T'ien-Siang", "冀天祥"]
+years = "1834–1900"
+vocation = "Lay physician and martyr"
+place = "Southeastern Zhili, present-day Hebei, China"
+summary = "A Chinese doctor who cared for people in poverty, persevered in his Catholic faith during years of addiction, and was killed with members of his family."
+biography = [
+  "Mark Ji Tianxiang was born in 1834 in southeastern Zhili, in what is now Hebei. He grew up in a Catholic family and became a physician. Accounts of his work remember him treating patients without payment when they could not afford care. He raised a family and remained involved in his local Catholic community.",
+  "Ji used opium for a painful stomach illness at a time when it was a common treatment. He developed an addiction. Catholic accounts report that his confessor withheld absolution because he doubted Ji’s commitment to stop using opium. Ji went without Communion for many years while continuing to attend church and practice his faith.",
+  "During the Boxer Uprising in 1900, Ji was arrested along with several relatives. He refused to abandon Christianity. Accounts of his death remember him asking to be killed after the other members of his family so that one of them would be spared facing death alone. They also recall him singing a litany to Mary before he was killed on July 7.",
+  "Pope John Paul II canonized Ji in 2000 with Augustine Zhao Rong and the other Martyrs of China. His long struggle with addiction has become an important part of how contemporary Catholic writers and pastoral ministries remember him. His story also preserves the work of a physician and father in a rural Catholic community.",
+]
+
+[[saints.sources]]
+title = "Our Sunday Visitor — The Life of Saint Mark Ji Tianxiang"
+url = "https://www.oursundayvisitor.com/the-life-of-st-mark-ji-tianxiang-persevering-in-faith-despite-addiction/"
+
+[[saints.sources]]
+title = "Holy See — Augustine Zhao Rong and 119 Companions, Martyrs in China"
+url = "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20001001_zhao-rong-compagni_en.html"
+
+[[saints]]
+id = "philip-of-jesus"
+name = "Saint Philip of Jesus"
+aliases = ["Felipe de Jesús", "Felipe de las Casas", "Felipe de las Casas y Martínez", "Felipe las Casas Martínez", "Philip of Jesus of Mexico"]
+years = "c. 1572–1597"
+vocation = "Franciscan friar and martyr"
+place = "Mexico City, Manila, and Nagasaki, Japan"
+summary = "A Franciscan from Mexico City who was traveling home for ordination when his ship ran aground in Japan. He was killed with the martyrs of Nagasaki."
+biography = [
+  "Philip of Jesus was born Felipe de las Casas in Mexico City to parents who had emigrated from Spain. He began Franciscan formation in Puebla and left the novitiate. A later journey took him to Manila, where he entered Franciscan life again and made his religious profession. He then prepared for the priesthood.",
+  "In 1596 Philip boarded the San Felipe, a ship sailing from the Philippines toward New Spain. He expected to be ordained after reaching Mexico. The ship ran aground off Japan, and Philip made his way to a Franciscan house in Kyoto. The wreck brought the ship’s Spanish crew and passengers into a dispute with Japanese authorities at a time of growing suspicion of Catholic missions.",
+  "The Japanese authorities arrested Philip at the friary in Kyoto. He was among the prisoners taken to Nagasaki and killed on Nishizaka Hill on February 5, 1597. The group included Franciscan friars, Japanese Jesuits, and Japanese lay Catholics. Philip died before he could be ordained.",
+  "Pope Pius IX canonized the twenty-six martyrs in 1862. Philip became the first Mexican-born saint canonized by the Catholic Church. He is widely known in Mexico by his Spanish religious name, Felipe de Jesús. His life is remembered in the three places that shaped his journey, from New Spain through Manila to Nagasaki.",
+]
+
+[[saints.sources]]
+title = "Order of Friars Minor — Saint Felipe de Jesús"
+url = "https://ofm.org/en/st-felipe-de-jesus.html"
+
+[[saints.sources]]
+title = "University of Notre Dame, Church Life Journal — The Twenty-Six Martyrs of Japan and the Global Church"
+url = "https://churchlifejournal.nd.edu/articles/in-praise-of-saints-who-truly-reflect-the-global-not-just-european-church/"
+
+[[saints]]
+id = "peter-baptist"
+name = "Saint Peter Baptist"
+aliases = ["Pedro Bautista", "Pedro Bautista Blázquez", "Pedro Bautista Blásquez", "Peter Baptist Blázquez", "San Pedro Bautista"]
+years = "1542–1597"
+vocation = "Franciscan priest, missionary, and martyr"
+place = "Spain, Mexico, the Philippines, and Japan"
+summary = "A Spanish Franciscan who helped establish the order in the Philippines and led a mission to Japan before his arrest and death at Nagasaki."
+biography = [
+  "Peter Baptist, known in Spanish as Pedro Bautista, was born in Spain in 1542. He joined the Friars Minor and spent years studying and preaching before going to New Spain in the early 1580s. He was later sent to the Philippines, where he helped organize a Franciscan province based in Manila and was elected its provincial minister in 1591.",
+  "In 1593 the governor of the Philippines sent Peter and other Franciscans to Japan as envoys. They received an initial welcome from the Japanese ruler Toyotomi Hideyoshi. Peter remained in Japan and took responsibility for the mission. The friars established houses for worship and work and set up places to care for people who were ill.",
+  "Relations with the authorities deteriorated. The grounding of the Spanish ship San Felipe in 1596 came amid growing anxiety about foreign missionaries. Peter was arrested with other friars and Japanese Christians and sent to Nagasaki. He and twenty-five companions were killed on February 5, 1597. A Franciscan collection preserves letters he wrote during his imprisonment and journey under guard.",
+  "Pope Pius IX canonized the group in 1862. In the Roman Rite it is commemorated under the name of Paul Miki and Companions. Some Franciscan sources name Peter first, reflecting his place as the superior of the Franciscan mission and the connection its friars retained to his work.",
+]
+
+[[saints.sources]]
+title = "Order of Friars Minor — Saint Pedro Bautista Blásquez"
+url = "https://ofm.org/en/st-pedro-bautista-blasquez-1542-1597.html"
+
+[[saints.sources]]
+title = "Catholic Encyclopedia — Saints Peter Baptist and Twenty-Five Companions"
+url = "https://www.newadvent.org/cathen/11755b.htm"
+
+[[saints.sources]]
+title = "Franciscan Library — Saint Peter Baptist and Companions, with Letters from Captivity"
+url = "https://franciscanos.org/bac/pedrobautista.html"
+
+[[saints]]
+id = "martin-of-the-ascension"
+name = "Saint Martin of the Ascension"
+aliases = ["Martín de la Ascensión", "Martín de Aguirre", "Martín de Loinaz y Amunabarro", "Martín de Loynaz", "Martín Aguirre de la Ascensión"]
+years = "c. 1566–1597"
+vocation = "Franciscan priest, missionary, and martyr"
+place = "Basque Country, Spain, and Osaka and Nagasaki, Japan"
+summary = "A Basque Franciscan priest assigned to Osaka who was arrested during the persecution that led to the execution of the twenty-six martyrs of Japan."
+biography = [
+  "Martin of the Ascension came from the Basque Country in the sixteenth century. Records preserved by the Basque Museum in Bilbao document a longstanding dispute about his birthplace and family name. One tradition associates him with Beasain and the name Loinaz. Another identifies him with Bergara and the name Aguirre. He was about thirty when he died.",
+  "According to the Franciscan account, Martin studied theology at Alcalá de Henares and joined the friars of the Province of Saint Joseph. He passed through Mexico on his way to the Philippines. He traveled from Manila to Japan in 1596 with fellow Franciscan Francisco Blanco and was assigned to the friary at Osaka.",
+  "Martin’s time in Osaka was brief. He was arrested there during the crackdown on Christians and taken to Kyoto, where he joined other prisoners held by the authorities. They were taken to Nagasaki. Martin was one of the Franciscan priests killed there on February 5, 1597, alongside Paul Miki and the other companions.",
+  "In 1862 Pope Pius IX canonized the twenty-six martyrs together. Martin’s surviving record includes both the mission accounts of his journey and documents about how his memory was kept in his native region. The different names used for him in older books reflect the local traditions about his family and birthplace.",
+]
+
+[[saints.sources]]
+title = "Basque Museum of Bilbao — Documents on the Origin and Surname of Saint Martin of the Ascension"
+url = "https://museotik.euskadi.eus/titulo-documentacion-sobre-el-origen-y-apellido-de-san-martin-de-la-ascension/objeto-documento/museotik-ca-174564/webmus00-contenedor/es/"
+
+[[saints.sources]]
+title = "Franciscan Library — Saint Peter Baptist and the Martyrs of Nagasaki"
+url = "https://franciscanos.org/bac/pedrobautista.html"
+
+[[saints.sources]]
+title = "Catholic Encyclopedia — Saints Peter Baptist and Twenty-Five Companions"
+url = "https://www.newadvent.org/cathen/11755b.htm"

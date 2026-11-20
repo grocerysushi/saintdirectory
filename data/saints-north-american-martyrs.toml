@@ -1,0 +1,141 @@
+[[saints]]
+id = "antoine-daniel"
+name = "Saint Antoine Daniel"
+aliases = ["Anthony Daniel", "Antoine Daniel, SJ", "Father Antoine Daniel", "Anȣennen"]
+years = "1601–1648"
+vocation = "Jesuit priest, teacher, and martyr"
+place = "Dieppe, Quebec, and Wendat country"
+summary = "A Jesuit teacher who taught Christian prayers in Wendat and served at the mission of Saint-Joseph II."
+biography = [
+  "Antoine Daniel was born at Dieppe in 1601. He had begun studying law when he entered the Society of Jesus at Rouen in 1621. He taught younger pupils and studied theology in France. In 1632 he went to Cape Breton, where his brother Charles was in command of a French settlement.",
+  "Daniel reached Quebec the following year and traveled into Wendat country with the mission in 1634. He learned the Wendat language and taught children to sing the Lord’s Prayer and the Creed in it. This work led the Jesuits to put him in charge of a school at Quebec for Wendat boys. The project lasted about two years, and Daniel returned to the Wendat communities.",
+  "On July 4, 1648, a Haudenosaunee war party attacked Teanaostaiaë, the village where the Jesuits served at Saint-Joseph II. The mission’s account says Daniel had been saying Mass. He encouraged those present, baptized people seeking baptism, and urged others to escape. He was killed during the attack.",
+  "Daniel’s career connected teaching in France with the very different work of learning and teaching in Wendat country. The name Anȣennen appears in the historical record as the name Wendat people gave him. Pius XI canonized Daniel with seven other North American Martyrs on June 29, 1930.",
+]
+
+[[saints.sources]]
+title = "Dictionary of Canadian Biography — Antoine Daniel"
+url = "https://www.biographi.ca/en/bio/daniel_antoine_1E.html"
+
+[[saints.sources]]
+title = "Society of Jesus in the United States — The North American Martyrs"
+url = "https://www.jesuits.org/stories/society-of-jesus-in-the-u-s-celebrates-the-feast-of-the-north-american-martyrs/"
+
+[[saints]]
+id = "gabriel-lalemant"
+name = "Saint Gabriel Lalemant"
+aliases = ["Gabriel Lallemant", "Gabriel Lalement", "Gabriel L’Alemant", "Father Gabriel Lalemant"]
+years = "1610–1649"
+vocation = "Jesuit priest, teacher, and martyr"
+place = "Paris, Quebec, and Wendat country"
+summary = "A Jesuit teacher who served alongside Jean de Brébeuf at the Saint-Louis mission in Wendat country."
+biography = [
+  "Gabriel Lalemant was born in Paris in 1610 into the family of a lawyer. He joined the Jesuits in 1630 and made a further commitment to overseas missionary work two years later. He spent much of the intervening time teaching and taking responsibility for pupils at colleges in France, including Moulins and La Flèche.",
+  "He arrived at Quebec in September 1646. The surviving record gives few particulars about his first two years in New France. In 1648 he went to Sainte-Marie-des-Hurons and began studying the Wendat language. In February 1649 he took over from Noël Chabanel at the nearby Saint-Louis mission.",
+  "On March 16, 1649, a Haudenosaunee force attacked Saint-Louis after taking Saint-Ignace. Lalemant and Jean de Brébeuf were at Saint-Louis and were captured there and taken back to Saint-Ignace. The 1649 Jesuit Relation is the principal surviving account of these events. It records Lalemant’s death on March 17, the morning after Brébeuf died.",
+  "The two priests were buried at the Sainte-Marie mission, and their remains were transferred to Quebec the following year. The Catholic Church canonized Lalemant with Brébeuf and six companions in 1930. His short time in Wendat country followed many years in classrooms and religious communities that had prepared him for the work he undertook there.",
+]
+
+[[saints.sources]]
+title = "Dictionary of Canadian Biography — Gabriel Lalemant"
+url = "https://www.biographi.ca/en/bio/lalemant_gabriel_1E.html"
+
+[[saints.sources]]
+title = "Society of Jesus in the United States — The North American Martyrs"
+url = "https://www.jesuits.org/stories/society-of-jesus-in-the-u-s-celebrates-the-feast-of-the-north-american-martyrs/"
+
+[[saints]]
+id = "charles-garnier"
+name = "Saint Charles Garnier"
+aliases = ["Charles Garnier, SJ", "Father Charles Garnier", "Ouracha"]
+years = "c. 1606–1649"
+vocation = "Jesuit priest and martyr"
+place = "Paris, Wendat country, and Georgian Bay"
+summary = "A Jesuit who worked with Wendat and Tionontati communities and was killed during the attack on Saint-Jean in 1649."
+biography = [
+  "Charles Garnier was born in Paris about 1606. His father held administrative positions in royal service. Charles attended the Jesuit Collège de Clermont and entered the order in 1624. He was ordained in 1635 and reached Quebec in June 1636, traveling inland to Wendat country that summer with Pierre Chastellain.",
+  "Garnier’s assignments took him among different communities around Georgian Bay. He spent time with the Tionontati, also known as the Petun or Tobacco Nation in French accounts. Between 1641 and 1646 he worked at the Wendat settlement of Teanaostaiaë, where the Jesuits called their mission Saint-Joseph. He returned to the Tionontati in 1646.",
+  "By December 1649 Garnier was serving at Saint-Jean, a Tionontati village. Haudenosaunee forces attacked the settlement on December 7, as war and displacement broke up several neighboring missions. Garnier died in the attack. Fellow missionaries later found his body near the ruins of the chapel. Their reports provide the main account of his last days.",
+  "Published letters and reports preserve evidence of Garnier’s long assignments among communities whose circumstances changed considerably during his time there. Ouracha, a name used for him in the mission records, helps identify him in those sources. The Catholic Church honored him with seven companions at their canonization in 1930.",
+]
+
+[[saints.sources]]
+title = "Dictionary of Canadian Biography — Charles Garnier"
+url = "https://www.biographi.ca/en/bio/garnier_charles_1E.html"
+
+[[saints.sources]]
+title = "Society of Jesus in the United States — The North American Martyrs"
+url = "https://www.jesuits.org/stories/society-of-jesus-in-the-u-s-celebrates-the-feast-of-the-north-american-martyrs/"
+
+[[saints]]
+id = "noel-chabanel"
+name = "Saint Noël Chabanel"
+aliases = ["Noel Chabanel", "Noël Chabanel, SJ", "Father Noël Chabanel"]
+years = "1613–1649"
+vocation = "Jesuit priest, teacher, and martyr"
+place = "Southern France, Quebec, and Wendat country"
+summary = "A Jesuit teacher who vowed to remain in the Wendat missions and was killed on a journey in December 1649."
+biography = [
+  "Noël Chabanel was born at Saugues in 1613. He entered the Society of Jesus at Toulouse and spent years teaching and studying theology there. He later taught rhetoric at Rodez. He arrived in Quebec in August 1643 and remained there for about a year before joining the missionaries in Wendat country.",
+  "Chabanel had considerable experience teaching in French colleges and struggled to learn the language needed for ministry in New France. He also found daily life in the missions difficult. In an act preserved in the Jesuit records, he made a personal vow to remain in the mission. The vow gives direct evidence of the commitment he chose to make under those circumstances.",
+  "By early December 1649 he was serving at the Saint-Jean mission among the Tionontati. He was ordered to travel to the Jesuit residence on Île Saint-Joseph and set out on December 7. He was killed the following day. The earliest Jesuit report gives no motive. A later account by Paul Ragueneau attributes the killing to Louis Honarreennha and reports that Honarreennha named hostility to the Christian faith as his motive.",
+  "The two accounts of his death preserve different degrees of certainty. Chabanel is honored by the Catholic Church as one of the North American Martyrs canonized together in 1930. His surviving vow is also a record of the difficulties that could accompany a missionary’s decision to stay.",
+]
+
+[[saints.sources]]
+title = "Dictionary of Canadian Biography — Noël Chabanel"
+url = "https://www.biographi.ca/en/bio/chabanel_noel_1E.html"
+
+[[saints.sources]]
+title = "Society of Jesus in the United States — The North American Martyrs"
+url = "https://www.jesuits.org/stories/society-of-jesus-in-the-u-s-celebrates-the-feast-of-the-north-american-martyrs/"
+
+[[saints]]
+id = "rene-goupil"
+name = "Saint René Goupil"
+aliases = ["Rene Goupil", "René Goupil, SJ", "Brother René Goupil", "Renatus Goupil"]
+years = "1608–1642"
+vocation = "Surgeon, Jesuit mission assistant, and martyr"
+place = "Anjou, Quebec, and the Mohawk Valley"
+summary = "A surgeon who volunteered with the Jesuit missions and was killed while held captive in the Mohawk Valley."
+biography = [
+  "René Goupil was baptized at Saint-Martin-du-Bois in France in 1608 and trained as a surgeon. He entered the Jesuit novitiate in Paris in 1639. A surviving note in the order’s archives says deafness led to the end of his novitiate. Goupil continued to seek a way to serve with the Jesuits.",
+  "He reached New France in 1640 and used his surgical training at Saint-Joseph de Sillery, near Quebec. The historical evidence suggests that he served under an arrangement called the donnés, by which laypeople offered their work to the missions. His role was practical and medical within a network that depended on people with different skills.",
+  "Goupil joined Isaac Jogues, Guillaume Couture and a group of Wendat travelers headed inland in August 1642. A Mohawk party captured them and brought him to Ossernenon. According to Jogues’s account, Goupil made religious vows in captivity and was killed on September 29, 1642, after making the sign of the cross over a child.",
+  "Jogues’s account is central to the history of Goupil’s captivity. Mission records also preserve his earlier profession and years of service near Quebec. Goupil became one of the eight North American Martyrs canonized in 1930. He is remembered in that group for the distinctive work he brought as a surgeon.",
+]
+
+[[saints.sources]]
+title = "Dictionary of Canadian Biography — René Goupil"
+url = "https://www.biographi.ca/en/bio/goupil_rene_1E.html"
+
+[[saints.sources]]
+title = "Society of Jesus in the United States — The North American Martyrs"
+url = "https://www.jesuits.org/stories/society-of-jesus-in-the-u-s-celebrates-the-feast-of-the-north-american-martyrs/"
+
+[[saints]]
+id = "jean-de-lalande"
+name = "Saint Jean de Lalande"
+aliases = ["Jean de La Lande", "John de La Lande", "John de Lalande", "Jean Lalande"]
+years = "Died 1646"
+vocation = "Lay Jesuit mission assistant and martyr"
+place = "Dieppe, New France, and the Mohawk Valley"
+summary = "A lay volunteer who accompanied Isaac Jogues on a mission to maintain peace and was killed at Ossernenon."
+biography = [
+  "Jean de Lalande came from Dieppe in France. Records of his early years are sparse. By December 1642 he was in New France, where he bought two devotional books from the estate of the interpreter Jean Nicollet. His apparent base for much of the next four years was the Jesuit residence at Trois-Rivières.",
+  "Lalande served as a donné. In New France the term designated a layperson who committed his work to the Jesuit missions under an agreement that provided for his maintenance and care. His name enters the historical record again in 1646, when the Jesuit superior Jérôme Lalemant assigned him to accompany Isaac Jogues on a mission to maintain peaceful relations.",
+  "The party set out in September. Most of the Wendat travelers turned back after the group had passed Trois-Rivières. Lalande continued with Jogues and one companion into Mohawk country. Both Frenchmen were killed at Ossernenon. Jogues died on October 18. The Canadian bishops’ account dates Lalande’s death to October 19, and the Dictionary of Canadian Biography gives October 18 or 19.",
+  "News of their deaths reached Quebec the following June. The account published by the Jesuits remembered Lalande as a young volunteer who had accepted the risks of the journey. He and René Goupil were the two lay mission assistants among the eight North American Martyrs canonized in 1930.",
+]
+
+[[saints.sources]]
+title = "Dictionary of Canadian Biography — Jean de La Lande"
+url = "https://www.biographi.ca/en/bio/la_lande_jean_de_1E.html"
+
+[[saints.sources]]
+title = "Society of Jesus in the United States — The North American Martyrs"
+url = "https://www.jesuits.org/stories/society-of-jesus-in-the-u-s-celebrates-the-feast-of-the-north-american-martyrs/"
+
+[[saints.sources]]
+title = "Canadian Conference of Catholic Bishops — The North American Martyrs"
+url = "https://www.cccb.ca/the-catholic-church-in-canada/saints-blesseds-canada/north-american-martyrs/"

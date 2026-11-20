@@ -19,6 +19,10 @@ const PROFILE_FILES: &[&str] = &[
     include_str!("../data/saints-modern-witnesses.toml"),
     include_str!("../data/saints-africa-asia-pacific.toml"),
     include_str!("../data/saints-americas.toml"),
+    include_str!("../data/saints-chinese-and-japanese-martyrs.toml"),
+    include_str!("../data/saints-mexican-martyrs.toml"),
+    include_str!("../data/saints-north-american-martyrs.toml"),
+    include_str!("../data/saints-ugandan-martyrs.toml"),
 ];
 const CALENDAR_FILES: &[&str] = &[
     include_str!("../data/calendar-2026.toml"),
